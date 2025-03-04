@@ -1,0 +1,635 @@
+T1	SectionSkip 2752 3758	Medications the patient states to be taking prior to today's encounter.   Medication Sig    acetaminophen (TYLENOL ORAL) Take 200 mg by mouth As Needed.     aspirin 81 mg EC tablet aspirin 81 mg tablet,delayed release   Take 1 tablet every day by oral route.    carvedilol (COREG) 3.125 mg tablet     HYDROcodone-acetaminophen (NORCO) 5-325 mg tablet 1-2 tabs q6 hours prn pain    ibuprofen (ADVIL,MOTRIN) 200 mg tablet Take 200 mg by mouth As Needed.     loperamide (IMODIUM) 2 mg capsule Take two capsules by mouth at the onset of diarrhea, then take one capsule every 2 hours until diarrhea-free for 12 hours.    LORazepam (ATIVAN) 1 mg tablet Take 1 tablet (1 mg total) by mouth every 12 (twelve) hours as needed for Anxiety (nausea).    pantoprazole (PROTONIX) 20 mg tablet Take 1 tablet (20 mg total) by mouth Daily.    prochlorperazine (COMPAZINE) 10 mg tablet Take 1 tablet (10 mg total) by mouth every 6 (six) hours as needed (nausea and vomiting).    rosuvastatin (CRESTOR) 20 mg tablet
+T2	SectionAnnotate 3861 3875	social history
+T3	SectionSkip 4098 4533	Physical Exam:    Blood pressure 117/73, pulse 75, temperature 36.7 C (98 F), temperature source Temporal, resp. rate 16, height 164.9 cm (5' 4.92"), weight 54.5 kg (120 lb 1.6 oz), SpO2 99 %.    Constitutional: Non-toxic-appearing, moderately cachectic, in no acute distress.  Skin: Warm and dry; non-jaundiced.  Eyes: No sclericterus.  Abdomen: Soft, non-tender, tympanitic to percussion. No hepatosplenomegaly.  Extrems: No LE edema
+T4	SectionSkip 4660 4735	Relevant Diagnostic Studies:    Most recent labs notable for the following:
+T5	SectionSkip 4739 5307	Lab Results   Component Value Date    WBC Count 7.4 03/29/2019    Neutrophil Absolute Count 5.37 03/29/2019    Hemoglobin 7.6 (L) 03/29/2019    Hematocrit 25.1 (L) 03/29/2019    Platelet Count 227 03/29/2019    Creatinine 0.66 03/29/2019    Bilirubin, Total 0.4 03/29/2019    Alkaline Phosphatase 207 (H) 03/29/2019    Aspartate transaminase 24 03/29/2019    Alanine transaminase 18 03/29/2019    Albumin, Serum / Plasma 2.7 (L) 03/14/2019    Int'l Normaliz Ratio 1.2 03/13/2019    Sodium, Serum / Plasma 137 03/17/2019    Potassium, Serum / Plasma 2.8 (LL) 03/17/2019
+T6	SectionSkip 5312 5778	Lab Results   Component Value Date    Cancer Antigen 19-9 142 (H) 03/29/2019    Cancer Antigen 19-9 15 03/08/2019    Cancer Antigen 19-9 20 01/25/2019    Carcinoembryonic Antigen 2.3 05/18/2018    Carcinoembryonic Antigen 2.2 04/20/2018    Carcinoembryonic Antigen 3.0 03/02/2018         Most recent imaging was personally reviewed and interpreted in conjunction with formal radiology reports, as follows:     Result Date: 02/16/2019  CT ABDOMEN/PELVIS WITH CONTRAST
+T7	SectionSkip 5782 8705	FINDINGS: Pancreatic tumor: 1)  Location:  Tail of the pancreas 2)  Size: 
+  The multicystic, ill-defined mass measures 4.7 x 5.6 cm, previously measuring 4.6 x 5.9 cm when ***** in a similar fashion. 3)  Enhancement relative to pancreas: Hypoenhancing with a hypodense multicystic component. 4)  Biliary obstruction: yes, there is increased intrahepatic biliary dilation in the left hepatic lobe compared to prior without a clear obstructing mass identified. 5)  Pancreatic duct obstruction: no Vascular-arterial:        1) Celiac axis is not involved        2)  SMA is not involved.        3)  CHA is not involved.        4)  Arterial variant: None.        5) other: The splenic artery is encased by tumor, unchanged. Vascular-venous: 1)  MPV is not involved. 2)  SMV is not involved. 3)  Thrombus in vein:  absent 4)  Venous collateral: None. 5)  Other: No change in chronic occlusion of the splenic vein. Visualized lung bases:  For chest findings, please see the separately dictated report from the CT of the chest of the same date. Liver:  Increased, now moderate to severe intrahepatic biliary ductal dilatation in the left hepatic lobe. Interval slightly decreased size of hypodense 0.7 x 0.7 cm lesion in segment 6 (series 7 image 49), previously 1.1 x 0.8 cm. Interval slightly decreased size of ill-defined nodule along the inferior hepatic margin, now measuring 1.3 x 0.9 cm compared to 1.5 x 1.2 cm previously with new central hypodensity (series 7 image 56). Gallbladder: Unremarkable Spleen:  No significant change in hypodense splenic lesions. Adrenal Glands:  Unremarkable Kidneys:  Hypodense renal mass(es) too small to characterize, either benign or clinically insignificant, unchanged. GI Tract:  Small paraesophageal hernia. Vasculature:  Unremarkable Lymphadenopathy: Absent Peritoneum: Unchanged 1.4 x 1.2 cm nodule in the right paracolic gutter (series 7 image 72). Slightly increased size of left paracolic gutter nodule measuring 1.3 x 1.0 cm, previously 1.1 x 0.9 cm (series 7 image 64). 
+ Similar anterior left upper quadrant nodule measuring 1.1 x 0.9 cm, previously 1.1 x 1.0 cm (series 7 image 43). Previously described peritoneal implant in the lesser curvature the stomach is less conspicuous, but likely unchanged in size. Bladder: Unremarkable Reproductive organs: Unremarkable Bones:  No suspicious lesions Extraperitoneal soft tissues: Unremarkable Lines/drains/medical devices: None     1.  Compared to 12/18/2018, no significant change in multicystic distal pancreas mass with slightly decreased size of hepatic lesions, no significant change in splenic lesions, and stable to slightly increased peritoneal implants. 2.  Increase in now moderate intrahepatic biliary dilation in the left hepatic lobe without a clear obstructing lesion. 3.  Unchanged chronic occlusion of the splenic vein and tumor encasement of the splenic artery.     Result Date: 02/15/2019  CT CHEST WITH CONTRAST
+T8	SectionSkip 8708 9511	FINDINGS: LUNGS: Unchanged left lower lobe nodule measuring 3 mm (series 2 ***** 123); on the most remote prior in 2018 this nodule measured 6 mm. New patchy peribronchial vascular groundglass opacities in the left lower lobe (series 2 ***** 167). Unchanged right middle lobe scarring and calcified granulomata. PLEURA: No pleural effusion. MEDIASTINUM: No lymphadenopathy. HEART/GREAT VESSELS: Unchanged mild cardiomegaly and postsurgical changes status post CABG BONES/SOFT TISSUES: No suspicious osseous lesions.     1. Unchanged left lower lobe nodule, decrease in size compared to most remote prior, possibly inflammatory versus treated metastasis. 2. New patchy groundglass left lower lobe mild opacities, likely infectious.       Result Date: 03/11/2019 (outside)  CT ABDOMEN/PELVIS WITH CONTRAST
+T9	SectionSkip 9513 13294	FINDINGS:  Inferior Chest: The heart is enlarged in size. No pericardial  effusion. There is a small left pleural effusion. Patchy ground-glass  and airspace opacities in the inferior right middle lobe and left lung  base, may 
+ represent atelectasis versus infection. The lung bases are  clear.    Liver: Liver is normal in size and smooth in contour. Circumscribed  subcentimeter hyperdensities in the caudate lobe and inferior right  hepatic lobe, too small to accurately characterize. There is an ill  defined contour deforming hypodense lesion in the inferior right  hepatic lobe measuring approximately 1.4 cm in diameter (axial image  55). Portal and hepatic veins are patent.    Gallbladder and biliary tree: The gallbladder appears unremarkable.  There is prominent intrahepatic biliary ductal dilatation predominantly  involving the left hepatic lobe. The common bile duct appears normal in  caliber.    Pancreas/spleen: There is an ill defined mixed solid and cystic mass  involving the tail of the pancreas associated with few coarse  calcifications, measuring approximately 7.2 cm AP by 5.4 cm transverse  by 5.6 cm craniocaudal. This mass abuts the splenic hilum with  multiple cystic spaces within the spleen and loss of fat plane,  suggestive of direct invasion. Large wedge-shaped areas of  hypoenhancement within the peripheral aspects of spleen suggestive of  multiple splenic infarcts. There is loss of fat plane between the  pancreatic mass in the posterior wall of the stomach suggestive of  possible direct invasion.    Adrenals: The right adrenal gland appears unremarkable. There is mild  diffuse thickening of the left adrenal gland without definite focal  nodularity. Subtle loss of fat plane between the left adrenal gland  and pancreatic tail mass (axial image 55).    Kidneys: Bilateral subcentimeter hypodensities, too small to  accurately characterize but statistically likely to represent benign  cysts.The left kidney appears slightly inferior displaced. There is a  loss of fat plane between the anterior aspect of the left kidney and a  pancreatic tail mass (axial image 64). No nephrolithiasis or  hydronephrosis.    GI tract: There 
+ is mucosal hyperenhancement involving the distal aspect  of the stomach adjacent to likely direct invasion from pancreatic mass.  There is associated wall thickening/ edema. Proximal stomach is  distended with fluid and food material. Findings concerning for at  least partial gastric outlet obstruction. There is mild wall edema of  the visualized distal esophagus. Small bowel loops are grossly normal  in course in caliber with no significant wall thickening or dilatation.  There is wall thickening involving the transverse colon, and descending  colon, and sigmoid colon. In the region of the splenic flexure, there  is loss of fat plane between the ill defined pancreatic tail mass and  the colon.    Bladder: Urinary bladder appears unremarkable.    Reproductive organs: The prostate gland is mildly prominent in size  measuring 4.6 x 4.2 x 4.5 cm.    Peritoneal Cavity: There is a small amount of free fluid noted in the  abdomen in the perihepatic space, perisplenic space, bilateral  paracolic gutters, and pelvis. No free air is identified. No  retroperitoneal or mesenteric lymphadenopathy.    Vasculature: Scattered atherosclerotic calcification of the abdominal  aorta and its main branches with no hemodynamically significant  stenosis or occlusion.    Bones and Soft tissues: No acute osseous abnormality. Multilevel  degenerative changes of the thoracolumbar spine and bilateral  sacroiliac joints. Very small fat containing left inguinal hernia.  There is mild anasarca of the subcutaneous tissues. Few foci of air in  the right anterior abdominal wall, likely representing recent injection.
+T10	SectionAnnotate 13298 13309	IMPRESSION:
+T11	SectionAnnotate 14656 14687	Impression and Recommendations:
+T12	PROBLEM 125 157	his metastatic pancreatic cancer
+T13	MedicationRegimen 252 262	FOLFIRINOX
+T14	Symptom 339 359	progressive anorexia
+T15	Symptom 364 371	fatigue
+T16	TREATMENT 393 410	further treatment
+T17	TREATMENT 509 532	additional chemotherapy
+T18	MedicationRegimen 538 544	FOLFOX
+T19	TREATMENT 604 612	FU bolus
+T20	ClinicalCondition 650 671	mild thrombocytopenia
+T21	TEST 673 677	plts
+T22	TREATMENT 705 724	his dosing interval
+T23	MedicationName 786 801	the oxaliplatin
+T24	TreatmentType 852 861	treatment
+T25	TreatmentType 900 920	chemotherapy holiday
+T26	TEST 1011 1025	repeat imaging
+T27	PROBLEM 1069 1121	both locoregional and metastatic disease progression
+T28	TreatmentType 1136 1148	2L treatment
+T29	TREATMENT 1173 1184	gemcitabine
+T30	TREATMENT 1190 1204	nab-paclitaxel
+T31	TREATMENT 1208 1229	a QOW dosing schedule
+T32	TREATMENT 1292 1310	2 treatment cycles
+T33	PROBLEM 1330 1388	further disease progression in pancreas, liver, and spleen
+T34	PROBLEM 1395 1401	waxing
+T35	TREATMENT 1421 1449	multiple peritoneal implants
+T36	TREATMENT 1465 1477	3L treatment
+T37	TREATMENT 1507 1539	LV plus nanoliposomal irinotecan
+T38	TREATMENT 1594 1612	4 treatment cycles
+T39	Symptom 1675 1687	mild fatigue
+T40	PROBLEM 1733 1752	minimal GI side fx.
+T41	TEST 1753 1767	Repeat imaging
+T42	PROBLEM 1794 1816	overall stable disease
+T43	PROBLEM 1823 1860	slightly improving hepatic metastases
+T44	PROBLEM 1890 1931	minimally enlarging peritoneal metastases
+T45	PROBLEM 2086 2120	increasing abdominal/mid-back pain
+T46	ClinicalCondition 2138 2144	anemic
+T47	TEST 2146 2149	Hgb
+T48	Symptom 2171 2179	GI bleed
+T49	TREATMENT 2194 2201	PRBC tx
+T50	ProcedureName 2226 2229	EGD
+T51	PROBLEM 2255 2289	partial gastric outlet obstruction
+T52	TREATMENT 2305 2334	a 25 mm by 8 cm enteric stent
+T53	TreatmentType 2358 2370	chemotherapy
+T54	TREATMENT 2384 2399	nal-IRI/5-FU/LV
+T55	ProcedureName 2489 2504	stent placement
+T56	PROBLEM 2510 2531	postprandial vomiting
+T57	PROBLEM 2569 2604	Occasional bilateral abdominal pain
+T58	MedicationName 2611 2616	Norco
+T59	Symptom 2632 2651	Generalized fatigue
+T60	Symptom 2658 2684	waxing/waning energy level
+T61	Symptom 2691 2697	melena
+T62	PROBLEM 2715 2726	GI bleeding
+T63	PROBLEM 2733 2739	fevers
+T64	PROBLEM 2740 2746	chills
+T65	TREATMENT 2752 2763	Medications
+T66	TREATMENT 2826 2836	Medication
+T67	TREATMENT 2845 2873	acetaminophen (TYLENOL ORAL)
+T68	TREATMENT 2911 2918	aspirin
+T69	TREATMENT 2935 2942	aspirin
+T70	TREATMENT 3017 3035	carvedilol (COREG)
+T71	TREATMENT 3057 3090	HYDROcodone-acetaminophen (NORCO)
+T72	PROBLEM 3129 3133	pain
+T73	TREATMENT 3138 3162	ibuprofen (ADVIL,MOTRIN)
+T74	TREATMENT 3214 3234	loperamide (IMODIUM)
+T75	PROBLEM 3291 3299	diarrhea
+T76	TREATMENT 3375 3393	LORazepam (ATIVAN)
+T77	PROBLEM 3480 3487	Anxiety
+T78	PROBLEM 3489 3495	nausea
+T79	TREATMENT 3502 3525	pantoprazole (PROTONIX)
+T80	TREATMENT 3587 3615	prochlorperazine (COMPAZINE)
+T81	PROBLEM 3697 3703	nausea
+T82	PROBLEM 3708 3716	vomiting
+T83	TREATMENT 3723 3745	rosuvastatin (CRESTOR)
+T84	PROBLEM 3800 3815	Known Allergies
+T85	TEST 4116 4130	Blood pressure
+T86	TEST 4139 4144	pulse
+T87	TEST 4149 4160	temperature
+T88	TEST 4176 4194	temperature source
+T89	TEST 4205 4209	resp
+T90	TEST 4211 4215	rate
+T91	TEST 4220 4226	height
+T92	TEST 4248 4254	weight
+T93	TEST 4280 4284	SpO2
+T94	PROBLEM 4331 4351	moderately cachectic
+T95	PROBLEM 4359 4373	acute distress
+T96	PROBLEM 4421 4433	sclericterus
+T97	PROBLEM 4451 4461	non-tender
+T98	PROBLEM 4463 4473	tympanitic
+T99	TEST 4477 4487	percussion
+T100	PROBLEM 4492 4510	hepatosplenomegaly
+T101	PROBLEM 4525 4533	LE edema
+T102	PROBLEM 4558 4578	focal motor deficits
+T103	PROBLEM 4631 4641	depression
+T104	PROBLEM 4642 4651	psychosis
+T105	TEST 4777 4780	WBC
+T106	TEST 4781 4786	Count
+T107	TEST 4805 4815	Neutrophil
+T108	TEST 4816 4830	Absolute Count
+T109	TEST 4850 4860	Hemoglobin
+T110	TEST 4866 4867	L
+T111	TEST 4883 4893	Hematocrit
+T112	TEST 4917 4931	Platelet Count
+T113	TEST 4950 4960	Creatinine
+T114	TEST 4980 4989	Bilirubin
+T115	TEST 4991 4996	Total
+T116	TEST 5015 5035	Alkaline Phosphatase
+T117	TEST 5058 5080	Aspartate transaminase
+T118	TEST 5098 5118	Alanine transaminase
+T119	TEST 5136 5143	Albumin
+T120	TEST 5145 5150	Serum
+T121	TEST 5153 5159	Plasma
+T122	TEST 5182 5187	Int'l
+T123	TEST 5188 5196	Normaliz
+T124	TEST 5197 5202	Ratio
+T125	TEST 5221 5227	Sodium
+T126	TEST 5229 5234	Serum
+T127	TEST 5237 5243	Plasma
+T128	TEST 5262 5271	Potassium
+T129	TEST 5273 5278	Serum
+T130	TEST 5281 5287	Plasma
+T131	TEST 5312 5323	Lab Results
+T132	TEST 5350 5356	Cancer
+T133	TEST 5357 5364	Antigen
+T134	TEST 5392 5406	Cancer Antigen
+T135	TEST 5429 5443	Cancer Antigen
+T136	TEST 5466 5490	Carcinoembryonic Antigen
+T137	TEST 5509 5533	Carcinoembryonic Antigen
+T138	TEST 5552 5576	Carcinoembryonic Antigen
+T139	TEST 5600 5619	Most recent imaging
+T140	TEST 5747 5749	CT
+T141	TEST 5750 5778	ABDOMEN/PELVIS WITH CONTRAST
+T142	PROBLEM 5859 5892	The multicystic, ill-defined mass
+T143	PROBLEM 6021 6034	Hypoenhancing
+T144	PROBLEM 6040 6073	a hypodense multicystic component
+T145	PROBLEM 6079 6098	Biliary obstruction
+T146	PROBLEM 6114 6178	increased intrahepatic biliary dilation in the left hepatic lobe
+T147	PROBLEM 6205 6229	a clear obstructing mass
+T148	PROBLEM 6246 6273	Pancreatic duct obstruction
+T149	PROBLEM 6484 6489	tumor
+T150	PROBLEM 6573 6589	Thrombus in vein
+T151	PROBLEM 6652 6689	chronic occlusion of the splenic vein
+T152	TEST 6719 6733	chest findings
+T153	TEST 6782 6801	the CT of the chest
+T154	PROBLEM 6839 6925	now moderate to severe intrahepatic biliary ductal dilatation in the left hepatic lobe
+T155	PROBLEM 6927 7005	Interval slightly decreased size of hypodense 0.7 x 0.7 cm lesion in segment 6
+T156	PROBLEM 7052 7106	Interval slightly decreased size of ill-defined nodule
+T157	PROBLEM 7210 7233	new central hypodensity
+T158	PROBLEM 7293 7340	significant change in hypodense splenic lesions
+T159	PROBLEM 7382 7402	Hypodense renal mass
+T160	PROBLEM 7499 7526	Small paraesophageal hernia
+T161	PROBLEM 7591 7620	Unchanged 1.4 x 1.2 cm nodule
+T162	PROBLEM 7672 7727	Slightly increased size of left paracolic gutter nodule
+T163	PROBLEM 7799 7842	Similar anterior left upper quadrant nodule
+T164	TREATMENT 7912 7951	Previously described peritoneal implant
+T165	PROBLEM 8106 8124	suspicious lesions
+T166	TREATMENT 8155 8180	Unremarkable Lines/drains
+T167	PROBLEM 8238 8292	significant change in multicystic distal pancreas mass
+T168	PROBLEM 8298 8340	slightly decreased size of hepatic lesions
+T169	PROBLEM 8345 8382	significant change in splenic lesions
+T170	PROBLEM 8398 8436	slightly increased peritoneal implants
+T171	PROBLEM 8454 8521	now moderate intrahepatic biliary dilation in the left hepatic lobe
+T172	PROBLEM 8530 8556	a clear obstructing lesion
+T173	PROBLEM 8562 8609	Unchanged chronic occlusion of the splenic vein
+T174	PROBLEM 8614 8652	tumor encasement of the splenic artery
+T175	TEST 8683 8685	CT
+T176	PROBLEM 8725 8757	Unchanged left lower lobe nodule
+T177	PROBLEM 8828 8839	this nodule
+T178	PROBLEM 8855 8933	New patchy peribronchial vascular groundglass opacities in the left lower lobe
+T179	PROBLEM 8956 8992	Unchanged right middle lobe scarring
+T180	PROBLEM 8997 9018	calcified granulomata
+T181	PROBLEM 9031 9047	pleural effusion
+T182	PROBLEM 9065 9080	lymphadenopathy
+T183	PROBLEM 9103 9130	Unchanged mild cardiomegaly
+T184	PROBLEM 9135 9155	postsurgical changes
+T185	PROBLEM 9196 9222	suspicious osseous lesions
+T186	PROBLEM 9231 9263	Unchanged left lower lobe nodule
+T187	PROBLEM 9322 9334	inflammatory
+T188	PROBLEM 9342 9360	treated metastasis
+T189	PROBLEM 9365 9418	New patchy groundglass left lower lobe mild opacities
+T190	PROBLEM 9427 9437	infectious
+T191	TEST 9480 9511	CT ABDOMEN/PELVIS WITH CONTRAST
+T192	PROBLEM 9574 9595	pericardial  effusion
+T193	PROBLEM 9606 9635	a small left pleural effusion
+T194	PROBLEM 9637 9656	Patchy ground-glass
+T195	PROBLEM 9662 9734	airspace opacities in the inferior right middle lobe and left lung  base
+T196	PROBLEM 9752 9763	atelectasis
+T197	PROBLEM 9771 9780	infection
+T198	PROBLEM 9866 9962	Circumscribed  subcentimeter hyperdensities in the caudate lobe and inferior right  hepatic lobe
+T199	PROBLEM 10011 10061	an ill  defined contour deforming hypodense lesion
+T200	TEST 10142 10153	axial image
+T201	PROBLEM 10278 10326	prominent intrahepatic biliary ductal dilatation
+T202	PROBLEM 10453 10531	an ill defined mixed solid and cystic mass  involving the tail of the pancreas
+T203	PROBLEM 10548 10574	few coarse  calcifications
+T204	PROBLEM 10656 10665	This mass
+T205	PROBLEM 10696 10736	multiple cystic spaces within the spleen
+T206	PROBLEM 10741 10758	loss of fat plane
+T207	PROBLEM 10775 10790	direct invasion
+T208	PROBLEM 10792 10836	Large wedge-shaped areas of  hypoenhancement
+T209	PROBLEM 10892 10917	multiple splenic infarcts
+T210	PROBLEM 10928 10945	loss of fat plane
+T211	PROBLEM 10954 10974	the  pancreatic mass
+T212	PROBLEM 11036 11051	direct invasion
+T213	PROBLEM 11121 11171	mild  diffuse thickening of the left adrenal gland
+T214	PROBLEM 11189 11206	focal  nodularity
+T215	PROBLEM 11208 11289	Subtle loss of fat plane between the left adrenal gland  and pancreatic tail mass
+T216	TEST 11291 11302	axial image
+T217	PROBLEM 11320 11357	Bilateral subcentimeter hypodensities
+T218	PROBLEM 11435 11448	benign  cysts
+T219	PROBLEM 11473 11500	slightly inferior displaced
+T220	PROBLEM 11511 11531	a  loss of fat plane
+T221	PROBLEM 11583 11606	a  pancreatic tail mass
+T222	TEST 11608 11619	axial image
+T223	PROBLEM 11628 11643	nephrolithiasis
+T224	PROBLEM 11648 11662	hydronephrosis
+T225	PROBLEM 11688 11712	mucosal hyperenhancement
+T226	PROBLEM 11776 11791	direct invasion
+T227	PROBLEM 11797 11812	pancreatic mass
+T228	PROBLEM 11824 11850	associated wall thickening
+T229	PROBLEM 11852 11857	edema
+T230	PROBLEM 11880 11889	distended
+T231	PROBLEM 11895 11918	fluid and food material
+T232	PROBLEM 11944 11988	at  least partial gastric outlet obstruction
+T233	PROBLEM 11999 12050	mild wall edema of  the visualized distal esophagus
+T234	PROBLEM 12119 12146	significant wall thickening
+T235	PROBLEM 12150 12160	dilatation
+T236	PROBLEM 12172 12260	wall thickening involving the transverse colon, and descending  colon, and sigmoid colon
+T237	PROBLEM 12310 12387	loss of fat plane between the ill defined pancreatic tail mass and  the colon
+T238	PROBLEM 12485 12509	mildly prominent in size
+T239	PROBLEM 12572 12600	a small amount of free fluid
+T240	PROBLEM 12713 12721	free air
+T241	PROBLEM 12741 12786	retroperitoneal or mesenteric lymphadenopathy
+T242	PROBLEM 12804 12867	Scattered atherosclerotic calcification of the abdominal  aorta
+T243	PROBLEM 12898 12935	hemodynamically significant  stenosis
+T244	PROBLEM 12939 12948	occlusion
+T245	PROBLEM 12980 13005	acute osseous abnormality
+T246	PROBLEM 13007 13099	Multilevel  degenerative changes of the thoracolumbar spine and bilateral  sacroiliac joints
+T247	PROBLEM 13101 13147	Very small fat containing left inguinal hernia
+T248	PROBLEM 13159 13200	mild anasarca of the subcutaneous tissues
+T249	PROBLEM 13202 13255	Few foci of air in  the right anterior abdominal wall
+T250	TREATMENT 13277 13293	recent injection
+T251	PROBLEM 13314 13369	Ill defined mixed solid and cystic pancreatic tail mass
+T252	PROBLEM 13375 13401	few  coarse calcifications
+T253	PROBLEM 13452 13503	direct invasion of the spleen and posterior stomach
+T254	PROBLEM 13533 13580	direct invasion of the splenic flexure of colon
+T255	PROBLEM 13640 13667	Proximal gastric distension
+T256	PROBLEM 13669 13695	Diffuse gastric wall edema
+T257	PROBLEM 13702 13748	mucosal hyperenhancement of the distal stomach
+T258	PROBLEM 13766 13782	direct  invasion
+T259	PROBLEM 13788 13817	adjacent pancreatic tail mass
+T260	PROBLEM 13835 13870	partial  gastric outlet obstruction
+T261	PROBLEM 13876 13956	Multiple peripheral wedge-shaped areas of hypoenhancement throughout  the spleen
+T262	PROBLEM 13973 13998	multiple splenic infarcts
+T263	PROBLEM 14004 14071	Diffuse wall edema of the transverse, descending, and sigmoid colon
+T264	PROBLEM 14083 14098	direct invasion
+T265	PROBLEM 14104 14124	pancreatic tail mass
+T266	PROBLEM 14191 14198	colitis
+T267	PROBLEM 14217 14240	inflammatory etiologies
+T268	PROBLEM 14246 14273	Small left pleural effusion
+T269	PROBLEM 14275 14294	Patchy ground-glass
+T270	PROBLEM 14299 14371	airspace  opacities in the inferior right middle lobe and left lung base
+T271	PROBLEM 14396 14407	atelectasis
+T272	PROBLEM 14415 14425	infiltrate
+T273	PROBLEM 14426 14435	infection
+T274	PROBLEM 14441 14487	Ill defined contour deforming hypodense lesion
+T275	PROBLEM 14561 14579	metastatic disease
+T276	PROBLEM 14611 14649	Small volume diffuse abdominal ascites
+T277	PROBLEM 14734 14749	metastatic PDAC
+T278	TREATMENT 14764 14776	3L treatment
+T279	TREATMENT 14815 14847	LV plus nanoliposomal irinotecan
+T280	TREATMENT 14849 14856	nal-IRI
+T281	TREATMENT 14861 14868	Onivyde
+T282	PROBLEM 14908 14946	continued clinical/symptomatic decline
+T283	TREATMENT 15041 15048	therapy
+T284	TREATMENT 15173 15211	purely palliative/symptomatic measures
+T285	TREATMENT 15233 15245	home hospice
+T286	TREATMENT 15358 15379	the same chemotherapy
+T287	TEST 15408 15429	laboratory parameters
+T288	TEST 15452 15475	short-term f/u CT scans
+T289	PROBLEM 15502 15529	further disease progression
+T290	TREATMENT 15554 15579	further 
+ salvage therapy
+T291	TREATMENT 15843 15853	trametinib
+T292	TREATMENT 15859 15877	hydroxychloroquine
+T293	TREATMENT 15925 15959	this MEKi/antimalarial combination
+T294	PROBLEM 15972 15992	inhibiting autophagy
+T295	PROBLEM 15996 16013	pancreatic cancer
+T296	PROBLEM 16202 16224	his tumor harbors KRAS
+T297	PROBLEM 16236 16249	p53 mutations
+T298	TREATMENT 16336 16359	palliative/QoL purposes
+T299	PROBLEM 16544 16564	his cancer diagnosis
+T300	Age 15 17	74
+T301	ClinicalCondition 140 157	pancreatic cancer
+A1	ChronicVal T301 non-chronic
+A2	ContinuityVal T301 stable
+T302	Metastasis 129 139	metastatic
+T303	SectionSkip 5859 7796;7799 9739;9742 11682;11685 13620;13623 14649	The multicystic, ill-defined mass measures 4.7 x 5.6 cm, previously measuring 4.6 x 5.9 cm when ***** in a similar fashion. 3)  Enhancement relative to pancreas: Hypoenhancing with a hypodense multicystic component. 4)  Biliary obstruction: yes, there is increased intrahepatic biliary dilation in the left hepatic lobe compared to prior without a clear obstructing mass identified. 5)  Pancreatic duct obstruction: no Vascular-arterial:        1) Celiac axis is not involved        2)  SMA is not involved.        3)  CHA is not involved.        4)  Arterial variant: None.        5) other: The splenic artery is encased by tumor, unchanged. Vascular-venous: 1)  MPV is not involved. 2)  SMV is not involved. 3)  Thrombus in vein:  absent 4)  Venous collateral: None. 5)  Other: No change in chronic occlusion of the splenic vein. Visualized lung bases:  For chest findings, please see the separately dictated report from the CT of the chest of the same date. Liver:  Increased, now moderate to severe intrahepatic biliary ductal dilatation in the left hepatic lobe. Interval slightly decreased size of hypodense 0.7 x 0.7 cm lesion in segment 6 (series 7 image 49), previously 1.1 x 0.8 cm. Interval slightly decreased size of ill-defined nodule along the inferior hepatic margin, now measuring 1.3 x 0.9 cm compared to 1.5 x 1.2 cm previously with new central hypodensity (series 7 image 56). Gallbladder: Unremarkable Spleen:  No significant change in hypodense splenic lesions. Adrenal Glands:  Unremarkable Kidneys:  Hypodense renal mass(es) too small to characterize, either benign or clinically insignificant, unchanged. GI Tract:  Small paraesophageal hernia. Vasculature:  Unremarkable Lymphadenopathy: Absent Peritoneum: Unchanged 1.4 x 1.2 cm nodule in the right paracolic gutter (series 7 image 72). Slightly increased size of left paracolic gutter nodule measuring 1.3 x 1.0 cm, previously 1.1 x 0.9 cm (series 7 image 64). Similar anterior left upper quadrant nodule measuring 1.1 x 0.9 cm, previously 1.1 x 1.0 cm (series 7 image 43). Previously described peritoneal implant in the lesser curvature the stomach is less conspicuous, but likely unchanged in size. Bladder: Unremarkable Reproductive organs: Unremarkable Bones:  No suspicious lesions Extraperitoneal soft tissues: Unremarkable Lines/drains/medical devices: None     1.  Compared to 12/18/2018, no significant change in multicystic distal pancreas mass with slightly decreased size of hepatic lesions, no significant change in splenic lesions, and stable to slightly increased peritoneal implants. 2.  Increase in now moderate intrahepatic biliary dilation in the left hepatic lobe without a clear obstructing lesion. 3.  Unchanged chronic occlusion of the splenic vein and tumor encasement of the splenic artery.     Result Date: 02/15/2019  CT CHEST WITH CONTRAST   FINDINGS: LUNGS: Unchanged left lower lobe nodule measuring 3 mm (series 2 ***** 123); on the most remote prior in 2018 this nodule measured 6 mm. New patchy peribronchial vascular groundglass opacities in the left lower lobe (series 2 ***** 167). Unchanged right middle lobe scarring and calcified granulomata. PLEURA: No pleural effusion. MEDIASTINUM: No lymphadenopathy. HEART/GREAT VESSELS: Unchanged mild cardiomegaly and postsurgical changes status post CABG BONES/SOFT TISSUES: No suspicious osseous lesions.     1. Unchanged left lower lobe nodule, decrease in size compared to most remote prior, possibly inflammatory versus treated metastasis. 2. New patchy groundglass left lower lobe mild opacities, likely infectious.       Result Date: 03/11/2019 (outside)  CT ABDOMEN/PELVIS WITH CONTRAST  FINDINGS:  Inferior Chest: The heart is enlarged in size. No pericardial  effusion. There is a small left pleural effusion. Patchy ground-glass  and airspace opacities in the inferior right middle lobe and left lung  base, may represent atelectasis versus infection. The lung bases are  clear.    Liver: Liver is normal in size and smooth in contour. Circumscribed  subcentimeter hyperdensities in the caudate lobe and inferior right  hepatic lobe, too small to accurately characterize. There is an ill  defined contour deforming hypodense lesion in the inferior right  hepatic lobe measuring approximately 1.4 cm in diameter (axial image  55). Portal and hepatic veins are patent.    Gallbladder and biliary tree: The gallbladder appears unremarkable.  There is prominent intrahepatic biliary ductal dilatation predominantly  involving the left hepatic lobe. The common bile duct appears normal in  caliber.    Pancreas/spleen: There is an ill defined mixed solid and cystic mass  involving the tail of the pancreas associated with few coarse  calcifications, measuring approximately 7.2 cm AP by 5.4 cm transverse  by 5.6 cm craniocaudal. This mass abuts the splenic hilum with  multiple cystic spaces within the spleen and loss of fat plane,  suggestive of direct invasion. Large wedge-shaped areas of  hypoenhancement within the peripheral aspects of spleen suggestive of  multiple splenic infarcts. There is loss of fat plane between the  pancreatic mass in the posterior wall of the stomach suggestive of  possible direct invasion.    Adrenals: The right adrenal gland appears unremarkable. There is mild  diffuse thickening of the left adrenal gland without definite focal  nodularity. Subtle loss of fat plane between the left adrenal gland  and pancreatic tail mass (axial image 55).    Kidneys: Bilateral subcentimeter hypodensities, too small to  accurately characterize but statistically likely to represent benign  cysts.The left kidney appears slightly inferior displaced. There is a  loss of fat plane between the anterior aspect of the left kidney and a  pancreatic tail mass (axial image 64). No nephrolithiasis or  hydronephrosis.    GI tract: There is mucosal hyperenhancement involving the distal aspect  of the stomach adjacent to likely direct invasion from pancreatic mass.  There is associated wall thickening/ edema. Proximal stomach is  distended with fluid and food material. Findings concerning for at  least partial gastric outlet obstruction. There is mild wall edema of  the visualized distal esophagus. Small bowel loops are grossly normal  in course in caliber with no significant wall thickening or dilatation.  There is wall thickening involving the transverse colon, and descending  colon, and sigmoid colon. In the region of the splenic flexure, there  is loss of fat plane between the ill defined pancreatic tail mass and  the colon.    Bladder: Urinary bladder appears unremarkable.    Reproductive organs: The prostate gland is mildly prominent in size  measuring 4.6 x 4.2 x 4.5 cm.    Peritoneal Cavity: There is a small amount of free fluid noted in the  abdomen in the perihepatic space, perisplenic space, bilateral  paracolic gutters, and pelvis. No free air is identified. No  retroperitoneal or mesenteric lymphadenopathy.    Vasculature: Scattered atherosclerotic calcification of the abdominal  aorta and its main branches with no hemodynamically significant  stenosis or occlusion.    Bones and Soft tissues: No acute osseous abnormality. Multilevel  degenerative changes of the thoracolumbar spine and bilateral  sacroiliac joints. Very small fat containing left inguinal hernia.  There is mild anasarca of the subcutaneous tissues. Few foci of air in  the right anterior abdominal wall, likely representing recent injection.    IMPRESSION:  1. Ill defined mixed solid and cystic pancreatic tail mass with few  coarse calcifications, measuring at least 7.2 x 5.4 x 5.6 cm. There is  direct invasion of the spleen and posterior stomach. There is also  questionable direct invasion of the splenic flexure of colon common the  left adrenal gland, and the left kidney.  2. Proximal gastric distension. Diffuse gastric wall edema with  mucosal hyperenhancement of the distal stomach, compatible with direct  invasion from adjacent pancreatic tail mass causing at least partial  gastric outlet obstruction.  3. Multiple peripheral wedge-shaped areas of hypoenhancement throughout  the spleen compatible with multiple splenic infarcts.  4. Diffuse wall edema of the transverse, descending, and sigmoid colon.  Possible direct invasion from pancreatic tail mass at the level of the  splenic flexure. Other possibilities include colitis of infectious or  inflammatory etiologies.  5. Small left pleural effusion. Patchy ground-glass and airspace  opacities in the inferior right middle lobe and left lung base,  possibly representing atelectasis versus infiltrate/infection.  6. Ill defined contour deforming hypodense lesion within the inferior  right hepatic lobe measuring 1.4 cm, concerning for metastatic disease  in this clinical setting.  7. Small volume diffuse abdominal ascites
+A3	SectionSkipType T303 radiology_report
+T304	SectionSkip 3768 3815	Allergies/Contraindications  No Known Allergies
+A4	SectionSkipType T304 allergies
+T305	SectionSkip 4535 4652	Neuro: Normal gait. No focal motor deficits.  Psych:  Appropriately interactive. No evidence of depression/psychosis.
+A5	SectionSkipType T305 physical_exam
+T306	Datetime 180 184	2018
+R1	BeginsOnOrAt Arg1:T306 Arg2:T301	
+A6	TreatmentContinuityVal T13 discontinued_early
+A7	TreatmentTypeVal T13 maintenance
+A8	TreatmentIntentVal T13 palliative
+A9	TreatmentContinuityVal T18 finished
+A10	TreatmentTypeVal T18 maintenance
+T307	Datetime 278 291	November 2017
+T308	Datetime 473 483	01/14/2018
+T309	Datetime 586 596	08/19/2018
+T310	Datetime 882 892	08/17/2018
+T311	Datetime 1038 1048	10/14/2018
+T312	Datetime 1274 1284	10/26/2018
+T313	Datetime 2061 2071	03/06/2019
+T314	Datetime 1769 1779	02/15/2019
+T315	Datetime 2231 2241	03/16/2019
+T316	Datetime 2404 2414	03/29/2019
+T317	Cycles 240 241	4
+R2	TreatmentDesc Therapy:T317 Desc:T13	
+T318	Cycles 568 570	13
+T319	Cycles 641 642	4
+T320	Cycles 702 703	9
+T321	Cycles 782 784	11
+T322	Cycles 839 841	13
+T323	Cycles 1594 1595	4
+A11	IsPresentOnFirstCancerDiagnosis T14 unclear
+A12	IsCausedByDiagnosedCancer T14 no
+A13	ChronicVal T14 non-chronic
+A14	ContinuityVal T14 worsening
+R3	TreatmentDiscontinuedBecauseOf Therapy:T13 Reason:T14	
+R4	ConditionOrTreatmentCausesProblem Treatment:T13 Prob:T14	
+A15	IsPresentOnFirstCancerDiagnosis T15 unclear
+A16	IsCausedByDiagnosedCancer T15 no
+A17	ChronicVal T15 non-chronic
+A18	ContinuityVal T15 worsening
+R5	ConditionOrTreatmentCausesProblem Treatment:T13 Prob:T15	
+R6	TreatmentDiscontinuedBecauseOf Therapy:T13 Reason:T15	
+R7	EndsOnOrAt Arg1:T307 Arg2:T13	
+T324	TreatmentType 509 532	additional chemotherapy
+A19	TreatmentContinuityVal T324 started
+A20	TreatmentTypeVal T324 maintenance
+A21	TreatmentIntentVal T324 palliative
+R8	BeginsOnOrAt Arg1:T308 Arg2:T324	
+R9	BeginsOnOrAt Arg1:T308 Arg2:T18	
+R10	TreatmentDesc Therapy:T318 Desc:T18	
+R11	EndsOnOrAt Arg1:T309 Arg2:T18	
+T325	Duration 424 440	couple of months
+T326	MedicationName 602 612	5-FU bolus
+A22	TreatmentContinuityVal T326 discontinued_early
+A23	TreatmentTypeVal T326 maintenance
+A24	TreatmentIntentVal T326 palliative
+A25	TreatmentCategory T326 AntiNeoPlastics
+A26	TreatmentContinuityVal T23 discontinued_early
+A27	TreatmentTypeVal T23 maintenance
+A28	TreatmentIntentVal T23 palliative
+A29	TreatmentCategory T23 AntiNeoPlastics
+R12	TreatmentDesc Therapy:T319 Desc:T326	
+A30	ChronicVal T20 non-chronic
+A31	ContinuityVal T20 new
+R13	TreatmentDiscontinuedBecauseOf Therapy:T326 Reason:T20	
+R14	ConditionOrTreatmentCausesProblem Treatment:T18 Prob:T20	
+T327	TreatmentDoseModification 705 724	his dosing interval
+T328	Frequency 745 759	q2 to q3 weeks
+T329	TreatmentDoseModification 617 623	d/c'ed
+R15	TreatmentDesc Therapy:T329 Desc:T18	
+R16	TreatmentDesc Therapy:T329 Desc:T326	
+R17	TreatmentDesc Therapy:T18 Desc:T320	
+R18	Temporal Arg1:T328 Arg2:T327	
+R19	TreatmentDesc Therapy:T18 Desc:T327	
+R20	TreatmentDesc Therapy:T18 Desc:T321	
+T330	TreatmentDoseModification 806 824	dropped altogether
+R21	TreatmentDesc Therapy:T18 Desc:T330	
+R22	TreatmentDesc Therapy:T23 Desc:T330	
+A32	TreatmentContinuityVal T24 finished
+A33	TreatmentTypeVal T24 maintenance
+A34	TreatmentIntentVal T24 palliative
+R23	TreatmentDesc Therapy:T322 Desc:T24	
+R24	TreatmentDesc Therapy:T322 Desc:T18	
+R25	EndsOnOrAt Arg1:T310 Arg2:T24	
+R26	EndsOnOrAt Arg1:T310 Arg2:T18	
+T331	Duration 935 944	2  months
+A35	TreatmentContinuityVal T25 finished
+A36	TreatmentTypeVal T25 maintenance
+A37	TreatmentIntentVal T25 palliative
+R27	HappensAtOnDuring Arg1:T331 Arg2:T25	
+T332	Datetime 996 1009	mid-September
+T333	Radiology 1018 1025	imaging
+A38	IntentVal T333 TreatmentAssessment
+R28	HappensAtOnDuring Arg1:T333 Arg2:T311	
+T334	DiseaseState 1074 1121	locoregional and metastatic disease progression
+A39	DiseaseStateVal T334 progression-others
+T335	RadPathResult 1074 1121	locoregional and metastatic disease progression
+A40	RadPathResultVal T335 Progression
+R29	ResultOfTest Desc:T335 Test:T333	
+R30	TestOrProcedureReveals Test:T333 Desc:T334	
+T336	MedicationRegimen 1173 1204	gemcitabine plus nab-paclitaxel
+A41	TreatmentContinuityVal T336 started
+A42	TreatmentTypeVal T336 maintenance
+A43	TreatmentIntentVal T336 palliative
+T337	Frequency 1210 1229	QOW dosing schedule
+R31	Temporal Arg1:T337 Arg2:T336	
+T338	Frequency 1231 1262	days 1 and 15 of a 28-day cycle
+R32	Temporal Arg1:T338 Arg2:T336	
+R33	BeginsOnOrAt Arg1:T312 Arg2:T336	
+T339	Cycles 1292 1293	2
+R34	TreatmentDesc Therapy:T339 Desc:T336	
+T340	DiseaseState 1338 1388	disease progression in pancreas, liver, and spleen
+A44	DiseaseStateVal T340 progression-others
+T341	RadPathResult 1421 1449	multiple peritoneal implants
+A45	RadPathResultVal T341 Progression
+T342	Metastasis 1091 1101	metastatic
+A46	EpisodeDescription T342 Progression
+T344	Metastasis 1430 1449	peritoneal implants
+A48	EpisodeDescription T344 Progression
+T345	TreatmentType 1465 1477	3L treatment
+A49	TreatmentContinuityVal T345 started
+A50	TreatmentTypeVal T345 maintenance
+A51	TreatmentIntentVal T345 palliative
+A52	TreatmentContinuityVal T28 started
+A53	TreatmentTypeVal T28 maintenance
+A54	TreatmentIntentVal T28 palliative
+R35	BeginsOnOrAt Arg1:T28 Arg2:T312	
+T346	MedicationRegimen 1502 1539	5-FU/LV plus nanoliposomal irinotecan
+A55	TreatmentContinuityVal T346 started
+A56	TreatmentTypeVal T346 maintenance
+A57	TreatmentIntentVal T346 palliative
+T347	MedicationRegimen 1541 1548	nal-IRI
+A58	TreatmentContinuityVal T347 started
+A59	TreatmentTypeVal T347 maintenance
+A60	TreatmentIntentVal T347 palliative
+T348	MedicationRegimen 1553 1560	Onivyde
+A61	TreatmentContinuityVal T348 started
+A62	TreatmentTypeVal T348 maintenance
+A63	TreatmentIntentVal T348 palliative
+T349	Datetime 1573 1583	12/28/2018
+R36	BeginsOnOrAt Arg1:T349 Arg2:T348	
+R37	BeginsOnOrAt Arg1:T349 Arg2:T347	
+R38	BeginsOnOrAt Arg1:T349 Arg2:T346	
+R39	TreatmentDesc Therapy:T323 Desc:T346	
+R40	TreatmentDesc Therapy:T323 Desc:T347	
+R41	TreatmentDesc Therapy:T323 Desc:T348	
+T350	Datetime 1625 1639	end of January
+A64	IsPresentOnFirstCancerDiagnosis T39 no
+A65	IsCausedByDiagnosedCancer T39 no
+A66	ChronicVal T39 non-chronic
+A67	ContinuityVal T39 stable
+T351	Symptom 2097 2120	abdominal/mid-back pain
+A68	IsPresentOnFirstCancerDiagnosis T351 no
+A69	IsCausedByDiagnosedCancer T351 yes
+A71	ContinuityVal T351 worsening
+R42	ConditionOrTreatmentCausesProblem Treatment:T346 Prob:T39	
+T352	Symptom 1741 1751	GI side fx
+A70	IsPresentOnFirstCancerDiagnosis T352 no
+A72	IsCausedByDiagnosedCancer T352 no
+A73	ChronicVal T352 non-chronic
+A74	ContinuityVal T352 stable
+R43	ConditionOrTreatmentCausesProblem Treatment:T346 Prob:T352	
+T353	PhysicalActivity 1713 1727	playing tennis
+A75	IsStoppedOrContinuing T353 continuing
+T354	Radiology 1760 1767	imaging
+A76	IntentVal T354 TreatmentAssessment
+R44	HappensAtOnDuring Arg1:T314 Arg2:T354	
+T355	DiseaseState 1802 1816	stable disease
+A77	DiseaseStateVal T355 stability
+T356	RadPathResult 1823 1860	slightly improving hepatic metastases
+A78	RadPathResultVal T356 TreatmentResponse
+R45	ResultOfTest Desc:T356 Test:T354	
+R46	TestOrProcedureReveals Test:T354 Desc:T355	
+T357	Metastasis 1850 1860	metastases
+A79	EpisodeDescription T357 Progression
+T358	RadPathResult 1880 1931	stable to minimally enlarging peritoneal metastases
+A80	RadPathResultVal T358 DiseaseStability
+R47	ResultOfTest Desc:T358 Test:T354	
+R48	HappensAtOnDuring Arg1:T313 Arg2:T351	
+A81	ContinuityVal T46 new
+A82	NegationModalityVal T48 negated
+R49	HappensAtOnDuring Arg1:T313 Arg2:T46	
+T359	TreatmentType 2194 2198	PRBC
+A83	TreatmentContinuityVal T359 finished
+A84	TreatmentTypeVal T359 others
+A85	TreatmentIntentVal T359 others
+R50	TreatmentAdministeredForProblem Treatment:T359 Prob:T48	
+T360	TreatmentDosage 2204 2211	2 units
+R51	TreatmentDesc Therapy:T360 Desc:T359	
+A86	IntentVal T50 others
+A87	TreatmentTypeVal T50 others
+R52	HappensAtOnDuring Arg1:T315 Arg2:T50	
+T361	ClinicalCondition 2263 2289	gastric outlet obstruction
+A88	ChronicVal T361 non-chronic
+A89	ContinuityVal T361 new
+R53	TestOrProcedureReveals Test:T50 Desc:T361	
+T362	ProcedureName 2321 2334;2339 2345	enteric stent placed
+A90	TreatmentTypeVal T362 others
+A91	TreatmentCategory T362 Others
+R54	TestOrProcedureConductedForProblem Test:T362 Prob:T361	
+T363	Size 2307 2320	25 mm by 8 cm
+A92	TreatmentTypeVal T55 others
+A93	TreatmentCategory T55 Others
+R55	TestOrProcedureConductedForProblem Test:T55 Prob:T361	
+T364	Symptom 2510 2531	postprandial vomiting
+A94	NegationModalityVal T364 negated
+T365	Symptom 2542 2550	appetite
+A95	IsCausedByDiagnosedCancer T365 unclear
+A96	ChronicVal T365 non-chronic
+T366	Symptom 2590 2604	abdominal pain
+A97	IsPresentOnFirstCancerDiagnosis T366 unclear
+A98	IsCausedByDiagnosedCancer T366 yes
+A99	ContinuityVal T366 unclear
+A100	TreatmentTypeVal T58 others
+A101	TreatmentIntentVal T58 others
+A102	TreatmentCategory T58 Supportive
+R56	TreatmentAdministeredForProblem Treatment:T58 Prob:T366	
+A103	IsPresentOnFirstCancerDiagnosis T59 unclear
+A104	IsCausedByDiagnosedCancer T59 yes
+A105	ContinuityVal T59 unclear
+A106	IsPresentOnFirstCancerDiagnosis T60 unclear
+A107	IsCausedByDiagnosedCancer T60 yes
+A108	ContinuityVal T60 unclear
+A109	NegationModalityVal T61 negated
+T367	Symptom 2715 2726	GI bleeding
+A110	NegationModalityVal T367 negated
+T368	Symptom 2733 2739	fevers
+A111	NegationModalityVal T368 negated
+T369	Symptom 2740 2746	chills
+A112	NegationModalityVal T369 negated
+T370	Frequency 2617 2628	twice-daily
+R57	Temporal Arg1:T370 Arg2:T58	
+A113	TreatmentTypeVal T53 maintenance
+A114	TreatmentIntentVal T53 palliative
+T371	MedicationRegimen 2384 2399	nal-IRI/5-FU/LV
+A115	TreatmentContinuityVal T371 started
+A116	TreatmentTypeVal T371 maintenance
+A117	TreatmentIntentVal T371 palliative
+T372	Cycles 2379 2380	5
+R58	TreatmentDesc Therapy:T372 Desc:T371	
+R59	HappensAtOnDuring Arg1:T316 Arg2:T371	
+T373	Symptom 2468 2471	POs
+A118	NegationModalityVal T373 negated
+T374	Age 14716 14718	74
+T375	ClinicalCondition 14745 14749	PDAC
+A119	ChronicVal T375 non-chronic
+A120	ContinuityVal T375 stable
+T376	Metastasis 14734 14744	metastatic
+R60	TumorDesc TumorDetails:T376 Desc:T375	
+T377	TreatmentType 14764 14776	3L treatment
+A121	TreatmentTypeVal T377 maintenance
+A122	TreatmentIntentVal T377 palliative
+A123	TreatmentContinuityVal T377 continuing
+T378	MedicationRegimen 14810 14847	5-FU/LV plus nanoliposomal irinotecan
+A124	TreatmentContinuityVal T378 continuing
+A125	TreatmentTypeVal T378 maintenance
+A126	TreatmentIntentVal T378 palliative
+T379	MedicationRegimen 14849 14856	nal-IRI
+A127	TreatmentContinuityVal T379 continuing
+A128	TreatmentTypeVal T379 maintenance
+A129	TreatmentIntentVal T379 palliative
+T380	MedicationRegimen 14861 14868	Onivyde
+A130	TreatmentContinuityVal T380 continuing
+A131	TreatmentTypeVal T380 maintenance
+A132	TreatmentIntentVal T380 palliative
+T381	PerformanceStatus 14908 14946	continued clinical/symptomatic decline
+A133	PerformanceStatusType T381 Other
+T382	DiseaseState 15233 15245	home hospice
+A134	NegationModalityVal T382 hypothetical_in_future
+A135	DiseaseStateVal T382 hospice
+T383	TreatmentType 15367 15379	chemotherapy
+A136	TreatmentContinuityVal T383 planned
+A137	TreatmentTypeVal T383 maintenance
+A138	TreatmentIntentVal T383 palliative
+T384	ClinicalCondition 15408 15429	laboratory parameters
+A139	NegationModalityVal T384 hypothetical_in_future
+R61	InclusionCriteriaFor Arg1:T384 Arg2:T383	
+T385	Pathology 15467 15475	CT scans
+A140	NegationModalityVal T385 planned_in_future
+T386	Cycles 15336 15337	1
+R62	TreatmentDesc Therapy:T386 Desc:T383	
+T387	DiseaseState 15510 15529	disease progression
+A141	NegationModalityVal T387 hypothetical_in_future
+A142	DiseaseStateVal T387 progression-others
+R63	TestOrProcedureReveals Test:T385 Desc:T387	
+T388	ClinicalTrial 15620 15635	clinical trials
+A143	NegationModalityVal T388 hypothetical_in_future
+T389	ClinicalTrial 15688 15711	phase I clinical trials
+T390	MedicationRegimen 15843 15877	trametinib plus hydroxychloroquine
+A144	NegationModalityVal T390 hypothetical_in_future
+T391	ClinicalTrial 15843 15877	trametinib plus hydroxychloroquine
+A145	NegationModalityVal T391 hypothetical_in_future
+T392	MedicationRegimen 15930 15959	MEKi/antimalarial combination
+A146	NegationModalityVal T392 hypothetical_in_future
+T393	ClinicalCondition 15996 16013	pancreatic cancer
+A147	ChronicVal T393 non-chronic
+R64	TreatmentAdministeredForProblem Treatment:T392 Prob:T393	
+T394	GenomicTestResult 16220 16231	KRAS (G12D)
+A148	GenomicTestType T394 Somatic
+T395	GenomicTestResult 16236 16249	p53 mutations
+A149	GenomicTestType T395 Somatic
+T396	TreatmentType 16277 16279	RT
+A150	NegationModalityVal T396 hypothetical_in_future
+A151	TreatmentTypeVal T396 local
+A152	TreatmentIntentVal T396 palliative
+R65	SizeOf Arg1:T363 Arg2:T362	
+T397	ClinicalCondition 16298 16305	primary
+A153	ChronicVal T397 non-chronic
+A154	ContinuityVal T397 stable
+T398	Site 16287 16297	pancreatic
+R66	SiteOf Arg1:T398 Arg2:T397	
+R67	TreatmentAdministeredForProblem Treatment:T396 Prob:T397	
+T399	Datetime 16100 16104	2020
+T343	Metastasis 1371 1376	liver
+A47	EpisodeDescription T343 Progression
+T400	Metastasis 1382 1388	spleen
+A155	EpisodeDescription T400 Progression	
+R71	EndsOnOrAt Arg1:T323 Arg2:T350	
+A156	NegationModalityVal T389 hypothetical_in_future
+T401	ap_start 14656 14666	Impression
+T402	ap_end 16398 16408	longevity.
+T403	hpi_start 0 2	Mr
+T404	hpi_end 2404 2415	03/29/2019.
+R72	EndsOnOrAt Arg1:T18 Arg2:T310	
+R73	HappensAtOnDuring Arg1:T53 Arg2:T316	

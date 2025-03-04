@@ -1,0 +1,771 @@
+T1	SectionAnnotate 414 457	Patient Identification and Oncology History
+T2	SectionAnnotate 3675 3692	Review of Systems
+T3	SectionSkip 3946 4037	Allergies as of 05/12/2019  Review Complete On: 05/12/2019 By: ***** ***** *****   No Known
+T4	SectionSkip 4054 4073	Current Medications
+T5	SectionSkip 4075 5506	Current Outpatient Medications   Medication Sig Dispense Refill    acetaminophen (TYLENOL EXTRA STRENGTH) 500 mg tablet Take 500 mg by mouth every 6 (six) hours as needed for Pain.      bimatoprost (LUMIGAN) 0.01 % DROPSOLN Place 1 drop into both eyes Daily.        calcium-vitamin D 500-125 mg-unit tablet Take 1 tablet (500 mg total) by mouth Daily.      cholecalciferol, vitamin D3, (VITAMIN D3) 2,000 unit TAB Take 1 tablet by mouth Daily.        dorzolamide (TRUSOPT) 2 % ophthalmic solution Place 1 drop into both eyes nightly at bedtime.       multivitamin (THERAGRAN) per tablet Take 1 tablet by mouth.        polyethylene glycol (MIRALAX) 17 gram packet Take 1 packet (17 g total) by mouth daily as needed (constipation). 527 g 0    prochlorperazine (COMPAZINE) 10 mg tablet Take 5 mg by mouth every 6 (six) hours as needed for Nausea.      senna (SENOKOT) 8.6 mg tablet Take 1 tablet by mouth Daily.      traMADol (ULTRAM) 50 mg tablet Take 1 tablet (50 mg total) by mouth Every 4 hours. 40 tablet 1    omeprazole (PRILOSEC) 40 mg capsule Take 1 capsule (40 mg total) by mouth every morning before breakfast. (Patient not taking: Reported on 03/17/2019) 90 capsule 1     Current Facility-Administered Medications   Medication Dose Route Frequency Provider Last Rate Last Dose    influenza vaccine (age >/= 6 months) (PF) (FLUVAVAL, FLUZONE, FLUARIX) injection 0.5 mL  0.5 mL Intramuscular Once ***** *****, MD
+T6	SectionSkip 5515 5528	Physical Exam
+T7	SectionSkip 8405 10439	FINDINGS: Visualized lung bases:  For chest findings, please see the separately dictated report from the CT of the chest of the same date. Liver:  Mild intrahepatic biliary ductal dilatation and pneumobilia, stable. Gallbladder: Unchanged position of biliary stent. Gallbladder is unremarkable. Spleen:  Unremarkable Pancreas: Slight improvement in pancreatic ductal dilatation, currently measuring 9 mm (series 14 image 37), previously measuring 12 mm. Ill-defined pancreatic mass not clearly seen. Unchanged appearance of bilobed hypoattenuating cystic lesion in the anterior pancreatic head measuring 8 mm which can represent a sidebranch IPMN (series 14 image 50). Adrenal Glands:  Unremarkable Kidneys:  Similar appearance of left kidney interpolar exophytic 1.1 x 1 cm lesion which is hypodense on noncontrast imaging and hyperenhancing on postcontrast images (series 14 image 31). Right kidney interpole simple cyst measuring 1.5 x 1.1 cm, unchanged. GI Tract:  Diverticulosis of the sigmoid colon. Vasculature:  Stable in size mildly prominent subcentimeter periportal and peripancreatic lymph nodes measuring up to 0.7 cm in short axis. Lymphadenopathy: Absent Peritoneum: Unchanged pelvic free fluid. Bladder: Unremarkable Reproductive organs: Unremarkable Bones:  No suspicious lesions Extraperitoneal soft tissues: Unremarkable Lines/drains/medical devices: Biliary stent as 
+ above. RADIATION DOSE INDICATORS: Exposure Events: 7 , CTDIvol Max: 5.1 mGy, DLP: 628.9 mGy.cm. The following accession numbers are related to this dose report *****,*****,*****     1. Compared to 03/13/2019, the ill-defined pancreatic mass is no longer seen, likely related to treatment. Interval decrease in pancreatic duct dilation. No evidence of metastatic disease. 2. 1.1 cm left renal enhancing lesion concerning for renal cell carcinoma. Report dictated by: ***** *****, MD, signed by: ***** *****-***** *****, MD Department of Radiology and Biomedical Imaging    Ct Chest With Contrast    Result Date: 05/08/2019  CT CHEST WITH CONTRAST
+T8	SectionAnnotate 12208 12225	ASSESSMENT & PLAN
+T9	PROBLEM 289 314	pancreatic adenocarcinoma
+T10	ClinicalCondition 606 631	pancreatic adenocarcinoma
+T11	PROBLEM 695 712	painless jaundice
+T12	PROBLEM 717 733	15lb weight loss
+T13	TEST 770 774	labs
+T14	TEST 787 794	a Tbili
+T15	TEST 804 807	AST
+T16	TEST 813 816	ALT
+T17	TEST 822 830	Alk phos
+T18	TEST 849 866	CT abdomen/pelvis
+T19	PROBLEM 868 905	intra/extrahepatic biliary dilatation
+T20	PROBLEM 922 961	transition point in the pancreatic head
+T21	PROBLEM 964 997	9x7mm mass in the pancreatic head
+T22	PROBLEM 999 1024	8mm periportal lymph node
+T23	TEST 1074 1086	planned ERCP
+T24	TEST 1110 1119	CTA chest
+T25	RadPathResult 1134 1136	PE
+T26	ProcedureName 1144 1148	ERCP
+T27	TEST 1160 1165	Tbili
+T28	PROBLEM 1185 1231	high grade obstruction in the distal bile duct
+T29	TREATMENT 1247 1262	a pigtail stent
+T30	TEST 1265 1274	Brushings
+T31	PROBLEM 1276 1301	pancreatic adenocarcinoma
+T32	TEST 1306 1317	MMR testing
+T33	TEST 1353 1358	Tbili
+T34	MedicationName 1370 1373	IVF
+T35	ClinicalCondition 1378 1401	orthostatic hypotension
+T36	Symptom 1441 1457	syncopal episode
+T37	ClinicalCondition 1465 1488	orthostatic hypotension
+T38	MedicationName 1505 1508	IVF
+T39	TEST 1535 1539	Labs
+T40	TEST 1553 1559	T bili
+T41	TEST 1576 1582	PET/CT
+T42	PROBLEM 1601 1644	hypermetabolism in the pancreatic head/neck
+T43	PROBLEM 1649 1684	upstream pancreatic ductal dilation
+T44	PROBLEM 1690 1709	parenchymal atrophy
+T45	PROBLEM 1724 1753	primary pancreatic malignancy
+T46	PROBLEM 1755 1767	Primary mass
+T47	PROBLEM 1805 1832	a possible hypodense lesion
+T48	PROBLEM 1863 1878	hypermetabolism
+T49	PROBLEM 1900 1956	Hypermetabolic peripancreatic and periportal lymph nodes
+T50	PROBLEM 1972 1992	metastatic 
+ disease
+T51	TREATMENT 1997 2041	Interval placement of common bile duct stent
+T52	PROBLEM 2071 2116	moderate intrahepatic biliary ductal dilation
+T53	PROBLEM 2137 2157	Mild hypermetabolism
+T54	PROBLEM 2241 2291	Left mid kidney 1.3 cm intermediate density lesion
+T55	PROBLEM 2327 2345	a hemorrhagic cyst
+T56	PROBLEM 2353 2369	solid renal mass
+T57	Radiology 2456 2460	ERCP
+T58	PROBLEM 2469 2533	high grade obstruction of the intrapancreatic portion of the CBD
+T59	PROBLEM 2539 2556	proximal dilation
+T60	TREATMENT 2558 2571	A metal stent
+T61	PROBLEM 2590 2603	the stricture
+T62	PROBLEM 2634 2647	the stricture
+T63	PROBLEM 2653 2673	proximal pneumobilia
+T64	TREATMENT 2693 2704	Gemcitabine
+T65	Radiology 2717 2723	CT CAP
+T66	PROBLEM 2732 2759	stable disease in the liver
+T67	PROBLEM 2779 2797	metastatic disease
+T68	PROBLEM 2889 2913	potential dental abscess
+T69	PROBLEM 2973 2997	periodontal inflammation
+T70	PROBLEM 3002 3015	a deep pocket
+T71	PROBLEM 3032 3057	her last left lower molar
+T72	PROBLEM 3074 3091	a chronic problem
+T73	MedicationName 3137 3150	chlorhexidine
+T74	TREATMENT 3179 3198	chlorhexidine rinse
+T75	PROBLEM 3207 3216	infection
+T76	TREATMENT 3248 3260	chemotherapy
+T77	TEST 3275 3277	CT
+T78	PROBLEM 3290 3317	ill-defined pancreatic mass
+T79	TREATMENT 3358 3375	switching regimen
+T80	PROBLEM 3452 3469	more gum bleeding
+T81	TEST 3471 3487	Her energy level
+T82	TREATMENT 3649 3669	small frequent meals
+T83	PROBLEM 3935 3955	Allergies  Allergies
+T84	PROBLEM 4032 4047	Known Allergies
+T85	TREATMENT 4054 4073	Current Medications
+T86	TREATMENT 4094 4118	Medications   Medication
+T87	TREATMENT 4143 4181	acetaminophen (TYLENOL EXTRA STRENGTH)
+T88	PROBLEM 4251 4255	Pain
+T89	TREATMENT 4263 4284	bimatoprost (LUMIGAN)
+T90	TREATMENT 4344 4361	calcium-vitamin D
+T91	TREATMENT 4436 4451	cholecalciferol
+T92	TREATMENT 4453 4477	vitamin D3, (VITAMIN D3)
+T93	TREATMENT 4531 4552	dorzolamide (TRUSOPT)
+T94	TREATMENT 4632 4656	multivitamin (THERAGRAN)
+T95	TREATMENT 4700 4729	polyethylene glycol (MIRALAX)
+T96	PROBLEM 4798 4810	constipation
+T97	TREATMENT 4825 4853	prochlorperazine (COMPAZINE)
+T98	PROBLEM 4920 4926	Nausea
+T99	TREATMENT 4934 4949	senna (SENOKOT)
+T100	TREATMENT 5000 5017	traMADol (ULTRAM)
+T101	TREATMENT 5099 5120	omeprazole (PRILOSEC)
+T102	TREATMENT 5297 5393	Medications   Medication Dose Route Frequency Provider Last Rate Last Dose    influenza vaccine
+T103	TREATMENT 5419 5456	FLUVAVAL, FLUZONE, FLUARIX) injection
+T104	TEST 5546 5552	Vitals
+T105	TEST 5573 5575	BP
+T106	PROBLEM 5597 5611	blurred vision
+T107	PROBLEM 5613 5621	headache
+T108	PROBLEM 5625 5634	dizzyness
+T109	TEST 5638 5643	Pulse
+T110	TEST 5650 5654	Resp
+T111	TEST 5661 5665	Temp
+T112	TEST 5672 5673	C
+T113	TEST 5685 5692	TempSrc
+T114	TEST 5694 5709	Temporal   SpO2
+T115	TEST 5717 5723	Weight
+T116	TEST 5750 5756	Height
+T117	TEST 5820 5829	Repeat BP
+T118	TEST 5838 5842	ECOG
+T119	PROBLEM 5867 5878	Symptomatic
+T120	PROBLEM 5942 5956	acute distress
+T121	PROBLEM 5967 5971	rash
+T122	PROBLEM 5973 5980	lesions
+T123	PROBLEM 5982 5993	diaphoresis
+T124	PROBLEM 5998 6006	jaundice
+T125	PROBLEM 6028 6044	anicteric sclera
+T126	PROBLEM 6053 6067	Poor dentition
+T127	PROBLEM 6075 6087	gum bleeding
+T128	PROBLEM 6138 6146	exudates
+T129	PROBLEM 6150 6156	thrush
+T130	PROBLEM 6174 6215	cervical, supraclavicular lymphadenopathy
+T131	TEST 6253 6265	auscultation
+T132	PROBLEM 6282 6289	wheezes
+T133	PROBLEM 6291 6296	rales
+T134	PROBLEM 6300 6307	rhonchi
+T135	PROBLEM 6355 6362	murmurs
+T136	PROBLEM 6364 6368	rubs
+T137	PROBLEM 6373 6380	gallops
+T138	PROBLEM 6388 6401	Non-distended
+T139	PROBLEM 6433 6443	tenderness
+T140	TEST 6447 6456	palpation
+T141	PROBLEM 6461 6473	hepatomegaly
+T142	PROBLEM 6508 6562	point tenderness at cervical, thoracic or lumbar spine
+T143	PROBLEM 6580 6589	BLE edema
+T144	PROBLEM 6593 6601	cyanosis
+T145	TEST 6821 6841	Alkaline Phosphatase
+T146	TEST 6870 6890	Alkaline Phosphatase
+T147	TEST 6902 6917	U/L   Bilirubin
+T148	TEST 6919 6933	Total   Result
+T149	TEST 6944 6949	Range
+T150	TEST 6953 6962	Bilirubin
+T151	TEST 6964 6969	Total
+T152	TEST 6992 7012	Alanine Transaminase
+T153	TEST 7022 7027	Value
+T154	TEST 7028 7031	Ref
+T155	TEST 7032 7037	Range
+T156	TEST 7041 7048	Alanine
+T157	TEST 7049 7061	transaminase
+T158	TEST 7079 7101	Aspartate Transaminase
+T159	TEST 7111 7116	Value
+T160	TEST 7117 7120	Ref
+T161	TEST 7121 7126	Range
+T162	TEST 7130 7139	Aspartate
+T163	TEST 7140 7152	transaminase
+T164	TEST 7170 7180	Creatinine
+T165	TEST 7182 7187	Serum
+T166	TEST 7190 7205	Plasma   Result
+T167	TEST 7206 7211	Value
+T168	TEST 7212 7215	Ref
+T169	TEST 7216 7221	Range
+T170	TEST 7225 7235	Creatinine
+T171	TEST 7262 7266	eGFR
+T172	TEST 7270 7281	non-African
+T173	TEST 7304 7308	eGFR
+T174	TEST 7312 7319	African
+T175	TEST 7320 7324	Amer
+T176	TEST 7347 7358	Blood Count
+T177	TEST 7364 7376	Differential
+T178	TEST 7386 7391	Value
+T179	TEST 7392 7395	Ref
+T180	TEST 7396 7401	Range
+T181	TEST 7405 7408	WBC
+T182	TEST 7409 7414	Count
+T183	TEST 7428 7433	x10E9
+T184	TEST 7439 7448	RBC Count
+T185	TEST 7476 7486	Hemoglobin
+T186	TEST 7504 7508	g/dL
+T187	TEST 7512 7522	Hematocrit
+T188	TEST 7541 7544	MCV
+T189	TEST 7563 7566	MCH
+T190	TEST 7580 7582	pg
+T191	TEST 7586 7590	MCHC
+T192	TEST 7604 7608	g/dL
+T193	TEST 7612 7626	Platelet Count
+T194	TEST 7641 7646	x10E9
+T195	TEST 7652 7662	Neutrophil
+T196	TEST 7663 7677	Absolute Count
+T197	TEST 7693 7698	x10E9
+T198	TEST 7704 7718	Lymphocyte Abs
+T199	TEST 7719 7722	Cnt
+T200	TEST 7729 7730	H
+T201	TEST 7742 7747	x10E9
+T202	TEST 7753 7765	Monocyte Abs
+T203	TEST 7766 7771	Count
+T204	TEST 7778 7779	H
+T205	TEST 7791 7796	x10E9
+T206	TEST 7802 7816	Eosinophil Abs
+T207	TEST 7817 7819	Ct
+T208	TEST 7837 7842	x10E9
+T209	TEST 7848 7860	Basophil Abs
+T210	TEST 7861 7866	Count
+T211	TEST 7893 7901	Imm Gran
+T212	TEST 7903 7913	Left Shift
+T213	TEST 7936 7977	Imaging  Ct Abdomen /pelvis With Contrast
+T214	TEST 8006 8037	CT ABDOMEN/PELVIS WITH CONTRAST
+T215	PROBLEM 8091 8108	pancreatic cancer
+T216	TREATMENT 8122 8131	treatment
+T217	TEST 8139 8153	restaging scan
+T218	TEST 8167 8184	CT abdomen pelvis
+T219	TEST 8264 8307	contiguous 1.25-mm collimation axial images
+T220	TEST 8354 8384	Coronal and sagittal reformats
+T221	TEST 8443 8457	chest findings
+T222	TEST 8506 8525	the CT of the chest
+T223	PROBLEM 8552 8595	Mild intrahepatic biliary ductal dilatation
+T224	PROBLEM 8600 8611	pneumobilia
+T225	TREATMENT 8656 8669	biliary stent
+T226	PROBLEM 8754 8782	pancreatic ductal dilatation
+T227	PROBLEM 8859 8886	Ill-defined pancreatic mass
+T228	PROBLEM 8929 8998	bilobed hypoattenuating cystic lesion in the anterior pancreatic head
+T229	PROBLEM 9034 9051	a sidebranch IPMN
+T230	PROBLEM 9136 9186	left kidney interpolar exophytic 1.1 x 1 cm lesion
+T231	PROBLEM 9196 9205	hypodense
+T232	TEST 9209 9228	noncontrast imaging
+T233	TEST 9251 9270	postcontrast images
+T234	PROBLEM 9293 9327	Right kidney interpole simple cyst
+T235	PROBLEM 9374 9409	Diverticulosis of the sigmoid colon
+T236	PROBLEM 9440 9512	mildly prominent subcentimeter periportal and peripancreatic lymph nodes
+T237	PROBLEM 9551 9566	Lymphadenopathy
+T238	PROBLEM 9587 9614	Unchanged pelvic free fluid
+T239	PROBLEM 9683 9701	suspicious lesions
+T240	PROBLEM 9702 9730	Extraperitoneal soft tissues
+T241	TREATMENT 9732 9757	Unremarkable Lines/drains
+T242	TREATMENT 9758 9773	medical devices
+T243	TREATMENT 9775 9788	Biliary stent
+T244	TEST 9849 9860	CTDIvol Max
+T245	TEST 9871 9874	DLP
+T246	PROBLEM 10003 10034	the ill-defined pancreatic mass
+T247	TREATMENT 10072 10081	treatment
+T248	PROBLEM 10083 10128	Interval decrease in pancreatic duct dilation
+T249	PROBLEM 10145 10163	metastatic disease
+T250	PROBLEM 10168 10202	1.1 cm left renal enhancing lesion
+T251	PROBLEM 10218 10238	renal cell carcinoma
+T252	TEST 10344 10374	Biomedical Imaging    Ct Chest
+T253	TEST 10417 10419	CT
+T254	PROBLEM 10467 10484	pancreatic cancer
+T255	TREATMENT 10498 10507	treatment
+T256	TEST 10515 10529	restaging scan
+T257	PROBLEM 10538 10555	pancreatic cancer
+T258	TREATMENT 10569 10578	treatment
+T259	TEST 10586 10600	restaging scan
+T260	TEST 10613 10628	Multiple priors
+T261	TEST 10667 10712	Serial 1.25 mm axial images through the chest
+T262	TREATMENT 10755 10775	intravenous contrast
+T263	TEST 10847 10858	CTDIvol Max
+T264	TEST 10869 10872	DLP
+T265	PROBLEM 10987 11003	new lung nodules
+T266	PROBLEM 11005 11043	A few scattered sub-3 mm solid nodules
+T267	TEST 11070 11092	multiple remote priors
+T268	PROBLEM 11094 11156	16mm mixed solid and groundglass nodule in the left upper lobe
+T269	PROBLEM 11184 11212	a 3 mm soft tissue component
+T270	PROBLEM 11218 11250	adjacent 7 mm groundglass nodule
+T271	PROBLEM 11346 11375	intrathoracic lymphadenopathy
+T272	PROBLEM 11398 11418	Unchanged heart size
+T273	PROBLEM 11423 11443	pericardial effusion
+T274	PROBLEM 11527 11571	new bone or soft tissue lesions in the chest
+T275	TEST 11601 11632	dedicated Abdomen and Pelvis CT
+T276	PROBLEM 11651 11663	new findings
+T277	PROBLEM 11675 11707	intrathoracic metastatic disease
+T278	PROBLEM 11712 11748	2 subsolid left 
+ upper lobe nodules
+T279	PROBLEM 11766 11801	primary lung adenocarcinoma lesions
+T280	PROBLEM 11827 11845	The largest nodule
+T281	PROBLEM 11860 11882	a 3 mm solid component
+T282	ClinicalCondition 12026 12049	Pancreatic cancer (HCC)
+T283	PROBLEM 12136 12145	Stage IIB
+T284	ClinicalCondition 12397 12422	pancreatic adenocarcinoma
+T285	ClinicalCondition 12443 12456	comorbidities
+T286	TreatmentType 12500 12518	surgical resection
+T287	TREATMENT 12546 12555	treatment
+T288	TreatmentType 12573 12589	systemic therapy
+T289	PROBLEM 12612 12635	palliating any symptoms
+T290	TREATMENT 12774 12788	this treatment
+T291	TREATMENT 12842 12878	dose reduced gemcitabine monotherapy
+T292	PROBLEM 12990 13014	potential dental abscess
+T293	TreatmentType 13082 13094	chemotherapy
+T294	TEST 13107 13116	Her scans
+T295	PROBLEM 13150 13181	the ill-defined pancreatic mass
+T296	TreatmentType 13219 13228	treatment
+T297	PROBLEM 13230 13275	Interval decrease in pancreatic duct dilation
+T299	PROBLEM 13331 13367	a 1.1 cm left renal enhancing lesion
+T300	PROBLEM 13383 13403	renal cell carcinoma
+T301	PROBLEM 13405 13439	2 subsolid left upper lobe nodules
+T302	PROBLEM 13457 13492	primary lung adenocarcinoma lesions
+T303	PROBLEM 13494 13512	The largest nodule
+T304	PROBLEM 13527 13549	a 3 mm solid component
+T305	TEST 13577 13588	these scans
+T306	PROBLEM 13679 13700	the pancreatic cancer
+T307	PROBLEM 13763 13779	the renal lesion
+T308	PROBLEM 13784 13801	pulmonary nodules
+T309	TREATMENT 13836 13859	gemcitabine monotherapy
+T310	TREATMENT 13882 13907	alternating week schedule
+T311	TEST 13960 13982	monthly CA 19-9 levels
+T312	TEST 13987 14017	restaging CT cap with contrast
+T313	TEST 14080 14085	scans
+T314	ClinicalCondition 14121 14134	Left gum pain
+T315	Symptom 14139 14147	bleeding
+T316	ClinicalCondition 14186 14195	infection
+T317	TEST 14240 14260	continued monitoring
+T318	MedicationName 14280 14300	chlorhexidine rinses
+T319	MedicationName 14327 14344	Influenza vaccine
+T320	MedicationName 14438 14446	sennokot
+T321	MedicationName 14529 14540	antiemetics
+T322	PROBLEM 14765 14781	any new symptoms
+T323	PROBLEM 14974 14986	the symptoms
+T324	TREATMENT 14988 15002	treatment plan
+T325	Age 476 478	86
+T327	Histology 617 631	adenocarcinoma
+T328	Symptom 695 712	painless jaundice
+A3	IsPresentOnFirstCancerDiagnosis T328 yes
+A4	IsCausedByDiagnosedCancer T328 yes
+A5	ChronicVal T328 non-chronic
+A6	ContinuityVal T328 new
+T329	Symptom 722 733	weight loss
+A7	IsPresentOnFirstCancerDiagnosis T329 yes
+A8	IsCausedByDiagnosedCancer T329 yes
+A9	ChronicVal T329 non-chronic
+A10	ContinuityVal T329 new
+T330	Radiology 849 866	CT abdomen/pelvis
+A11	IntentVal T330 diagnosis
+T331	Radiology 1110 1119	CTA chest
+A12	IntentVal T331 diagnosis
+A14	IntentVal T57 diagnosis
+A1	ChronicVal T10 non-chronic
+A2	IntentVal T26 diagnosis
+A16	TreatmentTypeVal T26 others
+A17	TreatmentCategory T26 Others
+A18	IsTumorRemaining T26 yes
+T326	ProcedureName 1234 1262	Placement of a pigtail stent
+A19	IntentVal T326 others
+A20	TreatmentTypeVal T326 others
+A21	TreatmentCategory T326 Others
+A22	IsTumorRemaining T326 yes
+T334	ProcedureName 1265 1274	Brushings
+A23	IntentVal T334 diagnosis
+A24	TreatmentTypeVal T334 others
+A25	TreatmentCategory T334 Others
+A26	IsTumorRemaining T334 yes
+T335	Datetime 839 847	12/02/18
+T336	RadPathResult 887 905	biliary dilatation
+A27	RadPathResultVal T336 Others
+T337	RadPathResult 922 938	transition point
+A28	RadPathResultVal T337 Others
+T338	RadPathResult 970 974	mass
+A29	RadPathResultVal T338 Others
+T339	Site 868 886	intra/extrahepatic
+T340	Site 946 961	pancreatic head
+T341	Site 982 997	pancreatic head
+T342	Site 1003 1013	periportal
+T343	LymphNodeInvolvement 1014 1024	lymph node
+A30	NegationModalityVal T343 uncertain_in_present
+R1	SiteOf Arg1:T342 Arg2:T343	
+R2	SiteOf Arg1:T341 Arg2:T338	
+R3	SiteOf Arg1:T340 Arg2:T337	
+R4	SiteOf Arg1:T339 Arg2:T336	
+R5	HappensAtOnDuring Arg1:T335 Arg2:T330	
+R6	ResultOfTest Desc:T336 Test:T330	
+R7	ResultOfTest Desc:T337 Test:T330	
+R8	ResultOfTest Desc:T338 Test:T330	
+R9	TestOrProcedureReveals Test:T330 Desc:T343	
+T344	Datetime 1027 1035	12/12/18
+T345	Datetime 1149 1157	12/13/18
+T346	Datetime 2398 2406	01/31/19
+T333	SectionSkip 1576 1982;1985 2394	PET/CT: 1. Focal area of hypermetabolism in the pancreatic head/neck and upstream pancreatic ductal dilation with parenchymal atrophy suggestive of primary pancreatic malignancy. Primary mass is not definitely visualized, though a possible hypodense lesion corresponding to this area of hypermetabolism measures 1.1 cm.  2. Hypermetabolic peripancreatic and periportal lymph nodes concerning for metastatic disease. 3. Interval placement of common bile duct stent with interval improvement in moderate intrahepatic biliary ductal dilation, previously severe. Mild hypermetabolism surrounding the common bile duct may be postprocedural. Attention on follow-up. 4. Left mid kidney 1.3 cm intermediate density lesion is indeterminate and may represent a hemorrhagic cyst versus solid renal mass. Attention on follow-up.
+A15	SectionSkipType T333 radiology_report
+A13	NegationModalityVal T25 negated
+R10	ResultOfTest Desc:T25 Test:T331	
+T332	Site 907 910	CBD
+T347	Size 911 915	22mm
+R11	SiteOf Arg1:T332 Arg2:T347	
+T348	Datetime 638 651	November 2018
+R12	HappensAtOnDuring Arg1:T348 Arg2:T328	
+R13	HappensAtOnDuring Arg1:T348 Arg2:T329	
+T349	Symptom 1037 1047	syncopized
+A31	IsPresentOnFirstCancerDiagnosis T349 no
+A32	IsCausedByDiagnosedCancer T349 no
+A33	ChronicVal T349 non-chronic
+A34	ContinuityVal T349 new
+R14	HappensAtOnDuring Arg1:T344 Arg2:T349	
+T350	ProcedureName 1082 1086	ERCP
+A35	NegationModalityVal T350 negated
+A36	IntentVal T350 others
+A37	TreatmentTypeVal T350 others
+A38	TreatmentCategory T350 Others
+R15	NotUndergoneBecauseOf Arg1:T350 Reason:T349	
+R16	HappensAtOnDuring Arg1:T345 Arg2:T26	
+T351	RadPathResult 1185 1207	high grade obstruction
+A39	RadPathResultVal T351 Others
+T352	Site 1215 1231	distal bile duct
+R17	SiteOf Arg1:T352 Arg2:T351	
+R18	ResultOfTest Desc:T351 Test:T26	
+R19	ResultOfTest Desc:T351 Test:T326	
+T353	ClinicalCondition 1276 1301	pancreatic adenocarcinoma
+A40	ChronicVal T353 non-chronic
+T354	Histology 1287 1301	adenocarcinoma
+A41	EpisodeDescription T354 FirstOccurrence
+R20	TumorDesc TumorDetails:T354 Desc:T353	
+R21	TestOrProcedureReveals Test:T334 Desc:T353	
+T355	Pathology 1306 1317	MMR testing
+A42	NegationModalityVal T355 negated
+T356	Datetime 1336 1347	December 16
+A43	TreatmentContinuityVal T34 finished
+A44	TreatmentTypeVal T34 others
+A45	TreatmentIntentVal T34 others
+A46	TreatmentCategory T34 Supportive
+A47	ChronicVal T35 non-chronic
+A48	ContinuityVal T35 new
+R22	TreatmentAdministeredForProblem Treatment:T34 Prob:T35	
+R23	HappensAtOnDuring Arg1:T356 Arg2:T34	
+T357	Datetime 1404 1412	12/22/18
+A49	IsPresentOnFirstCancerDiagnosis T36 no
+A50	IsCausedByDiagnosedCancer T36 no
+A51	ChronicVal T36 non-chronic
+A52	ContinuityVal T36 stable
+A53	ChronicVal T37 non-chronic
+A54	ContinuityVal T37 stable
+R24	ConditionOrTreatmentCausesProblem Treatment:T37 Prob:T36	
+R25	HappensAtOnDuring Arg1:T357 Arg2:T36	
+A55	TreatmentContinuityVal T38 finished
+A56	TreatmentTypeVal T38 others
+A57	TreatmentIntentVal T38 others
+A58	TreatmentCategory T38 Supportive
+R26	TreatmentAdministeredForProblem Treatment:T38 Prob:T36	
+T360	Datetime 2446 2454	03/08/19
+R27	HappensAtOnDuring Arg1:T360 Arg2:T57	
+T361	RadPathResult 2469 2491	high grade obstruction
+A59	RadPathResultVal T361 Others
+T362	Site 2499 2533	intrapancreatic portion of the CBD
+T363	RadPathResult 2539 2556	proximal dilation
+A60	RadPathResultVal T363 Others
+R28	SiteOf Arg1:T362 Arg2:T361	
+R29	SiteOf Arg1:T362 Arg2:T363	
+R30	ResultOfTest Desc:T361 Test:T57	
+T364	ProcedureName 2560 2582	metal stent was placed
+A61	IntentVal T364 others
+A62	TreatmentTypeVal T364 others
+A63	TreatmentCategory T364 Others
+T366	ClinicalCondition 2653 2673	proximal pneumobilia
+T365	ClinicalCondition 2590 2603	the stricture
+A64	ChronicVal T365 non-chronic
+A65	ChronicVal T366 non-chronic
+R31	TestOrProcedureConductedForProblem Test:T364 Prob:T365	
+R32	TestOrProcedureConductedForProblem Test:T364 Prob:T366	
+R33	TestOrProcedureReveals Test:T57 Desc:T365	
+R34	TestOrProcedureReveals Test:T57 Desc:T366	
+T367	ClinicalCondition 2634 2647	the stricture
+A66	ChronicVal T367 non-chronic
+T368	Cycles 2688 2692	C1D1
+T369	Cycles 2809 2813	C1D8
+T370	Cycles 2826 2831	C1D15
+T371	Cycles 2843 2847	C2D1
+T372	Cycles 2858 2862	C2D8
+T374	Datetime 2678 2686	03/09/19
+T375	Datetime 2707 2715	03/13/19
+T376	Datetime 2799 2807	03/28/19
+T377	Datetime 2815 2823	04/04/19
+T378	Datetime 2833 2841	04/18/19
+T379	Datetime 2848 2856	04/25/19
+T380	Datetime 2915 2923	04/26/19
+T381	Datetime 3265 3273	05/08/19
+T373	MedicationName 2693 2704	Gemcitabine
+A71	IntentVal T65 TreatmentAssessment
+T382	DiseaseState 2732 2759	stable disease in the liver
+A72	DiseaseStateVal T382 stability
+T383	Metastasis 2779 2797	metastatic disease
+A73	NegationModalityVal T383 negated
+R35	TestOrProcedureReveals Test:T65 Desc:T382	
+R36	TestOrProcedureReveals Test:T65 Desc:T383	
+R37	HappensAtOnDuring Arg1:T376 Arg2:T369	
+R38	HappensAtOnDuring Arg1:T377 Arg2:T370	
+R39	HappensAtOnDuring Arg1:T378 Arg2:T371	
+R40	HappensAtOnDuring Arg1:T379 Arg2:T372	
+R41	TreatmentDesc Therapy:T373 Desc:T369	
+R42	TreatmentDesc Therapy:T373 Desc:T370	
+R43	TreatmentDesc Therapy:T373 Desc:T368	
+R44	HappensAtOnDuring Arg1:T374 Arg2:T368	
+R45	TreatmentDesc Therapy:T373 Desc:T371	
+R46	TreatmentDesc Therapy:T373 Desc:T372	
+A74	NegationModalityVal T372 negated
+T384	ClinicalCondition 2899 2913	dental abscess
+A75	NegationModalityVal T384 uncertain_in_present
+A76	ChronicVal T384 non-chronic
+A77	ContinuityVal T384 new
+R47	ExclusionCriteriaFor Arg1:T384 Arg2:T373	
+R48	NotUndergoneBecauseOf Arg1:T373 Reason:T384	
+T385	ClinicalCondition 2973 2997;3004 3015	periodontal inflammation deep pocket
+A78	ChronicVal T385 chronic
+A79	ContinuityVal T385 worsening
+T386	Site 3036 3040;3046 3057	last lower molar
+T387	Laterality 3041 3045	left
+R49	LateralityOfSite Arg1:T387 Arg2:T386	
+R50	SiteOf Arg1:T386 Arg2:T385	
+R51	HappensAtOnDuring Arg1:T380 Arg2:T385	
+T388	ProcedureName 3101 3131	Tooth was irrigated and rinsed
+A80	IntentVal T388 others
+A81	TreatmentTypeVal T388 others
+A82	TreatmentCategory T388 Others
+A83	TreatmentContinuityVal T73 continuing
+A84	TreatmentTypeVal T73 others
+A85	TreatmentIntentVal T73 others
+A86	TreatmentCategory T73 Others
+R52	TestOrProcedureConductedForProblem Test:T388 Prob:T385	
+R53	TreatmentAdministeredForProblem Treatment:T73 Prob:T385	
+T389	MedicationName 3179 3198	chlorhexidine rinse
+A87	TreatmentContinuityVal T389 continuing
+A88	TreatmentTypeVal T389 others
+A89	TreatmentIntentVal T389 others
+A90	TreatmentCategory T389 Others
+T390	Frequency 3199 3202	BID
+R54	Temporal Arg1:T390 Arg2:T389	
+T391	ClinicalCondition 3207 3216	infection
+A91	NegationModalityVal T391 negated
+A92	ChronicVal T391 non-chronic
+T392	TreatmentType 3248 3260	chemotherapy
+A93	TreatmentContinuityVal T392 continuing
+A94	TreatmentTypeVal T392 neoadjuvant
+A95	TreatmentIntentVal T392 curative
+R55	InclusionCriteriaFor Arg1:T391 Arg2:T392	
+T393	Radiology 3275 3281	CT CAP
+A96	IntentVal T393 TreatmentAssessment
+R56	HappensAtOnDuring Arg1:T381 Arg2:T393	
+T394	RadPathResult 3290 3301;3313 3317	ill-defined mass
+A97	RadPathResultVal T394 TreatmentResponse
+T395	Site 3302 3312	pancreatic
+R57	SiteOf Arg1:T395 Arg2:T394	
+T396	TreatmentDoseModification 3358 3375	switching regimen
+T397	Frequency 3385 3402	alternating weeks
+R58	Temporal Arg1:T397 Arg2:T396	
+R59	TreatmentDesc Therapy:T396 Desc:T373	
+T398	Symptom 3457 3469	gum bleeding
+A98	IsPresentOnFirstCancerDiagnosis T398 unclear
+A99	IsCausedByDiagnosedCancer T398 no
+A100	ChronicVal T398 non-chronic
+A101	ContinuityVal T398 stopped
+T399	Symptom 3475 3487	energy level
+A102	IsPresentOnFirstCancerDiagnosis T399 unclear
+A103	IsCausedByDiagnosedCancer T399 unclear
+A104	ChronicVal T399 non-chronic
+A105	ContinuityVal T399 stable
+T400	Symptom 3503 3511	appetite
+A106	IsPresentOnFirstCancerDiagnosis T400 unclear
+A107	IsCausedByDiagnosedCancer T400 unclear
+A108	ChronicVal T400 non-chronic
+A109	ContinuityVal T400 stable
+T401	Symptom 3537 3543	eating
+A110	IsPresentOnFirstCancerDiagnosis T401 unclear
+A111	IsCausedByDiagnosedCancer T401 unclear
+A112	ChronicVal T401 non-chronic
+A113	ContinuityVal T401 worsening
+T402	Symptom 3563 3569	weight
+A114	IsPresentOnFirstCancerDiagnosis T402 unclear
+A115	IsCausedByDiagnosedCancer T402 unclear
+A116	ChronicVal T402 non-chronic
+A117	ContinuityVal T402 worsening
+T403	SectionSkip 5530 5879;5882 6711	Vital Signs:    Vitals:    05/12/19 0927   BP: 150/90  Comment: no blurred vision, headache or dizzyness.   Pulse: 94   Resp: 16   Temp: 36.8 C (98.2 F)   TempSrc: Temporal   SpO2: 99%   Weight: 40.5 kg (89 lb 3.2 oz)   Height: 155.9 cm (5' 1.38")  Comment: March 2019@*****   PainSc:  0   Repeat BP 136/68  ECOG Performance Status: 2 - Symptomatic, <50% confined to bed    Constitutional:  Well-developed, no acute distress  Skin: No rash, lesions, diaphoresis, or jaundice.  Eyes: PERRL, EOMI, anicteric sclera.  HENT: Poor dentition but no gum bleeding. Moist mucous membranes, oropharynx clear without exudates or thrush  Lymph Nodes: no cervical, supraclavicular lymphadenopathy  Respiratory:  Good effort, clear to auscultation bilaterally; no wheezes, rales or rhonchi.  Cardiovascular:  Regular rate and rhythm; no murmurs, rubs, or gallops.  GI:  Non-distended, bowel sounds normal, soft, no tenderness to palpation; no hepatomegaly appreciated.  Musculoskeletal: No point tenderness at cervical, thoracic or lumbar spine  Extremities: No BLE edema or cyanosis  Neurologic:  Alert & oriented x 3, CN III-XII intact, ambulates w/o difficulty, December 12 BUE/BLE strength
+A118	SectionSkipType T403 physical_exam
+T404	SectionSkip 6715 7834;7837 7931	Diagnostic Data  Labs  Results for orders placed or performed during the hospital encounter of 05/02/19   Alkaline Phosphatase   Result Value Ref Range    Alkaline Phosphatase 68 31 - 95 U/L   Bilirubin, Total   Result Value Ref Range    Bilirubin, Total 0.9 0.2 - 1.3 mg/dL   Alanine Transaminase   Result Value Ref Range    Alanine transaminase 20 11 - 50 U/L   Aspartate Transaminase   Result Value Ref Range    Aspartate transaminase 25 17 - 42 U/L   Creatinine, Serum / Plasma   Result Value Ref Range    Creatinine 0.46 0.44 - 1.00 mg/dL    eGFR if non-African American 90 mL/min    eGFR if African Amer 104 mL/min   Complete Blood Count with Differential   Result Value Ref Range    WBC Count 9.1 3.4 - 10 x10E9/L    RBC Count 4.15 4.0 - 5.2 x10E12/L    Hemoglobin 13.0 12.0 - 15.5 g/dL    Hematocrit 37.5 36 - 46 %    MCV 90 80 - 100 fL    MCH 31.3 26 - 34 pg    MCHC 34.7 31 - 36 g/dL    Platelet Count 248 140 - 450 x10E9/L    Neutrophil Absolute Count 3.79 1.8 - 6.8 x10E9/L    Lymphocyte Abs Cnt 4.36 (H) 1.0 - 3.4 x10E9/L    Monocyte Abs Count 0.88 (H) 0.2 - 0.8 x10E9/L    Eosinophil Abs Ct 0.03 0.0 - 0.4 x10E9/L    Basophil Abs Count 0.03 0.0 - 0.1 x10E9/L    Imm Gran, Left Shift 0.02 <0.1 x10E9/L
+A119	SectionSkipType T404 laboratory
+T405	SectionSkip 7936 9791;9794 11727;11730 12006	Imaging  Ct Abdomen /pelvis With Contrast    Result Date: 05/08/2019  CT ABDOMEN/PELVIS WITH CONTRAST  *****/*****/***** 9:00 AM CLINICAL HISTORY: pt with pancreatic cancer currently on treatment. needs restaging scan COMPARISON:  CT abdomen pelvis 03/13/2019 TECHNIQUE: Following the administration of 150 cc of Omnipaque 350, contiguous 1.25-mm collimation axial images were obtained through the abdomen and pelvis. Coronal and sagittal reformats were also obtained. FINDINGS: Visualized lung bases:  For chest findings, please see the separately dictated report from the CT of the chest of the same date. Liver:  Mild intrahepatic biliary ductal dilatation and pneumobilia, stable. Gallbladder: Unchanged position of biliary stent. Gallbladder is unremarkable. Spleen:  Unremarkable Pancreas: Slight improvement in pancreatic ductal dilatation, currently measuring 9 mm (series 14 image 37), previously measuring 12 mm. Ill-defined pancreatic mass not clearly seen. Unchanged appearance of bilobed hypoattenuating cystic lesion in the anterior pancreatic head measuring 8 mm which can represent a sidebranch IPMN (series 14 image 50). Adrenal Glands:  Unremarkable Kidneys:  Similar appearance of left kidney interpolar exophytic 1.1 x 1 cm lesion which is hypodense on noncontrast imaging and hyperenhancing on postcontrast images (series 14 image 31). Right kidney interpole simple cyst measuring 1.5 x 1.1 cm, unchanged. GI Tract:  Diverticulosis of the sigmoid colon. Vasculature:  Stable in size mildly prominent subcentimeter periportal and peripancreatic lymph nodes measuring up to 0.7 cm in short axis. Lymphadenopathy: Absent Peritoneum: Unchanged pelvic free fluid. Bladder: Unremarkable Reproductive organs: Unremarkable Bones:  No suspicious lesions Extraperitoneal soft tissues: Unremarkable Lines/drains/medical devices: Biliary stent as above. RADIATION DOSE INDICATORS: Exposure Events: 7 , CTDIvol Max: 5.1 mGy, DLP: 628.9 mGy.cm. The following accession numbers are related to this dose report *****,*****,*****     1. Compared to 03/13/2019, the ill-defined pancreatic mass is no longer seen, likely related to treatment. Interval decrease in pancreatic duct dilation. No evidence of metastatic disease. 2. 1.1 cm left renal enhancing lesion concerning for renal cell carcinoma. Report dictated by: ***** *****, MD, signed by: ***** *****-***** *****, MD Department of Radiology and Biomedical Imaging    Ct Chest With Contrast    Result Date: 05/08/2019  CT CHEST WITH CONTRAST CLINICAL HISTORY:  pt with pancreatic cancer currently on treatment. needs restaging scan pt with pancreatic cancer currently on treatment. needs restaging scan COMPARISON: Multiple priors, most recent of 12/26/2018 TECHNIQUE: Serial 1.25 mm axial images through the chest were obtained after the administration of intravenous contrast. RADIATION DOSE INDICATORS: Exposure Events: 7 , CTDIvol Min: 3.5 mGy, CTDIvol Max: 9.3 mGy, DLP: 628.9 mGy.cm. The following accession numbers are related to this dose report *****,*****,***** *****: LUNGS: No new lung nodules. A few scattered sub-3 mm solid nodules are unchanged compared to multiple remote priors. 16mm mixed solid and groundglass nodule in the left upper lobe (image 84, series 20) with a 3 mm soft tissue component, and adjacent 7 mm groundglass nodule in the left upper lobe (image 81) are unchanged. PLEURA: The pleura is normal. MEDIASTINUM: No intrathoracic lymphadenopathy. HEART/GREAT VESSELS: Unchanged heart size. No pericardial effusion. Thoracic aorta and pulmonary artery are unchanged caliber. BONES/SOFT TISSUES: No new bone or soft tissue lesions in the chest. VISIBLE ABDOMEN: Please see dedicated Abdomen and Pelvis CT report.     1. No new findings to suggest intrathoracic metastatic disease. 2. 2 subsolid left upper lobe nodules likely represent primary lung adenocarcinoma lesions as previously described. The largest nodule is 16 mm with a 3 mm solid component. Report dictated by: ***** ***** *****, MD, signed by: ***** ***** *****, MD Department of Radiology and Biomedical Imaging
+A120	SectionSkipType T405 radiology_report
+A121	ChronicVal T282 non-chronic
+A122	ContinuityVal T282 stable
+T406	Stage 12142 12145	IIB
+A123	EpisodeDescription T406 FirstOccurrence
+T407	TNM 12147 12161	cT1c, cN1, cM0
+A124	EpisodeDescription T407 FirstOccurrence
+T408	Age 12256 12258	86
+A125	ChronicVal T284 non-chronic
+A126	ContinuityVal T284 stable
+A67	ChronicVal T373 non-chronic
+A68	ContinuityVal T373 stable
+A69	TreatmentContinuityVal T373 continuing
+A70	TreatmentTypeVal T373 maintenance
+A127	TreatmentIntentVal T373 palliative
+A128	TreatmentCategory T373 AntiNeoPlastics
+T409	PatientCharacteristics 12438 12441	age
+A129	ChronicVal T285 chronic
+A130	ContinuityVal T285 stable
+A131	TreatmentTypeVal T286 local
+A132	TreatmentIntentVal T286 curative
+R60	ExclusionCriteriaFor Arg1:T285 Arg2:T286	
+R61	ExclusionCriteriaFor Arg1:T409 Arg2:T286	
+A133	TreatmentTypeVal T288 maintenance
+A134	TreatmentIntentVal T288 palliative
+T410	MedicationRegimen 12855 12878	gemcitabine monotherapy
+A135	TreatmentContinuityVal T410 continuing
+A136	TreatmentTypeVal T410 maintenance
+A137	TreatmentIntentVal T410 palliative
+T411	TreatmentDoseModification 12842 12854	dose reduced
+R62	TreatmentDesc Therapy:T411 Desc:T410	
+T412	Datetime 12882 12891	03/09/19.
+R63	BeginsOnOrAt Arg1:T412 Arg2:T410	
+T413	ClinicalCondition 13000 13014	dental abscess
+A138	ChronicVal T413 non-chronic
+A139	ContinuityVal T413 stopped
+R64	ExclusionCriteriaFor Arg1:T413 Arg2:T410	
+A140	TreatmentContinuityVal T293 continuing
+A141	TreatmentTypeVal T293 maintenance
+A142	TreatmentIntentVal T293 palliative
+T414	Radiology 13111 13116	scans
+A143	IntentVal T414 TreatmentAssessment
+T415	Datetime 13129 13137	05/08/19
+R65	HappensAtOnDuring Arg1:T414 Arg2:T415	
+T416	RadPathResult 13154 13165;13177 13181	ill-defined mass
+A144	RadPathResultVal T416 TreatmentResponse
+T417	Site 13166 13176	pancreatic
+R66	SiteOf Arg1:T417 Arg2:T416	
+R67	ResultOfTest Desc:T416 Test:T414	
+T418	DiseaseState 13185 13199	no longer seen
+A145	DiseaseStateVal T418 others
+A146	TreatmentContinuityVal T296 continuing
+A147	TreatmentTypeVal T296 maintenance
+A148	TreatmentIntentVal T296 palliative
+T298	Metastasis 13292 13302	metastatic
+A149	NegationModalityVal T298 negated
+R68	TestOrProcedureReveals Test:T414 Desc:T298	
+T419	RadPathResult 13251 13275	pancreatic duct dilation
+A150	RadPathResultVal T419 Others
+R69	ResultOfTest Desc:T419 Test:T414	
+T420	Size 13333 13339	1.1 cm
+A151	EpisodeDescription T420 Others
+T421	RadPathResult 13351 13367	enhancing lesion
+A152	RadPathResultVal T421 Others
+T422	Site 13345 13350	renal
+T423	Laterality 13340 13344	left
+R70	LateralityOfSite Arg1:T423 Arg2:T422	
+R71	SiteOf Arg1:T422 Arg2:T421	
+T424	ClinicalCondition 13383 13403	renal cell carcinoma
+A153	NegationModalityVal T424 uncertain_in_present
+A154	ChronicVal T424 non-chronic
+R72	ResultOfTest Desc:T421 Test:T414	
+R73	TestOrProcedureReveals Test:T414 Desc:T424	
+T425	ClinicalCondition 13465 13484	lung adenocarcinoma
+A155	ChronicVal T425 non-chronic
+A156	ContinuityVal T425 unclear
+T426	ClinicalCondition 13683 13700	pancreatic cancer
+A157	ChronicVal T426 non-chronic
+A158	ContinuityVal T426 unclear
+T427	RadPathResult 13498 13512	largest nodule
+A159	RadPathResultVal T427 Others
+T428	RadPathResult 13432 13439	nodules
+A160	RadPathResultVal T428 Others
+T429	RadPathResult 13767 13779	renal lesion
+A161	RadPathResultVal T429 Others
+T430	RadPathResult 13784 13801	pulmonary nodules
+A162	RadPathResultVal T430 Others
+T431	Site 13421 13431	upper lobe
+T432	Laterality 13416 13420	left
+R74	LateralityOfSite Arg1:T432 Arg2:T431	
+R75	SiteOf Arg1:T431 Arg2:T428	
+R76	ResultOfTest Desc:T428 Test:T414	
+R77	TestOrProcedureReveals Test:T414 Desc:T425	
+A163	NegationModalityVal T425 uncertain_in_present
+T433	Size 13516 13521	16 mm
+A164	EpisodeDescription T433 Others
+T434	Size 13529 13533	3 mm
+A165	EpisodeDescription T434 Others
+R78	SizeOf Arg1:T433 Arg2:T427	
+T435	RadPathResult 13534 13549	solid component
+R79	SizeOf Arg1:T434 Arg2:T435	
+R80	ResultOfTest Desc:T427 Test:T414	
+R81	ResultOfTest Desc:T435 Test:T414	
+T436	MedicationRegimen 13836 13859	gemcitabine monotherapy
+A166	TreatmentContinuityVal T436 continuing
+A167	TreatmentTypeVal T436 maintenance
+A168	TreatmentIntentVal T436 palliative
+T437	TreatmentDoseModification 13882 13907	alternating week schedule
+R82	TreatmentDesc Therapy:T436 Desc:T437	
+T438	Symptom 13919 13931	tolerability
+A169	ContinuityVal T438 unclear
+R83	ConditionOrTreatmentCausesProblem Treatment:T436 Prob:T438	
+T439	DiagnosticLabTest 13968 13975	CA 19-9
+A170	NegationModalityVal T439 planned_in_future
+A171	IntentVal T439 TreatmentAssessment
+T440	Frequency 13960 13967	monthly
+R84	Temporal Arg1:T440 Arg2:T439	
+T441	Radiology 13997 14017	CT cap with contrast
+A172	IntentVal T441 TreatmentAssessment
+T442	Frequency 14018 14032	every 2 months
+A173	NegationModalityVal T441 planned_in_future
+R85	Temporal Arg1:T442 Arg2:T441	
+T443	Radiology 14080 14085	scans
+A174	NegationModalityVal T443 planned_in_future
+A175	IntentVal T443 TreatmentAssessment
+T444	Cycles 14104 14114	this cycle
+T445	Datetime 14098 14114	after this cycle
+R86	HappensAfter Arg1:T443 Arg2:T445	
+A177	ChronicVal T314 non-chronic
+A178	ContinuityVal T314 unclear
+A179	IsPresentOnFirstCancerDiagnosis T315 no
+A180	IsCausedByDiagnosedCancer T315 no
+A181	ChronicVal T315 non-chronic
+A182	ContinuityVal T315 stopped
+A183	NegationModalityVal T316 negated
+R87	ExclusionCriteriaFor Arg1:T316 Arg2:T436	
+A184	TreatmentContinuityVal T318 continuing
+A185	TreatmentTypeVal T318 others
+A186	TreatmentIntentVal T318 others
+A187	TreatmentCategory T318 Others
+R88	TreatmentAdministeredForProblem Treatment:T318 Prob:T314	
+R89	TreatmentAdministeredForProblem Treatment:T318 Prob:T315	
+R90	TreatmentAdministeredForProblem Treatment:T318 Prob:T316	
+A188	NegationModalityVal T319 planned_in_future
+A189	TreatmentTypeVal T319 others
+A190	TreatmentIntentVal T319 others
+A191	TreatmentCategory T319 Others
+A192	TreatmentContinuityVal T320 continuing
+A193	TreatmentIntentVal T320 others
+A194	TreatmentCategory T320 Supportive
+T446	Frequency 14447 14463	4 times per week
+R91	Temporal Arg1:T446 Arg2:T320	
+A195	TreatmentContinuityVal T321 continuing
+A196	TreatmentIntentVal T321 others
+A197	TreatmentCategory T321 Supportive
+T447	Datetime 14638 14646	05/16/19
+T449	Size 964 969	9x7mm
+R92	SizeOf Arg1:T449 Arg2:T338	
+R93	TestOrProcedureReveals Test:T330 Desc:T449	
+T450	Size 999 1002	8mm
+R94	SizeOf Arg1:T450 Arg2:T343	
+R95	HappensAtOnDuring Arg1:T65 Arg2:T375	
+T359	Datetime 12124 12134	02/02/2019
+R97	HappensAtOnDuring Arg1:T407 Arg2:T359	
+R96	HappensAtOnDuring Arg1:T406 Arg2:T359	
+T451	Histology 12408 12422	adenocarcinoma
+R98	SizeOf Arg1:T420 Arg2:T421	
+R99	TestOrProcedureReveals Test:T414 Desc:T420	
+R100	TestOrProcedureReveals Test:T414 Desc:T433	
+R101	TestOrProcedureReveals Test:T414 Desc:T434	
+R102	SiteOf Arg1:T332 Arg2:T336	
+R103	HappensAtOnDuring Arg1:T344 Arg2:T331	
+R104	SizeOf Arg1:T347 Arg2:T336	
+T448	ap_end 14855 14858	me.
+T452	ap_start 12208 12218	ASSESSMENT
+T453	Datetime 217 227	05/12/2019
+T454	hpi_start 414 421	Patient
+T455	ClinicalCondition 289 314	pancreatic adenocarcinoma
+A198	ChronicVal T455 non-chronic
+T358	hpi_end 1560 1563	8.0
+T456	Datetime 1566 1574	01/13/19
+T457	hpi_start 2398 2399	0
+T458	hpi_end 3664 3670	meals.
+R105	BeginsOnOrAt Arg1:T356 Arg2:T34	
+R106	EndsOnOrAt Arg1:T356 Arg2:T34	
+R107	HappensAtOnDuring Arg1:T357 Arg2:T38	
+R108	BeginsOnOrAt Arg1:T357 Arg2:T38	
+R109	EndsOnOrAt Arg1:T357 Arg2:T38	
+R110	BeginsOnOrAt Arg1:T380 Arg2:T73	
+R111	EndsOnOrAt Arg1:T380 Arg2:T73	
+R112	HappensAtOnDuring Arg1:T380 Arg2:T73	
+R113	BeginsOnOrAt Arg1:T380 Arg2:T389	

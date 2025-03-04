@@ -1,0 +1,684 @@
+T1	SectionAnnotate 34 44	SUBJECTIVE
+T2	SectionSkip 2394 2414	CURRENT MEDICATIONS:
+T3	SectionSkip 2416 3539	Medications the patient states to be taking prior to today's encounter.   Medication Sig    aspirin 81 mg EC tablet Take 81 mg by mouth Daily.    atorvastatin (LIPITOR) 40 mg tablet TK 1 T PO QD    coenzyme Q10 100 mg capsule Take by mouth Daily.    CREON 36,000-114,000- 180,000 unit capsule Take 3 tabs with meals and 2 tabs with snacks.    metFORMIN (GLUCOPHAGE) 850 mg tablet Take 850 mg by mouth 2 (two) times daily with meals.    methadone (DOLOPHINE) 10 mg tablet Take 10 mg by mouth every 12 (twelve) hours.    metoclopramide HCl (REGLAN) 10 mg tablet     multivitamin with iron-minerals-folic acid (MULTIVITAMIN-IRON-MINERALS-FOLIC ACID) 3,500-18-0.4 unit-mg-mg chewable tablet Take 1 tablet by mouth Daily.    omeprazole (PRILOSEC) 20 mg capsule TK 1 C PO QD    ondansetron (ZOFRAN) 8 mg tablet TK 1 T PO Q 8 H PRN NV    oxyCODONE (ROXICODONE) 5 mg tablet Take 5 mg by mouth every 4 (four) hours as needed for Pain. 1-2 tabs po q 3-4 hours    polyethylene glycol (MIRALAX) 17 gram packet     [DISCONTINUED] CREON 36,000-114,000- 180,000 unit capsule Take 2-3 caps po q snack and August 07 caps po QAC
+T4	SectionSkip 3544 3559	ALLERGIES: None
+T5	SectionAnnotate 3563 3578	FAMILY HISTORY:
+T6	SectionAnnotate 3701 3716	SOCIAL HISTORY:
+T7	SectionSkip 4672 6283	LABORATORY RESULTS:  Results for orders placed or performed during the hospital encounter of 09/05/17   Comprehensive Metabolic Panel - UCSF/LabCorp/Quest (BMP, AST, ALT, T.BILI, ALKP, TP, ALB)   Result Value Ref Range    Albumin, Serum / Plasma 3.3 (L) 3.5 - 4.8 g/dL    Alkaline Phosphatase 493 (H) 31 - 95 U/L    Alanine transaminase 387 (H) 11 - 50 U/L    Aspartate transaminase 357 (H) 17 - 42 U/L    Bilirubin, Total 7.4 (H) 0.2 - 1.3 mg/dL    Urea Nitrogen, Serum / Plasma 15 6 - 22 mg/dL    Calcium, total, Serum / Plasma 9.2 8.8 - 10.3 mg/dL    Chloride, Serum / Plasma 94 (L) 97 - 108 mmol/L    Creatinine 0.67 0.44 - 1.00 mg/dL    eGFR if non-African American 90 >60 mL/min    eGFR if African Amer 104 >60 mL/min    Potassium, Serum / Plasma 3.7 3.5 - 5.1 mmol/L    Sodium, Serum / Plasma 133 (L) 135 - 145 mmol/L    Protein, Total, Serum / Plasma 7.5 6.0 - 8.4 g/dL    Carbon Dioxide, Total 27 22 - 32 mmol/L    Anion Gap 12 4 - 14    Glucose, non-fasting 131 70 - 199 mg/dL   Complete Blood Count with 5-part Differential   Result Value Ref Range    WBC Count 15.3 (H) 3.4 - 10 x10E9/L    RBC Count 3.29 (L) 4.0 - 5.2 x10E12/L    Hemoglobin 10.4 (L) 12.0 - 15.5 
+ g/dL    Hematocrit 30.8 (L) 36 - 46 %    MCV 94 80 - 100 fL    MCH 31.6 26 - 34 pg    MCHC 33.8 31 - 36 g/dL    Platelet Count 203 140 - 450 x10E9/L    Neutrophil Absolute Count 12.04 (H) 1.8 - 6.8 x10E9/L    Lymphocyte Abs Cnt 1.75 1.0 - 3.4 x10E9/L    Monocyte Abs Count 1.20 (H) 0.2 - 0.8 x10E9/L    Eosinophil Abs Ct 0.01 0.0 - 0.4 x10E9/L    Basophil Abs Count 0.04 0.0 - 0.1 x10E9/L    Imm Gran, Left Shift 0.23 (H) <0.1 x10E9/L
+T8	SectionSkip 6288 6338	IMAGING:  No images are attached to the encounter.
+T9	PROBLEM 184 260	locally advanced and unresectable adenocarcinoma of the head of the pancreas
+T11	Symptom 303 314	weight loss
+T12	TREATMENT 428 444	pain medications
+T13	TEST 449 457	a workup
+T14	Radiology 473 495	CT scan of the abdomen
+T15	PROBLEM 522 528	a mass
+T16	PROBLEM 599 627	An 11 mm lesion in the liver
+T17	Radiology 672 675	EUS
+T18	PROBLEM 703 733	a mass in the uncinate process
+T19	PROBLEM 738 760	involvement of the SMA
+T20	ProcedureName 762 765	FNA
+T21	PROBLEM 769 777	the mass
+T22	PROBLEM 787 804	an adenocarcinoma
+T23	TREATMENT 853 864	gemcitabine
+T24	TREATMENT 869 877	Abraxane
+T25	PROBLEM 899 923	radiographic progression
+T26	TREATMENT 973 997	dose modified FOLFIRINOX
+T27	TREATMENT 1039 1049	FOLFIRINOX
+T28	PROBLEM 1088 1104	increase fatigue
+T29	PROBLEM 1340 1356	increased emesis
+T30	PROBLEM 1358 1364	nausea
+T31	PROBLEM 1370 1377	burping
+T32	PROBLEM 1402 1408	emesis
+T33	MedicationName 1469 1475	Zofran
+T34	TREATMENT 1495 1505	medication
+T35	TREATMENT 1554 1563	many meds
+T36	TREATMENT 1597 1603	zofran
+T37	TREATMENT 1637 1642	Creon
+T38	PROBLEM 1681 1705	Her upper abdominal pain
+T39	TREATMENT 1740 1749	Methadone
+T40	TREATMENT 1758 1767	Oxycodone
+T41	PROBLEM 1833 1851	bilateral LE edema
+T42	PROBLEM 1888 1905	decrease swelling
+T43	Symptom 1914 1922	leg pain
+T44	Symptom 1924 1927	SOB
+T45	PROBLEM 1929 1941	chest 
+ pain
+T46	PROBLEM 1961 1984	continued poor appetite
+T47	PROBLEM 2042 2060	dark colored urine
+T48	Symptom 2078 2084	fevers
+T49	Symptom 2086 2092	chills
+T50	Symptom 2094 2102	pruritis
+T52	PROBLEM 2203 2223	an oral hypoglycemic
+T53	TEST 2225 2241	Her blood sugars
+T54	TREATMENT 2274 2289	PRIOR SURGERIES
+T55	TREATMENT 2292 2303	IUD removal
+T56	ProcedureName 2312 2332	arthroscopic surgery
+T57	TREATMENT 2416 2427	Medications
+T58	TREATMENT 2490 2500	Medication
+T59	TREATMENT 2509 2516	aspirin
+T60	TREATMENT 2564 2586	atorvastatin (LIPITOR)
+T61	TREATMENT 2617 2629	coenzyme Q10
+T62	TREATMENT 2670 2675	CREON
+T63	TREATMENT 2764 2786	metFORMIN (GLUCOPHAGE)
+T64	TREATMENT 2858 2879	methadone (DOLOPHINE)
+T65	TREATMENT 2942 2969	metoclopramide HCl (REGLAN)
+T66	TREATMENT 2988 3070	multivitamin with iron-minerals-folic acid (MULTIVITAMIN-IRON-MINERALS-FOLIC ACID)
+T67	TREATMENT 3145 3166	omeprazole (PRILOSEC)
+T68	TREATMENT 3198 3218	ondansetron (ZOFRAN)
+T69	TREATMENT 3251 3280	NV    oxyCODONE (ROXICODONE)
+T70	PROBLEM 3347 3351	Pain
+T71	TREATMENT 3381 3410	polyethylene glycol (MIRALAX)
+T72	TREATMENT 3446 3451	CREON
+T73	PROBLEM 3630 3647	pancreatic cancer
+T74	PROBLEM 3683 3696	breast cancer
+T75	PROBLEM 3933 3950	colorectal cancer
+T76	TEST 4042 4048	Vitals
+T77	TEST 4050 4052	BP
+T78	TEST 4063 4068	Pulse
+T79	TEST 4075 4079	Temp
+T80	TEST 4085 4086	C
+T81	TEST 4106 4110	Resp
+T82	TEST 4117 4119	Ht
+T83	TEST 4185 4189	SpO2
+T84	TEST 4198 4201	BMI
+T85	TEST 4253 4257	ECOG
+T86	PROBLEM 4284 4299	slight jaundice
+T87	PROBLEM 4313 4342	white/yellowish thick coating
+T88	PROBLEM 4355 4374	clinical adenopathy
+T89	PROBLEM 4389 4400	thyromegaly
+T90	PROBLEM 4443 4449	murmur
+T91	PROBLEM 4453 4459	gallop
+T92	PROBLEM 4474 4483	nontender
+T93	PROBLEM 4488 4506	hepatosplenomegaly
+T94	PROBLEM 4511 4521	fluid wave
+T95	PROBLEM 4526 4532	masses
+T96	PROBLEM 4560 4564	rash
+T97	PROBLEM 4568 4577	petechiae
+T98	PROBLEM 4592 4633	bilateral +1 LE edema from feet to ankles
+T99	PROBLEM 4649 4668	gross focal deficit
+T100	TEST 4790 4805	Metabolic Panel
+T101	TEST 4808 4812	UCSF
+T102	TEST 4813 4820	LabCorp
+T103	TEST 4828 4831	BMP
+T104	TEST 4833 4836	AST
+T105	TEST 4838 4841	ALT
+T106	TEST 4843 4849	T.BILI
+T107	TEST 4851 4855	ALKP
+T108	TEST 4857 4859	TP
+T109	TEST 4861 4864	ALB
+T110	TEST 4875 4880	Value
+T111	TEST 4885 4890	Range
+T112	TEST 4894 4901	Albumin
+T113	TEST 4903 4908	Serum
+T114	TEST 4911 4917	Plasma
+T115	TEST 4936 4940	g/dL
+T116	TEST 4944 4964	Alkaline Phosphatase
+T117	TEST 4981 5008	U/L    Alanine transaminase
+T118	TEST 5025 5054	U/L    Aspartate transaminase
+T119	TEST 5071 5087	U/L    Bilirubin
+T120	TEST 5089 5094	Total
+T121	TEST 5122 5135	Urea Nitrogen
+T122	TEST 5137 5142	Serum
+T123	TEST 5145 5151	Plasma
+T124	TEST 5171 5178	Calcium
+T125	TEST 5187 5192	Serum
+T126	TEST 5195 5201	Plasma
+T127	TEST 5226 5234	Chloride
+T128	TEST 5236 5241	Serum
+T129	TEST 5244 5250	Plasma
+T130	TEST 5277 5287	Creatinine
+T131	TEST 5314 5318	eGFR
+T132	TEST 5322 5333	non-African
+T133	TEST 5334 5342	American
+T134	TEST 5360 5364	eGFR
+T135	TEST 5368 5375	African
+T136	TEST 5376 5380	Amer
+T137	TEST 5399 5408	Potassium
+T138	TEST 5410 5415	Serum
+T139	TEST 5418 5424	Plasma
+T140	TEST 5449 5455	Sodium
+T141	TEST 5457 5462	Serum
+T142	TEST 5465 5471	Plasma
+T143	TEST 5490 5494	mmol
+T144	TEST 5500 5507	Protein
+T145	TEST 5509 5514	Total
+T146	TEST 5516 5521	Serum
+T147	TEST 5524 5530	Plasma
+T148	TEST 5545 5549	g/dL
+T149	TEST 5553 5567	Carbon Dioxide
+T150	TEST 5569 5574	Total
+T151	TEST 5596 5605	Anion Gap
+T152	TEST 5619 5626	Glucose
+T153	TEST 5628 5639	non-fasting
+T154	TEST 5661 5681	Complete Blood Count
+T155	TEST 5716 5721	Value
+T156	TEST 5726 5731	Range
+T157	TEST 5735 5744	WBC Count
+T158	TEST 5751 5752	H
+T159	TEST 5774 5783	RBC Count
+T160	TEST 5790 5791	L
+T161	TEST 5815 5825	Hemoglobin
+T162	TEST 5849 5853	g/dL
+T163	TEST 5857 5867	Hematocrit
+T164	TEST 5874 5876	L)
+T165	TEST 5890 5893	MCV
+T166	TEST 5912 5915	MCH
+T167	TEST 5929 5931	pg
+T168	TEST 5935 5939	MCHC
+T169	TEST 5953 5957	g/dL
+T170	TEST 5961 5975	Platelet Count
+T171	TEST 5990 5995	x10E9
+T172	TEST 6001 6011	Neutrophil
+T173	TEST 6012 6026	Absolute Count
+T174	TEST 6034 6035	H
+T175	TEST 6047 6052	x10E9
+T176	TEST 6058 6072	Lymphocyte Abs
+T177	TEST 6073 6076	Cnt
+T178	TEST 6092 6097	x10E9
+T179	TEST 6103 6115	Monocyte Abs
+T180	TEST 6116 6121	Count
+T181	TEST 6128 6129	H
+T182	TEST 6141 6146	x10E9
+T183	TEST 6152 6166	Eosinophil Abs
+T184	TEST 6167 6169	Ct
+T185	TEST 6185 6190	x10E9
+T186	TEST 6196 6208	Basophil Abs
+T187	TEST 6209 6214	Count
+T188	TEST 6245 6249	Gran
+T189	TEST 6251 6261	Left Shift
+T190	TEST 6276 6295	x10E9/L     IMAGING
+T191	PROBLEM 6365 6405	Localized adenocarcinoma of the pancreas
+T192	TREATMENT 6410 6417	therapy
+T193	PROBLEM 6423 6448	uncertain disease control
+T194	TREATMENT 6481 6491	FOLFIRINOX
+T195	TEST 6523 6527	labs
+T196	PROBLEM 6546 6565	disease progression
+T197	ClinicalCondition 6567 6586	biliary obstruction
+T198	ClinicalCondition 6591 6612	ascending cholangitis
+T199	TEST 6614 6620	T bili
+T200	TEST 6626 6634	Alk Phos
+T201	TEST 6640 6643	AST
+T202	TEST 6649 6652	ALT
+T203	TEST 6671 6689	her most recent CT
+T204	TEST 6725 6735	outside CT
+T205	ClinicalCondition 6776 6794	hyperbilirubinemia
+T206	TEST 6870 6884	urgent imaging
+T207	PROBLEM 6897 6922	biliary ductal dilatation
+T208	PROBLEM 6930 6962	disease progression in the liver
+T209	TREATMENT 6964 6978	ED precautions
+T210	ClinicalCondition 7050 7061	cholangitis
+T211	PROBLEM 7123 7129	fevers
+T212	Symptom 7130 7136	chills
+T213	PROBLEM 7172 7184	daily emesis
+T214	PROBLEM 7207 7238	partial small bowel obstruction
+T215	PROBLEM 7324 7342	Bilateral LE edema
+T216	TEST 7365 7377	bilateral US
+T217	PROBLEM 7391 7394	DVT
+T218	PROBLEM 7403 7420	Multiple symptoms
+T219	TREATMENT 7462 7472	management
+T220	PROBLEM 7476 7484	her pain
+T221	Symptom 7486 7493	fatigue
+T222	Symptom 7499 7507	anorexia
+T223	TREATMENT 7679 7697	the treatment plan
+T224	PROBLEM 7717 7725	symptoms
+T225	TEST 7760 7775	Today's CT scan
+T226	PROBLEM 7866 7915	ill-defined pancreatic head/uncinate process mass
+T227	PROBLEM 7930 7972	obstruction of the biliary system distally
+T228	PROBLEM 7978 8042	proximal intrahepatic and extrahepatic biliary ductal dilatation
+T229	PROBLEM 8044 8082	Increased pancreatic ductal dilatation
+T230	PROBLEM 8091 8126	Increased distention of the stomach
+T231	PROBLEM 8132 8174	narrowing of the third portion of duodenum
+T232	PROBLEM 8190 8201	mass effect
+T233	PROBLEM 8207 8231	adjacent pancreatic mass
+T234	PROBLEM 8262 8281	partial obstruction
+T235	TEST 8315 8322	an ERCP
+T236	TREATMENT 8390 8404	ED precautions
+T237	TEST 8424 8442	Lower extremity US
+T238	PROBLEM 8460 8468	any DVTs
+T239	ClinicalCondition 218 260	adenocarcinoma of the head of the pancreas
+A1	ChronicVal T239 non-chronic
+A2	ContinuityVal T239 unclear
+T240	Histology 218 232	adenocarcinoma
+A3	IsPresentOnFirstCancerDiagnosis T11 yes
+A4	IsCausedByDiagnosedCancer T11 yes
+A5	ChronicVal T11 non-chronic
+A6	ContinuityVal T11 new
+T10	Symptom 284 298	abdominal pain
+A7	IsPresentOnFirstCancerDiagnosis T10 yes
+A8	IsCausedByDiagnosedCancer T10 yes
+A9	ChronicVal T10 non-chronic
+A10	ContinuityVal T10 new
+T241	Datetime 327 335;349 353	November 2016
+T242	Datetime 340 353	December 2016
+R1	HappensAtOnDuring Arg1:T10 Arg2:T241	
+R2	HappensAtOnDuring Arg1:T11 Arg2:T241	
+T243	Datetime 401 414	February 2017
+T244	TreatmentType 428 444	pain medications
+A11	TreatmentContinuityVal T244 unclear
+A12	TreatmentTypeVal T244 others
+A13	TreatmentIntentVal T244 others
+R3	TreatmentAdministeredForProblem Treatment:T244 Prob:T10	
+R4	BeginsOnOrAt Arg1:T243 Arg2:T244	
+A14	IntentVal T14 diagnosis
+A15	IntentVal T17 diagnosis
+T245	Datetime 504 514	03/08/2017
+T246	RadPathResult 524 528	mass
+A16	RadPathResultVal T246 InitialCancerDiagnosis
+R5	ResultOfTest Desc:T246 Test:T14	
+T247	Size 539 557	3.6 x 4.3 x 4.3 cm
+A17	EpisodeDescription T247 FirstOccurrence
+R6	SizeOf Arg1:T247 Arg2:T246	
+R7	HappensAtOnDuring Arg1:T245 Arg2:T14	
+T248	Size 602 607	11 mm
+T249	RadPathResult 608 614	lesion
+A18	NegationModalityVal T249 uncertain_in_present
+A19	RadPathResultVal T249 InitialCancerDiagnosis
+R8	SizeOf Arg1:T248 Arg2:T249	
+R9	ResultOfTest Desc:T249 Test:T14	
+T250	LocalInvasion 559 579	Vascular involvement
+A20	NegationModalityVal T250 negated
+A21	EpisodeDescription T250 FirstOccurrence
+R10	TestOrProcedureReveals Test:T14 Desc:T250	
+T251	Datetime 684 695	February 21
+T252	RadPathResult 705 709	mass
+A22	RadPathResultVal T252 InitialCancerDiagnosis
+T253	RadPathResult 773 777	mass
+A23	RadPathResultVal T253 InitialCancerDiagnosis
+T254	Site 717 733	uncinate process
+T255	Site 757 760	SMA
+T256	LocalInvasion 738 749	involvement
+A24	EpisodeDescription T256 FirstOccurrence
+R11	SiteOf Arg1:T255 Arg2:T256	
+R12	SiteOf Arg1:T254 Arg2:T252	
+R13	ResultOfTest Desc:T252 Test:T17	
+R14	TestOrProcedureReveals Test:T17 Desc:T256	
+A25	IntentVal T20 diagnosis
+A26	TreatmentTypeVal T20 others
+A27	TreatmentCategory T20 Others
+A28	IsTumorRemaining T20 yes
+R15	ResultOfTest Desc:T253 Test:T17	
+T257	Histology 790 804	adenocarcinoma
+A29	EpisodeDescription T257 FirstOccurrence
+R16	TestOrProcedureReveals Test:T20 Desc:T257	
+T258	MedicationRegimen 853 877	gemcitabine and Abraxane
+A30	TreatmentContinuityVal T258 discontinued_early
+A31	TreatmentTypeVal T258 maintenance
+A32	TreatmentIntentVal T258 palliative
+T259	DiseaseState 899 923	radiographic progression
+A33	DiseaseStateVal T259 progression-others
+R17	TreatmentDiscontinuedBecauseOf Therapy:T258 Reason:T259	
+T260	Datetime 927 938	06/14/2017.
+R18	HappensAtOnDuring Arg1:T260 Arg2:T259	
+T261	MedicationRegimen 973 997	dose modified FOLFIRINOX
+A34	TreatmentContinuityVal T261 started
+A35	TreatmentTypeVal T261 maintenance
+A36	TreatmentIntentVal T261 palliative
+T262	Datetime 1007 1015	07/31/17
+T263	Cycles 999 1003	C1D1
+R19	TreatmentDesc Therapy:T263 Desc:T261	
+R20	BeginsOnOrAt Arg1:T262 Arg2:T261	
+T264	Datetime 1022 1032	08/15/2017
+T265	MedicationRegimen 1039 1049	FOLFIRINOX
+A37	TreatmentContinuityVal T265 continuing
+A38	TreatmentTypeVal T265 maintenance
+A39	TreatmentIntentVal T265 palliative
+T266	Cycles 1034 1038	C2D1
+R21	TreatmentDesc Therapy:T266 Desc:T265	
+T267	Symptom 1097 1104	fatigue
+A40	IsPresentOnFirstCancerDiagnosis T267 no
+A41	IsCausedByDiagnosedCancer T267 no
+A42	ChronicVal T267 non-chronic
+A43	ContinuityVal T267 worsening
+T268	Symptom 1350 1356	emesis
+A44	IsPresentOnFirstCancerDiagnosis T268 no
+A45	IsCausedByDiagnosedCancer T268 no
+A46	ChronicVal T268 non-chronic
+A47	ContinuityVal T268 worsening
+T269	Symptom 1358 1364	nausea
+A48	IsPresentOnFirstCancerDiagnosis T269 no
+A49	IsCausedByDiagnosedCancer T269 no
+A50	ChronicVal T269 non-chronic
+A51	ContinuityVal T269 worsening
+T270	Symptom 1370 1377	burping
+A52	IsPresentOnFirstCancerDiagnosis T270 no
+A53	IsCausedByDiagnosedCancer T270 no
+A54	ChronicVal T270 non-chronic
+A55	ContinuityVal T270 worsening
+R22	ConditionOrTreatmentCausesProblem Treatment:T265 Prob:T267	
+R23	ConditionOrTreatmentCausesProblem Treatment:T265 Prob:T268	
+R24	ConditionOrTreatmentCausesProblem Treatment:T265 Prob:T269	
+T271	Symptom 1402 1408	emesis
+A56	IsPresentOnFirstCancerDiagnosis T271 no
+A57	IsCausedByDiagnosedCancer T271 no
+A58	ChronicVal T271 non-chronic
+A59	ContinuityVal T271 worsening
+T272	Frequency 1383 1398	2 or 3 episodes
+R25	Temporal Arg1:T272 Arg2:T271	
+A60	TreatmentContinuityVal T33 continuing
+A61	TreatmentTypeVal T33 others
+A62	TreatmentIntentVal T33 others
+A63	TreatmentCategory T33 Supportive
+R26	TreatmentAdministeredForProblem Treatment:T33 Prob:T271	
+T273	MedicationName 1597 1603	zofran
+A64	TreatmentContinuityVal T273 continuing
+A65	TreatmentTypeVal T273 others
+A66	TreatmentIntentVal T273 others
+A67	TreatmentCategory T273 Supportive
+R27	TreatmentAdministeredForProblem Treatment:T273 Prob:T271	
+T274	MedicationName 1637 1642	Creon
+A68	TreatmentContinuityVal T274 continuing
+A69	TreatmentTypeVal T274 others
+A70	TreatmentIntentVal T274 others
+A71	TreatmentCategory T274 Supportive
+T275	TreatmentDosage 1643 1649	3 tabs
+T276	TreatmentDosage 1661 1667	2 tabs
+R28	TreatmentDesc Therapy:T275 Desc:T274	
+R29	TreatmentDesc Therapy:T276 Desc:T274	
+T277	MedicationName 1740 1749	Methadone
+A72	TreatmentContinuityVal T277 continuing
+A73	TreatmentTypeVal T277 others
+A74	TreatmentIntentVal T277 others
+A75	TreatmentCategory T277 Supportive
+T278	MedicationName 1758 1767	Oxycodone
+A76	TreatmentContinuityVal T278 continuing
+A77	TreatmentTypeVal T278 others
+A78	TreatmentIntentVal T278 others
+A79	TreatmentCategory T278 Supportive
+T279	Symptom 1691 1705	abdominal pain
+A80	IsPresentOnFirstCancerDiagnosis T279 yes
+A81	IsCausedByDiagnosedCancer T279 yes
+A82	ChronicVal T279 non-chronic
+A83	ContinuityVal T279 stable
+T280	Site 1685 1690	upper
+R30	SiteOf Arg1:T280 Arg2:T279	
+R31	TreatmentAdministeredForProblem Treatment:T277 Prob:T279	
+R32	TreatmentAdministeredForProblem Treatment:T278 Prob:T279	
+T281	Frequency 1750 1753	BID
+T282	Frequency 1768 1771	PRN
+T283	Frequency 1781 1792	twice a day
+R33	Temporal Arg1:T281 Arg2:T277	
+R34	Temporal Arg1:T282 Arg2:T278	
+R35	Temporal Arg1:T283 Arg2:T278	
+T284	Duration 1817 1821	1 wk
+T285	Symptom 1843 1851	LE edema
+A84	IsPresentOnFirstCancerDiagnosis T285 unclear
+A85	IsCausedByDiagnosedCancer T285 unclear
+A86	ChronicVal T285 non-chronic
+A87	ContinuityVal T285 new
+R36	Temporal Arg1:T284 Arg2:T285	
+T286	Site 1833 1842	bilateral
+R37	SiteOf Arg1:T286 Arg2:T285	
+A88	NegationModalityVal T43 negated
+A89	NegationModalityVal T44 negated
+T287	Symptom 1929 1934;1937 1941	chest pain
+A90	NegationModalityVal T287 negated
+T288	Symptom 1971 1984	poor appetite
+A91	NegationModalityVal T288 affirmed
+A92	IsPresentOnFirstCancerDiagnosis T288 unclear
+A93	IsCausedByDiagnosedCancer T288 unclear
+A94	ChronicVal T288 non-chronic
+A95	ContinuityVal T288 stable
+T289	Symptom 1994 2012	gained some weight
+A96	NegationModalityVal T289 negated
+T290	Symptom 2042 2060	dark colored urine
+A97	NegationModalityVal T290 affirmed
+A98	IsPresentOnFirstCancerDiagnosis T290 no
+A99	IsCausedByDiagnosedCancer T290 yes
+A100	ChronicVal T290 non-chronic
+A101	ContinuityVal T290 new
+T291	Duration 2063 2069	3 days
+R38	Temporal Arg1:T291 Arg2:T290	
+A102	NegationModalityVal T48 negated
+A103	NegationModalityVal T49 negated
+A104	NegationModalityVal T50 negated
+T51	ClinicalCondition 2175 2183	diabetes
+A105	ChronicVal T51 chronic
+A106	ContinuityVal T51 improving
+T292	Datetime 2187 2191	2007
+R39	BeginsOnOrAt Arg1:T292 Arg2:T51	
+T293	MedicationName 2206 2223	oral hypoglycemic
+A107	NegationModalityVal T293 affirmed
+A108	TreatmentContinuityVal T293 finished
+A109	TreatmentTypeVal T293 others
+A110	TreatmentIntentVal T293 others
+A111	TreatmentCategory T293 Others
+R40	TreatmentAdministeredForProblem Treatment:T293 Prob:T51	
+T294	ProcedureName 2292 2303	IUD removal
+A112	IntentVal T294 others
+A113	TreatmentTypeVal T294 others
+A114	TreatmentCategory T294 Others
+A115	IntentVal T56 others
+A116	TreatmentTypeVal T56 others
+A117	TreatmentCategory T56 Others
+T295	Site 2338 2342	knee
+T296	Duration 1119 1126	3 weeks
+R41	Temporal Arg1:T296 Arg2:T267	
+T297	Laterality 2333 2337	left
+R42	LateralityOfSite Arg1:T297 Arg2:T295	
+R43	SiteOf Arg1:T295 Arg2:T56	
+T298	Duration 2350 2361	8 years ago
+R44	HappensBefore Arg1:T298 Arg2:T56	
+T299	Tobacco 3723 3730	tobacco
+A118	IsStoppedOrContinuing T299 stopped
+T301	Alcohol 3787 3800	alcohol abuse
+A119	NegationModalityVal T301 negated
+T302	Employment 3809 3816	retired
+A120	NegationModalityVal T302 affirmed
+A121	IsStoppedOrContinuing T302 stopped
+T303	Employment 3833 3851	worked for   *****	
+A122	IsStoppedOrContinuing T303 stopped
+T304	MaritalStatus 3903 3908	widow
+A123	IsStoppedOrContinuing T304 stopped
+T305	ClinicalCondition 3933 3950	colorectal cancer
+A124	ExperiencerVal T305 others
+T306	SectionSkip 4037 4668	PE:  Vitals: BP 132/85  | Pulse 76  | Temp 36.5 C (97.7 F) (Oral)  | Resp 18  | Ht 163.1 cm (5' 4.21") Comment: April 2017 | Wt 45.4 kg (100 lb)  | SpO2 100%  | BMI 17.05 kg/m    In general, she appears comfortable. ECOG 1  Head: Conjunctiva with slight jaundice. Tongue with white/yellowish thick coating.   Nodes no clinical adenopathy  Neck without thyromegaly  Lungs clear to A and P  Heart RR without murmur or gallop  Abd soft and nontender. No hepatosplenomegaly. No fluid wave. No masses  GU not done  Skin without rash or petechiae  Extremities: bilateral +1 LE edema from feet to ankles  Neuro without gross focal deficit
+A125	SectionSkipType T306 physical_exam
+T307	SectionSkip 4672 5846;5849 6283	LABORATORY RESULTS:  Results for orders placed or performed during the hospital encounter of 09/05/17   Comprehensive Metabolic Panel - UCSF/LabCorp/Quest (BMP, AST, ALT, T.BILI, ALKP, TP, ALB)   Result Value Ref Range    Albumin, Serum / Plasma 3.3 (L) 3.5 - 4.8 g/dL    Alkaline Phosphatase 493 (H) 31 - 95 U/L    Alanine transaminase 387 (H) 11 - 50 U/L    Aspartate transaminase 357 (H) 17 - 42 U/L    Bilirubin, Total 7.4 (H) 0.2 - 1.3 mg/dL    Urea Nitrogen, Serum / Plasma 15 6 - 22 mg/dL    Calcium, total, Serum / Plasma 9.2 8.8 - 10.3 mg/dL    Chloride, Serum / Plasma 94 (L) 97 - 108 mmol/L    Creatinine 0.67 0.44 - 1.00 mg/dL    eGFR if non-African American 90 >60 mL/min    eGFR if African Amer 104 >60 mL/min    Potassium, Serum / Plasma 3.7 3.5 - 5.1 mmol/L    Sodium, Serum / Plasma 133 (L) 135 - 145 mmol/L    Protein, Total, Serum / Plasma 7.5 6.0 - 8.4 g/dL    Carbon Dioxide, Total 27 22 - 32 mmol/L    Anion Gap 12 4 - 14    Glucose, non-fasting 131 70 - 199 mg/dL   Complete Blood Count with 5-part Differential   Result Value Ref Range    WBC Count 15.3 (H) 3.4 - 10 x10E9/L    RBC Count 3.29 (L) 4.0 - 5.2 x10E12/L    Hemoglobin 10.4 (L) 12.0 - 15.5 g/dL    Hematocrit 30.8 (L) 36 - 46 %    MCV 94 80 - 100 fL    MCH 31.6 26 - 34 pg    MCHC 33.8 31 - 36 g/dL    Platelet Count 203 140 - 450 x10E9/L    Neutrophil Absolute Count 12.04 (H) 1.8 - 6.8 x10E9/L    Lymphocyte Abs Cnt 1.75 1.0 - 3.4 x10E9/L    Monocyte Abs Count 1.20 (H) 0.2 - 0.8 x10E9/L    Eosinophil Abs Ct 0.01 0.0 - 0.4 x10E9/L    Basophil Abs Count 0.04 0.0 - 0.1 x10E9/L    Imm Gran, Left Shift 0.23 (H) <0.1 x10E9/L
+A126	SectionSkipType T307 laboratory
+T308	ClinicalCondition 6375 6405	adenocarcinoma of the pancreas
+A127	ChronicVal T308 non-chronic
+A128	ContinuityVal T308 unclear
+T309	Histology 6375 6389	adenocarcinoma
+A129	EpisodeDescription T309 FirstOccurrence
+T310	TreatmentType 6410 6417	therapy
+A130	TreatmentContinuityVal T310 continuing
+A131	TreatmentIntentVal T310 palliative
+T311	DiseaseState 6423 6448	uncertain disease control
+A132	DiseaseStateVal T311 others
+T312	MedicationRegimen 6481 6491	FOLFIRINOX
+A133	TreatmentContinuityVal T312 continuing
+A134	TreatmentTypeVal T312 maintenance
+A135	TreatmentIntentVal T312 palliative
+R46	TreatmentAdministeredForProblem Treatment:T312 Prob:T308	
+T313	Cycles 6469 6470	2
+R47	TreatmentDesc Therapy:T313 Desc:T312	
+T314	Cycles 6511 6512	3
+R48	TreatmentDesc Therapy:T314 Desc:T312	
+T315	LabTestResult 6523 6527	labs
+A136	LabTestResultVal T315 abnormal
+T316	DiseaseState 6546 6565	disease progression
+A137	NegationModalityVal T316 uncertain_in_present
+A138	DiseaseStateVal T316 progression-others
+A139	ChronicVal T197 non-chronic
+A140	ContinuityVal T197 new
+A141	ChronicVal T198 non-chronic
+A142	ContinuityVal T198 new
+A143	NegationModalityVal T197 uncertain_in_present
+A144	NegationModalityVal T198 uncertain_in_present
+T317	Radiology 6687 6689	CT
+A145	IntentVal T317 unclear
+T318	Radiology 6733 6735	CT
+A146	IntentVal T318 unclear
+T319	Datetime 6741 6749	06/14/17
+R49	HappensAtOnDuring Arg1:T319 Arg2:T318	
+R50	HappensAtOnDuring Arg1:T319 Arg2:T317	
+A147	ChronicVal T205 non-chronic
+A148	ContinuityVal T205 new
+R51	ExclusionCriteriaFor Arg1:T205 Arg2:T312	
+T320	Radiology 6877 6884	imaging
+A149	NegationModalityVal T320 planned_in_future
+A150	IntentVal T320 diagnosis
+T321	ClinicalCondition 6897 6922	biliary ductal dilatation
+A151	NegationModalityVal T321 uncertain_in_present
+R52	TestOrProcedureConductedForProblem Test:T320 Prob:T321	
+T322	Metastasis 6930 6949	disease progression
+A152	NegationModalityVal T322 uncertain_in_present
+A153	EpisodeDescription T322 Progression
+T323	Site 6957 6962	liver
+R53	SiteOf Arg1:T323 Arg2:T322	
+R54	TestOrProcedureConductedForProblem Test:T320 Prob:T322	
+A154	NegationModalityVal T210 uncertain_in_present
+A155	ChronicVal T210 non-chronic
+A156	ContinuityVal T210 new
+T324	Symptom 7123 7129	fevers
+A157	NegationModalityVal T324 hypothetical_in_future
+A158	IsPresentOnFirstCancerDiagnosis T324 unclear
+A159	IsCausedByDiagnosedCancer T324 unclear
+A160	ContinuityVal T324 new
+A161	NegationModalityVal T212 hypothetical_in_future
+A162	IsPresentOnFirstCancerDiagnosis T212 unclear
+A163	IsCausedByDiagnosedCancer T212 unclear
+A164	ContinuityVal T212 new
+T325	Symptom 7178 7184	emesis
+A165	NegationModalityVal T325 affirmed
+A166	IsPresentOnFirstCancerDiagnosis T325 no
+A167	IsCausedByDiagnosedCancer T325 unclear
+A168	ContinuityVal T325 unclear
+T326	Frequency 7172 7177	daily
+R55	Temporal Arg1:T326 Arg2:T325	
+T327	ClinicalCondition 7207 7238	partial small bowel obstruction
+A169	NegationModalityVal T327 uncertain_in_present
+A170	ChronicVal T327 non-chronic
+R56	ConditionOrTreatmentCausesProblem Treatment:T327 Prob:T325	
+T328	Symptom 7337 7342	edema
+A171	IsPresentOnFirstCancerDiagnosis T328 no
+A172	ChronicVal T328 non-chronic
+A173	ContinuityVal T328 new
+T329	Site 7334 7336	LE
+T330	Laterality 7324 7333	Bilateral
+R57	LateralityOfSite Arg1:T330 Arg2:T329	
+R58	SiteOf Arg1:T329 Arg2:T328	
+T331	Radiology 7375 7377	US
+A174	IntentVal T331 others
+R59	TestOrProcedureConductedForProblem Test:T331 Prob:T328	
+T332	Site 7365 7374	bilateral
+R60	SiteOf Arg1:T332 Arg2:T331	
+T333	ClinicalCondition 7391 7394	DVT
+A175	NegationModalityVal T333 uncertain_in_present
+R61	TestOrProcedureConductedForProblem Test:T331 Prob:T333	
+T334	Symptom 7480 7484	pain
+A176	IsPresentOnFirstCancerDiagnosis T334 yes
+A177	IsCausedByDiagnosedCancer T334 yes
+A178	ChronicVal T334 non-chronic
+A179	ContinuityVal T334 unclear
+A180	IsPresentOnFirstCancerDiagnosis T221 yes
+A181	IsCausedByDiagnosedCancer T221 yes
+A182	ChronicVal T221 non-chronic
+A183	ContinuityVal T221 unclear
+A184	IsPresentOnFirstCancerDiagnosis T222 yes
+A185	IsCausedByDiagnosedCancer T222 yes
+A186	ChronicVal T222 non-chronic
+A187	ContinuityVal T222 unclear
+T335	Radiology 7768 7770	CT
+A188	NegationModalityVal T335 affirmed
+A189	IntentVal T335 diagnosis
+T336	Datetime 7825 7835	06/14/2017
+T337	Datetime 7760 7765	Today
+R62	HappensAtOnDuring Arg1:T337 Arg2:T335	
+T338	RadPathResult 7866 7877;7911 7915	ill-defined mass
+A190	RadPathResultVal T338 Progression
+T339	Site 7878 7910	pancreatic head/uncinate process
+T340	DiseaseState 7837 7862	interval increase in size
+A191	DiseaseStateVal T340 progression-others
+R63	TestOrProcedureReveals Test:T335 Desc:T340	
+R64	ResultOfTest Desc:T338 Test:T335	
+T342	Site 7964 7972	distally
+T344	Site 7978 8016	proximal intrahepatic and extrahepatic
+T346	Site 8119 8126	stomach
+T347	Site 8149 8174	third portion of duodenum
+T348	Site 8207 8226	adjacent pancreatic
+T343	RadPathResult 8017 8042	biliary ductal dilatation
+A194	RadPathResultVal T343 Others
+R67	SiteOf Arg1:T344 Arg2:T343	
+R68	ResultOfTest Desc:T343 Test:T335	
+T341	RadPathResult 7930 7963	obstruction of the biliary system
+A192	RadPathResultVal T341 Others
+R65	SiteOf Arg1:T342 Arg2:T341	
+R66	ResultOfTest Desc:T341 Test:T335	
+T345	RadPathResult 8044 8082	Increased pancreatic ductal dilatation
+A193	RadPathResultVal T345 Others
+T349	RadPathResult 8091 8111	Increased distention
+A195	RadPathResultVal T349 Others
+T350	RadPathResult 8132 8141	narrowing
+A196	RadPathResultVal T350 Others
+T351	RadPathResult 8190 8201	mass effect
+A197	RadPathResultVal T351 Others
+T352	RadPathResult 8227 8231	mass
+A198	RadPathResultVal T352 Others
+T353	ClinicalCondition 8262 8281	partial obstruction
+A199	ChronicVal T353 non-chronic
+A200	ContinuityVal T353 new
+R69	SiteOf Arg1:T348 Arg2:T352	
+R70	SiteOf Arg1:T347 Arg2:T351	
+R71	SiteOf Arg1:T347 Arg2:T350	
+R72	SiteOf Arg1:T346 Arg2:T349	
+R73	TestOrProcedureReveals Test:T335 Desc:T353	
+A201	NegationModalityVal T353 uncertain_in_present
+R74	ResultOfTest Desc:T349 Test:T335	
+R75	ResultOfTest Desc:T350 Test:T335	
+R76	ResultOfTest Desc:T351 Test:T335	
+R77	ResultOfTest Desc:T352 Test:T335	
+T354	ProcedureName 8318 8322	ERCP
+A202	NegationModalityVal T354 hypothetical_in_future
+A203	IntentVal T354 others
+A204	TreatmentTypeVal T354 others
+A205	TreatmentCategory T354 Others
+T355	Radiology 8440 8442	US
+A206	IntentVal T355 others
+T356	Site 8424 8439	Lower extremity
+R78	SiteOf Arg1:T356 Arg2:T355	
+T357	ClinicalCondition 8464 8468	DVTs
+A207	NegationModalityVal T357 negated
+R79	TestOrProcedureReveals Test:T355 Desc:T357	
+T358	Age 70 72	69
+T359	PatientCharacteristics 82 98	African-American
+R80	TestOrProcedureReveals Test:T14 Desc:T247	
+R81	TestOrProcedureReveals Test:T14 Desc:T248	
+R82	HappensAtOnDuring Arg1:T17 Arg2:T251	
+T360	LivingCondition 1210 1268	moved in with her daughter and is living with her in *****
+A208	IsStoppedOrContinuing T360 continuing
+T361	PerformanceStatus 1276 1313	able to get up and go for short walks
+A209	IsStoppedOrContinuing T361 continuing
+A210	PerformanceStatusType T361 Other
+T362	Datetime 2305 2309	1977
+R83	HappensAtOnDuring Arg1:T294 Arg2:T362	
+T300	Age 3751 3753	17
+T363	Age 3754 3756	34
+R45	BeginsOnOrAt Arg1:T299 Arg2:T300	
+R84	EndsOnOrAt Arg1:T299 Arg2:T363	
+T364	PatientCharacteristics 3960 3970	1 daughter
+R86	HappensAfter Arg1:T335 Arg2:T336	
+R87	SiteOf Arg1:T339 Arg2:T338	
+R88	SiteOf Arg1:T339 Arg2:T340	
+T365	LocalInvasion 205 217	unresectable
+R85	TumorDesc TumorDetails:T365 Desc:T239	
+R89	HappensAtOnDuring Arg1:T251 Arg2:T20	
+R90	HappensAtOnDuring Arg1:T264 Arg2:T265	
+R91	HappensOverlapping Arg1:T264 Arg2:T267	
+T366	ClinicalCondition 3630 3647	pancreatic cancer
+A211	ExperiencerVal T366 family
+T367	ClinicalCondition 3683 3696	breast cancer
+A212	ExperiencerVal T367 family
+T368	Age 3659 3661	57
+R92	HappensAtOnDuring Arg1:T368 Arg2:T366	
+R93	NotUndergoneBecauseOf Arg1:T312 Reason:T205	
+R94	NotUndergoneBecauseOf Arg1:T312 Reason:T197	
+R95	NotUndergoneBecauseOf Arg1:T312 Reason:T198	
+R96	HappensAtOnDuring Arg1:T319 Arg2:T205	
+T369	ap_end 8464 8469	DVTs.
+T370	ap_start 6342 6352	ASSESSMENT
+T371	hpi_end 2094 2103	pruritis.
+T372	hpi_start 34 44	SUBJECTIVE
+R97	EndsOnOrAt Arg1:T258 Arg2:T260	
+R98	HappensAtOnDuring Arg1:T263 Arg2:T262	

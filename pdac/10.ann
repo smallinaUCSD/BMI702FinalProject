@@ -1,0 +1,625 @@
+T1	SectionAnnotate 428 454	History of Present Illness
+T2	SectionAnnotate 1932 2001	present review of systems was reviewed and notable for the following:
+T3	SectionAnnotate 2692 2713	Past Medical History:
+T4	SectionSkip 2871 3487	Medications the patient states to be taking prior to today's encounter.   Medication Sig    acetaminophen (TYLENOL) 500 mg tablet Take 1,000 mg by mouth daily as needed for Pain    ibuprofen (ADVIL,MOTRIN) 200 mg tablet Take 200 mg by mouth daily as needed for Pain    lipase-protease-amylase 5,000-17,000- 24,000 unit CAPDREC Take 1 capsule by mouth 3 (three) times daily with meals    metFORMIN (GLUCOPHAGE) 500 mg tablet Take 500 mg by mouth daily    ondansetron (ZOFRAN) 8 mg tablet Take 8 mg by mouth every 8 (eight) hours as needed for Nausea    simvastatin (ZOCOR) 40 mg tablet Take 40 mg by mouth daily
+T5	SectionAnnotate 3549 3564	FAMILY HISTORY:
+T6	SectionAnnotate 3566 3580	Family History
+T7	SectionAnnotate 3835 3862	PERSONAL AND SOCIAL HISTORY
+T8	SectionAnnotate 3864 3878	Social History
+T9	SectionAnnotate 4352 4376	Social History Narrative
+T10	SectionSkip 4874 5666	PHYSICAL EXAM via video observation:   Vitals: Not performed as today's visit was conducted via video  Constitutional: Normal appearance. No acute distress. Not ill-appearing. Not diaphoretic.  Head: Normocephalic, atraumatic. External ears normal. Nose normal.    Eyes: Extraocular movements intact. Conjunctivae normal. No eye discharge. No scleral icterus.  Neck: Normal range of motion.   Pulmonary/Chest: Normal effort. No respiratory distress. No cough.  GI: No abdominal distention.   Musculoskeletal: No apparent edema.   Skin: Not jaundiced. Not pale. No visible erythema. No visible rash.  Neurological: Alert and oriented to person, place and time. Able to stand from sitting and walk.   Psychiatric: Normal mood and affect. Behavior is normal. Judgment and thought content normal.
+T11	SectionSkip 5671 5951	Relevant Diagnostic Studies:    Lab results: I personally reviewed and interpreted each of the patient's relevant lab tests as outlined     03/30/21  Na 130  K 3.8   Cl 
+ 92  Cr 0.92  AST 28  ALT 29  Tbili 1.0  Alk phos 67    WBC 8.8  Hgb 14.4  Plt 286    03/29/21: CA 19-9: 13737
+T13	SectionSkip 6611 8119	FINDINGS *****:   5 mm right lower lobe nodule (image 16) is unchanged. There is a 2.8x 4.2 cm pancreatic neck hypodense mass with associated upstream pancreatic atrophy and pancreatic ductal dilatation.     This mass encompasses the superior mesenteric vein and main portal vein by <180 degrees. There is secondary moderate narrowing of these vessels which remain patent.      This mass encompasses the splenic vein near the confluence of the SMV by <180 degrees. There is severe secondary narrowing with the splenic vein remaining thinly patent.     This mass completely encompasses the gastroduodenal artery which remains fully patent.     The common and proper hepatic arteries are remote and from tumor. Superior mesenteric artery is also remote from tumor.     Hepatic steatosis. There is a 1.3 cm peripherally enhancing anterior right hepatic lobe lesion (image 57). There are additional subtle peripherally enhancing inferior right hepatic lobe lesions including a 7 mm lesion (image 74) and 5 mm lesion (image 70).     Bilateral adrenal thickening. The gallbladder and spleen are unremarkable.     The kidneys show symmetric enhancement. There is no hydronephrosis. No suspicious renal 
+ mass.     Visualized loops of small and large bowel are not dilated. No suspicious abdominal nodes.     Aortic atherosclerosis. Normal abdominal aortic diameter (<3cm).      03/28/21  CT Chest  Normal chest CT.     Abdominal findings noted incidentally on described above, including ill-defined pancreatic mass.
+T14	SectionSkip 8127 8161	Pathology:    03/19/21 EUS FNA/FNB
+T15	SectionSkip 8163 8306	FINAL PATHOLOGIC DIAGNOSIS   PANCREAS, BODY, MASS, FINE NEEDLE BIOPSY:   -   RARE ATYPICAL GLANDS (SEE COMMENT).       Genomics  Pending STRATA
+T16	SectionAnnotate 8310 8341	Impression and Recommendations:
+T17	PROBLEM 306 327	his pancreatic cancer
+T18	PROBLEM 483 497	abdominal pain
+T19	PROBLEM 504 520	35lb weight loss
+T20	PROBLEM 526 532	emesis
+T21	TREATMENT 611 621	omeprazole
+T22	TEST 649 652	EGD
+T23	TEST 678 680	CT
+T24	PROBLEM 685 709	Pancreatic cystic lesion
+T25	PROBLEM 727 746	suspicious features
+T26	PROBLEM 748 800	Additional 1 cm cystic lesion in the pancreatic body
+T27	PROBLEM 813 835	the larger cystic mass
+T28	TREATMENT 862 880	further management
+T29	PROBLEM 891 910	Left adrenal nodule
+T30	PROBLEM 918 944	retroperitoneal lymph node
+T31	TEST 956 963	EGD/EUS
+T32	PROBLEM 965 997	38mm mass in the pancreatic body
+T33	PROBLEM 999 1014	lymphadenopathy
+T34	TEST 1079 1081	CT
+T35	PROBLEM 1089 1136	a 3.7cm ill defined low density pancreatic mass
+T36	PROBLEM 1141 1209	1.4cm hypoattenuating liver mass in the inferior anterior right lobe
+T37	TREATMENT 1258 1265	surgery
+T38	TEST 1286 1302	CT panc protocol
+T39	PROBLEM 1321 1350	borderline resectable disease
+T40	TEST 1363 1368	CT AP
+T41	PROBLEM 1370 1400	2.8x4.2cm pancreatic neck mass
+T42	PROBLEM 1406 1419	PD dilatation
+T43	TEST 1440 1443	MPV
+T44	PROBLEM 1570 1597	1.3cm R hepatic lobe lesion
+T45	PROBLEM 1602 1678	additional subtle peripherally enhancing inferior right hepatic lobe lesions
+T46	TREATMENT 1802 1813	mFOLFIRINOX
+T47	TREATMENT 1900 1915	clinical trials
+T48	PROBLEM 2005 2018	early satiety
+T49	PROBLEM 2020 2026	nausea
+T50	PROBLEM 2042 2058	loss of appetite
+T51	PROBLEM 2070 2081	weight loss
+T52	PROBLEM 2104 2115	constipated
+T53	TREATMENT 2134 2148	stool softener
+T54	TEST 2156 2161	CT AP
+T55	PROBLEM 2169 2188	biliary obstruction
+T56	TEST 2213 2224	repeat labs
+T57	PROBLEM 2240 2257	yellowing of eyes
+T58	PROBLEM 2324 2339	itching of skin
+T59	PROBLEM 2494 2510	prostate, breast
+T60	PROBLEM 2512 2522	stomach ca
+T61	PROBLEM 2524 2532	leukemia
+T62	PROBLEM 2564 2580	a BRCA2 mutation
+T63	TEST 2611 2635	a full review of systems
+T64	PROBLEM 2735 2758	Borderline hypertension
+T65	PROBLEM 2764 2772	Diabetes
+T66	TREATMENT 2801 2810	metformin
+T67	TREATMENT 2871 2882	Medications
+T68	TREATMENT 2945 2955	Medication
+T69	TREATMENT 2964 2987	acetaminophen (TYLENOL)
+T70	PROBLEM 3045 3049	Pain
+T71	TREATMENT 3054 3078	ibuprofen (ADVIL,MOTRIN)
+T72	PROBLEM 3134 3138	Pain
+T73	TREATMENT 3143 3158	lipase-protease
+T74	TREATMENT 3159 3166	amylase
+T75	TREATMENT 3262 3284	metFORMIN (GLUCOPHAGE)
+T76	TREATMENT 3330 3350	ondansetron (ZOFRAN)
+T77	PROBLEM 3418 3424	Nausea
+T78	TREATMENT 3429 3448	simvastatin (ZOCOR)
+T79	PROBLEM 3528 3543	Known Allergies
+T80	PROBLEM 3622 3635	Breast cancer
+T81	PROBLEM 3649 3664	Prostate cancer
+T82	PROBLEM 3678 3692	Stomach cancer
+T83	PROBLEM 3714 3722	Leukemia
+T84	PROBLEM 3735 3750	Prostate cancer
+T85	ClinicalCondition 3780 3808	hereditary pattern of cancer
+T86	PROBLEM 5015 5029	acute distress
+T87	PROBLEM 5054 5065	diaphoretic
+T88	PROBLEM 5089 5099	atraumatic
+T89	PROBLEM 5199 5212	eye discharge
+T90	PROBLEM 5217 5232	scleral icterus
+T91	PROBLEM 5302 5322	respiratory distress
+T92	PROBLEM 5327 5332	cough
+T93	PROBLEM 5342 5362	abdominal distention
+T94	PROBLEM 5386 5400	apparent edema
+T95	PROBLEM 5414 5423	jaundiced
+T96	PROBLEM 5429 5433	pale
+T97	PROBLEM 5438 5454	visible erythema
+T98	PROBLEM 5459 5471	visible rash
+T99	TEST 5821 5823	Na
+T100	TEST 5829 5830	K
+T101	TEST 5837 5839	Cl
+T102	TEST 5846 5848	Cr
+T103	TEST 5855 5858	AST
+T104	TEST 5863 5866	ALT
+T105	TEST 5871 5876	Tbili
+T106	TEST 5882 5890	Alk phos
+T107	TEST 5897 5900	WBC
+T108	TEST 5906 5909	Hgb
+T109	TEST 5916 5919	Plt
+T110	TEST 5937 5939	CA
+T111	TEST 6012 6050	the patient's relevant imaging studies
+T112	TEST 6146 6148	CT
+T113	TEST 6149 6198	AP (*****)  CT PANCREAS WITHOUT AND WITH CONTRAST
+T114	PROBLEM 6251 6273	pancreatic neck cancer
+T115	PROBLEM 6288 6308	vascular involvement
+T116	TEST 6339 6363	CT images of the abdomen
+T117	TEST 6433 6481	Multiphasic post-contrast images of the pancreas
+T118	TEST 6496 6500	CTDI
+T119	TEST 6532 6535	DLP
+T120	TEST 6587 6589	CT
+T121	PROBLEM 6629 6657	5 mm right lower lobe nodule
+T122	PROBLEM 6692 6736	a 2.8x 4.2 cm pancreatic neck hypodense mass
+T123	PROBLEM 6742 6780	associated upstream pancreatic atrophy
+T124	PROBLEM 6785 6813	pancreatic ductal dilatation
+T125	PROBLEM 6819 6828	This mass
+T126	PROBLEM 6917 6962	secondary moderate narrowing of these vessels
+T127	PROBLEM 6989 6998	This mass
+T128	PROBLEM 7085 7111	severe secondary narrowing
+T129	PROBLEM 7163 7172	This mass
+T130	PROBLEM 7313 7318	tumor
+T131	PROBLEM 7367 7372	tumor
+T132	PROBLEM 7378 7395	Hepatic steatosis
+T133	PROBLEM 7406 7472	a 1.3 cm peripherally enhancing anterior right hepatic lobe lesion
+T134	PROBLEM 7495 7571	additional subtle peripherally enhancing inferior right hepatic lobe lesions
+T135	PROBLEM 7582 7595	a 7 mm lesion
+T136	PROBLEM 7611 7622	5 mm lesion
+T137	PROBLEM 7639 7667	Bilateral adrenal thickening
+T138	PROBLEM 7770 7784	hydronephrosis
+T139	PROBLEM 7789 7812	suspicious renal 
+ mass
+T140	PROBLEM 7868 7875	dilated
+T141	PROBLEM 7880 7906	suspicious abdominal nodes
+T142	PROBLEM 7912 7934	Aortic atherosclerosis
+T143	TEST 7992 7994	CT
+T144	TEST 8023 8041	Abdominal findings
+T145	PROBLEM 8091 8118	ill-defined pancreatic mass
+T146	TEST 8127 8136	Pathology
+T147	TEST 8150 8157	EUS FNA
+T148	TEST 8214 8232	FINE NEEDLE BIOPSY
+T149	PROBLEM 8388 8432	newly diagnosed metastatic pancreatic cancer
+T150	TEST 8494 8505	his imaging
+T151	TEST 8507 8516	pathology
+T152	TEST 8522 8537	staging studies
+T153	TREATMENT 8578 8587	treatment
+T154	TREATMENT 8606 8622	systemic therapy
+T155	TREATMENT 8636 8659	locoregional approaches
+T156	TREATMENT 8669 8676	surgery
+T157	TREATMENT 8680 8689	radiation
+T158	TREATMENT 8834 8843	treatment
+T159	TREATMENT 8909 8929	chemotherapy options
+T160	PROBLEM 8934 8962	metastatic pancreatic cancer
+T161	TREATMENT 8983 8990	therapy
+T162	PROBLEM 9041 9061	co-morbid conditions
+T163	TREATMENT 9123 9143	front-line treatment
+T164	TEST 9154 9168	phase III data
+T165	TREATMENT 9178 9209	FOLFIRINOX (biweekly infusional
+T166	TREATMENT 9216 9226	leucovorin
+T167	TREATMENT 9228 9238	irinotecan
+T168	TREATMENT 9244 9255	oxaliplatin
+T169	TREATMENT 9280 9291	gemcitabine
+T170	TREATMENT 9297 9311	nab-paclitaxel
+T171	TREATMENT 9351 9361	FOLFIRINOX
+T172	TREATMENT 9403 9414	care option
+T173	PROBLEM 9533 9561	Metastatic Pancreatic Cancer
+T174	TEST 9621 9631	this study
+T175	TREATMENT 9864 9885	Alternative treatment
+T176	PROBLEM 9889 9910	the patient's disease
+T177	TREATMENT 10050 10069	this clinical trial
+T178	TreatmentType 10264 10277	birth control
+T179	TREATMENT 10537 10562	the prohibited medication
+T180	TREATMENT 10707 10717	medication
+T181	PROBLEM 10770 10778	Jaundice
+T182	TEST 10790 10795	CT AP
+T183	PROBLEM 10835 10847	Cancer stage
+T184	PROBLEM 10862 10868	Cancer
+T185	PROBLEM 10878 10895	Pancreatic cancer
+T186	PROBLEM 11015 11028	Stage IV (cT2
+T187	TREATMENT 11432 11453	any billed procedures
+T188	TEST 11591 11596	tests
+T189	TEST 11801 11816	this evaluation
+T190	TEST 11992 12007	this evaluation
+T191	TEST 12014 12030	telehealth tools
+T192	Datetime 459 467	03/16/21
+T193	Symptom 483 497	abdominal pain
+A1	IsPresentOnFirstCancerDiagnosis T193 yes
+A2	IsCausedByDiagnosedCancer T193 yes
+A3	ChronicVal T193 non-chronic
+T194	Duration 499 502	1mo
+R1	Temporal Arg1:T194 Arg2:T193	
+T195	Symptom 504 521	35lb weight loss,
+A4	IsPresentOnFirstCancerDiagnosis T195 yes
+A5	IsCausedByDiagnosedCancer T195 yes
+A6	ChronicVal T195 non-chronic
+T196	Symptom 526 532	emesis
+A7	IsPresentOnFirstCancerDiagnosis T196 yes
+A8	IsCausedByDiagnosedCancer T196 yes
+A9	ChronicVal T196 non-chronic
+R2	HappensBefore Arg1:T193 Arg2:T192	
+R3	HappensBefore Arg1:T195 Arg2:T192	
+R4	HappensBefore Arg1:T196 Arg2:T192	
+T197	Datetime 668 676	03/16/21
+T198	Radiology 678 683	CT AP
+A10	IntentVal T198 diagnosis
+T199	RadPathResult 696 709;710 718;719 747	cystic lesion >/= 3 cm without suspicious features.
+A11	RadPathResultVal T199 NoDisease
+T200	Site 685 695	Pancreatic
+R5	SiteOf Arg1:T200 Arg2:T199	
+R6	ResultOfTest Desc:T199 Test:T198	
+R7	TestOrProcedureConductedForProblem Test:T198 Prob:T193	
+R8	TestOrProcedureConductedForProblem Test:T198 Prob:T195	
+R9	TestOrProcedureConductedForProblem Test:T198 Prob:T196	
+T201	RadPathResult 759 777	1 cm cystic lesion
+A12	RadPathResultVal T201 NoDisease
+T202	Site 785 835	pancreatic body inferior to the larger cystic mass
+R10	SiteOf Arg1:T202 Arg2:T201	
+R11	ResultOfTest Desc:T201 Test:T198	
+T203	Datetime 946 954	03/19/21
+R12	HappensAtOnDuring Arg1:T198 Arg2:T197	
+T204	ProcedureName 956 963	EGD/EUS
+A13	IntentVal T204 diagnosis
+A14	TreatmentTypeVal T204 others
+A15	TreatmentCategory T204 Others
+T205	ClinicalCondition 970 974	mass
+A16	RadPathResultVal T205 InitialCancerDiagnosis
+T206	ClinicalCondition 999 1014	lymphadenopathy
+A17	RadPathResultVal T206 InitialCancerDiagnosis
+T207	Size 965 969	38mm
+R13	SizeOf Arg1:T207 Arg2:T205	
+T208	Site 982 997	pancreatic body
+R14	SiteOf Arg1:T208 Arg2:T205	
+T209	Site 1024 1035	body region
+R15	SiteOf Arg1:T209 Arg2:T206	
+A18	ContinuityVal T205 new
+A19	ContinuityVal T206 new
+R16	TestOrProcedureReveals Test:T204 Desc:T205	
+R17	TestOrProcedureReveals Test:T204 Desc:T206	
+R18	HappensAtOnDuring Arg1:T204 Arg2:T203	
+T210	GenomicTest 1053 1067	Strata pending
+A20	NegationModalityVal T210 planned_in_future
+A21	GenomicTestType T210 Somatic
+T211	Datetime 1213 1221	03/29/21
+T212	DiagnosticLabTest 1223 1230	CA 19-9
+A22	IntentVal T212 diagnosis
+T213	LabTestResult 1232 1238	13,737
+A23	LabTestResultVal T213 abnormal
+R19	ResultOfTest Desc:T213 Test:T212	
+R20	HappensAtOnDuring Arg1:T212 Arg2:T211	
+T214	Datetime 1069 1077	03/28/21
+T215	Radiology 1079 1087	CT Chest
+A24	IntentVal T215 staging
+T216	RadPathResult 1097 1120;1132 1136	ill defined low density mass
+A25	RadPathResultVal T216 InitialCancerDiagnosis
+T217	RadPathResult 1147 1162;1169 1173	hypoattenuating mass
+A26	RadPathResultVal T217 InitialCancerDiagnosis
+T218	Site 1121 1131	pancreatic
+R21	SiteOf Arg1:T218 Arg2:T216	
+T219	Size 1091 1096	3.7cm
+A27	HistoryVal T219 new
+A28	EpisodeDescription T219 FirstOccurrence
+R22	SizeOf Arg1:T219 Arg2:T216	
+T220	Size 1141 1146	1.4cm
+A29	HistoryVal T220 new
+A30	EpisodeDescription T220 FirstOccurrence
+T221	Site 1163 1168	liver
+T222	Laterality 1181 1209	inferior anterior right lobe
+R24	LateralityOfSite Arg1:T222 Arg2:T221	
+R25	SiteOf Arg1:T221 Arg2:T217	
+R26	ResultOfTest Desc:T216 Test:T215	
+R27	ResultOfTest Desc:T217 Test:T215	
+R28	HappensAtOnDuring Arg1:T215 Arg2:T214	
+T223	Radiology 1286 1302	CT panc protocol
+A31	NegationModalityVal T223 hypothetical_in_future
+A32	IntentVal T223 staging
+T224	ProcedureName 1304 1317	potential trt
+A33	NegationModalityVal T224 hypothetical_in_future
+A34	IntentVal T224 treatment-curative
+A35	TreatmentTypeVal T224 local
+A36	TreatmentCategory T224 AntiNeoPlastics
+T225	Datetime 1240 1248	03/29/21
+R29	HappensAfter Arg1:T225 Arg2:T223	
+R30	HappensAfter Arg1:T225 Arg2:T224	
+T226	DiseaseState 1321 1350	borderline resectable disease
+A37	NegationModalityVal T226 uncertain_in_present
+T227	Datetime 1353 1361	04/01/21
+T228	Radiology 1363 1368	CT AP
+A38	IntentVal T228 staging
+T229	Size 1370 1379	2.8x4.2cm
+A39	HistoryVal T229 new
+A40	EpisodeDescription T229 FirstOccurrence
+T231	Site 1380 1395	pancreatic neck
+R34	HappensAtOnDuring Arg1:T228 Arg2:T227	
+T232	RadPathResult 1591 1597	lesion
+A42	RadPathResultVal T232 InitialCancerDiagnosis
+T233	Site 1578 1590	hepatic lobe
+T234	Laterality 1576 1577	R
+R35	LateralityOfSite Arg1:T234 Arg2:T233	
+R36	SiteOf Arg1:T233 Arg2:T232	
+T235	Size 1570 1575	1.3cm
+A43	HistoryVal T235 new
+A44	EpisodeDescription T235 FirstOccurrence
+R37	SizeOf Arg1:T235 Arg2:T232	
+R38	ResultOfTest Desc:T232 Test:T228	
+T236	RadPathResult 1602 1642;1671 1678	additional subtle peripherally enhancing lesions
+A45	RadPathResultVal T236 InitialCancerDiagnosis
+T237	Site 1658 1670	hepatic lobe
+T238	Laterality 1643 1657	inferior right
+R39	LateralityOfSite Arg1:T238 Arg2:T237	
+R40	SiteOf Arg1:T237 Arg2:T236	
+R41	SiteOf Arg1:T237 Arg2:T236	
+R42	ResultOfTest Desc:T236 Test:T228	
+T239	Size 1680 1691	7mm and 5mm
+A46	HistoryVal T239 new
+A47	EpisodeDescription T239 FirstOccurrence
+R43	SizeOf Arg1:T239 Arg2:T236	
+T240	ClinicalTrial 1758 1781	Precision Promise trial
+A48	NegationModalityVal T240 hypothetical_in_future
+T241	MedicationRegimen 1802 1813	mFOLFIRINOX
+A49	NegationModalityVal T241 hypothetical_in_future
+T242	Datetime 1696 1704	04/03/21
+R44	HappensAfter Arg1:T240 Arg2:T242	
+R45	HappensAfter Arg1:T241 Arg2:T242	
+T243	Symptom 2005 2018	early satiety
+A50	IsPresentOnFirstCancerDiagnosis T243 yes
+A51	IsCausedByDiagnosedCancer T243 yes
+A52	ChronicVal T243 non-chronic
+T244	Symptom 2020 2026;2027 2040	nausea post prandial
+A53	IsPresentOnFirstCancerDiagnosis T244 yes
+A54	IsCausedByDiagnosedCancer T244 yes
+A55	ChronicVal T244 non-chronic
+T245	Symptom 2070 2081;2092 2096	weight loss 35lb
+A56	IsPresentOnFirstCancerDiagnosis T245 yes
+A57	IsCausedByDiagnosedCancer T245 yes
+A58	ChronicVal T245 non-chronic
+T246	Symptom 2042 2058	loss of appetite
+A59	IsPresentOnFirstCancerDiagnosis T246 yes
+A60	IsCausedByDiagnosedCancer T246 yes
+A61	ChronicVal T246 non-chronic
+T247	Symptom 2104 2115	constipated
+A62	IsPresentOnFirstCancerDiagnosis T247 no
+A63	IsCausedByDiagnosedCancer T247 yes
+A64	ChronicVal T247 non-chronic
+T248	MedicationRegimen 2134 2148	stool softener
+A65	TreatmentContinuityVal T248 continuing
+A66	TreatmentTypeVal T248 others
+R46	TreatmentAdministeredForProblem Treatment:T248 Prob:T247	
+T249	Radiology 2156 2161	CT AP
+A67	NegationModalityVal T249 planned_in_future
+A68	IntentVal T249 others
+T250	ClinicalCondition 2169 2188	biliary obstruction
+A69	NegationModalityVal T250 uncertain_in_present
+R47	TestOrProcedureConductedForProblem Test:T249 Prob:T250	
+T251	Symptom 2240 2257	yellowing of eyes
+A70	IsPresentOnFirstCancerDiagnosis T251 no
+A71	IsCausedByDiagnosedCancer T251 yes
+A72	ChronicVal T251 non-chronic
+T252	Duration 2265 2279	past two weeks
+R48	HappensAtOnDuring Arg1:T251 Arg2:T252	
+T253	PhysicalActivity 2283 2295	energy is ok
+T254	Symptom 2324 2339	itching of skin
+A73	NegationModalityVal T254 negated
+T255	Symptom 2353 2379	lower back started hurting
+A74	IsPresentOnFirstCancerDiagnosis T255 no
+A75	IsCausedByDiagnosedCancer T255 yes
+A76	ChronicVal T255 non-chronic
+T256	ClinicalCondition 2494 2502;2520 2522	prostate ca
+A77	ExperiencerVal T256 family
+T257	ClinicalCondition 2504 2510;2520 2522	breast ca
+A78	ExperiencerVal T257 family
+T258	ClinicalCondition 2512 2519;2520 2522	stomach ca
+A79	ExperiencerVal T258 family
+T259	ClinicalCondition 2524 2532	leukemia
+A80	ExperiencerVal T259 family
+T260	GenomicTestResult 2566 2580	BRCA2 mutation
+A81	ExperiencerVal T260 family
+A82	GenomicTestType T260 Germline
+T261	Datetime 2584 2588	2020
+R49	HappensAtOnDuring Arg1:T260 Arg2:T261	
+T262	SectionSkip 2871 3487	Medications the patient states to be taking prior to today's encounter.   Medication Sig    acetaminophen (TYLENOL) 500 mg tablet Take 1,000 mg by mouth daily as needed for Pain    ibuprofen (ADVIL,MOTRIN) 200 mg tablet Take 200 mg by mouth daily as needed for Pain    lipase-protease-amylase 5,000-17,000- 24,000 unit CAPDREC Take 1 capsule by mouth 3 (three) times daily with meals    metFORMIN (GLUCOPHAGE) 500 mg tablet Take 500 mg by mouth daily    ondansetron (ZOFRAN) 8 mg tablet Take 8 mg by mouth every 8 (eight) hours as needed for Nausea    simvastatin (ZOCOR) 40 mg tablet Take 40 mg by mouth daily
+A83	SectionSkipType T262 medications
+T263	SectionSkip 3496 3543	Allergies/Contraindications  No Known Allergies
+A84	SectionSkipType T263 allergies
+T264	ClinicalCondition 2735 2758	Borderline hypertension
+A85	ChronicVal T264 chronic
+A86	ContinuityVal T264 stable
+T265	ClinicalCondition 2764 2772	Diabetes
+A87	ChronicVal T265 chronic
+A88	ContinuityVal T265 stable
+T266	MedicationName 2801 2810	metformin
+A89	TreatmentContinuityVal T266 continuing
+A90	TreatmentTypeVal T266 others
+R50	TreatmentAdministeredForProblem Treatment:T266 Prob:T265	
+T267	ClinicalCondition 3735 3750	Prostate cancer
+A91	ExperiencerVal T267 family
+T268	Tobacco 4150 4162	Never Smoker
+A92	NegationModalityVal T268 negated
+T269	PerformanceStatus 4854 4855	0
+A93	PerformanceStatusType T269 ECOG
+T270	ClinicalCondition 3622 3635	Breast cancer
+A94	ExperiencerVal T270 family
+T271	ClinicalCondition 3649 3664	Prostate cancer
+A95	ExperiencerVal T271 family
+T272	ClinicalCondition 3678 3692	Stomach cancer
+A96	ExperiencerVal T272 family
+T273	ClinicalCondition 3714 3722	Leukemia
+A97	ExperiencerVal T273 family
+T274	Age 8370 8377	52 y.o.
+T275	ClinicalCondition 8415 8433	pancreatic cancer.
+T276	Metastasis 8404 8414	metastatic
+A98	EpisodeDescription T276 FirstOccurrence
+R51	TumorDesc TumorDetails:T276 Desc:T275	
+T277	TreatmentType 8606 8622	systemic therapy
+A99	TreatmentContinuityVal T277 planned
+A100	TreatmentTypeVal T277 maintenance
+T278	TreatmentType 9123 9143	front-line treatment
+A101	TreatmentContinuityVal T278 planned
+A102	TreatmentTypeVal T278 maintenance
+T279	MedicationRegimen 9178 9188	FOLFIRINOX
+A104	TreatmentTypeVal T279 maintenance
+T280	MedicationName 9199 9214	infusional 5-FU
+A105	TreatmentContinuityVal T280 planned
+A106	TreatmentTypeVal T280 maintenance
+T281	MedicationName 9216 9226	leucovorin
+A107	TreatmentContinuityVal T281 planned
+A108	TreatmentTypeVal T281 maintenance
+A109	TreatmentIntentVal T281 palliative
+A110	TreatmentCategory T281 AntiNeoPlastics
+A111	TreatmentIntentVal T280 palliative
+A112	TreatmentCategory T280 AntiNeoPlastics
+A113	TreatmentIntentVal T279 palliative
+A114	TreatmentIntentVal T278 palliative
+A115	TreatmentIntentVal T277 palliative
+T282	MedicationName 9228 9238	irinotecan
+A116	TreatmentContinuityVal T282 planned
+A117	TreatmentTypeVal T282 maintenance
+A118	TreatmentIntentVal T282 palliative
+A119	TreatmentCategory T282 AntiNeoPlastics
+T283	MedicationName 9244 9255	oxaliplatin
+A120	TreatmentContinuityVal T283 planned
+A121	TreatmentTypeVal T283 maintenance
+A122	TreatmentIntentVal T283 palliative
+A123	TreatmentCategory T283 AntiNeoPlastics
+T284	Frequency 9190 9198	biweekly
+R52	Temporal Arg1:T284 Arg2:T279	
+T285	MedicationRegimen 9280 9311	gemcitabine plus nab-paclitaxel
+A124	NegationModalityVal T285 hypothetical_in_future
+A125	TreatmentContinuityVal T285 planned
+A126	TreatmentTypeVal T285 maintenance
+A127	TreatmentIntentVal T285 palliative
+A103	NegationModalityVal T279 hypothetical_in_future
+A128	NegationModalityVal T280 hypothetical_in_future
+A129	NegationModalityVal T281 hypothetical_in_future
+A130	NegationModalityVal T282 hypothetical_in_future
+A131	NegationModalityVal T283 hypothetical_in_future
+T286	MedicationRegimen 9351 9361	FOLFIRINOX
+A132	NegationModalityVal T286 planned_in_future
+A133	TreatmentContinuityVal T286 planned
+A134	TreatmentTypeVal T286 maintenance
+A135	TreatmentIntentVal T286 palliative
+T287	Symptom 10770 10778	Jaundice
+A136	IsPresentOnFirstCancerDiagnosis T287 no
+A137	IsCausedByDiagnosedCancer T287 yes
+A138	ChronicVal T287 non-chronic
+T288	Radiology 10790 10795	CT AP
+A139	NegationModalityVal T288 planned_in_future
+A140	IntentVal T288 diagnosis
+R53	TestOrProcedureConductedForProblem Test:T288 Prob:T287	
+T289	Stage 11021 11023	IV
+A141	EpisodeDescription T289 FirstOccurrence
+T290	ClinicalCondition 10878 10895	Pancreatic cancer
+T291	Metastasis 10896 10908	metastasized
+A142	EpisodeDescription T291 FirstOccurrence
+T292	Site 10912 10917	liver
+R54	SiteOf Arg1:T292 Arg2:T291	
+R55	TumorDesc TumorDetails:T291 Desc:T290	
+R56	TumorDesc TumorDetails:T289 Desc:T290	
+T293	ClinicalTrial 9496 9528	Precision Promise Platform Trial
+A143	NegationModalityVal T293 hypothetical_in_future
+T294	Metastasis 9533 9543	Metastatic
+A144	EpisodeDescription T294 FirstOccurrence
+T295	ClinicalCondition 9544 9561	Pancreatic Cancer
+R57	TumorDesc TumorDetails:T294 Desc:T295	
+R58	InclusionCriteriaFor Arg1:T295 Arg2:T293	
+T296	SectionSkip 4874 5666	PHYSICAL EXAM via video observation:   Vitals: Not performed as today's visit was conducted via video  Constitutional: Normal appearance. No acute distress. Not ill-appearing. Not diaphoretic.  Head: Normocephalic, atraumatic. External ears normal. Nose normal.    Eyes: Extraocular movements intact. Conjunctivae normal. No eye discharge. No scleral icterus.  Neck: Normal range of motion.   Pulmonary/Chest: Normal effort. No respiratory distress. No cough.  GI: No abdominal distention.   Musculoskeletal: No apparent edema.   Skin: Not jaundiced. Not pale. No visible erythema. No visible rash.  Neurological: Alert and oriented to person, place and time. Able to stand from sitting and walk.   Psychiatric: Normal mood and affect. Behavior is normal. Judgment and thought content normal.
+T297	SectionSkip 5671 5839;5842 5951	Relevant Diagnostic Studies:    Lab results: I personally reviewed and interpreted each of the patient's relevant lab tests as outlined     03/30/21  Na 130  K 3.8   Cl 92  Cr 0.92  AST 28  ALT 29  Tbili 1.0  Alk phos 67    WBC 8.8  Hgb 14.4  Plt 286    03/29/21: CA 19-9: 13737
+A145	SectionSkipType T297 laboratory
+T298	SectionSkip 5955 7805;7808 8118	Radiology: I personally reviewed and interpreted each of the patient's relevant imaging studies in conjunction with the corresponding formal radiology reports, as outlined in HPI    03/29/21 CT AP (*****)  CT PANCREAS WITHOUT AND WITH CONTRAST     ***** HISTORY *****:   52 years old, history of pancreatic neck cancer. Evaluate for vascular involvement.     ***** TECHNIQUE *****:   CT images of the abdomen acquired without and with 130 mL Omnipaque 300 intravenous contrast. Multiphasic post-contrast images of the pancreas acquired.     CTDI: 10.15,10.88,12.69,12.68 mGy   DLP: 278.61,10.88,339.05,338.71 mGy-cm     COMPARISON: CT 03/16/2021     ***** FINDINGS *****:   5 mm right lower lobe nodule (image 16) is unchanged. There is a 2.8x 4.2 cm pancreatic neck hypodense mass with associated upstream pancreatic atrophy and pancreatic ductal dilatation.     This mass encompasses the superior mesenteric vein and main portal vein by <180 degrees. There is secondary moderate narrowing of these vessels which remain patent.      This mass encompasses the splenic vein near the confluence of the SMV by <180 degrees. There is severe secondary narrowing with the splenic vein remaining thinly patent.     This mass completely encompasses the gastroduodenal artery which remains fully patent.     The common and proper hepatic arteries are remote and from tumor. Superior mesenteric artery is also remote from tumor.     Hepatic steatosis. There is a 1.3 cm peripherally enhancing anterior right hepatic lobe lesion (image 57). There are additional subtle peripherally enhancing inferior right hepatic lobe lesions including a 7 mm lesion (image 74) and 5 mm lesion (image 70).     Bilateral adrenal thickening. The gallbladder and spleen are unremarkable.     The kidneys show symmetric enhancement. There is no hydronephrosis. No suspicious renal mass.     Visualized loops of small and large bowel are not dilated. No suspicious abdominal nodes.     Aortic atherosclerosis. Normal abdominal aortic diameter (<3cm).      03/28/21  CT Chest  Normal chest CT.     Abdominal findings noted incidentally on described above, including ill-defined pancreatic mass
+T299	SectionSkip 8127 8306	Pathology:    03/19/21 EUS FNA/FNB  FINAL PATHOLOGIC DIAGNOSIS   PANCREAS, BODY, MASS, FINE NEEDLE BIOPSY:   -   RARE ATYPICAL GLANDS (SEE COMMENT).       Genomics  Pending STRATA
+R59	TestOrProcedureReveals Test:T204 Desc:T207	
+R60	TestOrProcedureReveals Test:T215 Desc:T219	
+R62	TestOrProcedureReveals Test:T215 Desc:T220	
+R23	SizeOf Arg1:T220 Arg2:T217	
+R61	TestOrProcedureReveals Test:T228 Desc:T229	
+R63	TestOrProcedureReveals Test:T228 Desc:T239	
+R64	TestOrProcedureReveals Test:T228 Desc:T235	
+T300	Datetime 2784 2794	March 2021
+R65	HappensAtOnDuring Arg1:T265 Arg2:T300	
+T301	Employment 4380 4405	Works as a ***** in *****
+A146	IsStoppedOrContinuing T301 continuing
+T302	PatientCharacteristics 4413 4436	two twin 12yo daughters
+T12	Datetime 10822 10827	today
+R66	HappensAtOnDuring Arg1:T288 Arg2:T12	
+T303	TNM 11025 11038	cT2, cN1, cM1
+A147	EpisodeDescription T303 FirstOccurrence
+R67	TumorDesc TumorDetails:T290 Desc:T303	
+T304	ClinicalCondition 310 327	pancreatic cancer
+A148	ChronicVal T304 non-chronic
+T305	Datetime 581 593	January 2021
+T306	ClinicalCondition 570 577	hpylori
+A149	ChronicVal T306 chronic
+R68	HappensOverlapping Arg1:T305 Arg2:T306	
+T307	MedicationName 611 621	omeprazole
+A150	TreatmentContinuityVal T307 unclear
+A151	TreatmentTypeVal T307 others
+A152	TreatmentIntentVal T307 others
+A153	TreatmentCategory T307 Others
+R69	TreatmentAdministeredForProblem Treatment:T307 Prob:T306	
+T308	ProcedureName 649 657	EGD/colo
+A154	IntentVal T308 others
+A155	TreatmentTypeVal T308 others
+A156	TreatmentCategory T308 Others
+A157	NegationModalityVal T308 planned_in_future
+R70	TestOrProcedureConductedForProblem Test:T308 Prob:T306	
+T309	RadPathResult 824 835	cystic mass
+A158	RadPathResultVal T309 NoDisease
+R71	ResultOfTest Desc:T309 Test:T198	
+T310	RadPathResult 904 910	nodule
+A159	RadPathResultVal T310 Unclear
+T311	Laterality 891 895	Left
+T312	Site 896 903	adrenal
+R72	LateralityOfSite Arg1:T311 Arg2:T312	
+R73	SiteOf Arg1:T312 Arg2:T310	
+T313	LymphNodeInvolvement 934 944	lymph node
+A160	NegationModalityVal T313 uncertain_in_present
+T314	Site 918 932	retroperitonea
+R74	SiteOf Arg1:T314 Arg2:T313	
+R75	ResultOfTest Desc:T310 Test:T198	
+T315	RadPathResult 934 944	lymph node
+A161	RadPathResultVal T315 Unclear
+R76	ResultOfTest Desc:T315 Test:T198	
+T316	ProcedureName 1037 1044	FNA/FNB
+A162	IntentVal T316 diagnosis
+R77	HappensAtOnDuring Arg1:T203 Arg2:T210	
+R78	HappensAtOnDuring Arg1:T203 Arg2:T316	
+T317	LocalInvasion 1321 1342	borderline resectable
+A163	NegationModalityVal T317 uncertain_in_present
+T230	RadPathResult 1396 1400	mass
+A41	RadPathResultVal T230 InitialCancerDiagnosis
+R31	SiteOf Arg1:T231 Arg2:T230	
+R32	SizeOf Arg1:T229 Arg2:T230	
+T318	RadPathResult 1406 1419	PD dilatation
+A164	RadPathResultVal T318 Others
+T319	LocalInvasion 1421 1431	compresses
+A165	EpisodeDescription T319 FirstOccurrence
+T320	LocalInvasion 1461 1472	encompasses
+T321	Site 1473 1485	splenic vein
+T322	Site 1432 1435	SMV
+T323	Site 1440 1443	MPV
+R33	SiteOf Arg1:T322 Arg2:T319	
+R79	SiteOf Arg1:T323 Arg2:T319	
+R80	SiteOf Arg1:T321 Arg2:T320	
+T324	LocalInvasion 1531 1542	encompasses
+A166	EpisodeDescription T324 FirstOccurrence
+T325	Site 1543 1546	GDA
+R81	SiteOf Arg1:T325 Arg2:T324	
+R82	TestOrProcedureReveals Test:T228 Desc:T324	
+R83	ResultOfTest Desc:T230 Test:T228	
+R84	ResultOfTest Desc:T318 Test:T228	
+R85	TestOrProcedureReveals Test:T228 Desc:T319	
+R86	TestOrProcedureReveals Test:T228 Desc:T320	
+T326	ClinicalTrial 1900 1915	clinical trials
+A167	NegationModalityVal T326 hypothetical_in_future
+A168	ContinuityVal T251 new
+A169	NegationModalityVal T85 negated
+A170	ExperiencerVal T85 family
+T327	SDoH 3927 3934	Married
+A171	IsStoppedOrContinuing T327 continuing
+T328	Alcohol 4246 4251	Never
+A172	NegationModalityVal T328 negated
+T329	TreatmentType 8669 8676	surgery
+A173	TreatmentTypeVal T329 local
+A174	TreatmentIntentVal T329 palliative
+A175	NegationModalityVal T329 hypothetical_in_future
+T330	TreatmentType 8680 8689	radiation
+A176	NegationModalityVal T330 hypothetical_in_future
+A177	TreatmentTypeVal T330 local
+A178	TreatmentIntentVal T330 palliative
+T331	TreatmentType 8909 8929	chemotherapy options
+A179	TreatmentContinuityVal T331 planned
+A180	TreatmentTypeVal T331 maintenance
+A181	TreatmentIntentVal T331 palliative
+T332	ClinicalCondition 8945 8962	pancreatic cancer
+A182	ChronicVal T332 non-chronic
+T333	Metastasis 8934 8944	metastatic
+R87	TumorDesc TumorDetails:T333 Desc:T332	
+T334	PerformanceStatus 9021 9039	performance status
+A183	PerformanceStatusType T334 Other
+A184	NegationModalityVal T178 hypothetical_in_future
+A185	TreatmentTypeVal T178 others
+A186	TreatmentIntentVal T178 others
+T335	Datetime 11003 11013	04/18/2021
+R88	HappensAtOnDuring Arg1:T335 Arg2:T289	
+R89	HappensAtOnDuring Arg1:T335 Arg2:T303	
+T336	Datetime 11071 11081	04/18/2021
+T337	Age 215 217	52
+T338	ClinicalCondition 1343 1350	disease
+A187	ChronicVal T338 non-chronic
+R90	TestOrProcedureConductedForProblem Test:T224 Prob:T338	
+T339	PatientCharacteristics 4413 4432	two twin ***** kids
+T340	ap_start 8310 8320	Impression
+T341	ap_end 11077 11081	2021
+T342	hpi_end 1915 1916	.
+T343	Datetime 79 89	12/24/1968
+T344	Datetime 141 151	04/18/2021
+T345	hpi_start 0 7	INITIAL

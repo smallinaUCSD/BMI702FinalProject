@@ -1,0 +1,993 @@
+T1	SectionAnnotate 195 222	HISTORY OF PRESENT ILLNESS:
+T2	SectionAnnotate 2975 2992	Review of Systems
+T4	SectionAnnotate 3934 3955	Past Medical History:
+T5	SectionAnnotate 4294 4316	Past Surgical History:
+T6	SectionSkip 4896 6560	Current Medications       Dosage    albuterol 90 mcg/actuation metered dose inhaler Inhale 1-2 puffs into the lungs every 6 (six) hours as needed.     cetirizine (ZYRTEC) 10 mg tablet Take 10 mg by mouth daily as needed.     diphenoxylate-atropine (LOMOTIL) 2.5-0.025 mg tablet Take 2 tabs after each loose bowel movement. You can take up to 8 tabs a day. FOR DIARRHEA.    fluticasone propion-salmeterol (ADVAIR DISKUS) 100-50 mcg/dose diskus inhaler Inhale 1 puff into the lungs Twice a day.    lipase-protease-amylase (CREON) 24,000-76,000 -120,000 unit CAPDREC capsule take 3-4 caps with each meal and April 23 caps with each snack.    LORazepam (ATIVAN) 1 mg tablet Take 1 tablet (1 mg total) by mouth every 8 (eight) hours as needed (nausea/vomiting).    metoclopramide HCl (REGLAN) 10 mg tablet Take 1 tab 30 minutes prior to every meal. Take 3 times a day. For NAUSEA.    mirtazapine (REMERON) 15 mg tablet Take 1 tablet (15 mg total) by mouth nightly at bedtime.    OLANZapine (ZYPREXA) 5 mg tablet Take 1 or 2 tabs on the 
+ day of chemotherapy followed by 1 or 2 tabs once daily for 3 days following chemotherapy infusion. FOR NAUSEA.    olopatadine (PATANOL) 0.1 % ophthalmic solution Apply 1 drop to eye.    oxyCODONE (ROXICODONE) 5 mg tablet Take 1-2 tablets (5-10 mg total) by mouth every 4 (four) hours as needed for Pain.    ranitidine (ZANTAC) 150 mg tablet Take 150 mg by mouth Twice a day.    TRIAMCINOLONE ACETONIDE (NASACORT NASAL) by Nasal route daily as needed.       Hospital Medications       Dosage    heparin flush 100 unit/mL injection syringe 500 Units Inject 5 mLs (500 Units total) into the vein As needed (line flush after each use).
+T7	SectionAnnotate 6767 6781	Family History
+T8	SectionAnnotate 7222 7236	Social History
+T9	SectionAnnotate 7991 8015	Social History Narrative
+T10	SectionSkip 8039 8243	OBJECTIVE ASSESSMENT  BP 105/59  | Pulse 80  | Temp 36.8 C (98.2 F) (Oral)  | Resp 18  | Ht 154.9 cm (5' 0.98") Comment: April 2018 | Wt 53.9 kg (118 lb 14.4 oz)  | SpO2 100%  | BMI 22.48 kg/m     ECOG: 1
+T11	SectionSkip 8247 9317	Physical Exam   Nursing note and vitals reviewed.  Constitutional: She is oriented to person, place, and time. She appears well-developed and well-nourished.   HENT:   Head: Normocephalic.   Right Ear: External ear normal.   Left Ear: External ear normal.   Eyes: Pupils are equal, round, and reactive to light. EOM are normal. No scleral icterus.   Neck: Neck supple. No tracheal deviation present. No thyromegaly present.   Cardiovascular: Normal rate, regular rhythm and intact distal pulses. Exam reveals no friction rub.   Pulmonary/Chest: Breath sounds normal. No respiratory distress. She exhibits no tenderness.   Abdominal: Soft. Bowel sounds are normal. There is no tenderness. There is no rebound.   Musculoskeletal: Normal range of motion. She exhibits no edema, tenderness or deformity.   Neurological: She is alert and oriented to person, place, and time. No cranial nerve deficit. She exhibits normal muscle tone.   Skin: Skin is warm and dry. No rash noted.   Psychiatric: She has a normal mood and affect. Her behavior is normal. Thought content normal.
+T13	SectionSkip 9322 10621	LABORATORY RESULTS  I have reviewed the following labs in clinic today and discussed them with the patient.  Lab Results   Component Value Date    WBC Count 5.3 08/12/2018    Neutrophil Absolute Count 3.56 08/12/2018    Hemoglobin 10.1 (L) 08/12/2018    Hematocrit 32.1 (L) 08/12/2018    Platelet Count 159 08/12/2018     Lab Results   Component Value Date    Creatinine 0.51 08/12/2018    Sodium, Serum / Plasma 136 07/29/2018    Potassium, Serum / Plasma 4.2 07/29/2018    Calcium, total, Serum / Plasma 
+ 8.3 (L) 07/29/2018     Lab Results   Component Value Date    Bilirubin, Total 0.4 08/12/2018    Alkaline Phosphatase 61 08/12/2018    Aspartate transaminase 28 08/12/2018    Alanine transaminase 25 08/12/2018    Albumin, Serum / Plasma 3.1 (L) 07/29/2018    Int'l Normaliz Ratio 1.1 02/28/2018     Lab Results   Component Value Date    Cancer Antigen 19-9 1,109 (H) 07/15/2018    Cancer Antigen 19-9 2,762 (H) 06/17/2018    Cancer Antigen 19-9 3,525 (H) 05/20/2018    Carcinoembryonic Antigen 3.0 08/04/2015    Carcinoembryonic Antigen 2.7 06/07/2015    Carcinoembryonic Antigen 2.5 04/04/2015     Molecular: BRCA variant of unknown significance in the setting of a family history of cancer and a personal history of breast and pancreatic cancer.  K-ras and CDKN2a and APC mutations as well.
+T14	SectionSkip 9644 9848	Lab Results   Component Value Date    Creatinine 0.51 08/12/2018    Sodium, Serum / Plasma 136 07/29/2018    Potassium, Serum / Plasma 4.2 07/29/2018    Calcium, total, Serum / Plasma 
+ 8.3 (L) 07/29/2018
+T17	SectionAnnotate 11072 11083	Impression:
+T18	ClinicalCondition 67 84	Pancreatic Cancer
+T19	PROBLEM 123 151	metastatic pancreatic cancer
+T20	PROBLEM 153 161	BRCA VUS
+T21	PROBLEM 163 187	Lung predominant disease
+T22	TEST 262 272	evaluation
+T23	PROBLEM 276 308	her metastatic pancreatic cancer
+T24	TREATMENT 353 371	1st line treatment
+T25	TREATMENT 377 387	FOLFIRINOX
+T26	TREATMENT 460 474	10 cycles- XRT
+T27	ClinicalCondition 497 500	SLE
+T28	TREATMENT 538 548	FOLFIRINOX
+T29	PROBLEM 555 576	peripheral neuropathy
+T30	TREATMENT 594 624	treatment    2ndline treatment
+T31	TREATMENT 626 644	PD in lungs biopsy
+T32	TREATMENT 653 678	5FU &liposomal irinotecan
+T33	TREATMENT 764 784	olanzapine (Zyprexa)
+T34	TREATMENT 852 855	5FU
+T35	TREATMENT 857 877	liposomal irinotecan
+T36	Radiology 889 893	Scan
+T37	PROBLEM 901 927	slight increase in primary
+T38	TEST 933 935	CA
+T39	TREATMENT 968 975	C19 5FU
+T40	TREATMENT 977 997	liposomal irinotecan
+T41	TREATMENT 1012 1037	5FU +liposomal irinotecan
+T42	TREATMENT 1066 1069	5FU
+T43	ClinicalCondition 1078 1089	neutropenia
+T44	TEST 1134 1141	CT scan
+T45	PROBLEM 1149 1182	interval progression in the lungs
+T46	PROBLEM 1191 1211	disease in the liver
+T47	TREATMENT 1233 1258	5FU +liposomal irinotecan
+T48	TEST 1272 1274	CT
+T49	PROBLEM 1282 1308	essentially stable disease
+T50	TREATMENT 1338 1378	a catheter-related clot in the right SVC
+T51	ProcedureName 1392 1432	IR removal of indwelling venous catheter
+T52	TREATMENT 1438 1474	placement of midline venous catheter
+T53	TREATMENT 1497 1522	5FU +liposomal irinotecan
+T54	TREATMENT 1565 1598	single-agent liposomal irinotecan
+T55	TREATMENT 1610 1652	Cycle 35 single-agent liposomal irinotecan
+T56	TEST 1666 1668	CT
+T57	PROBLEM 1676 1690	stable disease
+T58	DiagnosticLabTest 1701 1714	tumor markers
+T59	PROBLEM 1766 1777	symptomatic
+T60	PROBLEM 1783 1797	ongoing nausea
+T61	PROBLEM 1798 1806	vomiting
+T62	PROBLEM 1833 1852	disease progression
+T63	TREATMENT 1854 1874	Liposomal irinotecan
+T64	PROBLEM 2007 2021	the BRCA2 gene
+T65	TREATMENT 2105 2119	nab-paclitaxel
+T66	ClinicalCondition 2223 2241	hyperbilirubinemia
+T67	PROBLEM 2246 2272	gastric outlet obstruction
+T68	TEST 2274 2278	ERCP
+T69	ClinicalCondition 2300 2334	high grade post-bulbar obstruction
+T70	TREATMENT 2357 2370	the endoscope
+T71	ProcedureName 2375 2388	the procedure
+T72	ProcedureName 2412 2430	uncomplicated PTBD
+T73	TREATMENT 2463 2479	a duodenal stent
+T74	TREATMENT 2614 2625	Gemcitabine
+T75	TREATMENT 2628 2636	Abraxane
+T76	TREATMENT 2656 2667	Gemcitabine
+T77	TREATMENT 2670 2678	Abraxane
+T78	TREATMENT 2697 2708	Gemcitabine
+T79	TREATMENT 2711 2719	Abraxane
+T80	TREATMENT 2739 2750	Gemcitabine
+T81	TREATMENT 2753 2761	Abraxane
+T82	TREATMENT 2780 2791	Gemcitabine
+T83	TREATMENT 2794 2802	Abraxane
+T84	TREATMENT 2822 2833	Gemcitabine
+T85	TREATMENT 2836 2844	Abraxane
+T86	TREATMENT 2862 2873	Gemcitabine
+T87	TREATMENT 2876 2884	Abraxane
+T88	PROBLEM 2907 2927	Worsening neuropathy
+T89	PROBLEM 2930 2947	Improved abd pain
+T90	PROBLEM 2951 2967	Trouble sleeping
+T91	PROBLEM 3024 3030	chills
+T92	PROBLEM 3032 3043	diaphoresis
+T93	PROBLEM 3045 3050	fever
+T94	PROBLEM 3052 3059	malaise
+T95	PROBLEM 3060 3067	fatigue
+T96	PROBLEM 3072 3083	weight loss
+T97	PROBLEM 3106 3116	nosebleeds
+T98	Symptom 3177 3182	cough
+T99	Symptom 3184 3194	hemoptysis
+T100	Symptom 3199 3218	shortness of breath
+T101	Symptom 3252 3262	chest pain
+T102	Symptom 3267 3279	leg swelling
+T103	Symptom 3314 3328	abdominal pain
+T104	Symptom 3343 3355	constipation
+T105	Symptom 3357 3365	diarrhea
+T106	Symptom 3367 3373	nausea
+T107	Symptom 3378 3386	vomiting
+T108	Symptom 3418 3428	flank pain
+T109	Symptom 3433 3440	urgency
+T110	Symptom 3474 3479	falls
+T111	Symptom 3481 3491	joint pain
+T112	Symptom 3496 3505	neck pain
+T113	Symptom 3539 3546	itching
+T114	Symptom 3577 3591	sensory change
+T115	Symptom 3606 3615	dizziness
+T116	Symptom 3617 3624	tremors
+T117	Symptom 3626 3639	speech change
+T118	Symptom 3641 3655	focal weakness
+T119	Symptom 3660 3681	loss of consciousness
+T120	Symptom 3756 3766	depression
+T121	Symptom 3768 3779	memory loss
+T122	Symptom 3847 3854	anxious
+T123	Symptom 3873 3881	insomnia
+T124	TEST 3886 3903	All other systems
+T125	ClinicalCondition 3979 3985	Asthma
+T126	ClinicalCondition 3991 4010	Breast cancer (HCC)
+T127	ProcedureName 4016 4036	Difficult intubation
+T128	TREATMENT 4091 4117	easy intubation Glidescope
+T129	TREATMENT 4119 4144	Glidescope LoPro T4 vs T3
+T130	ProcedureName 4175 4210	continuous positive airway pressure
+T131	ProcedureName 4212 4225	CPAP) therapy
+T132	ClinicalCondition 4231 4236	Lupus
+T133	Symptom 4242 4248	Nausea
+T134	ClinicalCondition 4264 4287	Obstructive sleep apnea
+T135	TREATMENT 4319 4366	Procedure Laterality Date    BREAST LUMPECTOMY
+T136	ProcedureName 4386 4406	Chest port placement
+T137	ProcedureName 4434 4437;4443 4461	EGD PEG/TUBE PLACEMENT
+T138	TREATMENT 4443 4461	PEG/TUBE PLACEMENT
+T139	TREATMENT 4478 4515	IR PERCUTANEOUS CHOLECYSTOSTOMY DRAIN
+T140	ProcedureName 4554 4591	IR PERCUTANEOUS CHOLECYSTOSTOMY DRAIN
+T141	ProcedureName 4664 4681	IR PORT PLACEMENT
+T142	ProcedureName 4739 4756	IR PORT PLACEMENT
+T143	TEST 4852 4863	LUNG BIOPSY
+T144	ProcedureName 4874 4888	TUBAL LIGATION
+T145	TREATMENT 4904 4915	Medications
+T146	TREATMENT 4922 4941	Dosage    albuterol
+T147	MedicationName 5047 5066	cetirizine (ZYRTEC)
+T148	MedicationName 5121 5153	diphenoxylate-atropine (LOMOTIL)
+T149	PROBLEM 5256 5264	DIARRHEA
+T150	MedicationName 5269 5315	fluticasone propion-salmeterol (ADVAIR DISKUS)
+T151	MedicationName 5392 5423	lipase-protease-amylase (CREON)
+T152	TREATMENT 5460 5467	capsule
+T153	MedicationName 5535 5553	LORazepam (ATIVAN)
+T154	PROBLEM 5635 5641	nausea
+T155	PROBLEM 5642 5650	vomiting
+T156	MedicationName 5656 5683	metoclopramide HCl (REGLAN)
+T157	Symptom 5764 5770	NAUSEA
+T158	MedicationName 5775 5796	mirtazapine (REMERON)
+T159	MedicationName 5870 5890	OLANZapine (ZYPREXA)
+T160	TREATMENT 5936 5948	chemotherapy
+T161	TREATMENT 6005 6026	chemotherapy infusion
+T162	PROBLEM 6032 6038	NAUSEA
+T163	MedicationName 6043 6064	olopatadine (PATANOL)
+T164	MedicationName 6115 6137	oxyCODONE (ROXICODONE)
+T165	Symptom 6227 6231	Pain
+T166	MedicationName 6236 6255	ranitidine (ZANTAC)
+T167	MedicationName 6307 6347	TRIAMCINOLONE ACETONIDE (NASACORT NASAL)
+T169	TREATMENT 6532 6543	(line flush
+T170	PROBLEM 6569 6578	Allergies
+T171	TREATMENT 6599 6617	Allergen Reactions
+T172	TREATMENT 6622 6639	Levofloxacin Rash
+T173	TREATMENT 6644 6673	Shellfish Containing Products
+T174	PROBLEM 6674 6679	Hives
+T175	PROBLEM 6684 6691	Itching
+T176	TREATMENT 6696 6714	Alendronate Sodium
+T177	PROBLEM 6715 6719	Rash
+T178	PROBLEM 6724 6740	Anastrozole Rash
+T179	PROBLEM 6745 6761	Terbinafine Rash
+T180	PROBLEM 6823 6837	Stomach cancer
+T181	PROBLEM 6853 6865	Colon cancer
+T182	PROBLEM 6881 6894	Rectal cancer
+T183	PROBLEM 6910 6923	Breast cancer
+T184	PROBLEM 6946 6952	Cancer
+T185	PROBLEM 6974 6987	Breast cancer
+T186	PROBLEM 7015 7027	Brain cancer
+T187	PROBLEM 7070 7083	Breast cancer
+T188	PROBLEM 7131 7144	Breast cancer
+T189	PROBLEM 7191 7208	Bleeding disorder
+T190	TEST 8049 8059	ASSESSMENT
+T191	TEST 8061 8063	BP
+T192	TEST 8074 8079	Pulse
+T193	TEST 8086 8090	Temp
+T194	TEST 8096 8097	C
+T195	TEST 8117 8121	Resp
+T196	TEST 8128 8130	Ht
+T197	TEST 8173 8175	Wt
+T198	TEST 8204 8208	SpO2
+T199	TEST 8217 8220	BMI
+T200	TEST 8280 8286	vitals
+T201	PROBLEM 8578 8593	scleral icterus
+T202	PROBLEM 8619 8637	tracheal deviation
+T203	PROBLEM 8650 8661	thyromegaly
+T204	TEST 8743 8747	Exam
+T205	PROBLEM 8759 8771	friction rub
+T206	TEST 8792 8805	Breath sounds
+T207	PROBLEM 8817 8837	respiratory distress
+T208	PROBLEM 8855 8865	tenderness
+T209	PROBLEM 8923 8933	tenderness
+T210	PROBLEM 8947 8954	rebound
+T211	PROBLEM 9015 9020	edema
+T212	PROBLEM 9022 9032	tenderness
+T213	PROBLEM 9036 9045	deformity
+T214	PROBLEM 9120 9141	cranial nerve deficit
+T215	PROBLEM 9209 9213	rash
+T216	TEST 9469 9472	WBC
+T217	TEST 9473 9478	Count
+T218	TEST 9497 9507	Neutrophil
+T219	TEST 9508 9522	Absolute Count
+T220	TEST 9542 9552	Hemoglobin
+T221	TEST 9559 9560	L
+T222	TEST 9576 9586	Hematocrit
+T223	TEST 9610 9624	Platelet Count
+T224	TEST 9644 9655	Lab Results
+T225	TEST 9668 9673	Value
+T226	TEST 9682 9692	Creatinine
+T227	TEST 9712 9718	Sodium
+T228	TEST 9720 9725	Serum
+T229	TEST 9728 9734	Plasma
+T230	TEST 9753 9762	Potassium
+T231	TEST 9764 9769	Serum
+T232	TEST 9772 9778	Plasma
+T233	TEST 9797 9804	Calcium
+T234	TEST 9806 9811	total
+T235	TEST 9813 9818	Serum
+T236	TEST 9821 9827	Plasma
+T237	TEST 9891 9900	Bilirubin
+T238	TEST 9902 9907	Total
+T239	TEST 9926 9946	Alkaline Phosphatase
+T240	TEST 9964 9986	Aspartate transaminase
+T241	TEST 10004 10024	Alanine transaminase
+T242	TEST 10042 10049	Albumin
+T243	TEST 10051 10056	Serum
+T244	TEST 10059 10065	Plasma
+T245	TEST 10094 10102	Normaliz
+T246	TEST 10103 10108	Ratio
+T247	TEST 10166 10172	Cancer
+T248	TEST 10173 10180	Antigen
+T249	TEST 10210 10224	Cancer Antigen
+T250	TEST 10254 10268	Cancer Antigen
+T251	TEST 10298 10322	Carcinoembryonic Antigen
+T252	TEST 10341 10365	Carcinoembryonic Antigen
+T253	TEST 10384 10408	Carcinoembryonic Antigen
+T254	PROBLEM 10439 10451	BRCA variant
+T255	ClinicalCondition 10514 10520	cancer
+T256	PROBLEM 10547 10575	breast and pancreatic cancer
+T257	GenomicTest 10578 10583	K-ras
+T258	PROBLEM 10588 10594	CDKN2a
+T259	PROBLEM 10599 10612	APC mutations
+T260	TEST 10649 10651	CT
+T261	TEST 10652 10668	Chest abd pelvis
+T262	PROBLEM 10711 10738	bilateral pulmonary nodules
+T263	PROBLEM 10755 10773	treated metastases
+T264	PROBLEM 10829 10888	hypoattenuating/hypoenhancing proximal pancreatic body mass
+T265	PROBLEM 10894 10950	interval decrease in associated infiltrative soft tissue
+T266	PROBLEM 10955 10982	significant interval change
+T267	PROBLEM 10986 11016	associated vascular encasement
+T268	PROBLEM 11021 11030	occlusion
+T269	PROBLEM 11104 11133	metastatic pancreatic  cancer
+T270	PROBLEM 11168 11196	Metastatic pancreatic cancer
+T271	DiseaseState 11230 11244	stable disease
+T272	PROBLEM 11249 11259	neuropathy
+T273	TREATMENT 11262 11286	Further reduced abraxane
+T274	Symptom 11304 11314	neuropathy
+T275	Radiology 11331 11338	CT scan
+T276	MedicationName 11385 11392	remeron
+T277	Symptom 11415 11421	Nausea
+T278	Symptom 11422 11430	vomiting
+T279	TREATMENT 11434 11445	GOO stented
+T280	Symptom 11501 11511	neuropathy
+T281	TREATMENT 11765 11785	the treatment 
+ plan
+T282	TREATMENT 11787 11803	medication risks
+T283	TREATMENT 11805 11827	lifestyle modification
+T284	PROBLEM 11832 11840	symptoms
+A1	ChronicVal T18 non-chronic
+A2	ContinuityVal T18 unclear
+T285	ClinicalCondition 134 151	pancreatic cancer
+A3	ChronicVal T285 non-chronic
+A4	ContinuityVal T285 unclear
+A5	ExperiencerVal T285 patient
+T286	Metastasis 123 133	metastatic
+R1	TumorDesc TumorDetails:T286 Desc:T285	
+T287	GenomicTestResult 153 161	BRCA VUS
+A6	GenomicTestType T287 Unclear
+T288	Site 163 167	Lung
+R2	SiteOf Arg1:T288 Arg2:T286	
+T289	ClinicalCondition 291 308	pancreatic cancer
+A7	ChronicVal T289 non-chronic
+A8	ContinuityVal T289 unclear
+T290	Metastasis 280 290	metastatic
+R3	TumorDesc TumorDetails:T290 Desc:T289	
+T291	MedicationRegimen 377 387	FOLFIRINOX
+A9	TreatmentContinuityVal T291 finished
+A10	TreatmentIntentVal T291 palliative
+T292	Cycles 426 428	12
+T293	Cycles 460 462	10
+T294	Cycles 477 478	2
+T295	Cycles 520 522	12
+T296	Cycles 718 720	12
+T297	Cycles 1494 1496	33
+T298	Cycles 1616 1618	35
+T299	Datetime 832 840	11/15/16
+T300	Datetime 879 887	12/31/16
+T301	Datetime 956 966	01/23/2017
+T302	Datetime 999 1007	02/04/17
+T303	Datetime 1040 1048	02/21/17
+T304	Datetime 1122 1132	04/30/2017
+T305	Datetime 1213 1221	05/14/17
+T306	Datetime 1262 1270	10/18/17
+T307	Datetime 1382 1390	10/29/17
+T308	Datetime 1478 1486	10/29/17
+T309	Datetime 1524 1532	11/01/17
+T310	Datetime 1600 1608	12/10/17
+T311	Datetime 1656 1664	12/18/17
+T312	Cycles 1050 1052	21
+T313	RadiationTherapyName 471 474	XRT
+A11	TreatmentContinuityVal T313 finished
+A12	TreatmentTypeVal T313 local
+A13	TreatmentIntentVal T313 palliative
+R4	TreatmentDesc Therapy:T313 Desc:T294	
+R5	TreatmentDesc Therapy:T291 Desc:T292	
+R6	TreatmentDesc Therapy:T291 Desc:T293	
+T314	MedicationRegimen 538 548	FOLFIRINOX
+A14	TreatmentContinuityVal T314 finished
+A15	TreatmentIntentVal T314 palliative
+T315	MedicationRegimen 653 678	5FU &liposomal irinotecan
+A16	TreatmentContinuityVal T315 continuing
+A17	TreatmentIntentVal T315 palliative
+T316	MedicationRegimen 852 877	5FU +liposomal irinotecan
+A18	TreatmentContinuityVal T316 continuing
+A19	TreatmentIntentVal T316 palliative
+T317	MedicationRegimen 972 997	5FU +liposomal irinotecan
+A20	TreatmentContinuityVal T317 continuing
+A21	TreatmentIntentVal T317 palliative
+T318	MedicationRegimen 1012 1037	5FU +liposomal irinotecan
+A22	TreatmentContinuityVal T318 continuing
+A23	TreatmentIntentVal T318 palliative
+T319	MedicationRegimen 1233 1258	5FU +liposomal irinotecan
+A24	TreatmentContinuityVal T319 finished
+A25	TreatmentIntentVal T319 palliative
+T320	MedicationRegimen 1497 1522	5FU +liposomal irinotecan
+A26	TreatmentContinuityVal T320 continuing
+A27	TreatmentIntentVal T320 palliative
+T321	MedicationName 1066 1069	5FU
+A28	TreatmentTypeVal T321 maintenance
+A29	TreatmentIntentVal T321 palliative
+A30	TreatmentCategory T321 AntiNeoPlastics
+T322	MedicationRegimen 1578 1598	liposomal irinotecan
+A31	TreatmentContinuityVal T322 continuing
+A32	TreatmentIntentVal T322 palliative
+T323	MedicationRegimen 1632 1652	liposomal irinotecan
+A33	TreatmentContinuityVal T323 continuing
+A34	TreatmentIntentVal T323 palliative
+A35	ChronicVal T27 chronic
+R7	TreatmentDiscontinuedBecauseOf Therapy:T313 Reason:T27	
+R8	TreatmentDesc Therapy:T295 Desc:T314	
+T324	Symptom 555 576	peripheral neuropathy
+A36	IsPresentOnFirstCancerDiagnosis T324 no
+A37	IsCausedByDiagnosedCancer T324 no
+A38	ChronicVal T324 non-chronic
+A39	ContinuityVal T324 improving
+R9	ConditionOrTreatmentCausesProblem Treatment:T314 Prob:T324	
+T325	DiseaseState 626 628	PD
+R10	TreatmentDesc Therapy:T315 Desc:T296	
+T326	Symptom 734 735	n
+A40	IsPresentOnFirstCancerDiagnosis T326 no
+A41	IsCausedByDiagnosedCancer T326 no
+A42	ChronicVal T326 non-chronic
+A43	ContinuityVal T326 stopped
+T327	Symptom 736 737	v
+A44	IsPresentOnFirstCancerDiagnosis T327 no
+A45	IsCausedByDiagnosedCancer T327 no
+A46	ChronicVal T327 non-chronic
+A47	ContinuityVal T327 stopped
+R11	ConditionOrTreatmentCausesProblem Treatment:T315 Prob:T327	
+R12	ConditionOrTreatmentCausesProblem Treatment:T315 Prob:T326	
+T328	Cycles 1009 1011	20
+T329	Radiology 1134 1141	CT scan
+A48	IntentVal T329 TreatmentAssessment
+T330	Radiology 1272 1274	CT
+A49	IntentVal T330 TreatmentAssessment
+T331	Radiology 1666 1668	CT
+A50	IntentVal T331 TreatmentAssessment
+T332	Cycles 2609 2613	C1D1
+T333	Cycles 2692 2696	C2D1
+T334	Cycles 2733 2738	C2D15
+T335	Cycles 2775 2779	C3D1
+T336	Cycles 2816 2821	C3D15
+T337	Cycles 2857 2861	C4D1
+T338	MedicationRegimen 2614 2636	Gemcitabine + Abraxane
+A51	TreatmentContinuityVal T338 continuing
+A52	TreatmentTypeVal T338 maintenance
+A53	TreatmentIntentVal T338 palliative
+T339	MedicationRegimen 2656 2678	Gemcitabine + Abraxane
+A54	TreatmentContinuityVal T339 continuing
+A55	TreatmentTypeVal T339 maintenance
+A56	TreatmentIntentVal T339 palliative
+T340	MedicationRegimen 2697 2719	Gemcitabine + Abraxane
+A57	TreatmentContinuityVal T340 continuing
+A58	TreatmentTypeVal T340 maintenance
+A59	TreatmentIntentVal T340 palliative
+T341	MedicationRegimen 2739 2761	Gemcitabine + Abraxane
+A60	TreatmentContinuityVal T341 continuing
+A61	TreatmentTypeVal T341 maintenance
+A62	TreatmentIntentVal T341 palliative
+T342	MedicationRegimen 2780 2802	Gemcitabine + Abraxane
+A63	TreatmentContinuityVal T342 continuing
+A64	TreatmentTypeVal T342 maintenance
+A65	TreatmentIntentVal T342 palliative
+T343	MedicationRegimen 2822 2844	Gemcitabine + Abraxane
+A66	TreatmentContinuityVal T343 continuing
+A67	TreatmentTypeVal T343 maintenance
+A68	TreatmentIntentVal T343 palliative
+T344	MedicationRegimen 2862 2884	Gemcitabine + Abraxane
+A69	TreatmentContinuityVal T344 continuing
+A70	TreatmentTypeVal T344 maintenance
+A71	TreatmentIntentVal T344 palliative
+T345	Symptom 3024 3030	chills
+A72	NegationModalityVal T345 negated
+T346	Symptom 3032 3043	diaphoresis
+A73	NegationModalityVal T346 negated
+T347	Symptom 3045 3050	fever
+A74	NegationModalityVal T347 negated
+T348	Symptom 3052 3059	malaise
+A75	NegationModalityVal T348 negated
+T349	Symptom 3059 3067	/fatigue
+A76	NegationModalityVal T349 negated
+T350	Symptom 3072 3083	weight loss
+A77	NegationModalityVal T350 negated
+T351	Symptom 3106 3116	nosebleeds
+A78	NegationModalityVal T351 negated
+T352	MedicationRegimen 1854 1874	Liposomal irinotecan
+A79	TreatmentContinuityVal T352 finished
+A80	TreatmentIntentVal T352 palliative
+A81	NegationModalityVal T98 negated
+A82	NegationModalityVal T99 negated
+A83	NegationModalityVal T100 negated
+A84	NegationModalityVal T101 negated
+A85	NegationModalityVal T102 negated
+A86	NegationModalityVal T103 affirmed
+A87	NegationModalityVal T104 negated
+A88	NegationModalityVal T105 negated
+A89	NegationModalityVal T106 negated
+A90	NegationModalityVal T107 negated
+A91	NegationModalityVal T108 negated
+A92	NegationModalityVal T109 negated
+A93	NegationModalityVal T110 negated
+A94	NegationModalityVal T111 negated
+A95	NegationModalityVal T112 negated
+A96	NegationModalityVal T113 negated
+A97	NegationModalityVal T115 negated
+A98	NegationModalityVal T116 negated
+A99	NegationModalityVal T117 negated
+A100	NegationModalityVal T118 negated
+A101	NegationModalityVal T119 negated
+A102	NegationModalityVal T120 negated
+A103	NegationModalityVal T121 negated
+T3	Drugs 3784 3799	substance abuse
+A104	NegationModalityVal T3 negated
+T353	Symptom 3839 3846	nervous
+A105	NegationModalityVal T353 negated
+A106	NegationModalityVal T122 negated
+A107	NegationModalityVal T123 negated
+A108	ChronicVal T125 chronic
+A109	ContinuityVal T125 stable
+A110	ChronicVal T130 chronic
+A111	ContinuityVal T130 stable
+A112	ChronicVal T132 chronic
+A113	ContinuityVal T132 stable
+A114	ChronicVal T134 chronic
+A115	ContinuityVal T134 stable
+A117	ContinuityVal T126 unclear
+A116	IntentVal T130 others
+A118	TreatmentTypeVal T130 others
+A119	TreatmentCategory T130 Others
+R13	TestOrProcedureConductedForProblem Test:T130 Prob:T134	
+A120	ChronicVal T131 chronic
+A121	ContinuityVal T131 stable
+A122	IntentVal T131 others
+A123	TreatmentTypeVal T131 others
+A124	TreatmentCategory T131 Others
+R14	TestOrProcedureConductedForProblem Test:T131 Prob:T134	
+T354	ProcedureName 4349 4366	BREAST LUMPECTOMY
+A125	IntentVal T354 DiagnosisAndTreatment
+A126	TreatmentTypeVal T354 local
+A127	TreatmentCategory T354 AntiNeoPlastics
+A128	IsTumorRemaining T354 unclear
+A129	IntentVal T136 others
+A130	IntentVal T137 others
+A131	TreatmentCategory T137 Supportive
+T355	ProcedureName 4478 4515	IR PERCUTANEOUS CHOLECYSTOSTOMY DRAIN
+A132	IntentVal T355 others
+A133	TreatmentTypeVal T355 others
+A134	TreatmentCategory T355 Others
+A135	IntentVal T140 others
+A136	TreatmentTypeVal T140 others
+A137	TreatmentCategory T140 Others
+A138	IntentVal T141 others
+A139	IntentVal T142 others
+T356	ProcedureName 4852 4863	LUNG BIOPSY
+A140	IntentVal T144 others
+T357	Datetime 4041 4051	02/26/2018
+T358	Datetime 4377 4381	2007
+T359	Datetime 4408 4412	2014
+T360	Datetime 4414 4418	2015
+T361	Datetime 4463 4473	02/28/2018
+T362	Datetime 4249 4259	11/14/2016
+T363	Datetime 4540 4550	02/26/2018
+T364	Datetime 4615 4625	02/26/2018
+T365	Datetime 4725 4735	01/30/2018
+T366	Datetime 4799 4809	01/30/2018
+T367	Datetime 4865 4869	2016
+A141	IntentVal T127 others
+T368	Laterality 4367 4376	Bilateral
+R15	HappensAtOnDuring Arg1:T357 Arg2:T127	
+A142	ChronicVal T133 non-chronic
+A143	ContinuityVal T133 stopped
+R16	HappensAtOnDuring Arg1:T362 Arg2:T133	
+R17	HappensAtOnDuring Arg1:T358 Arg2:T354	
+R18	HappensAtOnDuring Arg1:T359 Arg2:T136	
+R19	HappensAtOnDuring Arg1:T360 Arg2:T136	
+R20	HappensAtOnDuring Arg1:T361 Arg2:T137	
+R21	HappensAtOnDuring Arg1:T363 Arg2:T355	
+R22	HappensAtOnDuring Arg1:T364 Arg2:T140	
+T369	Site 4349 4355	BREAST
+R23	LateralityOfSite Arg1:T368 Arg2:T369	
+R24	HappensAtOnDuring Arg1:T141 Arg2:T365	
+R25	HappensAtOnDuring Arg1:T142 Arg2:T366	
+R26	HappensAtOnDuring Arg1:T356 Arg2:T367	
+A144	ChronicVal T114 non-chronic
+A145	ContinuityVal T114 worsening
+R27	ConditionOrTreatmentCausesProblem Treatment:T342 Prob:T114	
+T370	Age 103 105	71
+T371	MedicationName 764 784	olanzapine (Zyprexa)
+A146	TreatmentContinuityVal T371 unclear
+A147	TreatmentTypeVal T371 others
+A148	TreatmentIntentVal T371 others
+A149	TreatmentCategory T371 Supportive
+R28	TreatmentAdministeredForProblem Treatment:T371 Prob:T327	
+R29	TreatmentAdministeredForProblem Treatment:T371 Prob:T326	
+T372	ProcedureName 788 791;793 805	EUS Celiac block
+A150	IntentVal T372 others
+A151	TreatmentCategory T372 Supportive
+T373	Datetime 806 818	October 2016
+R30	HappensAtOnDuring Arg1:T373 Arg2:T372	
+R31	HappensAtOnDuring Arg1:T299 Arg2:T316	
+A152	IntentVal T36 TreatmentAssessment
+R32	HappensAtOnDuring Arg1:T300 Arg2:T36	
+T374	RadPathResult 901 927	slight increase in primary
+A153	RadPathResultVal T374 Progression
+R33	ResultOfTest Desc:T374 Test:T36	
+T375	DiagnosticLabTest 933 940	CA 19-9
+A154	IntentVal T375 TreatmentAssessment
+T376	LabTestResult 945 953	dropping
+A155	RadPathResultVal T376 TreatmentResponse
+A156	LabTestResultVal T376 abnormal
+R34	ResultOfTest Desc:T376 Test:T375	
+T377	Cycles 969 971	19
+R35	TreatmentDesc Therapy:T377 Desc:T317	
+R36	HappensAtOnDuring Arg1:T301 Arg2:T317	
+R37	TreatmentDesc Therapy:T328 Desc:T319	
+R38	HappensAtOnDuring Arg1:T302 Arg2:T318	
+T378	RadPathResult 1676 1690	stable disease
+A157	RadPathResultVal T378 DiseaseStability
+R39	ResultOfTest Desc:T378 Test:T331	
+A158	IntentVal T58 TreatmentAssessment
+T379	LabTestResult 1733 1747	upwards by 30%
+A159	LabTestResultVal T379 abnormal
+R40	ResultOfTest Desc:T379 Test:T58	
+T380	DiseaseState 1702 1747	umor markers had been trending upwards by 30%
+A160	NegationModalityVal T380 uncertain_in_present
+T381	Symptom 1791 1797	nausea
+A161	IsPresentOnFirstCancerDiagnosis T381 no
+A162	IsCausedByDiagnosedCancer T381 unclear
+A163	ChronicVal T381 non-chronic
+A164	ContinuityVal T381 worsening
+T382	Symptom 1798 1806	vomiting
+A165	IsPresentOnFirstCancerDiagnosis T382 no
+A166	IsCausedByDiagnosedCancer T382 unclear
+A167	ChronicVal T382 non-chronic
+A168	ContinuityVal T382 worsening
+T383	DiseaseState 1833 1852	disease progression
+A169	NegationModalityVal T383 uncertain_in_present
+T384	GenomicTest 2011 2021	BRCA2 gene
+A170	GenomicTestType T384 Unclear
+T385	GenomicTestResult 1964 1982;1985 1997	variant of unknown significance
+A171	GenomicTestType T385 Unclear
+R41	ResultOfTest Desc:T385 Test:T384	
+T386	ClinicalTrial 2105 2132	nab-paclitaxel + CORT125134
+A172	NegationModalityVal T386 hypothetical_in_future
+A173	ChronicVal T66 non-chronic
+A174	ContinuityVal T66 new
+T387	ClinicalCondition 2246 2272	gastric outlet obstruction
+A175	ChronicVal T387 non-chronic
+A176	ContinuityVal T387 new
+T388	ProcedureName 2274 2278	ERCP
+A177	IntentVal T388 others
+A178	TreatmentTypeVal T388 others
+A179	TreatmentCategory T388 Others
+R42	TestOrProcedureConductedForProblem Test:T388 Prob:T66	
+R43	TestOrProcedureConductedForProblem Test:T388 Prob:T387	
+A180	ChronicVal T69 non-chronic
+A181	ContinuityVal T69 new
+A182	IntentVal T71 others
+A183	TreatmentTypeVal T71 others
+A184	TreatmentCategory T71 Others
+A185	IntentVal T72 others
+A186	TreatmentTypeVal T72 others
+A187	TreatmentCategory T72 Others
+T389	Datetime 2439 2450	February 27
+R44	HappensAtOnDuring Arg1:T72 Arg2:T389	
+T390	ProcedureName 2465 2479	duodenal stent
+A188	IntentVal T390 others
+A189	TreatmentTypeVal T390 others
+A190	TreatmentCategory T390 Others
+T391	Site 2509 2523	gastric antrum
+T392	Site 2552 2579	2nd portion of the duodenum
+R45	SiteOf Arg1:T391 Arg2:T390	
+R46	SiteOf Arg1:T392 Arg2:T390	
+T393	Datetime 2583 2594	February 29
+R47	HappensAtOnDuring Arg1:T393 Arg2:T390	
+R48	TreatmentDesc Therapy:T332 Desc:T338	
+T394	Cycles 2650 2655	C1D15
+T395	Datetime 2599 2607	03/19/18
+T396	Datetime 2639 2647	04/02/18
+T397	Datetime 2682 2690	04/17/18
+T398	Datetime 2723 2731	05/01/18
+T399	Datetime 2765 2773	05/20/18
+T400	Datetime 2806 2814	06/03/18
+T401	Datetime 2847 2855	06/17/18
+R49	BeginsOnOrAt Arg1:T395 Arg2:T338	
+R50	HappensAtOnDuring Arg1:T396 Arg2:T339	
+R51	TreatmentDesc Therapy:T394 Desc:T339	
+R52	HappensAtOnDuring Arg1:T397 Arg2:T340	
+R53	TreatmentDesc Therapy:T333 Desc:T340	
+R54	HappensAtOnDuring Arg1:T398 Arg2:T341	
+R55	TreatmentDesc Therapy:T334 Desc:T341	
+R56	HappensAtOnDuring Arg1:T399 Arg2:T342	
+R57	TreatmentDesc Therapy:T335 Desc:T342	
+R58	HappensAtOnDuring Arg1:T400 Arg2:T343	
+R59	TreatmentDesc Therapy:T336 Desc:T343	
+R60	HappensAtOnDuring Arg1:T401 Arg2:T344	
+R61	TreatmentDesc Therapy:T337 Desc:T344	
+T402	Symptom 2917 2927	neuropathy
+A191	IsPresentOnFirstCancerDiagnosis T402 no
+A192	IsCausedByDiagnosedCancer T402 no
+A193	ChronicVal T402 non-chronic
+A194	ContinuityVal T402 worsening
+R62	ConditionOrTreatmentCausesProblem Treatment:T344 Prob:T402	
+T403	Symptom 2939 2947	abd pain
+A195	IsPresentOnFirstCancerDiagnosis T403 no
+A196	IsCausedByDiagnosedCancer T403 yes
+A197	ChronicVal T403 non-chronic
+A198	ContinuityVal T403 improving
+T404	Symptom 2951 2967	Trouble sleeping
+A199	IsPresentOnFirstCancerDiagnosis T404 no
+A200	IsCausedByDiagnosedCancer T404 unclear
+A201	ContinuityVal T404 unclear
+T405	MedicationName 4932 4941	albuterol
+A202	TreatmentContinuityVal T405 continuing
+A203	TreatmentTypeVal T405 others
+A204	TreatmentIntentVal T405 others
+A205	TreatmentCategory T405 Others
+A206	TreatmentContinuityVal T147 continuing
+A207	TreatmentTypeVal T147 others
+A208	TreatmentIntentVal T147 others
+A209	TreatmentCategory T147 Others
+A210	TreatmentContinuityVal T148 continuing
+A211	TreatmentTypeVal T148 others
+A212	TreatmentIntentVal T148 others
+A213	TreatmentCategory T148 Others
+A214	TreatmentContinuityVal T150 continuing
+A215	TreatmentTypeVal T150 others
+A216	TreatmentIntentVal T150 others
+A217	TreatmentCategory T150 Others
+A218	TreatmentContinuityVal T151 continuing
+A219	TreatmentTypeVal T151 others
+A220	TreatmentIntentVal T151 others
+A221	TreatmentCategory T151 Supportive
+A222	TreatmentContinuityVal T153 continuing
+A223	TreatmentTypeVal T153 others
+A224	TreatmentIntentVal T153 others
+A225	TreatmentCategory T153 Supportive
+A226	TreatmentContinuityVal T156 continuing
+A227	TreatmentTypeVal T156 others
+A228	TreatmentIntentVal T156 others
+A229	TreatmentCategory T156 Supportive
+A230	TreatmentContinuityVal T158 continuing
+A231	TreatmentTypeVal T158 others
+A232	TreatmentIntentVal T158 others
+A233	TreatmentCategory T158 Others
+A234	TreatmentContinuityVal T159 continuing
+A235	TreatmentTypeVal T159 others
+A236	TreatmentIntentVal T159 others
+A237	TreatmentCategory T159 Supportive
+A238	TreatmentContinuityVal T163 continuing
+A239	TreatmentTypeVal T163 others
+A240	TreatmentIntentVal T163 others
+A241	TreatmentCategory T163 Others
+A242	TreatmentContinuityVal T164 continuing
+A243	TreatmentTypeVal T164 others
+A244	TreatmentIntentVal T164 others
+A245	TreatmentCategory T164 Supportive
+A246	TreatmentContinuityVal T166 continuing
+A247	TreatmentTypeVal T166 others
+A248	TreatmentIntentVal T166 others
+A249	TreatmentCategory T166 Supportive
+A250	TreatmentContinuityVal T167 continuing
+A251	TreatmentTypeVal T167 others
+A252	TreatmentIntentVal T167 others
+A253	TreatmentCategory T167 Others
+T168	MedicationName 6423 6436	heparin flush
+A254	TreatmentContinuityVal T168 unclear
+A255	TreatmentTypeVal T168 others
+A256	TreatmentIntentVal T168 others
+A257	TreatmentCategory T168 Others
+T406	TreatmentDosage 5424 5446;5473 5480	24,000-76,000 -120,000 3-4 cap
+T407	TreatmentDosage 5554 5558	1 mg
+T408	TreatmentDosage 5316 5331	100-50 mcg/dose
+T409	TreatmentDosage 5154 5166	2.5-0.025 mg
+T411	TreatmentDosage 5085 5090	10 mg
+R63	TreatmentDesc Therapy:T406 Desc:T151	
+R64	TreatmentDesc Therapy:T408 Desc:T150	
+R65	TreatmentDesc Therapy:T407 Desc:T153	
+T412	TreatmentDosage 5684 5689;5702 5707	10 mg 1 tab
+T414	TreatmentDosage 5891 5895	5 mg
+T415	TreatmentDosage 6065 6070	0.1 %
+T417	TreatmentDosage 6275 6281	150 mg
+T418	TreatmentDosage 6467 6489	500 Units Inject 5 mLs
+T413	TreatmentDosage 5825 5830	15 mg
+T419	TreatmentDosage 5581 5585	1 mg
+T416	TreatmentDosage 6168 6175	5-10 mg
+T420	TreatmentDosage 4942 4958	90 mcg/actuation
+R66	TreatmentDesc Therapy:T405 Desc:T420	
+R67	TreatmentDesc Therapy:T147 Desc:T411	
+R68	TreatmentDesc Therapy:T148 Desc:T409	
+T410	Symptom 5197 5217	loose bowel movement
+A258	NegationModalityVal T410 hypothetical_in_future
+R69	TreatmentAdministeredForProblem Treatment:T148 Prob:T410	
+T421	Symptom 5256 5264	DIARRHEA
+A259	NegationModalityVal T421 hypothetical_in_future
+R70	TreatmentAdministeredForProblem Treatment:T148 Prob:T421	
+T422	Symptom 5635 5641	nausea
+A260	NegationModalityVal T422 hypothetical_in_future
+T423	Symptom 5642 5650	vomiting
+A261	NegationModalityVal T423 hypothetical_in_future
+R72	TreatmentAdministeredForProblem Treatment:T153 Prob:T422	
+R73	TreatmentAdministeredForProblem Treatment:T153 Prob:T423	
+A262	NegationModalityVal T157 hypothetical_in_future
+R74	TreatmentDesc Therapy:T156 Desc:T412	
+R75	TreatmentAdministeredForProblem Treatment:T156 Prob:T157	
+T424	MaritalStatus 7283 7290	Married
+A263	NegationModalityVal T424 affirmed
+A264	IsStoppedOrContinuing T424 continuing
+T425	Tobacco 7750 7762	Never Smoker
+A265	NegationModalityVal T425 negated
+T426	Alcohol 7846 7849	Yes
+A266	NegationModalityVal T426 affirmed
+A267	IsStoppedOrContinuing T426 continuing
+T427	ConsumptionQuantity 7863 7875	1x per month
+R76	ConsumptionQuantityRel Arg1:T426 Arg2:T427	
+T428	Drugs 7907 7916	Marijuana
+A268	IsStoppedOrContinuing T428 continuing
+T429	Age 11084 11086	71
+T430	ClinicalCondition 11115 11133	pancreatic  cancer
+A269	ChronicVal T430 chronic
+A270	ContinuityVal T430 stable
+T431	ClinicalCondition 11179 11196	pancreatic cancer
+A271	ChronicVal T431 chronic
+A272	ContinuityVal T431 stable
+T432	Metastasis 11104 11114	metastatic
+A273	EpisodeDescription T432 FirstOccurrence
+T433	Metastasis 11168 11178	Metastatic
+A274	EpisodeDescription T433 FirstOccurrence
+R77	TumorDesc TumorDetails:T432 Desc:T430	
+R78	TumorDesc TumorDetails:T433 Desc:T431	
+T434	MedicationRegimen 11212 11224	gem abraxane
+A275	TreatmentContinuityVal T434 continuing
+T435	MedicationName 11278 11286	abraxane
+A276	TreatmentContinuityVal T435 continuing
+A277	TreatmentTypeVal T435 maintenance
+A278	TreatmentIntentVal T435 palliative
+A279	TreatmentCategory T435 AntiNeoPlastics
+T436	Symptom 11249 11259	neuropathy
+A280	IsPresentOnFirstCancerDiagnosis T436 no
+A281	IsCausedByDiagnosedCancer T436 no
+A282	ChronicVal T436 non-chronic
+A283	ContinuityVal T436 worsening
+R79	ConditionOrTreatmentCausesProblem Treatment:T435 Prob:T436	
+A284	DiseaseStateVal T271 stability
+A285	IsPresentOnFirstCancerDiagnosis T274 no
+A286	IsCausedByDiagnosedCancer T274 no
+A287	ChronicVal T274 non-chronic
+A288	ContinuityVal T274 worsening
+T437	Duration 11318 11325	2 weeks
+T438	Datetime 11354 11366	September 22
+A289	IntentVal T275 TreatmentAssessment
+A290	NegationModalityVal T275 planned_in_future
+R80	HappensAtOnDuring Arg1:T275 Arg2:T438	
+A291	NegationModalityVal T276 affirmed
+A292	TreatmentContinuityVal T276 started
+A293	TreatmentTypeVal T276 others
+A294	TreatmentIntentVal T276 others
+A295	TreatmentCategory T276 Supportive
+T439	ClinicalCondition 11371 11381	dperession
+A296	ChronicVal T439 non-chronic
+A297	ContinuityVal T439 new
+R81	TreatmentAdministeredForProblem Treatment:T276 Prob:T439	
+A298	IsPresentOnFirstCancerDiagnosis T277 no
+A299	IsCausedByDiagnosedCancer T277 unclear
+A300	ChronicVal T277 non-chronic
+A301	ContinuityVal T277 stable
+A302	IsPresentOnFirstCancerDiagnosis T278 no
+A303	IsCausedByDiagnosedCancer T278 unclear
+A304	ChronicVal T278 non-chronic
+A305	ContinuityVal T278 stable
+T440	ClinicalCondition 11434 11437	GOO
+A306	ChronicVal T440 non-chronic
+A307	ContinuityVal T440 stopped
+T441	ProcedureName 11438 11445	stented
+A308	IntentVal T441 others
+A309	TreatmentTypeVal T441 others
+A310	TreatmentCategory T441 Others
+R82	TestOrProcedureConductedForProblem Test:T441 Prob:T440	
+R83	ConditionOrTreatmentCausesProblem Treatment:T440 Prob:T278	
+R84	ConditionOrTreatmentCausesProblem Treatment:T440 Prob:T277	
+A311	IsPresentOnFirstCancerDiagnosis T280 no
+A312	IsCausedByDiagnosedCancer T280 no
+A313	ChronicVal T280 non-chronic
+A314	ContinuityVal T280 worsening
+R85	TreatmentDesc Therapy:T158 Desc:T413	
+R86	TreatmentDesc Therapy:T159 Desc:T414	
+T442	Symptom 6032 6038	NAUSEA
+A315	NegationModalityVal T442 hypothetical_in_future
+R87	TreatmentAdministeredForProblem Treatment:T159 Prob:T442	
+R88	TreatmentDesc Therapy:T163 Desc:T415	
+R89	TreatmentDesc Therapy:T164 Desc:T416	
+A316	NegationModalityVal T165 hypothetical_in_future
+R90	TreatmentAdministeredForProblem Treatment:T164 Prob:T165	
+R91	TreatmentDesc Therapy:T166 Desc:T417	
+A317	DiseaseStateVal T325 progression-others
+A318	DiseaseStateVal T380 progression-others
+T443	Datetime 2026 2034	01/21/18
+R92	HappensAtOnDuring Arg1:T443 Arg2:T386	
+R93	HappensAtOnDuring Arg1:T303 Arg2:T321	
+R94	TreatmentDesc Therapy:T312 Desc:T321	
+R95	HappensAtOnDuring Arg1:T304 Arg2:T329	
+A319	ChronicVal T43 non-chronic
+A320	ContinuityVal T43 new
+R96	HappensAtOnDuring Arg1:T300 Arg2:T375	
+R97	ConditionOrTreatmentCausesProblem Treatment:T318 Prob:T43	
+T444	Datetime 1114 1118	2017
+T445	DiseaseState 1149 1169	interval progression
+A321	NegationModalityVal T445 affirmed
+A322	DiseaseStateVal T445 progression-others
+R98	TestOrProcedureReveals Test:T329 Desc:T445	
+T446	Metastasis 1191 1198	disease
+A323	NegationModalityVal T446 negated
+T447	Site 1177 1182	lungs
+T448	Site 1206 1211	liver
+R99	SiteOf Arg1:T448 Arg2:T446	
+R100	HappensAtOnDuring Arg1:T305 Arg2:T319	
+R101	TreatmentDesc Therapy:T328 Desc:T318	
+R102	SiteOf Arg1:T447 Arg2:T445	
+R103	HappensAtOnDuring Arg1:T43 Arg2:T444	
+R104	HappensAtOnDuring Arg1:T306 Arg2:T330	
+R105	HappensAtOnDuring Arg1:T308 Arg2:T320	
+T449	TreatmentDoseModification 1070 1075	66.7%
+R106	TreatmentDesc Therapy:T297 Desc:T320	
+R107	TreatmentDesc Therapy:T449 Desc:T321	
+R108	HappensAtOnDuring Arg1:T309 Arg2:T322	
+R109	EndsOnOrAt Arg1:T310 Arg2:T323	
+R110	TreatmentDesc Therapy:T298 Desc:T323	
+R111	HappensAtOnDuring Arg1:T311 Arg2:T331	
+T450	TreatmentDoseModification 11262 11277	Further reduced
+R112	TreatmentDesc Therapy:T450 Desc:T435	
+T451	DiseaseState 1294 1308	stable disease
+A324	DiseaseStateVal T451 stability
+R113	TestOrProcedureReveals Test:T330 Desc:T451	
+A325	TreatmentTypeVal T51 others
+A326	TreatmentCategory T51 Others
+T452	ProcedureName 1438 1474	placement of midline venous catheter
+A327	TreatmentTypeVal T452 others
+A328	TreatmentCategory T452 Others
+R114	HappensAtOnDuring Arg1:T307 Arg2:T51	
+R115	HappensAtOnDuring Arg1:T307 Arg2:T452	
+T453	ClinicalCondition 1340 1361	catheter-related clot
+A329	ChronicVal T453 non-chronic
+A330	ContinuityVal T453 worsening
+T454	Site 1375 1378	SVC
+T455	Laterality 1369 1374	right
+R116	LateralityOfSite Arg1:T455 Arg2:T454	
+R117	SiteOf Arg1:T454 Arg2:T453	
+R118	TestOrProcedureReveals Test:T329 Desc:T453	
+R119	InclusionCriteriaFor Arg1:T385 Arg2:T386	
+R120	TestOrProcedureReveals Test:T388 Desc:T69	
+R122	NotUndergoneBecauseOf Arg1:T71 Reason:T69	
+R71	TreatmentDesc Therapy:T153 Desc:T419	
+R121	TreatmentDesc Therapy:T418 Desc:T168	
+T456	SectionSkip 6569 6761	Allergies/Contraindications   Allergen Reactions    Levofloxacin Rash    Shellfish Containing Products Hives and Itching    Alendronate Sodium Rash    Anastrozole Rash    Terbinafine Rash
+A331	SectionSkipType T456 allergies
+A332	SectionSkipType T10 laboratory
+A334	SectionSkipType T11 physical_exam
+A335	SectionSkipType T13 laboratory
+T12	SectionSkip 9322 9827;9830 10423	LABORATORY RESULTS  I have reviewed the following labs in clinic today and discussed them with the patient.  Lab Results   Component Value Date    WBC Count 5.3 08/12/2018    Neutrophil Absolute Count 3.56 08/12/2018    Hemoglobin 10.1 (L) 08/12/2018    Hematocrit 32.1 (L) 08/12/2018    Platelet Count 159 08/12/2018     Lab Results   Component Value Date    Creatinine 0.51 08/12/2018    Sodium, Serum / Plasma 136 07/29/2018    Potassium, Serum / Plasma 4.2 07/29/2018    Calcium, total, Serum / Plasma 8.3 (L) 07/29/2018     Lab Results   Component Value Date    Bilirubin, Total 0.4 08/12/2018    Alkaline Phosphatase 61 08/12/2018    Aspartate transaminase 28 08/12/2018    Alanine transaminase 25 08/12/2018    Albumin, Serum / Plasma 3.1 (L) 07/29/2018    Int'l Normaliz Ratio 1.1 02/28/2018     Lab Results   Component Value Date    Cancer Antigen 19-9 1,109 (H) 07/15/2018    Cancer Antigen 19-9 2,762 (H) 06/17/2018    Cancer Antigen 19-9 3,525 (H) 05/20/2018    Carcinoembryonic Antigen 3.0 08/04/2015    Carcinoembryonic Antigen 2.7 06/07/2015    Carcinoembryonic Antigen 2.5 04/04/2015
+A333	SectionSkipType T12 laboratory
+T15	GenomicTest 10439 10443	BRCA
+A336	NegationModalityVal T15 affirmed
+A337	GenomicTestType T15 Germline
+T16	GenomicTestResult 10444 10475	variant of unknown significance
+A338	GenomicTestType T16 Somatic
+R123	ResultOfTest Desc:T16 Test:T15	
+A339	NegationModalityVal T255 affirmed
+A340	ExperiencerVal T255 family
+T457	ClinicalCondition 10547 10553;10569 10575	breast cancer
+A341	ChronicVal T457 chronic
+A342	ExperiencerVal T457 patient
+T458	Datetime 11401 11406	today
+R124	BeginsOnOrAt Arg1:T276 Arg2:T458	
+T459	ClinicalCondition 10558 10575	pancreatic cancer
+A343	ChronicVal T459 chronic
+A344	GenomicTestType T257 Somatic
+T460	GenomicTest 10588 10594	CDKN2a
+A345	GenomicTestType T460 Somatic
+T461	GenomicTest 10599 10602	APC
+A346	GenomicTestType T461 Somatic
+T462	GenomicTestResult 10603 10612	mutations
+A347	NegationModalityVal T462 affirmed
+A348	GenomicTestType T462 Somatic
+R125	ResultOfTest Desc:T462 Test:T461	
+R126	ResultOfTest Desc:T462 Test:T460	
+R127	ResultOfTest Desc:T462 Test:T257	
+T463	SectionSkip 10626 11054	RADIOGRAPHIC RESULTS   CT Chest abd pelvis 07/14/2018:  Unchanged size and number of bilateral pulmonary nodules consistent with treated metastases.  Compared to 05/09/2018, interval decrease in size of hypoattenuating/hypoenhancing proximal pancreatic body mass with interval decrease in associated infiltrative soft tissue. No significant interval change in associated vascular encasement and occlusion as characterized above.
+A349	SectionSkipType T463 radiology_report
+T464	ClinicalCondition 6823 6837	Stomach cancer
+A350	ExperiencerVal T464 family
+T465	Age 6846 6848	71
+R128	BeginsOnOrAt Arg1:T464 Arg2:T465	
+T466	ClinicalCondition 6853 6865	Colon cancer
+A351	ExperiencerVal T466 family
+T467	ClinicalCondition 6881 6894	Rectal cancer
+A352	ExperiencerVal T467 family
+T468	ClinicalCondition 6910 6923	Breast cancer
+A353	ExperiencerVal T468 family
+T469	ClinicalCondition 6946 6952	Cancer
+A354	ExperiencerVal T469 family
+T470	ClinicalCondition 6974 6987	Breast cancer
+A355	ExperiencerVal T470 family
+T471	ClinicalCondition 7015 7027	Brain cancer
+A356	ExperiencerVal T471 family
+T472	ClinicalCondition 7070 7083	Breast cancer
+A357	ExperiencerVal T472 family
+T473	ClinicalCondition 7104 7110	Cancer
+A358	ExperiencerVal T473 family
+T474	ClinicalCondition 7131 7144	Breast cancer
+A359	ExperiencerVal T474 family
+T475	Age 6874 6876	59
+T476	Age 6903 6905	64
+T477	Age 6939 6941	45
+R129	BeginsOnOrAt Arg1:T466 Arg2:T475	
+R130	BeginsOnOrAt Arg1:T467 Arg2:T476	
+R131	BeginsOnOrAt Arg1:T468 Arg2:T477	
+T478	Age 7155 7157	42
+R132	BeginsOnOrAt Arg1:T474 Arg2:T478	
+A360	DiseaseStateVal T383 progression-others
+T479	hpi_start 0 6	REASON
+T480	hpi_end 2959 2968	sleeping.
+T481	ap_start 11058 11068	Assessment
+T482	ap_end 11512 11517	check
+T483	hpi_start 10428 10437	Molecular
+T484	hpi_end 10616 10621	well.
+R133	HappensBefore Arg1:T314 Arg2:T373	
+R134	HappensAtOnDuring Arg1:T298 Arg2:T310	
+R135	EndsOnOrAt Arg1:T352 Arg2:T310	
+R136	EndsOnOrAt Arg1:T309 Arg2:T321	
+R137	HappensAtOnDuring Arg1:T395 Arg2:T332	
+R138	HappensAtOnDuring Arg1:T396 Arg2:T394	
+R139	HappensAtOnDuring Arg1:T397 Arg2:T333	
+R140	HappensAtOnDuring Arg1:T398 Arg2:T334	
+R141	HappensAtOnDuring Arg1:T399 Arg2:T335	
+R142	HappensAtOnDuring Arg1:T400 Arg2:T336	
+R143	HappensAtOnDuring Arg1:T401 Arg2:T337	
+T485	SectionSkip 4896 5926;5929 6560	Current Medications       Dosage    albuterol 90 mcg/actuation metered dose inhaler Inhale 1-2 puffs into the lungs every 6 (six) hours as needed.     cetirizine (ZYRTEC) 10 mg tablet Take 10 mg by mouth daily as needed.     diphenoxylate-atropine (LOMOTIL) 2.5-0.025 mg tablet Take 2 tabs after each loose bowel movement. You can take up to 8 tabs a day. FOR DIARRHEA.    fluticasone propion-salmeterol (ADVAIR DISKUS) 100-50 mcg/dose diskus inhaler Inhale 1 puff into the lungs Twice a day.    lipase-protease-amylase (CREON) 24,000-76,000 -120,000 unit CAPDREC capsule take 3-4 caps with each meal and April 23 caps with each snack.    LORazepam (ATIVAN) 1 mg tablet Take 1 tablet (1 mg total) by mouth every 8 (eight) hours as needed (nausea/vomiting).    metoclopramide HCl (REGLAN) 10 mg tablet Take 1 tab 30 minutes prior to every meal. Take 3 times a day. For NAUSEA.    mirtazapine (REMERON) 15 mg tablet Take 1 tablet (15 mg total) by mouth nightly at bedtime.    OLANZapine (ZYPREXA) 5 mg tablet Take 1 or 2 tabs on the day of chemotherapy followed by 1 or 2 tabs once daily for 3 days following chemotherapy infusion. FOR NAUSEA.    olopatadine (PATANOL) 0.1 % ophthalmic solution Apply 1 drop to eye.    oxyCODONE (ROXICODONE) 5 mg tablet Take 1-2 tablets (5-10 mg total) by mouth every 4 (four) hours as needed for Pain.    ranitidine (ZANTAC) 150 mg tablet Take 150 mg by mouth Twice a day.    TRIAMCINOLONE ACETONIDE (NASACORT NASAL) by Nasal route daily as needed.       Hospital Medications       Dosage    heparin flush 100 unit/mL injection syringe 500 Units Inject 5 mLs (500 Units total) into the vein As needed (line flush after each use).
+A361	SectionSkipType T485 medications

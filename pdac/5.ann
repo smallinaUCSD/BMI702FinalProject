@@ -1,0 +1,510 @@
+T1	hpi_start 0 11	Subjective:
+T2	SectionSkip 5675 7139	FINDINGS:  Visualized lung bases:  Please see separately dictated report from same day for chest findings.   Liver:    Interval development of periportal edema involving the lateral segment 
+ of the left hepatic lobe with associated mild biliary dilatation. This may be postsurgical in nature. However, tumor infiltration is not entirely excluded. Attention on follow-up.  Small pneumobilia in the left lobe is noted. Patient is status post hepaticojejunostomy.  Interval increase in size of a 14 mm hypodense lesion in segment March 14 (previously 9 mm). New 5 mm hypodense lesion in segment 8/4A is noted and is suspicious for metastatic disease. Other hypodense liver lesions are not significantly changed.  Gallbladder:  Surgically absent.   Spleen:  Unremarkable  Pancreas:  Patient is status post Whipple procedure . There is moderate dilatation of the main pancreatic duct, stable to slightly increased from prior exam.  Adrenal Glands:  Unremarkable  Kidneys:  Unremarkable  Vasculature:  Unremarkable  GI Tract:  Status post Whipple procedure. Otherwise, unremarkable.  Pelvis:  Enhancing mass in the endometrial canal is noted. This may be secondary to an intracavitary fibroid. However, recommend pelvic ultrasound to exclude malignancy.  Lymphadenopathy: Multiple reactive mesenteric lymph nodes are noted.  Ascites: Small ascites. There is small amount of fluid and stranding around the central mesentery.  Bones:  No suspicious lesions     04/26/2015
+T3	SectionAnnotate 7142 7153	IMPRESSION:
+T4	SectionSkip 9225 10170	FINDINGS:  Bilateral nonspecific thyroid nodules again noted, including an 8 mm hypodense nodule in the right thyroid lobe.  Scattered lower lobe subsegmental atelectasis is new from previous. No consolidation or pleural effusion. Unchanged calcified granuloma in the right upper lobe. Few scattered pulmonary nodules measuring up to 3 mm in the subpleural aspect of the right upper lobe are unchanged, series 301 image 58.  No lymphadenopathy. Scattered calcified mediastinal and hilar lymph nodes are unchanged and suggestive of old 
+ granulomatous disease.  The heart and great vessels show no significant abnormality. Right chest wall Port-A-Cath tip extends through the tricuspid valve into the right ventricle, previously terminating in the right atrium.  No suspicious bone lesions are identified. Mild degenerative changes of the thoracic spine.  Please see a separately reported examination for evaluation of the abdomen.     04/26/2015
+T5	SectionAnnotate 10362 10373	Assessment:
+T6	PROBLEM 158 178	abdominal discomfort
+T7	PROBLEM 180 188	bloating
+T8	PROBLEM 193 212	eventually jaundice
+T9	TREATMENT 215 228	A metal stent
+T10	TEST 304 311	CT scan
+T11	PROBLEM 334 368	a mass in the head of the pancreas
+T12	PROBLEM 373 392	a 2 cm adrenal mass
+T13	TEST 395 412	A followup PET/CT
+T14	PROBLEM 441 465	the mass in the pancreas
+T15	TEST 481 508	An ultrasound of the pelvis
+T16	PROBLEM 531 575	a 3.2 cm fibroid in the fundus of the uterus
+T17	PROBLEM 580 601	thickened endometrium
+T18	PROBLEM 607 621	adnexal masses
+T19	TEST 633 636	EUS
+T20	PROBLEM 662 694	encasement of the hepatic artery
+T21	PROBLEM 699 728	invasion into the portal vein
+T22	TEST 731 750	FNA of the pancreas
+T23	PROBLEM 760 774	adenocarcinoma
+T24	TEST 816 845	her pancreas protocol CT scan
+T25	PROBLEM 890 915	peritoneal carcinomatosis
+T26	TEST 932 945	a laparoscopy
+T27	PROBLEM 981 1027	a small amount of ascites in the pelvic region
+T28	TEST 1032 1040	washings
+T29	PROBLEM 1057 1084	A small lesion in the liver
+T30	PROBLEM 1129 1135	a cyst
+T31	TEST 1146 1161	her laparoscopy
+T32	PROBLEM 1177 1197	pleuritic chest pain
+T33	PROBLEM 1202 1226	some shortness of breath
+T35	TEST 1282 1289	CT scan
+T36	PROBLEM 1338 1373	some interlobular septal thickening
+T37	PROBLEM 1378 1402	a ground glass opacities
+T38	TREATMENT 1430 1439	treatment
+T39	TREATMENT 1445 1464	modified FOLFIRINOX
+T40	TREATMENT 1534 1552	surgical resection
+T41	TREATMENT 1581 1590	a pylorus
+T42	TREATMENT 1591 1616	preserving pancreatectomy
+T43	TREATMENT 1622 1642	open cholecystectomy
+T44	TREATMENT 1647 1658	portal vein
+T45	TREATMENT 1663 1687	hepatic artery resection
+T46	TREATMENT 1692 1711	interposition graft
+T47	TEST 1713 1731	Surgical pathology
+T48	PROBLEM 1741 1769	a 1.7 cm residual tumor mass
+T49	PROBLEM 1801 1812	tumor cells
+T50	TEST 1824 1831	Margins
+T51	PROBLEM 1861 1881	positive lymph nodes
+T52	PROBLEM 1914 1938	unexpected complications
+T53	TREATMENT 1991 2002	her surgery
+T54	PROBLEM 2023 2053	continued abdominal discomfort
+T55	TREATMENT 2182 2193	her surgery
+T56	TEST 2220 2222	BP
+T57	TEST 2232 2237	Pulse
+T58	TEST 2243 2247	Temp
+T59	TEST 2248 2251	Src
+T60	TEST 2258 2259	C
+T61	TEST 2278 2282	Resp
+T62	TEST 2288 2290	Ht
+T63	TEST 2311 2313	Wt
+T64	TEST 2342 2345	BMI
+T65	TEST 2360 2364	SpO2
+T66	TEST 2372 2375	LMP
+T67	PROBLEM 2436 2450	icterus  Nodes
+T68	PROBLEM 2454 2473	clinical adenopathy
+T69	PROBLEM 2488 2499	thyromegaly
+T70	PROBLEM 2542 2548	murmur
+T71	PROBLEM 2552 2558	gallop
+T72	PROBLEM 2560 2582	Abd somewhat distended
+T73	PROBLEM 2598 2604	tender
+T74	TEST 2608 2617	palpation
+T75	PROBLEM 2622 2632	fluid wave
+T76	PROBLEM 2661 2665	rash
+T77	PROBLEM 2669 2678	petechiae
+T78	PROBLEM 2695 2700	edema
+T79	TEST 2705 2717	pedal pulses
+T80	PROBLEM 2742 2761	gross focal deficit
+T81	TEST 2814 2834	COMPLETE BLOOD COUNT
+T82	TEST 2873 2878	Value
+T83	TEST 2879 2882	Ref
+T84	TEST 2883 2888	Range
+T85	TEST 2892 2895	WBC
+T86	TEST 2896 2901	Count
+T87	TEST 2922 2936	L    RBC Count
+T88	TEST 2943 2949	*****)
+T89	TEST 2972 2982	Hemoglobin
+T90	TEST 3015 3025	Hematocrit
+T91	TEST 3052 3055	MCV
+T92	TEST 3075 3078	MCH
+T93	TEST 3093 3095	pg
+T94	TEST 3099 3103	MCHC
+T95	TEST 3118 3122	g/dL
+T96	TEST 3126 3140	Platelet Count
+T97	TEST 3156 3161	x10E9
+T98	TEST 3167 3177	Neutrophil
+T99	TEST 3178 3186	Absolute
+T100	TEST 3187 3192	Count
+T101	TEST 3209 3214	x10E9
+T102	TEST 3220 3230	Lymphocyte
+T103	TEST 3231 3234	Abs
+T104	TEST 3235 3238	Cnt
+T105	TEST 3255 3260	x10E9
+T106	TEST 3266 3278	Monocyte Abs
+T107	TEST 3279 3284	Count
+T108	TEST 3301 3306	x10E9
+T109	TEST 3312 3326	Eosinophil Abs
+T110	TEST 3327 3329	Ct
+T111	TEST 3336 3342	*****)
+T112	TEST 3353 3358	x10E9
+T113	TEST 3364 3376	Basophil Abs
+T114	TEST 3377 3382	Count
+T115	TEST 3404 3423	/L   CANCER ANTIGEN
+T116	TEST 3435 3447	Result Value
+T117	TEST 3461 3467	Cancer
+T118	TEST 3468 3475	Antigen
+T119	TEST 3498 3499	U
+T120	TEST 3505 3514	BILIRUBIN
+T121	TEST 3516 3534	TOTAL       Result
+T122	TEST 3545 3550	Range
+T123	TEST 3554 3563	Bilirubin
+T124	TEST 3565 3570	Total
+T125	TEST 3586 3591	mg/dL
+T126	TEST 3594 3604	CREATININE
+T127	TEST 3606 3611	SERUM
+T128	TEST 3634 3639	Value
+T129	TEST 3640 3643	Ref
+T130	TEST 3644 3649	Range
+T131	TEST 3653 3663	Creatinine
+T132	TEST 3682 3695	mg/dL    eGFR
+T133	TEST 3699 3719	non-African American
+T134	TEST 3738 3742	eGFR
+T135	TEST 3746 3753	African
+T136	TEST 3754 3758	Amer
+T137	TEST 3776 3811	ASPARTATE TRANSAMINASE       Result
+T138	TEST 3812 3817	Value
+T139	TEST 3822 3827	Range
+T140	TEST 3831 3853	Aspartate transaminase
+T141	TEST 3866 3905	U/L   ALANINE TRANSAMINASE       Result
+T142	TEST 3906 3911	Value
+T143	TEST 3927 3947	Alanine transaminase
+T144	TEST 3960 3986	U/L   ALKALINE PHOSPHATASE
+T145	TEST 4019 4039	Alkaline Phosphatase
+T146	TEST 4052 4062	U/L     CA
+T147	TEST 4093 4111	Preoperative value
+T148	TEST 4132 4161	The following imaging studies
+T149	TEST 4195 4227	Ct Abdomen /pelvis With Contrast
+T150	TEST 4244 4246	CT
+T151	TEST 4247 4275	ABDOMEN/PELVIS WITH CONTRAST
+T152	TREATMENT 4329 4338	resection
+T153	PROBLEM 4343 4350	panc ca
+T154	TEST 4381 4394	Comparison CT
+T155	TEST 4481 4524	contiguous 1.25-mm collimation axial images
+T156	TEST 4572 4602	Coronal and sagittal reformats
+T157	TEST 4724 4737	this CT study
+T158	TREATMENT 4761 4795	DLP (mGy-cm) radiation dose values
+T159	TEST 4843 4863	Chest/Abdomen/Pelvis
+T160	TEST 4882 4889	CTDIvol
+T161	TEST 4898 4901	DLP
+T162	TEST 5014 5016	CT
+T163	TEST 5021 5062	the volume Computed Tomography Dose Index
+T164	TEST 5232 5266	the CT scanner acquisition factors
+T165	TREATMENT 5450 5464	radiation dose
+T166	TEST 5529 5547	Biomedical Imaging
+T167	TEST 5593 5616	Computed Tomography (CT
+T168	TEST 5766 5780	chest findings
+T169	PROBLEM 5818 5834	periportal edema
+T170	PROBLEM 5897 5931	associated mild biliary dilatation
+T171	PROBLEM 5978 5996	tumor infiltration
+T172	PROBLEM 6048 6082	Small pneumobilia in the left lobe
+T173	TREATMENT 6116 6135	hepaticojejunostomy
+T174	PROBLEM 6167 6208	a 14 mm hypodense lesion in segment March
+T175	PROBLEM 6231 6272	New 5 mm hypodense lesion in segment 8/4A
+T176	PROBLEM 6304 6322	metastatic disease
+T177	PROBLEM 6324 6353	Other hypodense liver lesions
+T178	TREATMENT 6478 6495	Whipple procedure
+T179	PROBLEM 6507 6554	moderate dilatation of the main pancreatic duct
+T180	TEST 6590 6600	prior exam
+T181	TREATMENT 6709 6726	Whipple procedure
+T182	PROBLEM 6763 6802	Enhancing mass in the endometrial canal
+T183	PROBLEM 6838 6862	an intracavitary fibroid
+T184	TEST 6883 6900	pelvic ultrasound
+T185	PROBLEM 6912 6922	malignancy
+T186	PROBLEM 6925 6940	Lymphadenopathy
+T187	PROBLEM 6942 6982	Multiple reactive mesenteric lymph nodes
+T188	PROBLEM 6995 7002	Ascites
+T189	PROBLEM 7004 7017	Small ascites
+T190	PROBLEM 7028 7049	small amount of fluid
+T191	PROBLEM 7054 7092	stranding around the central mesentery
+T192	PROBLEM 7106 7124	suspicious lesions
+T193	PROBLEM 7197 7241	a 14 mm hypodense lesion in segment March 14
+T194	PROBLEM 7246 7287	new 5 mm hypodense lesion in segment 8/4A
+T195	PROBLEM 7303 7331	worsening metastatic disease
+T196	PROBLEM 7362 7378	periportal edema
+T197	PROBLEM 7439 7473	associated mild biliary dilatation
+T198	PROBLEM 7520 7538	tumor infiltration
+T199	PROBLEM 7593 7632	Enhancing mass in the endometrial canal
+T200	PROBLEM 7668 7692	an intracavitary fibroid
+T201	TEST 7713 7730	pelvic ultrasound
+T202	PROBLEM 7742 7752	malignancy
+T203	TEST 7778 7800	Ct Chest With Contrast
+T204	TEST 7817 7819	CT
+T205	TREATMENT 7897 7906	resection
+T206	PROBLEM 7911 7928	pancreatic cancer
+T207	PROBLEM 7934 7944	recurrence
+T208	TEST 7969 7985	chest radiograph
+T209	TEST 7998 8000	CT
+T210	TEST 8019 8025	PET/CT
+T211	TEST 8064 8109	Serial 1.25 mm axial images through the chest
+T212	TREATMENT 8152 8172	intravenous contrast
+T213	TEST 8275 8288	this CT study
+T214	TREATMENT 8312 8346	DLP (mGy-cm) radiation dose values
+T215	TEST 8394 8414	Chest/Abdomen/Pelvis
+T216	TEST 8433 8440	CTDIvol
+T217	TEST 8449 8452	DLP
+T218	TEST 8565 8567	CT
+T219	TEST 8572 8613	the volume Computed Tomography Dose Index
+T220	TEST 8783 8817	the CT scanner acquisition factors
+T221	TREATMENT 9001 9015	radiation dose
+T222	TEST 9080 9098	Biomedical Imaging
+T223	TEST 9144 9167	Computed Tomography (CT
+T224	PROBLEM 9236 9273	Bilateral nonspecific thyroid nodules
+T225	PROBLEM 9297 9347	an 8 mm hypodense nodule in the right thyroid lobe
+T226	PROBLEM 9350 9395	Scattered lower lobe subsegmental atelectasis
+T227	PROBLEM 9421 9434	consolidation
+T228	PROBLEM 9438 9454	pleural effusion
+T229	PROBLEM 9456 9509	Unchanged calcified granuloma in the right upper lobe
+T230	PROBLEM 9511 9542	Few scattered pulmonary nodules
+T231	PROBLEM 9653 9668	lymphadenopathy
+T232	PROBLEM 9670 9723	Scattered calcified mediastinal and hilar lymph nodes
+T233	PROBLEM 9756 9783	old 
+ granulomatous disease
+T234	PROBLEM 9822 9845	significant abnormality
+T235	TREATMENT 9847 9879	Right chest wall Port-A-Cath tip
+T236	PROBLEM 9990 10013	suspicious bone lesions
+T237	PROBLEM 10030 10077	Mild degenerative changes of the thoracic spine
+T238	TEST 10129 10154	evaluation of the abdomen
+T239	PROBLEM 10186 10222	Few scattered tiny pulmonary nodules
+T240	TEST 10296 10323	clinical oncologic protocol
+T241	PROBLEM 10380 10446	Borderline resectable/locally advanced adenocarcinoma the pancreas
+T242	TREATMENT 10452 10476	neoadjuvant chemotherapy
+T243	TREATMENT 10489 10498	resection
+T244	PROBLEM 10523 10541	disease recurrence
+T245	TEST 10591 10610	her imaging studies
+T246	PROBLEM 10612 10623	The lesions
+T247	TEST 10681 10697	repeat her scans
+T248	TEST 10738 10759	a confirmatory biopsy
+T249	TREATMENT 10887 10897	management
+T250	Symptom 158 178	abdominal discomfort
+A1	IsPresentOnFirstCancerDiagnosis T250 yes
+A2	IsCausedByDiagnosedCancer T250 yes
+A3	ChronicVal T250 non-chronic
+A4	ContinuityVal T250 new
+T251	Symptom 180 188	bloating
+A5	IsPresentOnFirstCancerDiagnosis T251 yes
+A6	IsCausedByDiagnosedCancer T251 yes
+A7	ChronicVal T251 non-chronic
+A8	ContinuityVal T251 new
+T252	Symptom 204 212	jaundice
+A9	IsPresentOnFirstCancerDiagnosis T252 yes
+A10	IsCausedByDiagnosedCancer T252 yes
+A11	ChronicVal T252 non-chronic
+A12	ContinuityVal T252 new
+T253	Datetime 144 152	February
+R1	HappensAtOnDuring Arg1:T253 Arg2:T250	
+R2	HappensAtOnDuring Arg1:T253 Arg2:T251	
+R3	HappensAtOnDuring Arg1:T253 Arg2:T252	
+T254	ProcedureName 217 228	metal stent
+A13	IntentVal T254 others
+A14	TreatmentTypeVal T254 others
+A15	TreatmentCategory T254 Others
+R4	TestOrProcedureConductedForProblem Test:T254 Prob:T250	
+R5	TestOrProcedureConductedForProblem Test:T254 Prob:T251	
+R6	TestOrProcedureConductedForProblem Test:T254 Prob:T252	
+T255	Datetime 243 249	May 29
+R7	HappensAtOnDuring Arg1:T255 Arg2:T254	
+T256	Radiology 304 311	CT scan
+A16	IntentVal T256 diagnosis
+T257	Radiology 406 412	PET/CT
+A17	IntentVal T257 staging
+T258	Radiology 484 508	ultrasound of the pelvis
+A18	IntentVal T258 diagnosis
+T259	Radiology 633 636	EUS
+A19	IntentVal T259 diagnosis
+T260	RadPathResult 336 340	mass
+A20	RadPathResultVal T260 InitialCancerDiagnosis
+T261	RadPathResult 445 449	mass
+A21	RadPathResultVal T261 InitialCancerDiagnosis
+T262	RadPathResult 890 915	peritoneal carcinomatosis
+A22	RadPathResultVal T262 InitialCancerDiagnosis
+A23	NegationModalityVal T262 uncertain_in_present
+T263	Metastasis 890 915	peritoneal carcinomatosis
+A24	NegationModalityVal T263 uncertain_in_present
+A25	EpisodeDescription T263 FirstOccurrence
+T264	Radiology 820 845	pancreas protocol CT scan
+A26	IntentVal T264 staging
+T265	Site 348 368	head of the pancreas
+T266	RadPathResult 388 392	mass
+A27	RadPathResultVal T266 Others
+T267	RadPathResult 540 547	fibroid
+A28	RadPathResultVal T267 Others
+T268	RadPathResult 580 601	thickened endometrium
+A29	RadPathResultVal T268 Others
+T269	RadPathResult 615 621	masses
+A30	RadPathResultVal T269 Others
+T270	RadPathResult 662 672	encasement
+A31	RadPathResultVal T270 InitialCancerDiagnosis
+T271	RadPathResult 699 707	invasion
+A32	RadPathResultVal T271 InitialCancerDiagnosis
+T272	Site 680 694	hepatic artery
+T273	Site 717 728	portal vein
+T274	Site 555 575	fundus of the uterus
+T275	Site 457 465	pancreas
+T276	Site 607 614	adnexal
+T277	Site 380 387	adrenal
+R8	SiteOf Arg1:T265 Arg2:T260	
+R9	SiteOf Arg1:T277 Arg2:T266	
+T278	Size 375 379	2 cm
+R10	SizeOf Arg1:T278 Arg2:T266	
+T279	Size 533 539	3.2 cm
+R11	SizeOf Arg1:T279 Arg2:T267	
+R12	SiteOf Arg1:T275 Arg2:T261	
+T280	RadPathResult 470 478	PET avid
+A33	RadPathResultVal T280 InitialCancerDiagnosis
+R13	ResultOfTest Desc:T261 Test:T257	
+R14	ResultOfTest Desc:T280 Test:T257	
+R15	ResultOfTest Desc:T260 Test:T256	
+R16	ResultOfTest Desc:T266 Test:T256	
+R17	ResultOfTest Desc:T267 Test:T258	
+R18	ResultOfTest Desc:T268 Test:T258	
+R19	SiteOf Arg1:T274 Arg2:T267	
+T281	Datetime 416 420	June
+R20	HappensAtOnDuring Arg1:T255 Arg2:T256	
+R21	HappensAtOnDuring Arg1:T281 Arg2:T257	
+T282	Datetime 517 524	June 05
+R22	HappensAtOnDuring Arg1:T282 Arg2:T258	
+T283	Datetime 645 651	May 29
+R23	SiteOf Arg1:T276 Arg2:T269	
+A34	NegationModalityVal T269 negated
+R24	ResultOfTest Desc:T269 Test:T258	
+R25	SiteOf Arg1:T272 Arg2:T270	
+R26	SiteOf Arg1:T273 Arg2:T271	
+T284	LocalInvasion 662 672	encasement
+A35	EpisodeDescription T284 FirstOccurrence
+T285	LocalInvasion 699 707	invasion
+A36	EpisodeDescription T285 FirstOccurrence
+R27	TestOrProcedureReveals Test:T259 Desc:T284	
+R28	TestOrProcedureReveals Test:T259 Desc:T285	
+R29	HappensAtOnDuring Arg1:T283 Arg2:T259	
+R30	ResultOfTest Desc:T270 Test:T259	
+R31	ResultOfTest Desc:T271 Test:T259	
+T286	ProcedureName 731 734	FNA
+A37	IntentVal T286 diagnosis
+T287	Site 742 750	pancreas
+R32	SiteOf Arg1:T287 Arg2:T286	
+T288	Histology 760 774	adenocarcinoma
+R33	TestOrProcedureReveals Test:T286 Desc:T288	
+R34	HappensAtOnDuring Arg1:T283 Arg2:T286	
+R35	TestOrProcedureReveals Test:T264 Prob:T263	
+R36	ResultOfTest Desc:T262 Test:T264	
+T289	ProcedureName 934 945	laparoscopy
+A38	IntentVal T289 staging
+T290	ClinicalCondition 999 1006	ascites
+A39	ChronicVal T290 non-chronic
+T291	RadPathResult 1046 1054	negative
+A40	RadPathResultVal T291 NoDisease
+T292	Pathology 1032 1040	washings
+A41	IntentVal T292 staging
+R37	ResultOfTest Desc:T291 Test:T292	
+R38	TestOrProcedureReveals Test:T289 Desc:T290	
+T293	RadPathResult 1065 1071	lesion
+A42	RadPathResultVal T293 NoDisease
+T294	Site 1079 1084	liver
+T295	Pathology 1089 1097	biopsied
+R39	ResultOfTest Desc:T293 Test:T295	
+R40	SiteOf Arg1:T294 Arg2:T293	
+T296	RadPathResult 1131 1135	cyst
+A43	RadPathResultVal T296 NoDisease
+R41	ResultOfTest Desc:T296 Test:T295	
+T297	ProcedureName 1150 1161	laparoscopy
+A44	IntentVal T297 staging
+T298	Symptom 1177 1197	pleuritic chest pain
+A45	IsPresentOnFirstCancerDiagnosis T298 no
+A46	IsCausedByDiagnosedCancer T298 no
+A47	ChronicVal T298 non-chronic
+A48	ContinuityVal T298 new
+T299	Symptom 1207 1226	shortness of breath
+A49	IsPresentOnFirstCancerDiagnosis T299 no
+A50	IsCausedByDiagnosedCancer T299 no
+A51	ChronicVal T299 non-chronic
+A52	ContinuityVal T299 new
+R42	ConditionOrTreatmentCausesProblem Treatment:T297 Prob:T298	
+R43	ConditionOrTreatmentCausesProblem Treatment:T297 Prob:T299	
+T34	ClinicalCondition 1253 1255	PE
+A53	NegationModalityVal T34 negated
+T300	Radiology 1282 1289	CT scan
+A54	IntentVal T300 others
+R44	TestOrProcedureReveals Test:T300 Desc:T34	
+R45	TestOrProcedureConductedForProblem Test:T300 Prob:T298	
+R46	TestOrProcedureConductedForProblem Test:T300 Prob:T299	
+T301	RadPathResult 1343 1373	interlobular septal thickening
+A55	RadPathResultVal T301 Others
+T302	RadPathResult 1380 1402	ground glass opacities
+A56	RadPathResultVal T302 Others
+R47	ResultOfTest Desc:T301 Test:T300	
+R48	ResultOfTest Desc:T302 Test:T300	
+T303	MedicationRegimen 1445 1464	modified FOLFIRINOX
+A57	TreatmentContinuityVal T303 started
+A58	TreatmentTypeVal T303 neoadjuvant
+A59	TreatmentIntentVal T303 curative
+T304	Cycles 1480 1482	12
+R49	TreatmentDesc Therapy:T304 Desc:T303	
+T305	ProcedureName 1534 1552	surgical resection
+A60	NegationModalityVal T305 hypothetical_in_future
+A61	IntentVal T305 treatment-curative
+A62	TreatmentTypeVal T305 local
+T306	Datetime 1557 1565	March 22
+T307	ProcedureName 1583 1712	pylorus-preserving pancreatectomy with open cholecystectomy and portal vein and hepatic artery resection and interposition graft.
+A63	IntentVal T307 treatment-curative
+A64	TreatmentTypeVal T307 local
+A65	IsTumorRemaining T307 no
+T308	Pathology 1713 1731	Surgical pathology
+A66	IntentVal T308 TreatmentAssessment
+T309	RadPathResult 1750 1769;1791 1822	residual tumor mass 51-90% of tumor cells destroyed
+A67	RadPathResultVal T309 TreatmentResponse
+T310	Size 1743 1749	1.7 cm
+A68	EpisodeDescription T310 FirstOccurrence
+R50	SizeOf Arg1:T310 Arg2:T309	
+R51	ResultOfTest Desc:T309 Test:T308	
+T311	MarginStatus 1824 1831	Margins
+A69	MarginVal T311 MoreThan2mm(Neg)
+R52	ProcedureDesc Procedure:T307 Desc:T311	
+T312	LymphNodeInvolvement 1870 1881	lymph nodes
+A70	NegationModalityVal T312 negated
+A71	EpisodeDescription T312 FirstOccurrence
+R53	TestOrProcedureReveals Test:T305 Desc:T312	
+R54	TestOrProcedureReveals Test:T308 Desc:T312	
+T313	Symptom 2033 2053	abdominal discomfort
+A72	IsPresentOnFirstCancerDiagnosis T313 no
+A73	IsCausedByDiagnosedCancer T313 no
+A74	ContinuityVal T313 new
+R55	ConditionOrTreatmentCausesProblem Treatment:T307 Prob:T313	
+T314	Symptom 2102 2115	good appetite
+A75	NegationModalityVal T314 negated
+T315	Symptom 2137 2152	bowel movements
+A76	NegationModalityVal T315 negated
+T316	Symptom 2161 2175	lost 15 pounds
+A77	NegationModalityVal T316 affirmed
+A78	IsPresentOnFirstCancerDiagnosis T316 no
+A79	IsCausedByDiagnosedCancer T316 no
+A80	ChronicVal T316 non-chronic
+R56	ConditionOrTreatmentCausesProblem Treatment:T307 Prob:T316	
+T317	SectionSkip 2198 2761	Objective:    Vitals: BP 148/79 | Pulse 84 | Temp(Src) 36.7 C (98.1 F) (Oral) | Resp 16 | Ht 173 cm (5' 8.11") | Wt 79.561 kg (175 lb 6.4 oz) | BMI 26.58 kg/m2 | SpO2 100% | LMP 10/08/1998   In general, she appears comfortable.  HEENT no icterus  Nodes no clinical adenopathy  Neck without thyromegaly  Lungs clear to A and P  Heart RR without murmur or gallop  Abd somewhat distended. Right side is tender to palpation. No fluid wave.  GU not done  Skin without rash or petechiae  Extrem without edema and pedal pulses are full  Neuro without gross focal deficit
+A81	SectionSkipType T317 physical_exam
+T318	SectionSkip 2765 3911;3914 4092	Results for orders placed in visit on 04/26/15   COMPLETE BLOOD COUNT WITH 5-PART DIFFERENTIAL       Result Value Ref Range    WBC Count 5.7  3.4 - 10 x10E9/L    RBC Count 3.57 (*****) 4.0 - 5.2 x10E12/L    Hemoglobin 9.5 (*****) 12.0 - 15.5 g/dL    Hematocrit 30.5 (*****) 36 - 46 %    MCV 85  80 - 100 fL    MCH 26.6  26 - 34 pg    MCHC 31.1  31 - 36 g/dL    Platelet Count 171  140 - 450 x10E9/L    Neutrophil Absolute Count 3.19  1.8 - 6.8 x10E9/L    Lymphocyte Abs Cnt 1.60  1.0 - 3.4 x10E9/L    Monocyte Abs Count 0.44  0.2 - 0.8 x10E9/L    Eosinophil Abs Ct 0.48 (*****) 0.0 - 0.4 x10E9/L    Basophil Abs Count 0.03  0.0 - 0.1 x10E9/L   CANCER ANTIGEN 19-9       Result Value Ref Range    Cancer Antigen 19-9 2250 (*****) <36 U/mL   BILIRUBIN, TOTAL       Result Value Ref Range    Bilirubin, Total 0.4  0.2 - 1.3 mg/dL   CREATININE, SERUM / PLASMA       Result Value Ref Range    Creatinine 0.86  0.52 - 1.06 mg/dL    eGFR if non-African American 72  >60 mL/min    eGFR if African Amer 83  >60 mL/min   ASPARTATE TRANSAMINASE       Result Value Ref Range    Aspartate transaminase 23  17 - 42 U/L   ALANINE TRANSAMINASE       Result Value Ref Range    Alanine transaminase 17  11 - 50 U/L   ALKALINE PHOSPHATASE       Result Value Ref Range    Alkaline Phosphatase 89  31 - 95 U/L     CA 19-9 dated April 26 was 2250.
+A82	SectionSkipType T318 laboratory
+T319	SectionSkip 4093 4129	Preoperative value in January was 44
+A83	SectionSkipType T319 laboratory
+T320	SectionSkip 4132 5864;5867 7825;7828 9759;9762 10356	The following imaging studies are reviewed and interpreted:    Ct Abdomen /pelvis With Contrast    04/26/2015   CT ABDOMEN/PELVIS WITH CONTRAST  *****/*****/***** 8:37 AM  CLINICAL HISTORY: Pt s/p resection for panc ca; r/o recurrence  COMPARISON:  Comparison CT from 01/12/2015.  TECHNIQUE: Following the administration of 150 cc of Omnipaque 350, contiguous 1.25-mm collimation axial images were obtained through the abdomen and pelvis.  Coronal and sagittal reformats were also obtained.  RADIATION DOSE INDICATORS:  ***** *****-***** received 1 exposure event(s) (excluding scout) during this CT study. The CTDIvol (mGy) and DLP (mGy-cm) radiation dose values for each event are:  Event: 1;  anatomic area: Chest/Abdomen/Pelvis;  phantom: body;  CTDIvol: 11.1;  DLP: 699.1  The following accession numbers are related to this dose report [*****]: *****  The dose indicators for CT are the volume Computed Tomography Dose Index (CTDIvol) and the Dose Length Product (DLP), and are measured in units of mGy and mGy-cm, respectively. These indicators are not patient dose, but values generated from the CT scanner acquisition factors.  Individual patient doses calculated from these values will depend on patient size and can substantially underestimate or overestimate the actual dose. For additional information on radiation dose, safety, and protection in the UCSF Department of Radiology and Biomedical Imaging, please refer to one of our FAQ leaflets on "Computed Tomography (CT)" or go to *****://*****.*****.*****.*****/*****/*****.   FINDINGS:  Visualized lung bases:  Please see separately dictated report from same day for chest findings.   Liver:    Interval development of periportal edema involving the lateral segment of the left hepatic lobe with associated mild biliary dilatation. This may be postsurgical in nature. However, tumor infiltration is not entirely excluded. Attention on follow-up.  Small pneumobilia in the left lobe is noted. Patient is status post hepaticojejunostomy.  Interval increase in size of a 14 mm hypodense lesion in segment March 14 (previously 9 mm). New 5 mm hypodense lesion in segment 8/4A is noted and is suspicious for metastatic disease. Other hypodense liver lesions are not significantly changed.  Gallbladder:  Surgically absent.   Spleen:  Unremarkable  Pancreas:  Patient is status post Whipple procedure . There is moderate dilatation of the main pancreatic duct, stable to slightly increased from prior exam.  Adrenal Glands:  Unremarkable  Kidneys:  Unremarkable  Vasculature:  Unremarkable  GI Tract:  Status post Whipple procedure. Otherwise, unremarkable.  Pelvis:  Enhancing mass in the endometrial canal is noted. This may be secondary to an intracavitary fibroid. However, recommend pelvic ultrasound to exclude malignancy.  Lymphadenopathy: Multiple reactive mesenteric lymph nodes are noted.  Ascites: Small ascites. There is small amount of fluid and stranding around the central mesentery.  Bones:  No suspicious lesions     04/26/2015   IMPRESSION: //ALERT//   1.Interval increase in size of a 14 mm hypodense lesion in segment March 14 and new 5 mm hypodense lesion in segment 8/4A, suggestive of worsening metastatic disease.   2. Interval development of periportal edema involving the lateral segment of the left hepatic lobe with associated mild biliary dilatation. This may be postsurgical in nature. However, tumor infiltration is not entirely excluded. Attention on follow-up.  3. Enhancing mass in the endometrial canal is noted. This may be secondary to an intracavitary fibroid. However, recommend pelvic ultrasound to exclude malignancy.  END OF IMPRESSION:     Ct Chest With Contrast    04/26/2015   CT CHEST WITH CONTRAST   *****/*****/***** 8:37 AM  CLINICAL HISTORY:  Pt s/p resection for pancreatic cancer; r/o recurrence  COMPARISON: 03/22/2015 chest radiograph; 01/12/2015 CT chest; 06/15/2014 PET/CT from an outside hospital.  TECHNIQUE: Serial 1.25 mm axial images through the chest were obtained after the administration of intravenous contrast.  RADIATION DOSE INDICATORS:  ***** *****-***** received 1 exposure event(s) (excluding scout) during this CT study. The CTDIvol (mGy) and DLP (mGy-cm) radiation dose values for each event are:  Event: 1;  anatomic area: Chest/Abdomen/Pelvis;  phantom: body;  CTDIvol: 11.1;  DLP: 699.1  The following accession numbers are related to this dose report [*****]: *****  The dose indicators for CT are the volume Computed Tomography Dose Index (CTDIvol) and the Dose Length Product (DLP), and are measured in units of mGy and mGy-cm, respectively. These indicators are not patient dose, but values generated from the CT scanner acquisition factors.  Individual patient doses calculated from these values will depend on patient size and can substantially underestimate or overestimate the actual dose. For additional information on radiation dose, safety, and protection in the UCSF Department of Radiology and Biomedical Imaging, please refer to one of our FAQ leaflets on "Computed Tomography (CT)" or go to *****://*****.*****.*****.*****/*****/*****.  FINDINGS:  Bilateral nonspecific thyroid nodules again noted, including an 8 mm hypodense nodule in the right thyroid lobe.  Scattered lower lobe subsegmental atelectasis is new from previous. No consolidation or pleural effusion. Unchanged calcified granuloma in the right upper lobe. Few scattered pulmonary nodules measuring up to 3 mm in the subpleural aspect of the right upper lobe are unchanged, series 301 image 58.  No lymphadenopathy. Scattered calcified mediastinal and hilar lymph nodes are unchanged and suggestive of old granulomatous disease.  The heart and great vessels show no significant abnormality. Right chest wall Port-A-Cath tip extends through the tricuspid valve into the right ventricle, previously terminating in the right atrium.  No suspicious bone lesions are identified. Mild degenerative changes of the thoracic spine.  Please see a separately reported examination for evaluation of the abdomen.     04/26/2015   IMPRESSION:  Few scattered tiny pulmonary nodules measuring up to 3 mm, unchanged since 09/16/2014. Continued followup per clinical oncologic protocol recommended.  END OF IMPRESSION:
+A84	SectionSkipType T320 radiology_report
+T321	ClinicalCondition 10419 10447	adenocarcinoma the pancreas,
+A85	ChronicVal T321 non-chronic
+T322	LocalInvasion 10391 10418	resectable/locally advanced
+A86	NegationModalityVal T322 negated
+A87	EpisodeDescription T322 FirstOccurrence
+R57	TumorDesc TumorDetails:T321 Desc:T322	
+T323	TreatmentType 10452 10476	neoadjuvant chemotherapy
+A88	TreatmentContinuityVal T323 finished
+A89	TreatmentTypeVal T323 neoadjuvant
+A90	TreatmentIntentVal T323 curative
+T324	TreatmentType 10489 10498	resection
+A91	IntentVal T324 treatment-curative
+A92	TreatmentContinuityVal T324 finished
+A93	TreatmentTypeVal T324 local
+A94	TreatmentIntentVal T324 curative
+T325	DiseaseState 10523 10541	disease recurrence
+A95	NegationModalityVal T325 uncertain_in_present
+A96	DiseaseStateVal T325 progression-recurrence
+T326	Radiology 10595 10610	imaging studies
+A97	IntentVal T326 TreatmentAssessment
+R58	TestOrProcedureReveals Test:T326 Desc:T325	
+T327	RadPathResult 10616 10623	lesions
+A98	NegationModalityVal T327 uncertain_in_present
+A99	RadPathResultVal T327 Progression
+R59	ResultOfTest Desc:T327 Test:T326	
+T328	Size 10628 10637	too small
+R60	SizeOf Arg1:T328 Arg2:T327	
+T329	Duration 10701 10710	2 months.
+T330	Radiology 10692 10697	scans
+A100	IntentVal T330 TreatmentAssessment
+A101	NegationModalityVal T330 planned_in_future
+R61	HappensAtOnDuring Arg1:T329 Arg2:T330	
+T331	ProcedureName 10740 10759	confirmatory biopsy
+A102	NegationModalityVal T331 hypothetical_in_future
+T332	PerformanceStatus 10552 10553	0
+A103	PerformanceStatusType T332 ECOG
+T333	Age 39 41	63
+T334	PatientCharacteristics 51 67	African American
+R62	TestOrProcedureReveals Test:T256 Desc:T278	
+R63	TestOrProcedureReveals Test:T258 Desc:T279	
+R64	HappensAtOnDuring Arg1:T307 Arg2:T306	
+R65	TestOrProcedureReveals Test:T308 Desc:T310	
+R66	HappensAtOnDuring Arg1:T306 Arg2:T308	
+R67	TestOrProcedureReveals Test:T326 Desc:T328	
+T335	hpi_end 2186 2194	surgery.
+T336	ap_start 10362 10372	Assessment
+T337	ap_end 10753 10760	biopsy.

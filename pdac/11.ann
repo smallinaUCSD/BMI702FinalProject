@@ -1,0 +1,1457 @@
+T1	SectionAnnotate 183 226	Patient Identification and Oncology History
+T2	SectionAnnotate 2828 2845	Interval History:
+T3	SectionAnnotate 4472 4489	Review of Systems
+T4	SectionSkip 5532 5618	Current Medications  No current facility-administered medications for this visit.   No
+T5	SectionSkip 5619 7198	current outpatient prescriptions on file.    Facility-Administered Medications Ordered in ***** *****:     0.9 % sodium chloride flush injection syringe, 3 mL, Intravenous, Q8H SCH, ***** ***** *****, MD, 3 mL at 08/27/16 0540    0.9 % sodium chloride flush 
+ injection syringe, 3 mL, Intravenous, PRN, ***** ***** *****, MD    0.9 % sodium chloride infusion, 50 mL/hr, Intravenous, Continuous, ***** ***** *****, MD, Last Rate: 50 mL/hr at 08/28/16 0437, 50 mL/hr at 08/28/16 0437    baclofen (LIORESAL) tablet 5 mg, 5 mg, Oral, TID *****, ***** *****, MD, 5 mg at 08/28/16 0629    carvedilol (COREG) tablet 12.5 mg, 12.5 mg, Oral, *****, ***** *****, MD, 12.5 mg at 08/28/16 0921    diltiazem (CARDIZEM CD) 24 hr capsule 120 mg, 120 mg, Oral, Daily (AM), ***** ***** *****, MD, 120 mg at 08/28/16 0921    diphenhydrAMINE (BENADRYL) injection 12.5 mg, 12.5 mg, Intravenous, Bedtime *****, ***** *****, MD, 12.5 mg at 08/28/16 0021    lidocaine (XYLOCAINE) 2 % viscous solution 5 mL, 5 mL, Mouth/Throat, Q3H *****, ***** ***** *****, MD    methyl salicylate-menthol (BENGAY) ointment, , Topical, PRN, ***** ***** *****, MD    ondansetron (ZOFRAN) injection 4 mg, 4 mg, Intravenous, Q30 Min PRN, ***** ***** *****, MD, 4 mg at 08/25/16 0143    phenol (PHENASEPTIC) 1.4 % spray 1-3 spray, 1-3 spray, Mouth/Throat, Q2H PRN, ***** ***** *****, MD, 3 spray at 08/25/16 0640    traMADol (ULTRAM) tablet 50 mg, 50 mg, Oral, Q6H *****, ***** *****, MD, 50 mg at 08/28/16 0309    warfarin (COUMADIN) tablet 3 mg, 3 mg, Oral, Q PM, ***** ***** *****, MD, 3 mg at 08/27/16 2104
+T6	SectionSkip 7202 7215	Physical Exam
+T7	SectionSkip 14727 15288	Lab Results   Component Value Date    CANCER ANTIGEN 19-April 4720 (H) 07/30/2016    CANCER ANTIGEN 19-9 276 (H) 06/25/2016    CANCER ANTIGEN 19-9 89 (H) 05/27/2016    CANCER ANTIGEN 19-9 71 (H) 05/16/2016    CANCER ANTIGEN 19-9 52 (H) 03/26/2016   CA 19-9: 1252 (11/03/15)     Ref. Range *****/*****/***** *****:*****   HBV Real Time Latest Ref Range: <10 IU/mL <10   HBV Log IU/mL Latest Ref Range: <1.00  <1.00       Imaging  I personally reviewed and discussed the radiology results in detail with the patient.     08/25/2016 CT ABDOMEN/PELVIS WITH CONTRAST
+T8	SectionSkip 15365 16939	FINDINGS: Visualized lung bases:  Unremarkable Liver:  2 biliary stents with tips in the duodenum, with associated pneumobilia. Redemonstrated moderate intrahepatic ductal dilatation, with abrupt change in caliber at the porta hepatis secondary to an obstructing, ill defined heterogeneously enhancing soft 
+ tissue nodule, unchanged. Gallbladder/bile ducts:  Contracted gallbladder. Multiple biliary stents and moderate intrahepatic biliary dilation with no pneumobilia on the left, raising the possibility of stent obstruction. Spleen:  Unremarkable Pancreas:  Unchanged ill-defined infiltrative pancreatic mass which is abutting the stomach and colon. Adrenal Glands:  Unchanged indeterminate 9 mm nodule in each adrenal gland. Kidneys:   mild left hydroureteronephrosis. The left ureter appears to be obstructed by a peritoneal implant (series 3/image 118). GI Tract:  Small bowel obstruction with distended stomach, duodenum, and proximal jejunum transition point in the distal duodenum between 2 nonoverlapping enteric stents ( the 4th and 5th) , where the unstented portion of small bowel appears to abruptly narrow as it approaches the opening of the most distal stent (series 2, image 186). Beyond the most distal jejunal stent, the bowel is decompressed. No evidence of ischemia or perforation. Stents of colonic diverticulosis, without evidence of acute diverticulitis. Vasculature:  Unremarkable Lymphadenopathy: Redemonstrated peritoneal and omental nodularity. Ascites: Moderate amount of ascites, unchanged. Bones:  No suspicious lesions Pelvis:  Unremarkable
+T9	SectionAnnotate 16942 16953	IMPRESSION:
+T10	SectionSkip 18184 19760	FINDINGS: Visualized lung bases:  Small left pleural effusion with associated left lower lobe atelectasis. Liver:  Redemonstrated left and right biliary stents with tips in the duodenum. Predominantly right-sided pneumobilia, and compared to 08/14/2016, new absence of left-sided pneumobilia. Similar-appearing moderate intrahepatic biliary ductal dilatation. Redemonstrated ill-defined, heterogeneously enhancing soft tissue nodule at the level of the porta hepatis (Series 3 image 46). Gallbladder:  Unremarkable Spleen:  Unremarkable Pancreas:  Redemonstration of infiltrative mass within the body and tail of the pancreas with encasement of the splenic artery, not significantly changed in size since recent prior 08/14/2016. The mass appears to contact the colon at the level of the splenic flexure. Adrenal Glands:  Unchanged small bilateral adrenal nodules. Kidneys:  Unremarkable GI Tract:  Interval placement of enteric stents from the gastric body to the proximal jejunum with resolution of duodenal obstruction. The pancreatic mass appears to contact the colon at the level of the splenic flexure, without associated obstruction.  Vasculature:  Unchanged chronic occlusion of the splenic vein with narrowing of the portosplenic confluence, and encasement of the splenic artery by the infiltrating pancreatic mass with multiple portosystemic collaterals. Lymphadenopathy: Similar appearance of 
+ peritoneal and omental nodularity with peritoneal enhancement. Ascites: Interval increase in now moderate volume intra-abdominal free fluid. Bones:  No suspicious lesions
+T11	SectionAnnotate 20811 20828	ASSESSMENT & PLAN
+T12	PROBLEM 58 83	pancreatic adenocarcinoma
+T13	PROBLEM 312 323	weight loss
+T14	PROBLEM 349 368	decline in appetite
+T15	TEST 399 423	his blood glucose levels
+T16	TEST 442 454	a CT abdomen
+T17	PROBLEM 483 531	a 7.5x3.5x3.7cm mass in the tail of the pancreas
+T18	PROBLEM 537 563	thrombosis of splenic vein
+T19	PROBLEM 568 584	marked narrowing
+T20	PROBLEM 589 621	encasement of the splenic artery
+T21	PROBLEM 638 679	mass effect on the proximal peroneal vein
+T22	PROBLEM 816 824	the mass
+T23	PROBLEM 930 964	The loss of fat plane between mass
+T24	PROBLEM 1021 1040	Direction extension
+T25	TEST 1060 1066	an EUS
+T26	PROBLEM 1108 1116	the mass
+T27	PROBLEM 1170 1198	Pancreatic ductal dilatation
+T28	PROBLEM 1210 1218	The mass
+T29	TEST 1391 1409	further evaluation
+T30	PROBLEM 1426 1458	lymph nodes and uncinate process
+T31	PROBLEM 1486 1504	a large lymph node
+T32	TEST 1561 1572	EUS staging
+T33	TEST 1594 1607	Cytopathology
+T34	TEST 1613 1620	the FNA
+T35	PROBLEM 1624 1643	the pancreatic mass
+T36	PROBLEM 1664 1678	adenocarcinoma
+T37	PROBLEM 1747 1781	bilateral lower extremity weakness
+T38	PROBLEM 1786 1800	slurred speech
+T39	PROBLEM 1869 1896	the abdominal and back pain
+T40	TEST 1918 1928	the biopsy
+T41	PROBLEM 2000 2012	the symptoms
+T42	PROBLEM 2016 2024	weakness
+T43	PROBLEM 2029 2043	slurred speech
+T44	TREATMENT 2094 2112	systemic treatment
+T45	TREATMENT 2118 2129	gemcitabine
+T46	TREATMENT 2134 2148	nab-paclitaxel
+T47	TEST 2191 2220	potential surgical evaluation
+T48	TEST 2256 2280	a diagnostic laparoscopy
+T49	TREATMENT 2374 2390	systemic therapy
+T50	TREATMENT 2396 2407	mFOLFIRINOX
+T51	TREATMENT 2440 2485	mFOLFIRINOX (20% dose reduction in irinotecan
+T52	TEST 2500 2522	BLE Doppler Ultrasound
+T53	PROBLEM 2537 2540	DVT
+T54	PROBLEM 2612 2619	dyspnea
+T55	PROBLEM 2624 2639	chest tightness
+T56	TREATMENT 2656 2666	irinotecan
+T57	PROBLEM 2701 2705	afib
+T58	TEST 2707 2710	CTA
+T59	PROBLEM 2719 2721	PE
+T60	PROBLEM 2908 2932	worsening abdominal pain
+T61	TEST 2934 2941	CT scan
+T62	PROBLEM 2950 2979	tumor in pancreatic body/tail
+T63	PROBLEM 2988 3022	mass effect on the small intestine
+T64	PROBLEM 3077 3102	partial bowel obstruction
+T65	TEST 3117 3131	the CT imaging
+T66	PROBLEM 3145 3159	carcinomatosis
+T67	TREATMENT 3165 3196	peritoneal and omental implants
+T68	TEST 3245 3248	EGD
+T69	TREATMENT 3254 3274	5 overlapping stents
+T70	PROBLEM 3289 3323	the malignant duodenal obstruction
+T71	PROBLEM 3342 3371	carcinomatosis of the jejunum
+T72	TEST 3381 3390	A CT scan
+T73	PROBLEM 3418 3444	the intestinal obstruction
+T74	TREATMENT 3449 3464	stent placement
+T75	PROBLEM 3474 3508	pneumobilia in left biliary system
+T76	PROBLEM 3514 3530	moderate ascites
+T77	PROBLEM 3579 3593	his discomfort
+T78	TREATMENT 3608 3618	the stents
+T79	PROBLEM 3639 3657	free flow of fluid
+T80	TREATMENT 3743 3753	the stents
+T81	PROBLEM 3828 3843	some discomfort
+T82	TREATMENT 3849 3858	the stent
+T83	PROBLEM 3867 3876	back pain
+T84	TREATMENT 3950 3960	an NG tube
+T85	TEST 4042 4054	xray imaging
+T86	TEST 4100 4121	His recent CT imaging
+T87	PROBLEM 4142 4165	small bowel obstruction
+T88	TEST 4167 4180	His bilirubin
+T89	TREATMENT 4274 4289	palliative care
+T90	TREATMENT 4398 4408	an NG tube
+T91	TREATMENT 4412 4426	a blended diet
+T92	TREATMENT 4439 4466	one final treatment regimen
+T93	PROBLEM 4503 4516	recent fevers
+T94	PROBLEM 4520 4526	chills
+T95	PROBLEM 4533 4544	weight loss
+T96	PROBLEM 4555 4561	rashes
+T97	PROBLEM 4563 4570	lesions
+T98	PROBLEM 4574 4582	jaundice
+T99	PROBLEM 4593 4607	vision changes
+T100	PROBLEM 4618 4635	change in hearing
+T101	PROBLEM 4640 4655	nasal discharge
+T102	PROBLEM 4659 4675	sinus tenderness
+T103	PROBLEM 4680 4691	mouth sores
+T104	PROBLEM 4695 4706	sore throat
+T105	PROBLEM 4726 4731	cough
+T106	PROBLEM 4735 4754	shortness of breath
+T107	PROBLEM 4775 4785	chest pain
+T108	PROBLEM 4790 4802	palpitations
+T109	PROBLEM 4817 4842	intermittent leg swelling
+T110	PROBLEM 4851 4857	nausea
+T111	PROBLEM 4859 4867	vomiting
+T112	PROBLEM 4869 4877	diarrhea
+T113	PROBLEM 4881 4893	constipation
+T114	PROBLEM 4898 4904	melena
+T115	PROBLEM 4908 4913	BRBPR
+T116	PROBLEM 4919 4927	bloating
+T117	PROBLEM 4936 4943	dysuria
+T118	PROBLEM 4948 4957	hematuria
+T119	PROBLEM 4987 5002	recent bleeding
+T120	PROBLEM 5006 5014	bruising
+T121	PROBLEM 5052 5086	change in cold or heat intolerance
+T122	PROBLEM 5108 5118	joint pain
+T123	PROBLEM 5122 5131	back pain
+T124	PROBLEM 5148 5157	headaches
+T125	PROBLEM 5159 5168	dizziness
+T126	PROBLEM 5170 5175	falls
+T127	PROBLEM 5190 5203	mild numbness
+T128	PROBLEM 5207 5233	tingling in his fingertips
+T129	PROBLEM 5513 5528	Known Allergies
+T130	TREATMENT 5532 5551	Current Medications
+T131	TREATMENT 5586 5597	medications
+T132	TREATMENT 5733 5772	sodium chloride flush injection syringe
+T133	TREATMENT 5857 5898	sodium chloride flush 
+ injection syringe
+T134	TREATMENT 5956 5980	sodium chloride infusion
+T135	TREATMENT 6108 6127	baclofen (LIORESAL)
+T136	TREATMENT 6207 6225	carvedilol (COREG)
+T137	TREATMENT 6310 6333	diltiazem (CARDIZEM CD)
+T138	TREATMENT 6433 6459	diphenhydrAMINE (BENADRYL)
+T139	TREATMENT 6562 6583	lidocaine (XYLOCAINE)
+T140	TREATMENT 6584 6604	2 % viscous solution
+T141	TREATMENT 6668 6711	methyl salicylate-menthol (BENGAY) ointment
+T142	TREATMENT 6755 6785	ondansetron (ZOFRAN) injection
+T143	TREATMENT 6873 6893	phenol (PHENASEPTIC)
+T144	TREATMENT 7003 7020	traMADol (ULTRAM)
+T145	TREATMENT 7103 7122	warfarin (COUMADIN)
+T146	TEST 7247 7253	vitals
+T147	TEST 7292 7307	all vital signs
+T148	TEST 7323 7327	exam
+T149	PROBLEM 7367 7381	acute distress
+T150	PROBLEM 7400 7404	rash
+T151	PROBLEM 7406 7413	lesions
+T152	PROBLEM 7415 7426	diaphoresis
+T153	PROBLEM 7431 7439	jaundice
+T154	PROBLEM 7461 7477	anicteric sclera
+T155	PROBLEM 7535 7543	exudates
+T156	PROBLEM 7547 7553	thrush
+T157	PROBLEM 7573 7614	cervical, supraclavicular lymphadenopathy
+T158	TEST 7652 7664	auscultation
+T159	PROBLEM 7681 7688	wheezes
+T160	PROBLEM 7690 7695	rales
+T161	PROBLEM 7699 7706	rhonchi
+T162	PROBLEM 7748 7769	Irregular rate/rhythm
+T163	PROBLEM 7794 7801	murmurs
+T164	PROBLEM 7803 7807	rubs
+T165	PROBLEM 7812 7819	gallops
+T166	PROBLEM 7829 7842	Non-distended
+T167	PROBLEM 7871 7881	tenderness
+T168	TEST 7885 7905	palpation in the LLQ
+T169	PROBLEM 7948 7994	Point tenderness on the right deltoid ligament
+T170	PROBLEM 8011 8029	trace edema in BLE
+T171	PROBLEM 8034 8042	cyanosis
+T172	TEST 8262 8282	Complete Blood Count
+T173	TEST 8310 8315	Value
+T174	TEST 8320 8325	Range
+T175	TEST 8329 8332	WBC
+T176	TEST 8333 8338	Count
+T177	TEST 8352 8357	x10E9
+T178	TEST 8363 8372	RBC Count
+T179	TEST 8379 8380	L
+T180	TEST 8404 8414	Hemoglobin
+T181	TEST 8435 8439	g/dL
+T182	TEST 8443 8453	Hematocrit
+T183	TEST 8460 8462	L)
+T184	TEST 8476 8479	MCV
+T185	TEST 8498 8501	MCH
+T186	TEST 8515 8517	pg
+T187	TEST 8521 8525	MCHC
+T188	TEST 8539 8543	g/dL
+T189	TEST 8547 8561	Platelet Count
+T190	TEST 8576 8581	x10E9
+T191	TEST 8587 8597	Neutrophil
+T192	TEST 8598 8612	Absolute Count
+T193	TEST 8619 8620	H
+T194	TEST 8632 8637	x10E9
+T195	TEST 8643 8657	Lymphocyte Abs
+T196	TEST 8658 8661	Cnt
+T197	TEST 8668 8669	L
+T198	TEST 8681 8686	x10E9
+T199	TEST 8692 8704	Monocyte Abs
+T200	TEST 8705 8710	Count
+T201	TEST 8726 8731	x10E9
+T202	TEST 8737 8751	Eosinophil Abs
+T203	TEST 8752 8754	Ct
+T204	TEST 8770 8775	x10E9
+T205	TEST 8781 8793	Basophil Abs
+T206	TEST 8794 8799	Count
+T207	TEST 8826 8834	Imm Gran
+T208	TEST 8836 8846	Left Shift
+T209	TEST 8873 8888	Metabolic Panel
+T210	TEST 8890 8892	Na
+T211	TEST 8894 8895	K
+T212	TEST 8897 8899	Cl
+T213	TEST 8901 8904	CO2
+T214	TEST 8906 8909	BUN
+T215	TEST 8911 8913	Cr
+T216	TEST 8915 8918	Glu
+T217	TEST 8920 8922	Ca
+T218	TEST 8933 8938	Value
+T219	TEST 8943 8948	Range
+T220	TEST 8952 8956	Urea
+T221	TEST 8957 8965	Nitrogen
+T222	TEST 8967 8972	Serum
+T223	TEST 8975 8981	Plasma
+T224	TEST 9001 9008	Calcium
+T225	TEST 9017 9022	Serum
+T226	TEST 9025 9031	Plasma
+T227	TEST 9060 9068	Chloride
+T228	TEST 9070 9075	Serum
+T229	TEST 9078 9084	Plasma
+T230	TEST 9108 9118	Creatinine
+T231	TEST 9192 9196	eGFR
+T232	TEST 9200 9207	African
+T233	TEST 9227 9234	Glucose
+T234	TEST 9236 9243	fasting
+T235	TEST 9269 9278	Potassium
+T236	TEST 9280 9285	Serum
+T237	TEST 9288 9294	Plasma
+T238	TEST 9323 9329	Sodium
+T239	TEST 9331 9336	Serum
+T240	TEST 9339 9345	Plasma
+T241	TEST 9374 9388	Carbon Dioxide
+T242	TEST 9390 9395	Total
+T243	TEST 9417 9426	Anion Gap
+T244	TEST 9438 9454	Venous Blood gas
+T245	TEST 9458 9465	Lactate
+T246	TEST 9492 9494	Na
+T247	TEST 9497 9498	K
+T248	TEST 9501 9504	Ca+
+T249	TEST 9507 9509	Cl
+T250	TEST 9512 9515	Glu
+T251	TEST 9517 9520	Hct
+T252	TEST 9555 9561	Sample
+T253	TEST 9562 9566	Type
+T254	TEST 9567 9573	Venous
+T255	TEST 9578 9580	pH
+T256	TEST 9582 9587	Blood
+T257	TEST 9608 9612	PCO2
+T258	TEST 9624 9636	mm Hg    PO2
+T259	TEST 9641 9643	LL
+T260	TEST 9654 9659	mm Hg
+T261	TEST 9663 9674	Base excess
+T262	TEST 9677 9698	mmol/L    Bicarbonate
+T263	TEST 9714 9720	mmol/L
+T264	TEST 9724 9741	Oxygen Saturation
+T265	TEST 9746 9748	L)
+T266	TEST 9762 9766	FIO2
+T267	TEST 9797 9803	Sodium
+T268	TEST 9805 9816	whole blood
+T269	TEST 9845 9854	Potassium
+T270	TEST 9862 9867	blood
+T271	TEST 9892 9899	Calcium
+T272	TEST 9901 9908	Ionized
+T273	TEST 9916 9921	blood
+T274	TEST 9949 9957	Chloride
+T275	TEST 9965 9970	blood
+T276	TEST 9994 10004	Hemoglobin
+T277	TEST 10012 10017	Blood
+T278	TEST 10038 10042	g/dL
+T279	TEST 10046 10056	Hematocrit
+T280	TEST 10088 10095	Lactate
+T281	TEST 10097 10108	whole blood
+T282	TEST 10133 10140	Glucose
+T283	TEST 10142 10153	whole blood
+T284	TREATMENT 10192 10196	FiO2
+T285	TEST 10216 10225	Aspartate
+T286	TEST 10226 10238	Transaminase
+T287	TEST 10248 10253	Value
+T288	TEST 10258 10263	Range
+T289	TEST 10267 10276	Aspartate
+T290	TEST 10277 10289	transaminase
+T291	TEST 10301 10304	U/L
+T292	TEST 10307 10327	Alanine Transaminase
+T293	TEST 10337 10342	Value
+T294	TEST 10356 10376	Alanine transaminase
+T295	TEST 10388 10403	U/L   Bilirubin
+T296	TEST 10439 10448	Bilirubin
+T297	TEST 10450 10455	Total
+T298	TEST 10482 10502	Alkaline Phosphatase
+T299	TEST 10512 10521	Value Ref
+T300	TEST 10531 10551	Alkaline Phosphatase
+T301	TEST 10568 10571	U/L
+T302	TEST 10574 10580	Lipase
+T303	TEST 10590 10595	Value
+T304	TEST 10600 10605	Range
+T305	TEST 10609 10615	Lipase
+T306	TEST 10627 10630	U/L
+T307	TEST 10633 10642	Magnesium
+T308	TEST 10644 10649	Serum
+T309	TEST 10652 10667	Plasma   Result
+T310	TEST 10668 10673	Value
+T311	TEST 10674 10677	Ref
+T312	TEST 10678 10683	Range
+T313	TEST 10687 10696	Magnesium
+T314	TEST 10698 10703	Serum
+T315	TEST 10706 10712	Plasma
+T316	TEST 10753 10768	Metabolic Panel
+T317	TEST 10770 10773	BMP
+T318	TEST 10775 10778	AST
+T319	TEST 10780 10783	ALT
+T320	TEST 10785 10791	T.Bili
+T321	TEST 10793 10797	AlkP
+T322	TEST 10799 10804	TProt
+T323	TEST 10806 10809	Alb
+T324	TEST 10820 10825	Value
+T325	TEST 10830 10835	Range
+T326	TEST 10839 10846	Albumin
+T327	TEST 10848 10853	Serum
+T328	TEST 10856 10862	Plasma
+T329	TEST 10889 10909	Alkaline Phosphatase
+T330	TEST 10926 10953	U/L    Alanine transaminase
+T331	TEST 10965 10994	U/L    Aspartate transaminase
+T332	TEST 11006 11022	U/L    Bilirubin
+T333	TEST 11024 11029	Total
+T334	TEST 11057 11070	Urea Nitrogen
+T335	TEST 11072 11077	Serum
+T336	TEST 11080 11086	Plasma
+T337	TEST 11105 11112	Calcium
+T338	TEST 11121 11126	Serum
+T339	TEST 11129 11135	Plasma
+T340	TEST 11164 11172	Chloride
+T341	TEST 11174 11179	Serum
+T342	TEST 11182 11188	Plasma
+T343	TEST 11212 11222	Creatinine
+T344	TEST 11249 11253	eGFR
+T345	TEST 11291 11295	eGFR
+T346	TEST 11299 11306	African
+T347	TEST 11326 11333	Glucose
+T348	TEST 11335 11342	fasting
+T349	TEST 11368 11377	Potassium
+T350	TEST 11379 11384	Serum
+T351	TEST 11387 11393	Plasma
+T352	TEST 11418 11424	Sodium
+T353	TEST 11426 11431	Serum
+T354	TEST 11434 11440	Plasma
+T355	TEST 11455 11459	mmol
+T356	TEST 11465 11472	Protein
+T357	TEST 11474 11479	Total
+T358	TEST 11481 11486	Serum
+T359	TEST 11489 11495	Plasma
+T360	TEST 11514 11518	g/dL
+T361	TEST 11522 11536	Carbon Dioxide
+T362	TEST 11538 11543	Total
+T363	TEST 11565 11574	Anion Gap
+T364	TEST 11586 11606	Complete Blood Count
+T365	TEST 11617 11631	Platelet Count
+T366	TEST 11642 11647	Value
+T367	TEST 11648 11651	Ref
+T368	TEST 11652 11657	Range
+T369	TEST 11661 11664	WBC
+T370	TEST 11665 11670	Count
+T371	TEST 11684 11689	x10E9
+T372	TEST 11695 11704	RBC Count
+T373	TEST 11711 11712	L
+T374	TEST 11736 11746	Hemoglobin
+T375	TEST 11769 11773	g/dL
+T376	TEST 11777 11787	Hematocrit
+T377	TEST 11794 11796	L)
+T378	TEST 11810 11813	MCV
+T379	TEST 11832 11835	MCH
+T380	TEST 11849 11851	pg
+T381	TEST 11855 11859	MCHC
+T382	TEST 11873 11877	g/dL
+T383	TEST 11881 11895	Platelet Count
+T384	TEST 11910 11915	x10E9
+T385	TEST 11926 11941	Metabolic Panel
+T386	TEST 11943 11945	Na
+T387	TEST 11947 11948	K
+T388	TEST 11950 11952	Cl
+T389	TEST 11954 11957	CO2
+T390	TEST 11959 11962	BUN
+T391	TEST 11964 11966	Cr
+T392	TEST 11968 11971	Glu
+T393	TEST 11973 11975	Ca
+T394	TEST 11986 11991	Value
+T395	TEST 11992 11995	Ref
+T396	TEST 11996 12001	Range
+T397	TEST 12005 12009	Urea
+T398	TEST 12010 12018	Nitrogen
+T399	TEST 12020 12025	Serum
+T400	TEST 12028 12034	Plasma
+T401	TEST 12053 12060	Calcium
+T402	TEST 12069 12074	Serum
+T403	TEST 12077 12083	Plasma
+T404	TEST 12112 12120	Chloride
+T405	TEST 12122 12127	Serum
+T406	TEST 12130 12136	Plasma
+T407	TEST 12160 12170	Creatinine
+T408	TEST 12244 12248	eGFR
+T409	TEST 12252 12259	African
+T410	TEST 12260 12264	Amer
+T411	TEST 12280 12287	Glucose
+T412	TEST 12289 12296	fasting
+T413	TEST 12322 12331	Potassium
+T414	TEST 12333 12338	Serum
+T415	TEST 12341 12347	Plasma
+T416	TEST 12376 12382	Sodium
+T417	TEST 12384 12389	Serum
+T418	TEST 12392 12398	Plasma
+T419	TEST 12413 12417	mmol
+T420	TEST 12423 12437	Carbon Dioxide
+T421	TEST 12439 12444	Total
+T422	TEST 12466 12475	Anion Gap
+T423	TEST 12487 12503	Prothrombin Time
+T424	TEST 12523 12528	Range
+T425	TEST 12532 12534	PT
+T426	TEST 12556 12557	s
+T427	TEST 12567 12575	Normaliz
+T428	TEST 12576 12581	Ratio
+T429	TEST 12602 12622	Complete Blood Count
+T430	TEST 12633 12647	Platelet Count
+T431	TEST 12658 12663	Value
+T432	TEST 12664 12667	Ref
+T433	TEST 12668 12673	Range
+T434	TEST 12677 12680	WBC
+T435	TEST 12681 12686	Count
+T436	TEST 12700 12705	x10E9
+T437	TEST 12711 12720	RBC Count
+T438	TEST 12727 12728	L
+T439	TEST 12752 12762	Hemoglobin
+T440	TEST 12784 12788	g/dL
+T441	TEST 12792 12802	Hematocrit
+T442	TEST 12809 12811	L)
+T443	TEST 12825 12828	MCV
+T444	TEST 12847 12850	MCH
+T445	TEST 12864 12866	pg
+T446	TEST 12870 12874	MCHC
+T447	TEST 12888 12892	g/dL
+T448	TEST 12896 12910	Platelet Count
+T449	TEST 12925 12930	x10E9
+T450	TEST 12941 12956	Metabolic Panel
+T451	TEST 12958 12960	Na
+T452	TEST 12962 12963	K
+T453	TEST 12965 12967	Cl
+T454	TEST 12969 12972	CO2
+T455	TEST 12974 12977	BUN
+T456	TEST 12979 12981	Cr
+T457	TEST 12983 12986	Glu
+T458	TEST 12988 12990	Ca
+T459	TEST 13001 13006	Value
+T460	TEST 13007 13010	Ref
+T461	TEST 13011 13016	Range
+T462	TEST 13020 13024	Urea
+T463	TEST 13025 13033	Nitrogen
+T464	TEST 13035 13040	Serum
+T465	TEST 13043 13049	Plasma
+T466	TEST 13068 13075	Calcium
+T467	TEST 13084 13089	Serum
+T468	TEST 13092 13098	Plasma
+T469	TEST 13127 13135	Chloride
+T470	TEST 13137 13142	Serum
+T471	TEST 13145 13151	Plasma
+T472	TEST 13175 13185	Creatinine
+T473	TEST 13259 13263	eGFR
+T474	TEST 13267 13274	African
+T475	TEST 13294 13301	Glucose
+T476	TEST 13303 13310	fasting
+T477	TEST 13336 13345	Potassium
+T478	TEST 13347 13352	Serum
+T479	TEST 13355 13361	Plasma
+T480	TEST 13367 13369	LL
+T481	TEST 13391 13397	Sodium
+T482	TEST 13399 13404	Serum
+T483	TEST 13407 13413	Plasma
+T484	TEST 13428 13432	mmol
+T485	TEST 13438 13452	Carbon Dioxide
+T486	TEST 13454 13459	Total
+T487	TEST 13481 13490	Anion Gap
+T488	TEST 13503 13519	Prothrombin Time
+T489	TEST 13539 13544	Range
+T490	TEST 13548 13550	PT
+T491	TEST 13583 13591	Normaliz
+T492	TEST 13592 13597	Ratio
+T493	TEST 13618 13627	Bilirubin
+T494	TEST 13663 13672	Bilirubin
+T495	TEST 13674 13679	Total
+T496	TEST 13708 13728	Complete Blood Count
+T497	TEST 13739 13753	Platelet Count
+T498	TEST 13764 13769	Value
+T499	TEST 13770 13773	Ref
+T500	TEST 13774 13779	Range
+T501	TEST 13783 13786	WBC
+T502	TEST 13787 13792	Count
+T503	TEST 13806 13811	x10E9
+T504	TEST 13817 13826	RBC Count
+T505	TEST 13833 13834	L
+T506	TEST 13858 13868	Hemoglobin
+T507	TEST 13889 13893	g/dL
+T508	TEST 13897 13907	Hematocrit
+T509	TEST 13914 13916	L)
+T510	TEST 13930 13933	MCV
+T511	TEST 13952 13955	MCH
+T512	TEST 13969 13971	pg
+T513	TEST 13975 13979	MCHC
+T514	TEST 13993 13997	g/dL
+T515	TEST 14001 14015	Platelet Count
+T516	TEST 14030 14035	x10E9
+T517	TEST 14046 14061	Metabolic Panel
+T518	TEST 14063 14065	Na
+T519	TEST 14067 14068	K
+T520	TEST 14070 14072	Cl
+T521	TEST 14074 14077	CO2
+T522	TEST 14079 14082	BUN
+T523	TEST 14084 14086	Cr
+T524	TEST 14088 14091	Glu
+T525	TEST 14093 14095	Ca
+T526	TEST 14106 14111	Value
+T527	TEST 14112 14115	Ref
+T528	TEST 14116 14121	Range
+T529	TEST 14125 14129	Urea
+T530	TEST 14130 14138	Nitrogen
+T531	TEST 14140 14145	Serum
+T532	TEST 14148 14154	Plasma
+T533	TEST 14173 14180	Calcium
+T534	TEST 14189 14194	Serum
+T535	TEST 14197 14203	Plasma
+T536	TEST 14232 14240	Chloride
+T537	TEST 14242 14247	Serum
+T538	TEST 14250 14256	Plasma
+T539	TEST 14269 14273	mmol
+T540	TEST 14279 14289	Creatinine
+T541	TEST 14320 14324	eGFR
+T542	TEST 14363 14367	eGFR
+T543	TEST 14371 14378	African
+T544	TEST 14400 14407	Glucose
+T545	TEST 14409 14416	fasting
+T546	TEST 14442 14451	Potassium
+T547	TEST 14453 14458	Serum
+T548	TEST 14461 14467	Plasma
+T549	TEST 14496 14502	Sodium
+T550	TEST 14504 14509	Serum
+T551	TEST 14512 14518	Plasma
+T552	TEST 14533 14537	mmol
+T553	TEST 14543 14557	Carbon Dioxide
+T554	TEST 14559 14564	Total
+T555	TEST 14586 14595	Anion Gap
+T556	TEST 14608 14624	Prothrombin Time
+T557	TEST 14644 14649	Range
+T558	TEST 14653 14655	PT
+T559	TEST 14677 14678	s
+T560	TEST 14688 14696	Normaliz
+T561	TEST 14697 14702	Ratio
+T562	TEST 14772 14779	ANTIGEN
+T563	TEST 14812 14826	CANCER ANTIGEN
+T564	TEST 14854 14868	CANCER ANTIGEN
+T565	TEST 14895 14909	CANCER ANTIGEN
+T566	TEST 14936 14950	CANCER ANTIGEN
+T567	TEST 14976 14983	CA 19-9
+T568	TEST 15048 15051	HBV
+T569	TEST 15096 15099	HBV
+T570	TEST 15110 15126	Latest Ref Range
+T571	TEST 15257 15259	CT
+T572	TEST 15260 15288	ABDOMEN/PELVIS WITH CONTRAST
+T574	PROBLEM 15331 15334	SBO
+T575	TREATMENT 15420 15436	2 biliary stents
+T576	TREATMENT 15442 15462	tips in the duodenum
+T577	PROBLEM 15469 15491	associated pneumobilia
+T578	PROBLEM 15493 15547	Redemonstrated moderate intrahepatic ductal dilatation
+T579	PROBLEM 15554 15599	abrupt change in caliber at the porta hepatis
+T580	PROBLEM 15613 15687	an obstructing, ill defined heterogeneously enhancing soft 
+ tissue nodule
+T581	PROBLEM 15725 15747	Contracted gallbladder
+T582	TREATMENT 15749 15772	Multiple biliary stents
+T583	PROBLEM 15777 15815	moderate intrahepatic biliary dilation
+T584	PROBLEM 15824 15847	pneumobilia on the left
+T585	PROBLEM 15876 15893	stent obstruction
+T586	PROBLEM 15928 15978	Unchanged ill-defined infiltrative pancreatic mass
+T587	PROBLEM 16037 16094	Unchanged indeterminate 9 mm nodule in each adrenal gland
+T588	PROBLEM 16107 16138	mild left hydroureteronephrosis
+T589	TREATMENT 16184 16204	a peritoneal implant
+T590	PROBLEM 16238 16261	Small bowel obstruction
+T591	PROBLEM 16267 16294	distended stomach, duodenum
+T592	PROBLEM 16300 16356	proximal jejunum transition point in the distal duodenum
+T593	TREATMENT 16365 16396	2 nonoverlapping enteric stents
+T594	TREATMENT 16520 16541	the most distal stent
+T595	TREATMENT 16572 16601	the most distal jejunal stent
+T596	PROBLEM 16616 16628	decompressed
+T597	PROBLEM 16645 16653	ischemia
+T598	PROBLEM 16657 16668	perforation
+T599	TREATMENT 16670 16676	Stents
+T600	PROBLEM 16680 16702	colonic diverticulosis
+T601	PROBLEM 16724 16744	acute diverticulitis
+T602	PROBLEM 16773 16788	Lymphadenopathy
+T603	PROBLEM 16790 16838	Redemonstrated peritoneal and omental nodularity
+T604	PROBLEM 16840 16847	Ascites
+T605	PROBLEM 16849 16875	Moderate amount of ascites
+T606	PROBLEM 16899 16917	suspicious lesions
+T607	PROBLEM 16957 16993	New proximal small bowel obstruction
+T608	PROBLEM 17000 17039	transition point in the distal duodenum
+T609	TREATMENT 17059 17109	the nonoverlapping fourth and fifth enteric stents
+T610	PROBLEM 17126 17134	ischemia
+T611	PROBLEM 17138 17149	perforation
+T612	PROBLEM 17154 17204	Unchanged ill-defined infiltrative pancreatic mass
+T613	PROBLEM 17210 17226	moderate ascites
+T614	PROBLEM 17231 17256	peritoneal carcinomatosis
+T615	TREATMENT 17261 17279	Two biliary stents
+T616	TREATMENT 17285 17305	tips in the duodenum
+T617	PROBLEM 17312 17334	associated pneumobilia
+T618	PROBLEM 17336 17390	Redemonstrated moderate intrahepatic ductal dilatation
+T619	PROBLEM 17397 17442	abrupt change in caliber at the porta hepatis
+T620	PROBLEM 17456 17528	an obstructing, ill-defined heterogeneously enhancing soft tissue nodule
+T621	PROBLEM 17544 17575	Mild left hydroureteronephrosis
+T622	TREATMENT 17621 17643	a 
+ peritoneal implant
+T623	PROBLEM 17648 17705	Unchanged indeterminate 9 mm nodule in each adrenal gland
+T624	PROBLEM 17722 17740	metastatic disease
+T625	TEST 18002 18004	CT
+T626	TEST 18005 18033	ABDOMEN/PELVIS WITH CONTRAST
+T627	PROBLEM 18054 18075	abdominal/pelvic pain
+T628	TREATMENT 18089 18112	enteric stent placement
+T629	TEST 18127 18158	CT abdomen/pelvis with contrast
+T630	TEST 18174 18180	priors
+T631	PROBLEM 18218 18245	Small left pleural effusion
+T632	PROBLEM 18251 18289	associated left lower lobe atelectasis
+T633	TREATMENT 18299 18343	Redemonstrated left and right biliary stents
+T634	TREATMENT 18349 18369	tips in the duodenum
+T635	PROBLEM 18371 18408	Predominantly right-sided pneumobilia
+T636	PROBLEM 18453 18475	left-sided pneumobilia
+T637	PROBLEM 18495 18542	moderate intrahepatic biliary ductal dilatation
+T638	PROBLEM 18544 18616	Redemonstrated ill-defined, heterogeneously enhancing soft tissue nodule
+T639	PROBLEM 18751 18809	infiltrative mass within the body and tail of the pancreas
+T640	PROBLEM 18815 18847	encasement of the splenic artery
+T641	PROBLEM 18914 18922	The mass
+T642	PROBLEM 19006 19047	Unchanged small bilateral adrenal nodules
+T643	TREATMENT 19083 19119	Interval placement of enteric stents
+T644	PROBLEM 19185 19205	duodenal obstruction
+T645	PROBLEM 19207 19226	The pancreatic mass
+T646	PROBLEM 19301 19323	associated obstruction
+T647	PROBLEM 19340 19387	Unchanged chronic occlusion of the splenic vein
+T648	PROBLEM 19393 19433	narrowing of the portosplenic confluence
+T649	PROBLEM 19439 19471	encasement of the splenic artery
+T650	PROBLEM 19475 19507	the infiltrating pancreatic mass
+T651	PROBLEM 19549 19564	Lymphadenopathy
+T652	PROBLEM 19590 19623	peritoneal and omental nodularity
+T653	PROBLEM 19629 19651	peritoneal enhancement
+T654	PROBLEM 19653 19660	Ascites
+T655	PROBLEM 19683 19729	now moderate volume intra-abdominal free fluid
+T656	PROBLEM 19742 19760	suspicious lesions
+T657	PROBLEM 19805 19862	unchanged moderate intrahepatic biliary ductal dilatation
+T658	PROBLEM 19888 19910	left-sided pneumobilia
+T659	PROBLEM 19939 19956	stent obstruction
+T660	TREATMENT 19962 20007	Interval placement of multiple enteric stents
+T661	PROBLEM 20027 20047	duodenal obstruction
+T662	PROBLEM 20053 20079	Worsening moderate ascites
+T663	PROBLEM 20105 20140	unchanged peritoneal carcinomatosis
+T664	PROBLEM 20145 20153	free air
+T665	PROBLEM 20159 20214	Redemonstrated ill-defined infiltrative pancreatic mass
+T666	TEST 20289 20295	XR KUB
+T667	TEST 20339 20365	Same day CT abdomen/pelvis
+T668	TEST 20367 20370	KUB
+T669	TREATMENT 20397 20414	NG tube placement
+T670	TREATMENT 20452 20462	an NG tube
+T671	TREATMENT 20468 20471	tip
+T672	TREATMENT 20537 20572	multiple biliary and enteric stents
+T673	TEST 20585 20611	same day CT abdomen/pelvis
+T674	PROBLEM 20618 20641	small bowel obstruction
+T675	TEST 20667 20691	the current supine study
+T676	TEST 20763 20805	recent contrast-enhanced CT abdomen/pelvis
+T677	PROBLEM 20998 21023	pancreatic adenocarcinoma
+T678	PROBLEM 21041 21059	metastatic disease
+T679	TREATMENT 21079 21095	systemic therapy
+T680	TEST 21121 21140	His restaging scans
+T681	TREATMENT 21163 21175	chemotherapy
+T682	PROBLEM 21196 21214	metastatic disease
+T683	TREATMENT 21237 21246	treatment
+T684	TEST 21248 21260	His CT chest
+T685	TREATMENT 21293 21305	chemotherapy
+T686	PROBLEM 21319 21348	nonspecific pulmonary nodules
+T687	TREATMENT 21378 21390	chemotherapy
+T688	PROBLEM 21415 21437	metastatic involvement
+T689	PROBLEM 21463 21476	liver lesions
+T690	TEST 21486 21500	the CT abdomen
+T691	TEST 21541 21561	the comparison scans
+T692	TREATMENT 21612 21624	chemotherapy
+T693	TEST 21627 21646	His restaging scans
+T694	PROBLEM 21726 21745	the pancreatic mass
+T695	PROBLEM 21750 21769	the hepatic lesions
+T696	TREATMENT 21819 21830	mFOLFIRINOX
+T697	TEST 21849 21868	the restaging scans
+T698	PROBLEM 21898 21935	stable disease in the pancreatic mass
+T699	TREATMENT 21972 21991	a treatment holiday
+T700	TREATMENT 22052 22062	FOLFIRINOX
+T701	TREATMENT 22075 22085	Ipilimumab
+T702	TREATMENT 22106 22123	Allogeneic GM-CSF
+T703	TREATMENT 22136 22160	Pancreatic Tumor Vaccine
+T704	PROBLEM 22181 22209	Metastatic Pancreatic Cancer
+T705	TREATMENT 22250 22270	chemotherapy holiday
+T706	TEST 22305 22324	his restaging scans
+T707	PROBLEM 22338 22366	interval disease progression
+T708	PROBLEM 22390 22404	increased size
+T709	PROBLEM 22409 22454	infiltration of the pancreatic body/tail mass
+T710	PROBLEM 22468 22523	new partial bowel obstruction at the ligament of Treitz
+T711	PROBLEM 22525 22562	New peritoneal and omental nodularity
+T712	PROBLEM 22579 22599	small volume ascites
+T713	PROBLEM 22618 22655	progressive peritoneal carcinomatosis
+T714	PROBLEM 22657 22705	worsening porta hepatis soft tissue infiltration
+T715	PROBLEM 22719 22742	new biliary obstruction
+T716	PROBLEM 22749 22817	moderate right and left-sided intrahepatic biliary ductal dilatation
+T717	TEST 22832 22836	ERCP
+T718	TREATMENT 22842 22857	stent placement
+T719	TEST 22902 22927	his most recent bilirubin
+T720	TEST 22970 22972	CT
+T721	TEST 22973 22980	imaging
+T722	PROBLEM 23001 23024	small bowel obstruction
+T723	TREATMENT 23048 23060	chemotherapy
+T724	TREATMENT 23142 23157	palliative care
+T725	TREATMENT 23201 23217	systemic therapy
+T726	ClinicalCondition 23221 23236	his obstruction
+T727	TEST 23238 23247	bilirubin
+T728	TEST 23409 23426	his same day xray
+T729	PROBLEM 23491 23509	continued blockage
+T730	TREATMENT 23518 23533	stent placement
+T731	PROBLEM 23558 23586	functional bowel obstruction
+T732	PROBLEM 23601 23623	structural obstruction
+T733	TREATMENT 23631 23654	further stent placement
+T734	ClinicalCondition 23723 23734	obstruction
+T735	TEST 23736 23745	Bilirubin
+T736	TEST 23750 23764	Liver function
+T737	Radiology 23796 23808	Xray imaging
+T738	TREATMENT 23864 23890	additional stent placement
+T739	TREATMENT 23944 23951	hospice
+T740	TREATMENT 23975 23998	further stent placement
+T741	PROBLEM 24187 24217	the patient's cancer diagnosis
+T742	Age 245 252	74 y.o.
+T743	Datetime 298 306	10/30/15
+T744	Symptom 312 323	weight loss
+A1	IsPresentOnFirstCancerDiagnosis T744 yes
+A2	IsCausedByDiagnosedCancer T744 yes
+A3	ChronicVal T744 non-chronic
+T745	Duration 336 346	past month
+R1	HappensBefore Arg1:T745 Arg2:T744	
+R2	HappensBefore Arg1:T744 Arg2:T743	
+T746	Symptom 349 368	decline in appetite
+A4	IsPresentOnFirstCancerDiagnosis T746 yes
+A5	IsCausedByDiagnosedCancer T746 yes
+A6	ChronicVal T746 non-chronic
+T747	Symptom 373 423	difficulty in controlling his blood glucose levels
+A7	IsPresentOnFirstCancerDiagnosis T747 yes
+A8	IsCausedByDiagnosedCancer T747 yes
+A9	ChronicVal T747 non-chronic
+T748	Datetime 432 440	11/02/15
+T749	Radiology 444 454	CT abdomen
+A10	IntentVal T749 diagnosis
+R3	HappensAtOnDuring Arg1:T749 Arg2:T748	
+T750	Size 485 498	7.5x3.5x3.7cm
+A11	HistoryVal T750 new
+A12	EpisodeDescription T750 FirstOccurrence
+T751	RadPathResult 499 503	mass
+A13	ContinuityVal T751 new
+T752	Site 511 531	tail of the pancreas
+T753	LocalInvasion 568 599	marked narrowing and encasement
+A14	HistoryVal T753 new
+A15	EpisodeDescription T753 FirstOccurrence
+R6	TumorDesc TumorDetails:T753 Desc:T751	
+T755	ProcedureName 1063 1066	EUS
+A17	IntentVal T755 diagnosis
+A18	TreatmentTypeVal T755 others
+A19	TreatmentCategory T755 AntiNeoPlastics
+T756	Datetime 1084 1092	11/08/15
+R8	HappensAtOnDuring Arg1:T755 Arg2:T756	
+T757	RadPathResult 1112 1116	mass
+A20	ContinuityVal T757 new
+T758	Stage 1117 1152	extending from the neck to the tail
+A21	EpisodeDescription T758 FirstOccurrence
+T759	Site 1160 1168	pancreas
+T760	TNM 1274 1276	T4
+T761	LocalInvasion 1303 1329	encase the splenic vessels
+A22	EpisodeDescription T761 FirstOccurrence
+T762	LymphNodeInvolvement 1426 1437	lymph nodes
+A23	NegationModalityVal T762 uncertain_in_present
+R9	TumorDesc TumorDetails:T758 Desc:T757	
+R10	SiteOf Arg1:T759 Arg2:T757	
+R11	TumorDesc TumorDetails:T760 Desc:T757	
+R12	TumorDesc TumorDetails:T761 Desc:T757	
+R13	TumorDesc TumorDetails:T762 Desc:T757	
+R15	TestOrProcedureConductedForProblem Test:T755 Prob:T751	
+T763	LymphNodeInvolvement 1494 1504	lymph node
+T764	Site 1548 1559	celiac axis
+R16	SiteOf Arg1:T764 Arg2:T763	
+R17	TumorDesc TumorDetails:T763 Desc:T757	
+T765	TNM 1586 1592	T4, N1
+A26	HistoryVal T765 new
+A27	EpisodeDescription T765 FirstOccurrence
+R18	TumorDesc TumorDetails:T765 Desc:T757	
+T766	ClinicalCondition 1639 1643	mass
+A28	ContinuityVal T766 new
+T767	Site 1628 1638	pancreatic
+T768	Histology 1664 1678	adenocarcinoma
+A29	HistoryVal T768 new
+A30	EpisodeDescription T768 FirstOccurrence
+R19	TestOrProcedureReveals Test:T755 Desc:T766	
+R20	TumorDesc TumorDetails:T768 Desc:T766	
+R21	SiteOf Arg1:T767 Arg2:T766	
+T769	RadPathResult 1648 1678	consistent with adenocarcinoma
+A31	RadPathResultVal T769 InitialCancerDiagnosis
+R22	ResultOfTest Desc:T769 Test:T957	
+T770	Datetime 1733 1741	11/12/15
+T771	Symptom 1747 1781	bilateral lower extremity weakness
+A32	IsPresentOnFirstCancerDiagnosis T771 no
+A33	IsCausedByDiagnosedCancer T771 no
+A34	ChronicVal T771 non-chronic
+T772	Symptom 1786 1800	slurred speech
+A35	IsPresentOnFirstCancerDiagnosis T772 no
+A36	IsCausedByDiagnosedCancer T772 no
+A37	ChronicVal T772 non-chronic
+T773	Duration 1832 1842	20 minutes
+R23	HappensBefore Arg1:T771 Arg2:T770	
+R24	HappensBefore Arg1:T772 Arg2:T770	
+R25	Temporal Arg1:T773 Arg2:T772	
+R26	Temporal Arg1:T773 Arg2:T771	
+T774	Symptom 1873 1896	abdominal and back pain
+A38	IsPresentOnFirstCancerDiagnosis T774 no
+A39	IsCausedByDiagnosedCancer T774 yes
+A40	ChronicVal T774 non-chronic
+T775	ProcedureName 1922 1928	biopsy
+A41	IntentVal T775 diagnosis
+A42	TreatmentTypeVal T775 others
+A43	TreatmentCategory T775 Others
+R27	ConditionOrTreatmentCausesProblem Treatment:T775 Prob:T774	
+T776	MedicationName 1943 1952	marijuana
+A44	TreatmentContinuityVal T776 started
+A45	TreatmentTypeVal T776 others
+A46	TreatmentIntentVal T776 others
+A47	TreatmentCategory T776 Supportive
+R28	TreatmentAdministeredForProblem Treatment:T776 Prob:T774	
+T777	Symptom 2016 2024	weakness
+A48	IsPresentOnFirstCancerDiagnosis T777 no
+A49	IsCausedByDiagnosedCancer T777 no
+A50	ChronicVal T777 non-chronic
+T778	Symptom 2029 2043	slurred speech
+A51	IsPresentOnFirstCancerDiagnosis T778 no
+A52	IsCausedByDiagnosedCancer T778 no
+A53	ChronicVal T778 non-chronic
+R29	ConditionOrTreatmentCausesProblem Treatment:T776 Prob:T778	
+R30	ConditionOrTreatmentCausesProblem Treatment:T776 Prob:T777	
+T779	Datetime 2069 2077	11/14/15
+T781	MedicationRegimen 2082 2093;2118 2148	recommended gemcitabine and nab-paclitaxel
+A55	NegationModalityVal T781 hypothetical_in_future
+T780	ProcedureName 2191 2220	potential surgical evaluation
+A54	NegationModalityVal T780 hypothetical_in_future
+A56	IntentVal T780 treatment-curative
+A57	TreatmentTypeVal T780 local
+A58	TreatmentCategory T780 AntiNeoPlastics
+R31	HappensAfter Arg1:T781 Arg2:T779	
+R32	HappensAfter Arg1:T780 Arg2:T779	
+T782	Datetime 2243 2254	November 17
+T783	ProcedureName 2258 2280	diagnostic laparoscopy
+A59	NegationModalityVal T783 hypothetical_in_future
+A60	IntentVal T783 staging
+A61	TreatmentTypeVal T783 others
+A62	TreatmentCategory T783 Others
+R33	HappensAfter Arg1:T783 Arg2:T782	
+T784	TreatmentType 2094 2112	systemic treatment
+A63	NegationModalityVal T784 hypothetical_in_future
+R34	RegimenFor Arg1:T784 Arg2:T781	
+T785	Datetime 2331 2339	11/21/15
+T786	TreatmentType 2374 2390	systemic therapy
+A64	TreatmentContinuityVal T786 planned
+A65	TreatmentTypeVal T786 maintenance
+A66	TreatmentIntentVal T786 palliative
+T787	MedicationRegimen 2396 2407	mFOLFIRINOX
+A67	TreatmentContinuityVal T787 planned
+A68	TreatmentTypeVal T787 maintenance
+A69	TreatmentIntentVal T787 palliative
+R35	RegimenFor Arg1:T787 Arg2:T786	
+T788	Datetime 2412 2420	12/05/15
+T789	Cycles 2422 2436	Cycle 1, Day 1
+T790	MedicationRegimen 2440 2451	mFOLFIRINOX
+A70	TreatmentContinuityVal T790 started
+A71	TreatmentTypeVal T790 maintenance
+A72	TreatmentIntentVal T790 palliative
+T791	TreatmentDoseModification 2453 2485	20% dose reduction in irinotecan
+A73	TreatmentContinuityVal T791 started
+A74	TreatmentTypeVal T791 maintenance
+A75	TreatmentIntentVal T791 palliative
+A76	TreatmentCategory T791 AntiNeoPlastics
+R38	BeginsOnOrAt Arg1:T790 Arg2:T788	
+R39	TreatmentDesc Therapy:T789 Desc:T790	
+R37	TreatmentDesc Therapy:T791 Desc:T790	
+T792	Datetime 2490 2498	01/03/16
+T793	Radiology 2500 2522	BLE Doppler Ultrasound
+A77	IntentVal T793 diagnosis
+T794	RadPathResult 2524 2540	Negative for DVT
+A78	RadPathResultVal T794 Others
+R40	ResultOfTest Desc:T794 Test:T793	
+R41	HappensAtOnDuring Arg1:T793 Arg2:T792	
+T795	Datetime 2544 2552	01/31/16
+T796	Cycles 2554 2558	C5D1
+R42	HappensAtOnDuring Arg1:T796 Arg2:T795	
+R43	TreatmentDesc Therapy:T796 Desc:T790	
+T797	Symptom 2612 2619	dyspnea
+A79	IsPresentOnFirstCancerDiagnosis T797 no
+A80	IsCausedByDiagnosedCancer T797 no
+A81	ChronicVal T797 non-chronic
+A82	ContinuityVal T797 new
+T798	Symptom 2624 2639	chest tightness
+A83	IsPresentOnFirstCancerDiagnosis T798 no
+A84	IsCausedByDiagnosedCancer T798 no
+A85	ChronicVal T798 non-chronic
+A86	ContinuityVal T798 new
+T799	MedicationName 2656 2666	irinotecan
+A87	TreatmentTypeVal T799 maintenance
+A88	TreatmentIntentVal T799 palliative
+A89	TreatmentCategory T799 AntiNeoPlastics
+R44	ConditionOrTreatmentCausesProblem Treatment:T799 Prob:T797	
+R45	ConditionOrTreatmentCausesProblem Treatment:T799 Prob:T798	
+R46	HappensAtOnDuring Arg1:T797 Arg2:T795	
+R47	HappensAtOnDuring Arg1:T798 Arg2:T795	
+T800	ClinicalCondition 2701 2705	afib
+A90	ChronicVal T800 non-chronic
+A91	ContinuityVal T800 new
+T801	Radiology 2707 2710	CTA
+A92	IntentVal T801 diagnosis
+T802	ClinicalCondition 2719 2721	PE
+A93	NegationModalityVal T802 negated
+A94	ChronicVal T802 non-chronic
+R48	TestOrProcedureReveals Test:T801 Desc:T802	
+R49	TestOrProcedureConductedForProblem Test:T801 Prob:T797	
+R50	TestOrProcedureConductedForProblem Test:T801 Prob:T798	
+R51	HappensAtOnDuring Arg1:T801 Arg2:T795	
+R52	HappensAtOnDuring Arg1:T800 Arg2:T795	
+T803	Datetime 2751 2759	05/14/16
+T804	Cycles 2761 2769	Cycle 12
+T805	MedicationRegimen 2773 2784	mFOLFIRINOX
+A95	TreatmentContinuityVal T805 finished
+A96	TreatmentTypeVal T805 maintenance
+A97	TreatmentIntentVal T805 palliative
+R53	TreatmentDesc Therapy:T805 Desc:T804	
+R54	EndsOnOrAt Arg1:T805 Arg2:T803	
+T806	Datetime 2789 2799	05/28/2016
+T807	TreatmentType 2807 2824	treatment holiday
+A98	TreatmentContinuityVal T807 started
+A99	TreatmentTypeVal T807 maintenance
+R55	BeginsOnOrAt Arg1:T807 Arg2:T806	
+T808	Symptom 2918 2932	abdominal pain
+A100	IsPresentOnFirstCancerDiagnosis T808 no
+A101	IsCausedByDiagnosedCancer T808 yes
+A102	ChronicVal T808 non-chronic
+A103	ContinuityVal T808 new
+T809	Radiology 2934 2941	CT scan
+A104	IntentVal T809 others
+T810	RadPathResult 2950 2955	tumor
+A105	RadPathResultVal T810 Progression
+T812	Site 2959 2979	pancreatic body/tail
+R56	SiteOf Arg1:T812 Arg2:T810	
+R57	ResultOfTest Desc:T810 Test:T809	
+R58	TestOrProcedureConductedForProblem Test:T809 Prob:T808	
+T813	RadPathResult 3145 3159	carcinomatosis
+A107	RadPathResultVal T813 Progression
+T814	Site 3165 3187	peritoneal and omental
+R59	SiteOf Arg1:T814 Arg2:T813	
+T815	ProcedureName 3245 3248	EGD
+A108	IntentVal T815 others
+A109	TreatmentTypeVal T815 others
+A110	TreatmentCategory T815 Others
+T816	ClinicalCondition 3293 3302;3312 3323	malignant obstruction
+A111	ChronicVal T816 non-chronic
+T817	Site 3303 3311	duodenal
+R60	SiteOf Arg1:T817 Arg2:T816	
+T818	Metastasis 3342 3356	carcinomatosis
+A112	ChronicVal T818 non-chronic
+A113	ContinuityVal T818 worsening
+T819	Site 3364 3371	jejunum
+R61	SiteOf Arg1:T819 Arg2:T818	
+R62	TestOrProcedureReveals Test:T815 Desc:T818	
+R63	TestOrProcedureReveals Test:T815 Desc:T816	
+T820	Metastasis 3145 3159	carcinomatosis
+A114	HistoryVal T820 new
+A115	EpisodeDescription T820 Progression
+T821	LocalInvasion 2988 2999	mass effect
+A116	HistoryVal T821 new
+A117	EpisodeDescription T821 Progression
+T822	ClinicalCondition 2950 2955	tumor
+A118	ChronicVal T822 non-chronic
+A119	ContinuityVal T822 worsening
+R64	TumorDesc TumorDetails:T821 Desc:T822	
+R65	TumorDesc TumorDetails:T820 Desc:T822	
+T823	Radiology 3383 3390	CT scan
+A120	IntentVal T823 others
+T824	RadPathResult 3404 3444	resolution of the intestinal obstruction
+A121	RadPathResultVal T824 Others
+R66	ResultOfTest Desc:T824 Test:T823	
+T825	ProcedureName 3953 3960	NG tube
+A122	IntentVal T825 others
+A123	TreatmentTypeVal T825 others
+A124	TreatmentCategory T825 Others
+T826	Datetime 3924 3934	08/25/2016
+R67	HappensAtOnDuring Arg1:T825 Arg2:T826	
+T827	Radiology 4111 4121	CT imaging
+A125	IntentVal T827 TreatmentAssessment
+T828	RadPathResult 4154 4165	obstruction
+A126	RadPathResultVal T828 Others
+T829	Site 4142 4153	small bowel
+R68	SiteOf Arg1:T829 Arg2:T828	
+R69	ResultOfTest Desc:T828 Test:T827	
+R70	HappensAfter Arg1:T827 Arg2:T826	
+T830	DiagnosticLabTest 4171 4180	bilirubin
+A127	IntentVal T830 others
+T831	LabTestResult 4185 4193	3.5mg/dL
+A128	LabTestResultVal T831 abnormal
+R71	ResultOfTest Desc:T831 Test:T830	
+T832	Datetime 4197 4205	08/24/16
+R72	HappensAtOnDuring Arg1:T830 Arg2:T832	
+T833	Symptom 4316 4339	very alert and sentient
+A129	NegationModalityVal T833 negated
+T834	DiseaseState 4245 4289	transitioning the patient to palliative care
+A130	NegationModalityVal T834 hypothetical_in_future
+A131	DiseaseStateVal T834 hospice
+T835	Symptom 4503 4516	recent fevers
+A132	NegationModalityVal T835 negated
+T836	Symptom 4520 4526	chills
+A133	NegationModalityVal T836 negated
+T837	Symptom 4533 4544	weight loss
+A134	IsPresentOnFirstCancerDiagnosis T837 yes
+A135	IsCausedByDiagnosedCancer T837 yes
+A136	ChronicVal T837 non-chronic
+T838	Symptom 4680 4691	mouth sores
+A137	NegationModalityVal T838 negated
+T839	Symptom 4695 4706	sore throat
+A138	NegationModalityVal T839 negated
+T840	Symptom 4555 4561	rashes
+A139	NegationModalityVal T840 negated
+T841	Symptom 4563 4570	lesions
+A140	NegationModalityVal T841 negated
+T842	Symptom 4574 4582	jaundice
+A141	NegationModalityVal T842 negated
+T843	Symptom 4593 4607	vision changes
+A142	NegationModalityVal T843 negated
+T844	Symptom 4618 4635	change in hearing
+A143	NegationModalityVal T844 negated
+T845	Symptom 4640 4655	nasal discharge
+A144	NegationModalityVal T845 negated
+T846	Symptom 4659 4675	sinus tenderness
+A145	NegationModalityVal T846 negated
+T847	Symptom 4726 4731	cough
+A146	NegationModalityVal T847 negated
+T848	Symptom 4735 4754	shortness of breath
+A147	NegationModalityVal T848 negated
+T849	Symptom 4775 4785	chest pain
+A148	NegationModalityVal T849 negated
+T850	Symptom 4790 4802	palpitations
+A149	NegationModalityVal T850 negated
+T851	Symptom 4817 4842	intermittent leg swelling
+A150	IsPresentOnFirstCancerDiagnosis T851 no
+A151	IsCausedByDiagnosedCancer T851 yes
+A152	ChronicVal T851 non-chronic
+A153	ContinuityVal T851 stable
+T852	Symptom 4851 4857	nausea
+A154	NegationModalityVal T852 negated
+T853	Symptom 4859 4867	vomiting
+A155	NegationModalityVal T853 negated
+T854	Symptom 4869 4877	diarrhea
+A156	NegationModalityVal T854 negated
+T855	Symptom 4881 4893	constipation
+A157	NegationModalityVal T855 negated
+T856	Symptom 4898 4904	melena
+A158	NegationModalityVal T856 negated
+T857	Symptom 4908 4913	BRBPR
+A159	NegationModalityVal T857 negated
+T858	Symptom 4919 4927	bloating
+A160	IsPresentOnFirstCancerDiagnosis T858 no
+A161	IsCausedByDiagnosedCancer T858 yes
+A162	ChronicVal T858 non-chronic
+A163	ContinuityVal T858 unclear
+T859	Symptom 4936 4943	dysuria
+A164	NegationModalityVal T859 negated
+T860	Symptom 4948 4957	hematuria
+A165	NegationModalityVal T860 negated
+T861	Symptom 4962 4975	bilirubinuria
+A166	IsPresentOnFirstCancerDiagnosis T861 no
+A167	IsCausedByDiagnosedCancer T861 yes
+A168	ChronicVal T861 non-chronic
+A169	ContinuityVal T861 unclear
+T862	Symptom 4994 5002	bleeding
+A170	NegationModalityVal T862 negated
+T863	Symptom 5006 5014	bruising
+A171	NegationModalityVal T863 negated
+T864	Symptom 5052 5086	change in cold or heat intolerance
+A172	NegationModalityVal T864 negated
+T865	Symptom 5108 5118	joint pain
+A173	NegationModalityVal T865 negated
+T866	Symptom 5122 5131	back pain
+A174	NegationModalityVal T866 negated
+T867	Symptom 5148 5157	headaches
+A175	NegationModalityVal T867 negated
+T868	Symptom 5159 5168	dizziness
+A176	NegationModalityVal T868 negated
+T869	Symptom 5170 5175	falls
+A177	NegationModalityVal T869 negated
+T870	Symptom 5190 5203	mild numbness
+A178	IsPresentOnFirstCancerDiagnosis T870 no
+A179	IsCausedByDiagnosedCancer T870 no
+A180	ChronicVal T870 non-chronic
+A181	ContinuityVal T870 unclear
+T871	Site 5223 5233	fingertips
+T872	Symptom 5207 5215	tingling
+A182	IsPresentOnFirstCancerDiagnosis T872 no
+A183	IsCausedByDiagnosedCancer T872 no
+A184	ChronicVal T872 non-chronic
+A185	ContinuityVal T872 unclear
+R73	SiteOf Arg1:T871 Arg2:T872	
+R74	SiteOf Arg1:T871 Arg2:T870	
+T873	Age 20859 20866	74 y.o.
+T874	Metastasis 21041 21051	metastatic
+A186	HistoryVal T874 history
+A187	EpisodeDescription T874 Progression
+T875	ClinicalCondition 20998 21023	pancreatic adenocarcinoma
+A188	ContinuityVal T875 worsening
+T876	Histology 21009 21023	adenocarcinoma
+A189	HistoryVal T876 history
+A190	EpisodeDescription T876 Progression
+R75	TumorDesc TumorDetails:T876 Desc:T875	
+R76	TumorDesc TumorDetails:T874 Desc:T875	
+T877	TreatmentType 21079 21095	systemic therapy
+T878	Datetime 21110 21118	12/05/15
+A191	TreatmentContinuityVal T877 started
+A192	TreatmentTypeVal T877 maintenance
+A193	TreatmentIntentVal T877 palliative
+R77	BeginsOnOrAt Arg1:T877 Arg2:T878	
+T879	Radiology 21125 21140	restaging scans
+A194	IntentVal T879 TreatmentAssessment
+T880	RadPathResult 21196 21246;21331 21372	metastatic disease that is responding to treatment pulmonary nodules which decreased in size
+A195	RadPathResultVal T880 TreatmentResponse
+R78	ResultOfTest Desc:T880 Test:T879	
+T881	Cycles 21151 21159	4 cycles
+T882	TreatmentType 21163 21175	chemotherapy
+A196	TreatmentContinuityVal T882 continuing
+A197	TreatmentTypeVal T882 maintenance
+A198	TreatmentIntentVal T882 palliative
+R79	TreatmentDesc Therapy:T881 Desc:T882	
+T883	Radiology 21252 21260	CT chest
+A199	IntentVal T883 staging
+R80	HappensBefore Arg1:T883 Arg2:T878	
+T884	RadPathResult 21319 21330;21341 21348	nonspecific nodules
+A200	RadPathResultVal T884 InitialCancerDiagnosis
+T885	Site 21331 21340	pulmonary
+R81	SiteOf Arg1:T885 Arg2:T884	
+R82	ResultOfTest Desc:T884 Test:T883	
+T886	ClinicalCondition 21331 21348	pulmonary nodules
+T887	Metastasis 21415 21438	metastatic involvement.
+A201	NegationModalityVal T887 uncertain_in_present
+R83	TumorDesc TumorDetails:T887 Desc:T886	
+R84	TestOrProcedureReveals Test:T879 Desc:T886	
+T888	Radiology 21490 21500	CT abdomen
+A202	IntentVal T888 TreatmentAssessment
+T889	RadPathResult 21469 21476	lesions
+T890	Site 21463 21468	liver
+R85	SiteOf Arg1:T890 Arg2:T889	
+R86	NotUndergoneBecauseOf Arg1:T888 Reason:T889	
+T891	ClinicalCondition 21463 21476	liver lesions
+A203	NegationModalityVal T891 uncertain_in_present
+A204	ContinuityVal T891 unclear
+R87	TestOrProcedureReveals Test:T888 Desc:T891	
+R88	ResultOfTest Desc:T889 Test:T888	
+T892	Radiology 21631 21646	restaging scans
+A205	IntentVal T892 TreatmentAssessment
+T893	Datetime 21652 21660	03/21/16
+T894	RadPathResult 21668 21722;21741 21745	continued treatment response with decrease in the size mass
+A206	RadPathResultVal T894 TreatmentResponse
+T895	RadPathResult 21762 21796	lesions appearing less conspicuous
+A207	RadPathResultVal T895 TreatmentResponse
+T896	Site 21730 21740	pancreatic
+R89	SiteOf Arg1:T896 Arg2:T894	
+T897	Site 21754 21761	hepatic
+R90	SiteOf Arg1:T897 Arg2:T895	
+R91	ResultOfTest Desc:T894 Test:T892	
+R92	ResultOfTest Desc:T895 Test:T892	
+R93	HappensAtOnDuring Arg1:T892 Arg2:T893	
+T898	MedicationRegimen 21819 21830	mFOLFIRINOX
+A208	TreatmentContinuityVal T898 finished
+A209	TreatmentTypeVal T898 maintenance
+A210	TreatmentIntentVal T898 palliative
+T899	Cycles 21812 21815	C12
+R94	TreatmentDesc Therapy:T898 Desc:T899	
+T900	Datetime 21834 21844	05/16/2016
+R95	EndsOnOrAt Arg1:T898 Arg2:T900	
+T901	Radiology 21853 21868	restaging scans
+A211	IntentVal T901 TreatmentAssessment
+R96	HappensAfter Arg1:T901 Arg2:T900	
+T902	RadPathResult 21898 21912;21931 21935	stable disease mass
+A212	RadPathResultVal T902 DiseaseStability
+T903	Site 21920 21930	pancreatic
+R97	SiteOf Arg1:T903 Arg2:T902	
+R98	ResultOfTest Desc:T902 Test:T901	
+T904	DiseaseState 23124 23158	next best step as palliative care.
+A213	DiseaseStateVal T904 hospice
+T905	TreatmentType 23048 23060	chemotherapy
+A214	NegationModalityVal T905 hypothetical_in_future
+T906	Datetime 21943 21954	05/28/2016,
+T907	ClinicalTrial 22020 22210	A Phase 2, Multicenter Study of FOLFIRINOX Followed by Ipilimumab in Combination with Allogeneic GM-CSF Transfected Pancreatic Tumor Vaccine in the Treatment of Metastatic Pancreatic Cancer"
+A215	NegationModalityVal T907 negated
+R99	HappensAtOnDuring Arg1:T907 Arg2:T906	
+T908	TreatmentType 21974 21991	treatment holiday
+A216	NegationModalityVal T908 negated
+R100	HappensAtOnDuring Arg1:T908 Arg2:T906	
+T909	TreatmentType 22250 22270	chemotherapy holiday
+A217	NegationModalityVal T909 negated
+T910	DiseaseState 22230 22240	progressed
+A218	DiseaseStateVal T910 progression-others
+R101	HappensAfter Arg1:T910 Arg2:T906	
+T911	Radiology 22309 22324	restaging scans
+A219	IntentVal T911 TreatmentAssessment
+T912	RadPathResult 22338 22366	interval disease progression
+A220	RadPathResultVal T912 Progression
+R102	ResultOfTest Desc:T912 Test:T911	
+T913	RadPathResult 22391 22424;22450 22523	ncreased size and infiltration of mass resulting in new partial bowel obstruction at the ligament of Treitz
+A221	RadPathResultVal T913 Progression
+T914	Site 22429 22449	pancreatic body/tail
+R103	SiteOf Arg1:T914 Arg2:T913	
+T915	RadPathResult 22525 22528;22552 22655	New nodularity associated with small volume ascites is concerning for progressive peritoneal carcinomatosis
+A222	RadPathResultVal T915 Progression
+T916	Site 22529 22539	peritoneal
+T917	Site 22544 22551	omental
+R104	SiteOf Arg1:T917 Arg2:T915	
+R105	SiteOf Arg1:T916 Arg2:T915	
+T918	RadPathResult 22657 22666;22681 22817	worsening soft tissue infiltration resulting in new biliary obstruction, with moderate right and left-sided intrahepatic biliary ductal dilatation
+A223	RadPathResultVal T918 Progression
+T919	Site 22667 22680	porta hepatis
+R106	SiteOf Arg1:T919 Arg2:T918	
+T920	Metastasis 22630 22655	peritoneal carcinomatosis
+A224	HistoryVal T920 new
+A225	EpisodeDescription T920 Progression
+R107	ResultOfTest Desc:T915 Test:T911	
+R108	ResultOfTest Desc:T918 Test:T911	
+T921	ClinicalCondition 22429 22454	pancreatic body/tail mass
+A226	ContinuityVal T921 worsening
+T922	LocalInvasion 22472 22524	partial bowel obstruction at the ligament of Treitz.
+A227	EpisodeDescription T922 Progression
+R109	TumorDesc TumorDetails:T922 Desc:T921	
+R110	TumorDesc TumorDetails:T920 Desc:T921	
+T923	LocalInvasion 22681 22742	soft tissue infiltration resulting in new biliary obstruction
+A228	EpisodeDescription T923 Progression
+R111	TumorDesc TumorDetails:T923 Desc:T921	
+T924	ProcedureName 22832 22857	ERCP with stent placement
+A229	IntentVal T924 others
+A230	TreatmentTypeVal T924 others
+A231	TreatmentCategory T924 Others
+T925	Datetime 22874 22882	08/24/16
+R112	TestOrProcedureConductedForProblem Test:T924 Prob:T923	
+R113	HappensAtOnDuring Arg1:T924 Arg2:T925	
+T926	DiagnosticLabTest 22918 22927	bilirubin
+A232	IntentVal T926 others
+T927	LabTestResult 22932 22940	3.5mg/dL
+A233	LabTestResultVal T927 abnormal
+R114	ResultOfTest Desc:T927 Test:T926	
+R115	HappensAtOnDuring Arg1:T926 Arg2:T925	
+T928	Datetime 22961 22969	08/25/16
+T929	Radiology 22970 22980	CT imaging
+A234	IntentVal T929 TreatmentAssessment
+T930	RadPathResult 23013 23024	obstruction
+A235	RadPathResultVal T930 Progression
+T931	Site 23001 23012	small bowel
+R116	SiteOf Arg1:T931 Arg2:T930	
+R117	ResultOfTest Desc:T930 Test:T929	
+R118	HappensAtOnDuring Arg1:T929 Arg2:T928	
+T932	TreatmentType 23170 23217	slight possibility of resuming systemic therapy
+A236	NegationModalityVal T932 hypothetical_in_future
+T933	Radiology 23422 23426	xray
+T934	RadPathResult 23491 23586	continued blockage despite stent placement which likely represents functional bowel obstruction
+A238	RadPathResultVal T934 Progression
+R119	ResultOfTest Desc:T934 Test:T933	
+T935	DiseaseState 23895 23951	Anticipate the need to transition the patient to hospice
+A239	NegationModalityVal T935 planned_in_future
+T754	Site 607 621	splenic artery
+T936	Site 551 563	splenic vein
+T937	Site 657 679	proximal peroneal vein
+T938	Site 719 730	Portal vein
+T939	Site 735 747	splenic vein
+T940	LocalInvasion 765 773	narrowed
+A16	EpisodeDescription T940 FirstOccurrence
+T941	LocalInvasion 638 649	mass effect
+A240	EpisodeDescription T941 FirstOccurrence
+R4	SiteOf Arg1:T937 Arg2:T941	
+R7	SiteOf Arg1:T939 Arg2:T940	
+R120	SiteOf Arg1:T938 Arg2:T940	
+R121	TestOrProcedureReveals Test:T749 Desc:T940	
+R122	TestOrProcedureReveals Test:T749 Desc:T941	
+A241	RadPathResultVal T751 InitialCancerDiagnosis
+R5	ResultOfTest Desc:T751 Test:T749	
+R123	SizeOf Arg1:T750 Arg2:T751	
+R124	SiteOf Arg1:T752 Arg2:T751	
+T942	RadPathResult 537 547	thrombosis
+A242	RadPathResultVal T942 Others
+R125	SiteOf Arg1:T936 Arg2:T942	
+R126	ResultOfTest Desc:T942 Test:T749	
+R127	SiteOf Arg1:T754 Arg2:T753	
+R128	TestOrProcedureReveals Test:T749 Desc:T753	
+R129	TestOrProcedureReveals Test:T749 Desc:T941	
+R130	TestOrProcedureReveals Test:T749 Desc:T940	
+T943	RadPathResult 820 824	mass
+A243	RadPathResultVal T943 InitialCancerDiagnosis
+T944	LocalInvasion 825 830	abuts
+A244	NegationModalityVal T944 uncertain_in_present
+T945	Site 835 899	superior mesenteric artery along its superior superficial margin
+T946	Site 920 928	pancreas
+R131	SiteOf Arg1:T945 Arg2:T944	
+R132	SiteOf Arg1:T946 Arg2:T944	
+R133	ResultOfTest Desc:T943 Test:T749	
+R134	TestOrProcedureReveals Test:T749 Desc:T944	
+T947	RadPathResult 934 951	loss of fat plane
+A245	RadPathResultVal T947 Others
+T948	Site 973 1001	antral region of the stomach
+T949	Site 960 964	mass
+R135	SiteOf Arg1:T948 Arg2:T947	
+R136	SiteOf Arg1:T949 Arg2:T947	
+R137	ResultOfTest Desc:T947 Test:T749	
+A246	RadPathResultVal T757 InitialCancerDiagnosis
+R14	ResultOfTest Desc:T757 Test:T755	
+T950	RadPathResult 1170 1198	Pancreatic ductal dilatation
+A247	RadPathResultVal T950 Others
+R138	ResultOfTest Desc:T950 Test:T755	
+T951	LocalInvasion 1228 1234	invade
+A248	EpisodeDescription T951 FirstOccurrence
+T952	Site 1239 1272	muscularis propria of the stomach
+R139	SiteOf Arg1:T952 Arg2:T951	
+R140	TestOrProcedureReveals Test:T755 Desc:T951	
+R141	TestOrProcedureReveals Test:T755 Desc:T761	
+T953	Site 1381 1389	duodenum
+T954	Site 1413 1424	portal vein
+T955	Site 1442 1458	uncinate process
+A24	EpisodeDescription T763 FirstOccurrence
+T956	Size 1515 1521	2.7 cm
+R142	SizeOf Arg1:T956 Arg2:T763	
+R143	TestOrProcedureReveals Test:T755 Desc:T763	
+R144	TestOrProcedureReveals Test:T755 Desc:T762	
+T957	Pathology 1594 1607	Cytopathology
+A25	IntentVal T957 diagnosis
+T958	ProcedureName 1617 1620	FNA
+A249	IntentVal T958 diagnosis
+A250	IsTumorRemaining T958 yes
+R145	TestOrProcedureConductedForProblem Test:T958 Prob:T766	
+T959	Site 3007 3062	small intestine in the region of the ligament of Treitz
+T811	ClinicalCondition 3077 3102	partial bowel obstruction
+A106	ChronicVal T811 non-chronic
+A251	ContinuityVal T811 new
+R146	SiteOf Arg1:T959 Arg2:T821	
+R147	TestOrProcedureReveals Test:T809 Desc:T811	
+R148	TestOrProcedureReveals Test:T809 Desc:T821	
+R149	ResultOfTest Desc:T813 Test:T809	
+R150	TestOrProcedureReveals Test:T809 Desc:T820	
+T960	ProcedureName 3254 3274	5 overlapping stents
+A252	IntentVal T960 others
+A253	TreatmentTypeVal T960 others
+A254	TreatmentCategory T960 Others
+R151	TestOrProcedureConductedForProblem Test:T960 Prob:T816	
+T961	ProcedureName 3449 3464	stent placement
+A255	RadPathResultVal T961 Others
+T962	RadPathResult 3474 3508	pneumobilia in left biliary system
+A256	RadPathResultVal T962 Others
+T963	RadPathResult 3514 3530	moderate ascites
+A257	RadPathResultVal T963 Others
+A258	IntentVal T961 others
+A259	TreatmentTypeVal T961 others
+A260	TreatmentCategory T961 Others
+A261	NegationModalityVal T962 negated
+R152	ResultOfTest Desc:T962 Test:T823	
+R153	ResultOfTest Desc:T963 Test:T823	
+R154	TestOrProcedureConductedForProblem Test:T961 Prob:T816	
+T964	Symptom 3583 3593	discomfort
+A262	IsPresentOnFirstCancerDiagnosis T964 no
+A263	IsCausedByDiagnosedCancer T964 unclear
+A264	ContinuityVal T964 stable
+T965	Symptom 3833 3843	discomfort
+A265	IsPresentOnFirstCancerDiagnosis T965 no
+A266	IsCausedByDiagnosedCancer T965 unclear
+A267	ContinuityVal T965 stable
+T966	Symptom 3867 3876	back pain
+A268	IsPresentOnFirstCancerDiagnosis T966 no
+A269	IsCausedByDiagnosedCancer T966 unclear
+A270	ContinuityVal T966 stable
+T967	ProcedureName 3612 3618	stents
+A271	IntentVal T967 others
+A272	RadPathResultVal T967 Others
+A273	TreatmentTypeVal T967 others
+A274	TreatmentCategory T967 Others
+T968	ProcedureName 3853 3858	stent
+A275	IntentVal T968 others
+A276	RadPathResultVal T968 Others
+A277	TreatmentTypeVal T968 others
+A278	TreatmentCategory T968 Others
+R155	ConditionOrTreatmentCausesProblem Treatment:T968 Prob:T966	
+R156	TestOrProcedureConductedForProblem Test:T968 Prob:T965	
+T969	Site 3890 3917	duodenum is retroperitoneal
+T970	Radiology 4042 4054	xray imaging
+A279	IntentVal T970 others
+R157	HappensAtOnDuring Arg1:T826 Arg2:T970	
+T971	Symptom 5028 5047	normal hair texture
+A280	NegationModalityVal T971 negated
+T972	SectionSkip 5664 5878;5881 7198	Facility-Administered Medications Ordered in ***** *****:     0.9 % sodium chloride flush injection syringe, 3 mL, Intravenous, Q8H SCH, ***** ***** *****, MD, 3 mL at 08/27/16 0540    0.9 % sodium chloride flush injection syringe, 3 mL, Intravenous, PRN, ***** ***** *****, MD    0.9 % sodium chloride infusion, 50 mL/hr, Intravenous, Continuous, ***** ***** *****, MD, Last Rate: 50 mL/hr at 08/28/16 0437, 50 mL/hr at 08/28/16 0437    baclofen (LIORESAL) tablet 5 mg, 5 mg, Oral, TID *****, ***** *****, MD, 5 mg at 08/28/16 0629    carvedilol (COREG) tablet 12.5 mg, 12.5 mg, Oral, *****, ***** *****, MD, 12.5 mg at 08/28/16 0921    diltiazem (CARDIZEM CD) 24 hr capsule 120 mg, 120 mg, Oral, Daily (AM), ***** ***** *****, MD, 120 mg at 08/28/16 0921    diphenhydrAMINE (BENADRYL) injection 12.5 mg, 12.5 mg, Intravenous, Bedtime *****, ***** *****, MD, 12.5 mg at 08/28/16 0021    lidocaine (XYLOCAINE) 2 % viscous solution 5 mL, 5 mL, Mouth/Throat, Q3H *****, ***** ***** *****, MD    methyl salicylate-menthol (BENGAY) ointment, , Topical, PRN, ***** ***** *****, MD    ondansetron (ZOFRAN) injection 4 mg, 4 mg, Intravenous, Q30 Min PRN, ***** ***** *****, MD, 4 mg at 08/25/16 0143    phenol (PHENASEPTIC) 1.4 % spray 1-3 spray, 1-3 spray, Mouth/Throat, Q2H PRN, ***** ***** *****, MD, 3 spray at 08/25/16 0640    traMADol (ULTRAM) tablet 50 mg, 50 mg, Oral, Q6H *****, ***** *****, MD, 50 mg at 08/28/16 0309    warfarin (COUMADIN) tablet 3 mg, 3 mg, Oral, Q PM, ***** ***** *****, MD, 3 mg at 08/27/16 2104
+A281	NegationModalityVal T972 negated
+A282	SectionSkipType T972 medications
+T973	SectionSkip 7202 7825;7829 8152	Physical Exam  Vital Signs:    There were no vitals taken for this visit. I have reviewed all vital signs at the time of exam.   Constitutional:  Well-developed, no acute distress, ECOG 1  Skin: No rash, lesions, diaphoresis, or jaundice.  Eyes: PERRL, EOMI, anicteric sclera.  HENT: Moist mucous membranes, oropharynx clear without exudates or thrush.   Lymph Nodes: no cervical, supraclavicular lymphadenopathy  Respiratory:  Good effort, clear to auscultation bilaterally; no wheezes, rales or rhonchi.  Cardiovascular:  Distant heart sounds. Irregular rate/rhythm but rate controlled; no murmurs, rubs, or gallops.  GI: Non-distended, bowel sounds normal, soft, tenderness to palpation in the LLQ; palpable hepatic edge.  Musculoskeletal: Point tenderness on the right deltoid ligament.   Extremities: trace edema in BLE; no cyanosis  Neurologic:  Alert & oriented x 3, CN III-XII intact, ambulates w/o difficulty, December 28 BUE/BLE strength
+A283	SectionSkipType T973 physical_exam
+T974	SectionSkip 8156 9789;9792 11746;11749 13697;13700 14720	Diagnostic Data  Labs  Results for orders placed or performed during the hospital encounter of 08/24/16   Complete Blood Count with Differential   Result Value Ref Range    WBC Count 9.6 3.4 - 10 x10E9/L    RBC Count 3.09 (L) 4.4 - 5.9 x10E12/L    Hemoglobin 9.6 (L) 13.6 - 17.5 g/dL    Hematocrit 28.5 (L) 41 - 53 %    MCV 92 80 - 100 fL    MCH 31.1 26 - 34 pg    MCHC 33.7 31 - 36 g/dL    Platelet Count 172 140 - 450 x10E9/L    Neutrophil Absolute Count 8.55 (H) 1.8 - 6.8 x10E9/L    Lymphocyte Abs Cnt 0.59 (L) 1.0 - 3.4 x10E9/L    Monocyte Abs Count 0.38 0.2 - 0.8 x10E9/L    Eosinophil Abs Ct 0.01 0.0 - 0.4 x10E9/L    Basophil Abs Count 0.01 0.0 - 0.1 x10E9/L    Imm Gran, Left Shift 0.05 <0.1 x10E9/L   Basic Metabolic Panel (Na, K, Cl, CO2, BUN, Cr, Glu, Ca)   Result Value Ref Range    Urea Nitrogen, Serum / Plasma 10 6 - 22 mg/dL    Calcium, total, Serum / Plasma 8.1 (L) 8.8 - 10.3 mg/dL    Chloride, Serum / Plasma 101 97 - 108 mmol/L    Creatinine 0.56 (L) 0.61 - 1.24 mg/dL    eGFR if non-African American 102 mL/min    eGFR if African Amer 118 mL/min    Glucose, fasting 187 (H) 70 - 99 mg/dL    Potassium, Serum / Plasma 3.4 (L) 3.5 - 5.1 mmol/L    Sodium, Serum / Plasma ***** ***** - 145 mmol/L    Carbon Dioxide, Total 26 22 - 32 mmol/L    Anion Gap 9 4 - 14   Venous Blood gas w/ Lactate (***** & *****) (includes Na+, K+, Ca++, Cl-, Glu, Hct, tHb)   Result Value Ref Range    Sample Type Venous     pH, Blood 7.39 7.35 - 7.45    PCO2 47 32 - 48 mm Hg    PO2 32 (LL) 83 - 108 mm Hg    Base excess 3 mmol/L    Bicarbonate 28 (H) 22 - 27 mmol/L    Oxygen Saturation 55 (L) 95 - 99 %    FIO2 Not specified 20 - 100 %    Sodium, whole blood ***** ***** - 146 mmol/L    Potassium, whole blood 3.4 3.4 - 4.5 mmol/L    Calcium, Ionized, whole blood 1.22 1.15 - 1.29 mmol/L    Chloride, whole blood 102 98 - 106 mmol/L    Hemoglobin, Whole Blood 9.9 (L) 13.6 - 17.5 g/dL    Hematocrit from ***** 31 (L) 45 - 65 %    Lactate, whole blood 1.1 0.0 - 2.0 mmol/L    Glucose, whole blood 190 70 - 199 mg/dL    Comments (1) no FiO2 on label or req    Aspartate Transaminase   Result Value Ref Range    Aspartate transaminase 30 17 - 42 U/L   Alanine Transaminase   Result Value Ref Range    Alanine transaminase 38 12 - 60 U/L   Bilirubin, Total   Result Value Ref Range    Bilirubin, Total 3.5 (H) 0.2 - 1.3 mg/dL   Alkaline Phosphatase   Result Value Ref Range    Alkaline Phosphatase 265 (H) 31 - 95 U/L   Lipase   Result Value Ref Range    Lipase 20 19 - 56 U/L   Magnesium, Serum / Plasma   Result Value Ref Range    Magnesium, Serum / Plasma 1.6 (L) 1.8 - 2.4 mg/dL   Comprehensive Metabolic Panel (BMP, AST, ALT, T.Bili, AlkP, TProt, Alb)   Result Value Ref Range    Albumin, Serum / Plasma 2.1 (L) 3.5 - 4.8 g/dL    Alkaline Phosphatase 246 (H) 31 - 95 U/L    Alanine transaminase 33 12 - 60 U/L    Aspartate transaminase 27 17 - 42 U/L    Bilirubin, Total 3.5 (H) 0.2 - 1.3 mg/dL    Urea Nitrogen, Serum / Plasma 9 6 - 22 mg/dL    Calcium, total, Serum / Plasma 8.2 (L) 8.8 - 10.3 mg/dL    Chloride, Serum / Plasma 102 97 - 108 mmol/L    Creatinine 0.62 0.61 - 1.24 mg/dL    eGFR if non-African American 98 mL/min    eGFR if African Amer 113 mL/min    Glucose, fasting 153 (H) 70 - 99 mg/dL    Potassium, Serum / Plasma 4.2 3.5 - 5.1 mmol/L    Sodium, Serum / Plasma 138 135 - 145 mmol/L    Protein, Total, Serum / Plasma 5.1 (L) 6.0 - 8.4 g/dL    Carbon Dioxide, Total 28 22 - 32 mmol/L    Anion Gap 8 4 - 14   Complete Blood Count (includes Platelet Count)   Result Value Ref Range    WBC Count 7.9 3.4 - 10 x10E9/L    RBC Count 3.11 (L) 4.4 - 5.9 x10E12/L    Hemoglobin 9.5 (L) 13.6 - 17.5 g/dL    Hematocrit 29.2 (L) 41 - 53 %    MCV 94 80 - 100 fL    MCH 30.5 26 - 34 pg    MCHC 32.5 31 - 36 g/dL    Platelet Count 190 140 - 450 x10E9/L   Basic Metabolic Panel (Na, K, Cl, CO2, BUN, Cr, Glu, Ca)   Result Value Ref Range    Urea Nitrogen, Serum / Plasma 7 6 - 22 mg/dL    Calcium, total, Serum / Plasma 7.8 (L) 8.8 - 10.3 mg/dL    Chloride, Serum / Plasma 104 97 - 108 mmol/L    Creatinine 0.53 (L) 0.61 - 1.24 mg/dL    eGFR if non-African American 104 mL/min    eGFR if African Amer >120 mL/min    Glucose, fasting 130 (H) 70 - 99 mg/dL    Potassium, Serum / Plasma 3.3 (L) 3.5 - 5.1 mmol/L    Sodium, Serum / Plasma 138 135 - 145 mmol/L    Carbon Dioxide, Total 25 22 - 32 mmol/L    Anion Gap 9 4 - 14   Prothrombin Time   Result Value Ref Range    PT 30.8 (H) 11.6 - 15.8 s    Int'l Normaliz Ratio 3.0 (H) 0.9 - 1.3   Complete Blood Count (includes Platelet Count)   Result Value Ref Range    WBC Count 9.4 3.4 - 10 x10E9/L    RBC Count 3.28 (L) 4.4 - 5.9 x10E12/L    Hemoglobin 10.3 (L) 13.6 - 17.5 g/dL    Hematocrit 30.5 (L) 41 - 53 %    MCV 93 80 - 100 fL    MCH 31.4 26 - 34 pg    MCHC 33.8 31 - 36 g/dL    Platelet Count 224 140 - 450 x10E9/L   Basic Metabolic Panel (Na, K, Cl, CO2, BUN, Cr, Glu, Ca)   Result Value Ref Range    Urea Nitrogen, Serum / Plasma 7 6 - 22 mg/dL    Calcium, total, Serum / Plasma 8.0 (L) 8.8 - 10.3 mg/dL    Chloride, Serum / Plasma 101 97 - 108 mmol/L    Creatinine 0.56 (L) 0.61 - 1.24 mg/dL    eGFR if non-African American 102 mL/min    eGFR if African Amer 118 mL/min    Glucose, fasting 136 (H) 70 - 99 mg/dL    Potassium, Serum / Plasma 2.9 (LL) 3.5 - 5.1 mmol/L    Sodium, Serum / Plasma 140 135 - 145 mmol/L    Carbon Dioxide, Total 27 22 - 32 mmol/L    Anion Gap 12 4 - 14   Prothrombin Time   Result Value Ref Range    PT 30.0 (H) 11.6 - 15.8 s    Int'l Normaliz Ratio 2.9 (H) 0.9 - 1.3   Bilirubin, Total   Result Value Ref Range    Bilirubin, Total 3.7 (H) 0.2 - 1.3 mg/dL   Complete Blood Count (includes Platelet Count)   Result Value Ref Range    WBC Count 7.4 3.4 - 10 x10E9/L    RBC Count 3.17 (L) 4.4 - 5.9 x10E12/L    Hemoglobin 9.9 (L) 13.6 - 17.5 g/dL    Hematocrit 29.4 (L) 41 - 53 %    MCV 93 80 - 100 fL    MCH 31.2 26 - 34 pg    MCHC 33.7 31 - 36 g/dL    Platelet Count 185 140 - 450 x10E9/L   Basic Metabolic Panel (Na, K, Cl, CO2, BUN, Cr, Glu, Ca)   Result Value Ref Range    Urea Nitrogen, Serum / Plasma 7 6 - 22 mg/dL    Calcium, total, Serum / Plasma 7.9 (L) 8.8 - 10.3 mg/dL    Chloride, Serum / Plasma 99 97 - 108 mmol/L    Creatinine 0.53 (L) 0.61 - 1.24 mg/dL    eGFR if non-African American 104 mL/min    eGFR if African ***** >120 mL/min    Glucose, fasting 140 (H) 70 - 99 mg/dL    Potassium, Serum / Plasma 3.1 (L) 3.5 - 5.1 mmol/L    Sodium, Serum / Plasma 138 135 - 145 mmol/L    Carbon Dioxide, Total 29 22 - 32 mmol/L    Anion Gap 10 4 - 14   Prothrombin Time   Result Value Ref Range    PT 25.5 (H) 11.6 - 15.8 s    Int'l Normaliz Ratio 2.3 (H) 0.9 - 1.3
+A284	SectionSkipType T974 laboratory
+T573	SectionSkip 15291 15671;15674 17622;17625 19587;19590 20806	CLINICAL HISTORY: Pancreatic cancer h/o SBO.  R/O SBO COMPARISON:  None   FINDINGS: Visualized lung bases:  Unremarkable Liver:  2 biliary stents with tips in the duodenum, with associated pneumobilia. Redemonstrated moderate intrahepatic ductal dilatation, with abrupt change in caliber at the porta hepatis secondary to an obstructing, ill defined heterogeneously enhancing soft tissue nodule, unchanged. Gallbladder/bile ducts:  Contracted gallbladder. Multiple biliary stents and moderate intrahepatic biliary dilation with no pneumobilia on the left, raising the possibility of stent obstruction. Spleen:  Unremarkable Pancreas:  Unchanged ill-defined infiltrative pancreatic mass which is abutting the stomach and colon. Adrenal Glands:  Unchanged indeterminate 9 mm nodule in each adrenal gland. Kidneys:   mild left hydroureteronephrosis. The left ureter appears to be obstructed by a peritoneal implant (series 3/image 118). GI Tract:  Small bowel obstruction with distended stomach, duodenum, and proximal jejunum transition point in the distal duodenum between 2 nonoverlapping enteric stents ( the 4th and 5th) , where the unstented portion of small bowel appears to abruptly narrow as it approaches the opening of the most distal stent (series 2, image 186). Beyond the most distal jejunal stent, the bowel is decompressed. No evidence of ischemia or perforation. Stents of colonic diverticulosis, without evidence of acute diverticulitis. Vasculature:  Unremarkable Lymphadenopathy: Redemonstrated peritoneal and omental nodularity. Ascites: Moderate amount of ascites, unchanged. Bones:  No suspicious lesions Pelvis:  Unremarkable   IMPRESSION: 1. New proximal small bowel obstruction, with transition point in the distal duodenum at the junction of the nonoverlapping fourth and fifth enteric stents. No evidence of ischemia or perforation. 2. Unchanged ill-defined infiltrative pancreatic mass with moderate ascites and peritoneal carcinomatosis. 3. Two biliary stents with tips in the duodenum, with associated pneumobilia. Redemonstrated moderate intrahepatic ductal dilatation, with abrupt change in caliber at the porta hepatis secondary to an obstructing, ill-defined heterogeneously enhancing soft tissue nodule, unchanged. 4. Mild left hydroureteronephrosis. The left ureter appears to be obstructed by a peritoneal implant. 5. Unchanged indeterminate 9 mm nodule in each adrenal gland, suspicious for metastatic disease. //Impression 1 discussed with *****. ***** (ED) by Dr. ***** ***** ***** (Radiology) on *****/*****/***** 1:55 AM.// //Final Impression 1 discussed with *****. ***** (GI) by Dr. ***** ***** ***** (Radiology) on 08/25/2016 approximately 12 PM.//     08/21/2016 CT ABDOMEN/PELVIS WITH CONTRAST   CLINICAL HISTORY: abdominal/pelvic pain, status post enteric stent placement. COMPARISON:  CT abdomen/pelvis with contrast 08/14/2016 and priors.   FINDINGS: Visualized lung bases:  Small left pleural effusion with associated left lower lobe atelectasis. Liver:  Redemonstrated left and right biliary stents with tips in the duodenum. Predominantly right-sided pneumobilia, and compared to 08/14/2016, new absence of left-sided pneumobilia. Similar-appearing moderate intrahepatic biliary ductal dilatation. Redemonstrated ill-defined, heterogeneously enhancing soft tissue nodule at the level of the porta hepatis (Series 3 image 46). Gallbladder:  Unremarkable Spleen:  Unremarkable Pancreas:  Redemonstration of infiltrative mass within the body and tail of the pancreas with encasement of the splenic artery, not significantly changed in size since recent prior 08/14/2016. The mass appears to contact the colon at the level of the splenic flexure. Adrenal Glands:  Unchanged small bilateral adrenal nodules. Kidneys:  Unremarkable GI Tract:  Interval placement of enteric stents from the gastric body to the proximal jejunum with resolution of duodenal obstruction. The pancreatic mass appears to contact the colon at the level of the splenic flexure, without associated obstruction.  Vasculature:  Unchanged chronic occlusion of the splenic vein with narrowing of the portosplenic confluence, and encasement of the splenic artery by the infiltrating pancreatic mass with multiple portosystemic collaterals. Lymphadenopathy: Similar appearance of peritoneal and omental nodularity with peritoneal enhancement. Ascites: Interval increase in now moderate volume intra-abdominal free fluid. Bones:  No suspicious lesions   IMPRESSION: 1.  Compared with 08/14/2016, unchanged moderate intrahepatic biliary ductal dilatation, however with absence of left-sided pneumobilia, raising the possibility of stent obstruction. 2.  Interval placement of multiple enteric stents with resolution of duodenal obstruction. 3.  Worsening moderate ascites of unclear etiology with unchanged peritoneal carcinomatosis. No free air. 4.  Redemonstrated ill-defined infiltrative pancreatic mass which appears to contact the colon at the splenic flexure.     08/25/2016 XR KUB, FLAT PLATE, ABDOMEN 1 VIEW    COMPARISON: Same day CT abdomen/pelvis, KUB dated 08/17/2016 HISTORY: NG tube placement    IMPRESSION: Interval placement of an NG tube with tip projecting over the body of the stomach. Unchanged appearance of multiple biliary and enteric stents compared to same day CT abdomen/pelvis Known small bowel obstruction is not well evaluated on the current supine study. IV contrast within the left urinary collecting system compatible with recent contrast-enhanced CT abdomen/pelvis.
+A285	SectionSkipType T573 radiology_report
+T975	Datetime 22373 22383	05/27/2016
+T976	Datetime 22944 22952	08/24/16
+R158	HappensAtOnDuring Arg1:T976 Arg2:T926	
+A286	ChronicVal T726 non-chronic
+T977	ClinicalCondition 23238 23247	bilirubin
+A287	ChronicVal T977 non-chronic
+A237	ChronicVal T933 non-chronic
+A288	IntentVal T933 others
+T978	RadPathResult 23601 23623	structural obstruction
+A289	RadPathResultVal T978 Others
+A290	NegationModalityVal T978 uncertain_in_present
+T979	ProcedureName 23639 23654	stent placement
+A291	NegationModalityVal T979 hypothetical_in_future
+R159	InclusionCriteriaFor Arg1:T978 Arg2:T979	
+A292	ContinuityVal T734 stable
+T980	ProcedureName 23864 23890	additional stent placement
+A293	NegationModalityVal T980 hypothetical_in_future
+A294	TreatmentTypeVal T980 others
+A295	TreatmentCategory T980 Others
+R160	TestOrProcedureConductedForProblem Test:T980 Prob:T734	
+A296	IntentVal T737 others
+T981	ProcedureName 23983 23998	stent placement
+A297	NegationModalityVal T981 hypothetical_in_future
+A298	TreatmentTypeVal T981 others
+A299	TreatmentCategory T981 Others
+R161	TestOrProcedureReveals Test:T749 Desc:T750	
+R162	TestOrProcedureReveals Test:T755 Desc:T956	
+R163	HappensAtOnDuring Arg1:T789 Arg2:T788	
+T982	Datetime 2737 2745	02/01/16
+R164	HappensAtOnDuring Arg1:T804 Arg2:T803	
+R165	HappensAfter Arg1:T912 Arg2:T975	
+R166	HappensAfter Arg1:T911 Arg2:T975	
+T983	hpi_start 183 190	Patient
+T984	hpi_end 4459 4467	regimen.
+T985	ap_start 20811 20821	ASSESSMENT
+T986	ap_end 24051 24059	directly
+R36	BeginsOnOrAt Arg1:T788 Arg2:T787	

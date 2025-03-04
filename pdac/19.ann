@@ -1,0 +1,691 @@
+T1	SectionAnnotate 227 253	History of Present Illness
+T2	SectionAnnotate 1359 1428	present review of systems was reviewed and notable for the following:
+T3	SectionAnnotate 1886 1907	Past Medical History:
+T4	SectionAnnotate 2302 2317	FAMILY HISTORY:
+T5	SectionAnnotate 2319 2333	Family History
+T6	SectionAnnotate 2487 2514	PERSONAL AND SOCIAL HISTORY
+T7	SectionSkip 2999 4045	Physical Exam:  ECOG PS 0  Blood pressure (!) 172/103, pulse 83, temperature 36.4 C (97.6 F), temperature source Temporal, resp. rate 16, height 172.5 cm (5' 7.91"), weight 82.1 kg (181 lb), SpO2 97 %.  General appearance: No acute distress, conversant, appropriately interactive. Non-toxic, well-appearing.   Eyes: anicteric sclerae, moist conjunctivae; no lid lag.   HEENT: Atraumatic; oropharynx clear with moist mucous membranes and no mucosal ulcerations; normal hard and soft palate  Neck: Full range of motion, supple, no lymphadenopathy  Lungs/respiratory: Clear to auscultation, with normal respiratory effort and no intercostal retractions  Cardiovascular: RRR, normal S1 S2, no murmurs, gallops, or rubs.  Abdomen/GI: Soft, non-tender, nondistended; no masses, ascites, or hepatomegaly. Tympanitic to percussion.  Back: No point spinal tenderness.  Extremities: No peripheral edema or discoloration 
+ palpated or visualized.  Skin: Normal temperature, turgor and texture; no rash, ulcers or subcutaneous nodules visualized or palpated.
+T8	SectionSkip 4218 4619	Relevant Diagnostic Studies:    Most recent labs notable for the following:    03/25/2021  WBC 6.0, Hct 46.5, plts 207  Creat 1.16  Alb 4.3, AST/ALT 26/61, tot bili 0.6, alk phos 63      I personally reviewed and interpreted the patient's relevant imaging studies in conjunction with the corresponding formal radiology reports, as follows:    CT Abdomen /Pelvis with Contrast   Result Date: 05/21/2021
+T9	SectionSkip 4621 6392	FINDINGS:    Lines / tubes: None.     Lower Thorax: Normal.      Hepatobiliary:    Liver: Measures 14.9 cm in craniocaudal dimension. Multiple varying sized hypodense lesions   throughout the right and left lobes of the liver are present measuring up to 1.7 x 1.4 cm in   segment March 13 (axial image 19, series 2) and 0.9 x 0.8 cm in segments August 15 (axial image 16,   series 2).    Gallbladder: Normal.    Bile Ducts: Normal.    Hepatic vasculature: Normal.     Spleen: A wedge-shaped hypodense area is noted in the lower part of the spleen most likely   related to an infarct. Spleen is upper limits of normal size measuring 12.6 cm.     Pancreas: A 5 x 4.1 cm cystic lesion with irregular rim enhancement is noted involving the   pancreatic tail and abutting the splenic hilum. No pancreatic duct dilatation is noted.     Adrenals: Normal.     Kidneys/Ureters: Normal.     GI Tract:    GE junction and stomach: Normal.    Small bowel: Normal in diameter    Appendix: Not visualized.    Colon and rectum: Diffuse wall thickening of the descending and sigmoid colon is present.     Peritoneum / Retroperitoneum: Nodular foci of enhancement involving the greater omentum is   present. Small peritoneal free fluid is 
+ present. Irregular foci of nodular peritoneal   enhancement are present. Example in the left lateral peritoneal line (axial image 42, series   2).     Diffuse mesenteric edema with interspersed fluid is noted.     Lymph Nodes: Multiple retroperitoneal lymph nodes are present in an example left periaortic   lymph node (axial image 42, series 2) measuring 0.9 x 1.1 cm.     Vessels: Moderate atherosclerotic ossification of aorta.     Pelvis:    Prostate: Normal.    Seminal vesicles: Normal.    Bladder: Normal.     Bones and Soft Tissues: Normal.
+T10	SectionAnnotate 6397 6408	IMPRESSION:
+T11	SectionAnnotate 7135 7166	Impression and Recommendations:
+T12	PROBLEM 331 372	intermittent mid/LUQ abdominal discomfort
+T13	PROBLEM 374 382	bloating
+T14	PROBLEM 388 397	gassiness
+T15	PROBLEM 478 492	These symptoms
+T16	TEST 539 555	diagnostic tests
+T17	TEST 601 604	EGD
+T18	TEST 612 623	colonoscopy
+T19	PROBLEM 629 671	2 tubular adenomas in the rectum and cecum
+T20	TEST 687 700	Stool studies
+T21	PROBLEM 714 734	infectious organisms
+T22	TREATMENT 762 775	metronidazole
+T23	TREATMENT 780 789	rifaximin
+T24	TREATMENT 802 812	probiotics
+T25	TREATMENT 819 840	dietary modifications
+T26	TEST 872 885	Abdominal U/S
+T27	PROBLEM 898 925	prominent hepatic steatosis
+T28	PROBLEM 930 942	splenomegaly
+T29	TEST 958 982	Abdominal/pelvic CT scan
+T30	PROBLEM 984 1013	pancreatic tail cystic lesion
+T31	PROBLEM 1026 1050	multiple hepatic lesions
+T32	PROBLEM 1066 1076	metastases
+T33	PROBLEM 1103 1128	peritoneal carcinomatosis
+T34	TEST 1170 1173	EUS
+T35	PROBLEM 1196 1216	pancreatic tail mass
+T36	PROBLEM 1243 1273	cystic and necrotic components
+T37	PROBLEM 1275 1308	fine needle bx c/w adenocarcinoma
+T38	PROBLEM 1310 1322	MMR proteins
+T39	PROBLEM 1447 1465	some early satiety
+T40	PROBLEM 1470 1493	postprandial distention
+T41	PROBLEM 1494 1504	discomfort
+T42	PROBLEM 1506 1522	8 lb weight loss
+T43	MedicationName 1541 1548	Tylenol
+T44	PROBLEM 1553 1573	abdominal discomfort
+T45	TREATMENT 1582 1590	Percocet
+T46	PROBLEM 1594 1610	Semi-regular BMs
+T47	PROBLEM 1615 1623	bleeding
+T48	PROBLEM 1627 1647	Normally very active
+T49	PROBLEM 1681 1687	fevers
+T50	PROBLEM 1688 1694	chills
+T51	PROBLEM 1695 1707	night sweats
+T52	PROBLEM 1714 1756	pre-existing peripheral sensory neuropathy
+T53	PROBLEM 1763 1766	SOB
+T54	PROBLEM 1768 1773	cough
+T55	PROBLEM 1778 1798	respiratory symptoms
+T56	PROBLEM 1806 1818	jaundice sxs
+T57	PROBLEM 1826 1840	modest anxiety
+T58	PROBLEM 1929 1936	Anxiety
+T59	PROBLEM 1959 1989	Environmental allergies    HIV
+T60	TREATMENT 2003 2014	Medications
+T61	TREATMENT 2019 2053	oxyCODONE-acetaminophen (Percocet)
+T62	PROBLEM 2128 2139	severe pain
+T63	TREATMENT 2175 2197	valACYclovir (Valtrex)
+T64	PROBLEM 2216 2226	cold sores
+T65	TREATMENT 2230 2239	Lorazepam
+T66	PROBLEM 2249 2258	Allergies
+T67	PROBLEM 2281 2296	Known Allergies
+T68	ClinicalCondition 2375 2389	Ovarian cancer
+T69	ClinicalCondition 2403 2414	Lung cancer
+T70	ClinicalCondition 2442 2455	Breast cancer
+T71	TEST 3015 3022	ECOG PS
+T72	TEST 3026 3040	Blood pressure
+T73	TEST 3054 3059	pulse
+T74	TEST 3064 3075	temperature
+T75	TEST 3081 3082	C
+T76	TEST 3093 3111	temperature source
+T77	TEST 3122 3126	resp
+T78	TEST 3128 3132	rate
+T79	TEST 3137 3143	height
+T80	TEST 3165 3171	weight
+T81	TEST 3190 3194	SpO2
+T82	PROBLEM 3225 3239	acute distress
+T83	PROBLEM 3315 3332	anicteric sclerae
+T84	PROBLEM 3357 3364	lid lag
+T85	PROBLEM 3375 3385	Atraumatic
+T86	PROBLEM 3439 3458	mucosal ulcerations
+T87	PROBLEM 3528 3543	lymphadenopathy
+T88	TEST 3573 3585	auscultation
+T89	PROBLEM 3625 3648	intercostal retractions
+T90	PROBLEM 3688 3695	murmurs
+T91	PROBLEM 3697 3704	gallops
+T92	PROBLEM 3709 3713	rubs
+T93	PROBLEM 3734 3744	non-tender
+T94	PROBLEM 3746 3758	nondistended
+T95	PROBLEM 3763 3769	masses
+T96	PROBLEM 3771 3778	ascites
+T97	PROBLEM 3783 3795	hepatomegaly
+T98	TEST 3811 3821	percussion
+T99	PROBLEM 3833 3856	point spinal tenderness
+T100	PROBLEM 3875 3891	peripheral edema
+T101	PROBLEM 3895 3908	discoloration
+T102	PROBLEM 3985 3989	rash
+T103	PROBLEM 3991 3997	ulcers
+T104	PROBLEM 4001 4021	subcutaneous nodules
+T105	PROBLEM 4134 4161	focal sensorimotor deficits
+T106	TEST 4309 4312	WBC
+T107	TEST 4318 4321	Hct
+T108	TEST 4328 4332	plts
+T109	TEST 4338 4343	Creat
+T110	TEST 4350 4353	Alb
+T111	TEST 4359 4362	AST
+T112	TEST 4363 4366	ALT
+T113	TEST 4374 4382	tot bili
+T114	TEST 4388 4396	alk phos
+T115	TEST 4443 4481	the patient's relevant imaging studies
+T116	TEST 4561 4593	CT Abdomen /Pelvis with Contrast
+T117	PROBLEM 4755 4795	Multiple varying sized hypodense lesions
+T118	TEST 4893 4906	segment March
+T119	TEST 4911 4922	axial image
+T120	TEST 4977 4988	axial image
+T121	PROBLEM 5097 5126	A wedge-shaped hypodense area
+T122	PROBLEM 5193 5203	an infarct
+T123	PROBLEM 5276 5302	A 5 x 4.1 cm cystic lesion
+T124	PROBLEM 5308 5333	irregular rim enhancement
+T125	PROBLEM 5410 5436	pancreatic duct dilatation
+T126	PROBLEM 5633 5692	Diffuse wall thickening of the descending and sigmoid colon
+T127	PROBLEM 5739 5766	Nodular foci of enhancement
+T128	PROBLEM 5811 5838	Small peritoneal free fluid
+T129	PROBLEM 5853 5903	Irregular foci of nodular peritoneal   enhancement
+T130	TEST 5962 5973	axial image
+T131	PROBLEM 5995 6019	Diffuse mesenteric edema
+T132	PROBLEM 6025 6043	interspersed fluid
+T133	PROBLEM 6071 6107	Multiple retroperitoneal lymph nodes
+T134	TEST 6164 6175	axial image
+T135	PROBLEM 6227 6273	Moderate atherosclerotic ossification of aorta
+T136	PROBLEM 6413 6438	A lobulated cystic lesion
+T137	PROBLEM 6444 6459	rim enhancement
+T138	PROBLEM 6550 6577	a cystic neoplastic process
+T139	PROBLEM 6579 6608	necrotic   metastatic disease
+T140	PROBLEM 6624 6642	prior inflammation
+T141	PROBLEM 6649 6696	Multiple hypodense lesions throughout the liver
+T142	PROBLEM 6726 6755	metastatic/neoplastic process
+T143	PROBLEM 6762 6784	Diffuse omental caking
+T144	PROBLEM 6806 6836	nodular peritoneal enhancement
+T145	PROBLEM 6862 6887	peritoneal carcinomatosis
+T146	PROBLEM 6889 6916	Small peritoneal free fluid
+T147	PROBLEM 6921 6947	diffuse mesenteric   edema
+T148	PROBLEM 6965 7016	Wall thickening of the descending and sigmoid colon
+T149	PROBLEM 7024 7032	reactive
+T150	PROBLEM 7036 7047	peritonitis
+T151	PROBLEM 7064 7071	colitis
+T152	PROBLEM 7078 7115	Prominent retroperitoneal lymph nodes
+T153	PROBLEM 7213 7265	newly diagnosed metastatic pancreatic adenocarcinoma
+T154	TEST 7351 7360	pathology
+T155	TREATMENT 7455 7464	treatment
+T156	TREATMENT 7483 7499	systemic therapy
+T157	TREATMENT 7642 7651	treatment
+T158	TREATMENT 7757 7764	therapy
+T159	TREATMENT 7844 7866	care treatment options
+T160	TREATMENT 7895 7916	chemotherapy regimens
+T161	PROBLEM 7936 7964	metastatic pancreatic cancer
+T162	TREATMENT 7985 7992	therapy
+T163	PROBLEM 8045 8065	co-morbid conditions
+T164	TREATMENT 8127 8158	FOLFIRINOX (biweekly infusional
+T165	TREATMENT 8165 8175	leucovorin
+T166	TREATMENT 8177 8187	irinotecan
+T167	TREATMENT 8193 8204	oxaliplatin
+T168	TREATMENT 8228 8239	gemcitabine
+T169	TREATMENT 8245 8259	nab-paclitaxel
+T170	TREATMENT 8377 8402	these respective regimens
+T171	PROBLEM 8432 8438	nausea
+T172	PROBLEM 8439 8447	vomiting
+T173	Symptom 8449 8457	alopecia
+T174	Symptom 8459 8466	fatigue
+T175	Symptom 8468 8478	cytopenias
+T176	Symptom 8484 8511	resultant immunosuppression
+T177	Symptom 8519 8525	anemia
+T178	Symptom 8531 8560	peripheral sensory neuropathy
+T179	Symptom 8561 8577	cold sensitivity
+T180	TREATMENT 8594 8607	SoC treatment
+T181	TREATMENT 8632 8642	FOLFIRINOX
+T182	TREATMENT 8727 8749	clinical trial options
+T183	TREATMENT 8754 8778	the first-line treatment
+T184	PROBLEM 8782 8810	metastatic pancreatic cancer
+T185	TREATMENT 9037 9046	treatment
+T186	TREATMENT 9060 9073	randomization
+T187	TREATMENT 9084 9100	SOC chemotherapy
+T188	TREATMENT 9102 9113	gemcitabine
+T189	TREATMENT 9114 9128	nab-paclitaxel
+T190	TREATMENT 9132 9142	FOLFIRINOX
+T191	TREATMENT 9163 9188	experimental therapy arms
+T192	TREATMENT 9244 9255	gemcitabine
+T193	MedicationName 9256 9270	nab-paclitaxel
+T194	MedicationName 9276 9287	pamrevlumab
+T195	TREATMENT 9289 9334	an anti-CTGF (connective tissue growth factor
+T196	TEST 9336 9355	monoclonal antibody
+T197	PROBLEM 9386 9415	fresh tumor tissue collection
+T198	TREATMENT 9520 9547	Cancer Immunotherapy (PICI)
+T199	TREATMENT 9573 9590	a platform design
+T200	TREATMENT 9603 9639	test multiple different chemotherapy
+T201	TREATMENT 9640 9666	immunotherapy combinations
+T202	TREATMENT 9753 9764	gemcitabine
+T203	MedicationName 9765 9779	nab-paclitaxel
+T204	MedicationName 9794 9812	hydroxychloroquine
+T205	TREATMENT 9814 9837	an anti-autophagy agent
+T206	TREATMENT 9856 9875	low-dose ipilimumab
+T207	PROBLEM 9954 9977	archived tumor material
+T208	TEST 9981 10009	a fresh pre-treatment biopsy
+T209	TEST 10014 10034	correlative analyses
+T210	TEST 10110 10131	somatic tumor testing
+T211	TEST 10135 10163	the patient's tumor specimen
+T212	PROBLEM 10229 10253	any actionable mutations
+T213	PROBLEM 10257 10282	other genetic alterations
+T214	TREATMENT 10306 10323	treatment options
+T215	TREATMENT 10338 10361	already-approved agents
+T216	TREATMENT 10595 10613	treatment purposes
+T217	TEST 10657 10675	genetic counseling
+T218	TEST 10681 10697	germline testing
+T219	PROBLEM 10712 10751	any hereditary predisposition to cancer
+T220	PROBLEM 10800 10819	a pancreatic cancer
+T221	PROBLEM 10865 10883	known risk factors
+T222	TREATMENT 11186 11216	several non-therapeutic trials
+T223	TEST 11249 11262	novel imaging
+T224	TEST 11267 11272	blood
+T225	TEST 11278 11296	stool-based assays
+T226	TEST 11302 11330	ctDNA and microbiome studies
+T227	TEST 11669 11681	this 
+ study
+T228	PROBLEM 11724 11741	His active cancer
+T229	PROBLEM 11753 11779	a life-threatening illness
+T230	PROBLEM 11790 11803	complications
+T231	TREATMENT 11828 11846	patient management
+T232	TREATMENT 11854 11891	the patient's systemic cancer therapy
+T233	TEST 11913 11933	intensive monitoring
+T234	PROBLEM 11938 11981	potential major/life-threatening toxicities
+T235	PROBLEM 12230 12247	His active cancer
+T236	PROBLEM 12259 12285	a life-threatening illness
+T237	PROBLEM 12296 12309	complications
+T238	TREATMENT 12334 12352	patient management
+T239	TREATMENT 12360 12397	the patient's systemic cancer therapy
+T240	TEST 12419 12439	intensive monitoring
+T241	PROBLEM 12444 12487	potential major/life-threatening toxicities
+T242	Age 15 17	51
+T243	Symptom 362 372	discomfort
+A1	IsPresentOnFirstCancerDiagnosis T243 yes
+A2	IsCausedByDiagnosedCancer T243 yes
+A3	ChronicVal T243 non-chronic
+A4	ContinuityVal T243 new
+T244	Site 331 361	intermittent mid/LUQ abdominal
+R1	SiteOf Arg1:T244 Arg2:T243	
+T245	Symptom 374 382	bloating
+A5	IsPresentOnFirstCancerDiagnosis T245 yes
+A6	IsCausedByDiagnosedCancer T245 yes
+A7	ChronicVal T245 non-chronic
+A8	ContinuityVal T245 new
+T246	Symptom 388 397	gassiness
+A9	IsPresentOnFirstCancerDiagnosis T246 yes
+A10	IsCausedByDiagnosedCancer T246 yes
+A11	ChronicVal T246 non-chronic
+A12	ContinuityVal T246 new
+T247	Datetime 589 599	10/22/2020
+T248	ProcedureName 601 604	EGD
+A17	IntentVal T248 diagnosis
+T249	ProcedureName 612 623	colonoscopy
+A18	IntentVal T249 diagnosis
+T250	ClinicalCondition 631 647	tubular adenomas
+A19	IntentVal T250 screening
+A20	ChronicVal T250 non-chronic
+T251	Site 655 661	rectum
+T252	Site 666 671	cecum
+R2	SiteOf Arg1:T251 Arg2:T250	
+R3	SiteOf Arg1:T252 Arg2:T250	
+T253	Datetime 675 685	10/22/2020
+R4	HappensAtOnDuring Arg1:T247 Arg2:T248	
+T254	Datetime 738 751	December 2020
+T255	MedicationName 762 775	metronidazole
+A21	TreatmentContinuityVal T255 started
+A22	TreatmentTypeVal T255 others
+A23	TreatmentIntentVal T255 others
+A24	TreatmentCategory T255 Others
+T256	MedicationName 780 789	rifaximin
+A25	TreatmentContinuityVal T256 started
+A26	TreatmentTypeVal T256 others
+A27	TreatmentIntentVal T256 others
+A28	TreatmentCategory T256 Others
+T257	MedicationName 802 812	probiotics
+A29	TreatmentContinuityVal T257 started
+A30	TreatmentTypeVal T257 others
+A31	TreatmentIntentVal T257 others
+A32	TreatmentCategory T257 Others
+R6	BeginsOnOrAt Arg1:T254 Arg2:T255	
+R7	BeginsOnOrAt Arg1:T254 Arg2:T256	
+R8	HappensAfter Arg1:T254 Arg2:T257	
+T258	Datetime 860 870	03/25/2021
+T259	Radiology 872 885	Abdominal U/S
+A33	IntentVal T259 diagnosis
+T260	RadPathResult 898 925	prominent hepatic steatosis
+A34	RadPathResultVal T260 Others
+T261	RadPathResult 930 942	splenomegaly
+A35	RadPathResultVal T261 Others
+R9	ResultOfTest Desc:T260 Test:T259	
+R10	ResultOfTest Desc:T261 Test:T259	
+T262	Datetime 946 956	05/21/2021
+T263	Radiology 958 982	Abdominal/pelvic CT scan
+A36	IntentVal T263 diagnosis
+T264	Radiology 1170 1173	EUS
+A37	IntentVal T264 diagnosis
+T265	RadPathResult 1000 1013	cystic lesion
+A38	IntentVal T265 diagnosis
+A39	RadPathResultVal T265 InitialCancerDiagnosis
+T266	Site 984 999	pancreatic tail
+R11	SiteOf Arg1:T266 Arg2:T265	
+R12	ResultOfTest Desc:T265 Test:T263	
+T267	Size 1015 1019	5 cm
+A40	EpisodeDescription T267 FirstOccurrence
+T268	Metastasis 1026 1050	multiple hepatic lesions
+A41	EpisodeDescription T268 FirstOccurrence
+T269	Metastasis 1103 1128	peritoneal carcinomatosis
+A42	EpisodeDescription T269 FirstOccurrence
+R13	TestOrProcedureReveals Test:T263 Desc:T268	
+R14	TestOrProcedureReveals Test:T263 Desc:T269	
+T270	RadPathResult 1212 1216	mass
+A43	RadPathResultVal T270 InitialCancerDiagnosis
+T271	Size 1218 1236	39.4 mm by 22.6 mm
+A44	EpisodeDescription T271 FirstOccurrence
+R15	ResultOfTest Desc:T270 Test:T264	
+T272	ProcedureName 1275 1289	fine needle bx
+A45	IntentVal T272 diagnosis
+A46	IsTumorRemaining T272 yes
+T273	Histology 1294 1308	adenocarcinoma
+A47	EpisodeDescription T273 FirstOccurrence
+R16	TestOrProcedureReveals Test:T272 Desc:T273	
+R17	TestOrProcedureReveals Test:T264 Desc:T273	
+T274	Symptom 1452 1465	early satiety
+A48	IsPresentOnFirstCancerDiagnosis T274 yes
+A49	IsCausedByDiagnosedCancer T274 yes
+A50	ChronicVal T274 non-chronic
+A51	ContinuityVal T274 stable
+T275	Symptom 1470 1504	postprandial distention/discomfort
+A52	IsPresentOnFirstCancerDiagnosis T275 yes
+A53	IsCausedByDiagnosedCancer T275 yes
+A54	ChronicVal T275 non-chronic
+A55	ContinuityVal T275 stable
+T276	Symptom 1506 1522	8 lb weight loss
+A56	IsPresentOnFirstCancerDiagnosis T276 yes
+A57	IsCausedByDiagnosedCancer T276 yes
+A58	ChronicVal T276 non-chronic
+A59	ContinuityVal T276 stable
+T277	Symptom 1553 1573	abdominal discomfort
+A60	IsPresentOnFirstCancerDiagnosis T277 yes
+A61	IsCausedByDiagnosedCancer T277 yes
+A62	ChronicVal T277 non-chronic
+A63	ContinuityVal T277 stable
+T278	Symptom 1615 1623	bleeding
+A64	NegationModalityVal T278 negated
+T279	Symptom 1681 1687	fevers
+A65	NegationModalityVal T279 negated
+T280	Symptom 1688 1694	chills
+A66	NegationModalityVal T280 negated
+T281	Symptom 1695 1707	night sweats
+A67	NegationModalityVal T281 negated
+T282	Symptom 1727 1756	peripheral sensory neuropathy
+A68	NegationModalityVal T282 negated
+T283	Symptom 1763 1766	SOB
+A69	NegationModalityVal T283 negated
+T284	Symptom 1768 1773	cough
+A70	NegationModalityVal T284 negated
+T285	Symptom 1778 1798	respiratory symptoms
+A71	NegationModalityVal T285 negated
+T286	Symptom 1806 1814	jaundice
+A72	NegationModalityVal T286 negated
+T287	Symptom 1833 1840	anxiety
+A73	IsPresentOnFirstCancerDiagnosis T287 unclear
+A74	IsCausedByDiagnosedCancer T287 unclear
+A75	ContinuityVal T287 unclear
+A76	TreatmentContinuityVal T43 continuing
+A77	TreatmentTypeVal T43 others
+A78	TreatmentIntentVal T43 others
+A79	TreatmentCategory T43 Supportive
+T288	MedicationName 1582 1590	Percocet
+A80	TreatmentContinuityVal T288 continuing
+A81	TreatmentTypeVal T288 others
+A82	TreatmentIntentVal T288 others
+A83	TreatmentCategory T288 Supportive
+R18	TreatmentAdministeredForProblem Treatment:T43 Prob:T277	
+R19	TreatmentAdministeredForProblem Treatment:T288 Prob:T277	
+T289	Symptom 1594 1610	Semi-regular BMs
+A84	NegationModalityVal T289 negated
+T290	PhysicalActivity 1636 1647	very active
+T291	PhysicalActivity 1649 1660	working out
+T292	Frequency 1661 1670	5x/weekly
+R20	Temporal Arg1:T292 Arg2:T291	
+T293	RadPathResult 1310 1333	MMR proteins all intact
+A85	RadPathResultVal T293 Others
+T294	Pathology 1337 1340	IHC
+A86	IntentVal T294 diagnosis
+R21	ResultOfTest Desc:T293 Test:T294	
+T295	Datetime 1158 1168	05/28/2021
+R22	HappensAtOnDuring Arg1:T295 Arg2:T264	
+T296	Site 1196 1211	pancreatic tail
+R23	SiteOf Arg1:T296 Arg2:T270	
+A87	NegationModalityVal T268 uncertain_in_present
+A88	NegationModalityVal T269 uncertain_in_present
+T297	ClinicalCondition 1929 1936	Anxiety
+A89	ChronicVal T297 chronic
+A90	ContinuityVal T297 stable
+T298	ClinicalCondition 1959 1982	Environmental allergies
+A91	ChronicVal T298 chronic
+A92	ContinuityVal T298 stable
+T299	ClinicalCondition 1986 1989	HIV
+A93	NegationModalityVal T299 negated
+T300	SectionSkip 2003 2243	Medications:   oxyCODONE-acetaminophen (Percocet) 5-325 mg tablet Take 2 tablets by mouth every 6 (six) hours if needed for severe pain for up to 10 days. 30 tablet 0    valACYclovir (Valtrex) 1 gram tablet prn cold sores   Lorazepam PRN
+A94	SectionSkipType T300 medications
+T301	SectionSkip 2249 2296	Allergies/Contraindications  No Known Allergies
+A95	SectionSkipType T301 allergies
+A96	ExperiencerVal T68 family
+A97	ExperiencerVal T69 family
+A98	ExperiencerVal T70 family
+T302	MaritalStatus 2516 2523	Married
+A99	IsStoppedOrContinuing T302 continuing
+T303	PatientCharacteristics 2535 2546	no children
+T304	Employment 2588 2593	*****	
+A100	IsStoppedOrContinuing T304 stopped
+T305	Employment 2600 2611	***** *****
+A101	IsStoppedOrContinuing T305 continuing
+T306	Tobacco 2646 2659	Former Smoker
+A102	IsStoppedOrContinuing T306 stopped
+T307	Datetime 2695 2699	1992
+T308	ConsumptionQuantity 2675 2679	0.00
+R24	ConsumptionQuantityRel Arg1:T308 Arg2:T306	
+R25	EndsOnOrAt Arg1:T307 Arg2:T306	
+T309	Duration 2726 2730	30.3
+R26	Temporal Arg1:T309 Arg2:T306	
+T310	Alcohol 2814 2817	Yes
+A104	IsStoppedOrContinuing T310 continuing
+T311	ConsumptionQuantity 2836 2861	5.0 - 8.0 standard drinks
+R27	ConsumptionQuantityRel Arg1:T311 Arg2:T310	
+T312	ConsumptionQuantity 2873 2917	5 - 8 Standard drinks or equivalent per week
+R28	ConsumptionQuantityRel Arg1:T312 Arg2:T310	
+T313	ConsumptionQuantity 2935 2941	5-8/wk	
+R29	ConsumptionQuantityRel Arg1:T313 Arg2:T310	
+T314	Drugs 2956 2959	Yes
+A105	IsStoppedOrContinuing T314 continuing
+T315	SectionSkip 2999 3908;3911 4209	Physical Exam:  ECOG PS 0  Blood pressure (!) 172/103, pulse 83, temperature 36.4 C (97.6 F), temperature source Temporal, resp. rate 16, height 172.5 cm (5' 7.91"), weight 82.1 kg (181 lb), SpO2 97 %.  General appearance: No acute distress, conversant, appropriately interactive. Non-toxic, well-appearing.   Eyes: anicteric sclerae, moist conjunctivae; no lid lag.   HEENT: Atraumatic; oropharynx clear with moist mucous membranes and no mucosal ulcerations; normal hard and soft palate  Neck: Full range of motion, supple, no lymphadenopathy  Lungs/respiratory: Clear to auscultation, with normal respiratory effort and no intercostal retractions  Cardiovascular: RRR, normal S1 S2, no murmurs, gallops, or rubs.  Abdomen/GI: Soft, non-tender, nondistended; no masses, ascites, or hepatomegaly. Tympanitic to percussion.  Back: No point spinal tenderness.  Extremities: No peripheral edema or discoloration palpated or visualized.  Skin: Normal temperature, turgor and texture; no rash, ulcers or subcutaneous nodules visualized or palpated.  Neuro: Normal bulk, tone, and strength in upper and lower extremities. Intact gait. No focal sensorimotor deficits.  Psych: Appropriate affect, alert and oriented
+A106	SectionSkipType T315 physical_exam
+T316	SectionSkip 4621 5841;5844 7127	FINDINGS:    Lines / tubes: None.     Lower Thorax: Normal.      Hepatobiliary:    Liver: Measures 14.9 cm in craniocaudal dimension. Multiple varying sized hypodense lesions   throughout the right and left lobes of the liver are present measuring up to 1.7 x 1.4 cm in   segment March 13 (axial image 19, series 2) and 0.9 x 0.8 cm in segments August 15 (axial image 16,   series 2).    Gallbladder: Normal.    Bile Ducts: Normal.    Hepatic vasculature: Normal.     Spleen: A wedge-shaped hypodense area is noted in the lower part of the spleen most likely   related to an infarct. Spleen is upper limits of normal size measuring 12.6 cm.     Pancreas: A 5 x 4.1 cm cystic lesion with irregular rim enhancement is noted involving the   pancreatic tail and abutting the splenic hilum. No pancreatic duct dilatation is noted.     Adrenals: Normal.     Kidneys/Ureters: Normal.     GI Tract:    GE junction and stomach: Normal.    Small bowel: Normal in diameter    Appendix: Not visualized.    Colon and rectum: Diffuse wall thickening of the descending and sigmoid colon is present.     Peritoneum / Retroperitoneum: Nodular foci of enhancement involving the greater omentum is   present. Small peritoneal free fluid is present. Irregular foci of nodular peritoneal   enhancement are present. Example in the left lateral peritoneal line (axial image 42, series   2).     Diffuse mesenteric edema with interspersed fluid is noted.     Lymph Nodes: Multiple retroperitoneal lymph nodes are present in an example left periaortic   lymph node (axial image 42, series 2) measuring 0.9 x 1.1 cm.     Vessels: Moderate atherosclerotic ossification of aorta.     Pelvis:    Prostate: Normal.    Seminal vesicles: Normal.    Bladder: Normal.     Bones and Soft Tissues: Normal.     IMPRESSION:  1. A lobulated cystic lesion with rim enhancement is noted involving the pancreatic tail   measuring 5 x 4.1 cm in size. This may represent a cystic neoplastic process, necrotic   metastatic disease or sequelae of prior inflammation.   2. Multiple hypodense lesions throughout the liver are present suspicious for   metastatic/neoplastic process.   3. Diffuse omental caking and multiple foci of nodular peritoneal enhancement are noted   representing peritoneal carcinomatosis. Small peritoneal free fluid and diffuse mesenteric   edema is present.   4. Wall thickening of the descending and sigmoid colon may be reactive to peritonitis or   related to colitis.   5. Prominent retroperitoneal lymph nodes are present
+A107	SectionSkipType T316 radiology_report
+T317	Age 7195 7197	51
+T318	ClinicalCondition 7240 7265	pancreatic adenocarcinoma
+A108	ChronicVal T318 chronic
+A109	ContinuityVal T318 stable
+T319	Histology 7251 7265	adenocarcinoma
+T320	Metastasis 7229 7239	metastatic
+T321	TreatmentType 7483 7499	systemic therapy
+A110	NegationModalityVal T321 hypothetical_in_future
+A111	TreatmentTypeVal T321 maintenance
+A112	TreatmentIntentVal T321 palliative
+T322	TreatmentType 7642 7651	treatment
+A113	NegationModalityVal T322 hypothetical_in_future
+A114	TreatmentTypeVal T322 maintenance
+A115	TreatmentIntentVal T322 palliative
+T323	TreatmentType 7757 7764	therapy
+A116	NegationModalityVal T323 hypothetical_in_future
+A117	TreatmentTypeVal T323 maintenance
+A118	TreatmentIntentVal T323 palliative
+T324	TreatmentType 7895 7916	chemotherapy regimens
+A119	NegationModalityVal T324 hypothetical_in_future
+A120	TreatmentTypeVal T324 maintenance
+A121	TreatmentIntentVal T324 palliative
+T325	ClinicalCondition 7947 7964	pancreatic cancer
+A122	ChronicVal T325 chronic
+T326	Metastasis 7936 7946	metastatic
+R30	TumorDesc TumorDetails:T326 Desc:T325	
+R31	TumorDesc TumorDetails:T320 Desc:T318	
+T327	MedicationRegimen 8127 8205	FOLFIRINOX (biweekly infusional 5-FU, leucovorin, irinotecan, and oxaliplatin)
+A123	NegationModalityVal T327 hypothetical_in_future
+A124	TreatmentTypeVal T327 maintenance
+A125	TreatmentIntentVal T327 palliative
+T328	MedicationRegimen 8228 8259	gemcitabine plus nab-paclitaxel
+A126	NegationModalityVal T328 hypothetical_in_future
+T329	Symptom 8432 8438	nausea
+A129	NegationModalityVal T329 hypothetical_in_future
+A130	IsPresentOnFirstCancerDiagnosis T329 no
+A131	IsCausedByDiagnosedCancer T329 no
+A132	ChronicVal T329 non-chronic
+T330	Symptom 8439 8447	vomiting
+A133	NegationModalityVal T330 hypothetical_in_future
+A134	IsPresentOnFirstCancerDiagnosis T330 no
+A135	IsCausedByDiagnosedCancer T330 no
+A136	ChronicVal T330 non-chronic
+A137	NegationModalityVal T173 hypothetical_in_future
+A138	IsPresentOnFirstCancerDiagnosis T173 no
+A139	IsCausedByDiagnosedCancer T173 no
+A140	ChronicVal T173 non-chronic
+A141	NegationModalityVal T174 hypothetical_in_future
+A142	IsPresentOnFirstCancerDiagnosis T174 no
+A143	IsCausedByDiagnosedCancer T174 no
+A144	ChronicVal T174 non-chronic
+A145	NegationModalityVal T175 hypothetical_in_future
+A146	IsPresentOnFirstCancerDiagnosis T175 no
+A147	IsCausedByDiagnosedCancer T175 no
+A148	ChronicVal T175 non-chronic
+A149	NegationModalityVal T176 hypothetical_in_future
+A150	IsPresentOnFirstCancerDiagnosis T176 no
+A151	IsCausedByDiagnosedCancer T176 no
+A152	ChronicVal T176 non-chronic
+A153	NegationModalityVal T177 hypothetical_in_future
+A154	IsPresentOnFirstCancerDiagnosis T177 no
+A155	IsCausedByDiagnosedCancer T177 no
+A156	ChronicVal T177 non-chronic
+A157	NegationModalityVal T178 hypothetical_in_future
+A158	IsPresentOnFirstCancerDiagnosis T178 no
+A159	IsCausedByDiagnosedCancer T178 no
+A160	ChronicVal T178 non-chronic
+A161	NegationModalityVal T179 hypothetical_in_future
+A162	IsPresentOnFirstCancerDiagnosis T179 no
+A163	IsCausedByDiagnosedCancer T179 no
+A164	ChronicVal T179 non-chronic
+R32	ConditionOrTreatmentCausesProblem Treatment:T327 Prob:T330	
+R33	ConditionOrTreatmentCausesProblem Treatment:T328 Prob:T330	
+R34	ConditionOrTreatmentCausesProblem Treatment:T327 Prob:T329	
+R35	ConditionOrTreatmentCausesProblem Treatment:T328 Prob:T329	
+R36	ConditionOrTreatmentCausesProblem Treatment:T327 Prob:T173	
+R37	ConditionOrTreatmentCausesProblem Treatment:T327 Prob:T174	
+R38	ConditionOrTreatmentCausesProblem Treatment:T327 Prob:T175	
+R39	ConditionOrTreatmentCausesProblem Treatment:T327 Prob:T176	
+R40	ConditionOrTreatmentCausesProblem Treatment:T327 Prob:T177	
+R41	ConditionOrTreatmentCausesProblem Treatment:T327 Prob:T178	
+R42	ConditionOrTreatmentCausesProblem Treatment:T327 Prob:T179	
+R43	ConditionOrTreatmentCausesProblem Treatment:T328 Prob:T173	
+R44	ConditionOrTreatmentCausesProblem Treatment:T328 Prob:T174	
+A127	IsPresentOnFirstCancerDiagnosis T328 no
+A128	IsCausedByDiagnosedCancer T328 no
+A165	ChronicVal T328 non-chronic
+A166	TreatmentTypeVal T328 maintenance
+A167	TreatmentIntentVal T328 palliative
+R45	ConditionOrTreatmentCausesProblem Treatment:T328 Prob:T175	
+R46	ConditionOrTreatmentCausesProblem Treatment:T328 Prob:T176	
+R47	ConditionOrTreatmentCausesProblem Treatment:T328 Prob:T177	
+R48	ConditionOrTreatmentCausesProblem Treatment:T328 Prob:T178	
+R49	ConditionOrTreatmentCausesProblem Treatment:T328 Prob:T179	
+T331	MedicationRegimen 8632 8642	FOLFIRINOX
+A168	NegationModalityVal T331 hypothetical_in_future
+A169	TreatmentTypeVal T331 maintenance
+A170	TreatmentIntentVal T331 palliative
+T332	ClinicalCondition 8793 8810	pancreatic cancer
+A171	ChronicVal T332 chronic
+A172	ContinuityVal T332 stable
+T333	Metastasis 8782 8792	metastatic
+R50	TumorDesc TumorDetails:T333 Desc:T332	
+T334	ClinicalTrial 8907 8924	Precision Promise
+A173	NegationModalityVal T334 hypothetical_in_future
+T335	TreatmentType 9084 9100	SOC chemotherapy
+A174	NegationModalityVal T335 hypothetical_in_future
+A175	TreatmentTypeVal T335 maintenance
+A176	TreatmentIntentVal T335 palliative
+T336	MedicationRegimen 9102 9128	gemcitabine/nab-paclitaxel
+A177	NegationModalityVal T336 hypothetical_in_future
+A178	TreatmentTypeVal T336 maintenance
+A179	TreatmentIntentVal T336 palliative
+T337	MedicationRegimen 9132 9142	FOLFIRINOX
+A180	NegationModalityVal T337 hypothetical_in_future
+A181	TreatmentTypeVal T337 maintenance
+A182	TreatmentIntentVal T337 palliative
+T338	MedicationName 9244 9255	gemcitabine
+A183	NegationModalityVal T338 hypothetical_in_future
+A184	TreatmentTypeVal T338 maintenance
+A185	TreatmentIntentVal T338 palliative
+A186	TreatmentCategory T338 AntiNeoPlastics
+A187	NegationModalityVal T193 hypothetical_in_future
+A188	TreatmentTypeVal T193 maintenance
+A189	TreatmentIntentVal T193 palliative
+A190	TreatmentCategory T193 AntiNeoPlastics
+A191	NegationModalityVal T194 hypothetical_in_future
+A192	TreatmentTypeVal T194 maintenance
+A193	TreatmentIntentVal T194 palliative
+A194	TreatmentCategory T194 AntiNeoPlastics
+T339	ProcedureName 9386 9415	fresh tumor tissue collection
+A195	NegationModalityVal T339 hypothetical_in_future
+A196	TreatmentTypeVal T339 others
+A197	TreatmentIntentVal T339 palliative
+A198	TreatmentCategory T339 Others
+R51	InclusionCriteriaFor Arg1:T339 Arg2:T334	
+T340	ClinicalTrial 9453 9474	REVOLUTION (PICI0044)
+T341	TreatmentType 9627 9639	chemotherapy
+A199	NegationModalityVal T341 hypothetical_in_future
+A200	TreatmentTypeVal T341 maintenance
+A201	TreatmentIntentVal T341 palliative
+T342	TreatmentType 9640 9653	immunotherapy
+A202	NegationModalityVal T342 hypothetical_in_future
+A203	TreatmentTypeVal T342 maintenance
+A204	TreatmentIntentVal T342 palliative
+T343	MedicationName 9753 9764	gemcitabine
+A205	NegationModalityVal T343 hypothetical_in_future
+A206	TreatmentTypeVal T343 maintenance
+A207	TreatmentIntentVal T343 palliative
+A208	TreatmentCategory T343 AntiNeoPlastics
+A209	NegationModalityVal T203 hypothetical_in_future
+A210	TreatmentTypeVal T203 maintenance
+A211	TreatmentIntentVal T203 palliative
+A212	TreatmentCategory T203 AntiNeoPlastics
+A213	NegationModalityVal T204 hypothetical_in_future
+A214	TreatmentTypeVal T204 maintenance
+A215	TreatmentIntentVal T204 palliative
+A216	TreatmentCategory T204 AntiNeoPlastics
+T344	MedicationName 9865 9875	ipilimumab
+A217	NegationModalityVal T344 hypothetical_in_future
+A218	TreatmentTypeVal T344 maintenance
+A219	TreatmentIntentVal T344 palliative
+A220	TreatmentCategory T344 AntiNeoPlastics
+T345	ProcedureName 9954 9977	archived tumor material
+A221	NegationModalityVal T345 hypothetical_in_future
+A222	TreatmentTypeVal T345 others
+A223	TreatmentIntentVal T345 palliative
+A224	TreatmentCategory T345 Others
+T346	ProcedureName 9983 10009	fresh pre-treatment biopsy
+A225	NegationModalityVal T346 hypothetical_in_future
+A226	TreatmentTypeVal T346 others
+A227	TreatmentIntentVal T346 palliative
+A228	TreatmentCategory T346 Others
+R52	InclusionCriteriaFor Arg1:T340 Arg2:T345	
+R53	InclusionCriteriaFor Arg1:T340 Arg2:T346	
+T347	GenomicTest 10110 10131	somatic tumor testing
+A229	NegationModalityVal T347 hypothetical_in_future
+A230	IntentVal T347 diagnosis
+A231	GenomicTestType T347 Somatic
+T348	ProcedureName 10149 10163	tumor specimen
+A232	NegationModalityVal T348 hypothetical_in_future
+T349	GenomicTestResult 10233 10253	actionable mutations
+A233	NegationModalityVal T349 hypothetical_in_future
+A234	GenomicTestType T349 Somatic
+R54	ResultOfTest Desc:T349 Test:T347	
+T350	GenomicTestResult 10263 10282	genetic alterations
+A235	NegationModalityVal T350 hypothetical_in_future
+A236	GenomicTestType T350 Somatic
+R55	ResultOfTest Desc:T350 Test:T347	
+T351	TreatmentType 10306 10323	treatment options
+A237	NegationModalityVal T351 hypothetical_in_future
+A238	GenomicTestType T351 Somatic
+A239	TreatmentTypeVal T351 maintenance
+A240	TreatmentIntentVal T351 palliative
+R56	InclusionCriteriaFor Arg1:T349 Arg2:T351	
+R57	InclusionCriteriaFor Arg1:T350 Arg2:T351	
+T352	TreatmentType 10338 10361	already-approved agents
+A241	NegationModalityVal T352 hypothetical_in_future
+A242	TreatmentTypeVal T352 maintenance
+A243	TreatmentIntentVal T352 palliative
+R58	InclusionCriteriaFor Arg1:T349 Arg2:T352	
+R59	InclusionCriteriaFor Arg1:T350 Arg2:T352	
+T353	GenomicTest 10681 10697	germline testing
+A244	NegationModalityVal T353 hypothetical_in_future
+A245	IntentVal T353 screening
+A246	GenomicTestType T353 Germline
+T354	ClinicalCondition 10802 10819	pancreatic cancer
+T355	MedicationName 11067 11073	opioid
+A247	NegationModalityVal T355 negated
+A248	TreatmentCategory T355 Supportive
+T356	ClinicalTrial 11194 11216	non-therapeutic trials
+A249	NegationModalityVal T356 hypothetical_in_future
+T357	DiagnosticLabTest 11267 11272;11290 11296	blood assays
+A250	IntentVal T357 others
+T358	DiagnosticLabTest 11255 11262	imaging
+A251	IntentVal T358 others
+T359	DiagnosticLabTest 11278 11283	stool
+A252	IntentVal T359 others
+T360	GenomicTest 11302 11307	ctDNA
+A253	IntentVal T360 others
+A254	GenomicTestType T360 Somatic
+T361	GenomicTest 11312 11322	microbiome
+A255	GenomicTestType T361 GeneExpression
+A256	NegationModalityVal T360 hypothetical_in_future
+A257	NegationModalityVal T361 hypothetical_in_future
+A258	NegationModalityVal T357 hypothetical_in_future
+A259	NegationModalityVal T359 hypothetical_in_future
+A260	NegationModalityVal T358 hypothetical_in_future
+T362	ClinicalTrial 11550 11560	REVOLUTION
+A261	NegationModalityVal T362 planned_in_future
+R60	TestOrProcedureReveals Test:T263 Desc:T267	
+R61	HappensAtOnDuring Arg1:T262 Arg2:T263	
+R62	HappensAtOnDuring Arg1:T247 Arg2:T249	
+R5	HappensAtOnDuring Arg1:T247 Arg2:T250	
+R63	HappensAtOnDuring Arg1:T258 Arg2:T259	
+R64	TestOrProcedureReveals Test:T264 Desc:T271	
+R65	SizeOf Arg1:T267 Arg2:T265	
+R66	SizeOf Arg1:T271 Arg2:T270	
+T363	hpi_start 0 2	Mr
+T364	hpi_end 1833 1840	anxiety
+T365	ap_start 7135 7145	Impression
+T366	ap_end 11971 11982	toxicities.

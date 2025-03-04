@@ -1,0 +1,699 @@
+T1	SectionAnnotate 113 140	History of Present Illness:
+T2	SectionAnnotate 1901 1912	IMPRESSION:
+T4	SectionAnnotate 3035 3056	Past Medical History:
+T5	SectionAnnotate 3589 3611	Past Surgical History:
+T6	SectionSkip 3823 4382	Current Medications           Current Outpatient 
+ Prescriptions   Medication Sig Dispense Refill    clotrimazole-betamethasone (LOTRISONE) 1-0.05 % cream 2 (two) times a day.      ibuprofen (ADVIL,MOTRIN) 800 mg tablet Take 800 mg by mouth once as needed for Pain.      omeprazole (PRILOSEC) 20 mg capsule Take 20 mg by mouth As needed after meals.      triamterene-hydrochlorothiazide (DYAZIDE) 37.5-25 mg capsule Take 1 capsule by mouth Daily.      predniSONE (DELTASONE) 5 mg tablet        No current facility-administered medications for this visit.
+T7	SectionAnnotate 4394 4409	Social History:
+T8	SectionAnnotate 4828 4852	Social History Narrative
+T9	SectionAnnotate 5096 5114	Review of Systems:
+T11	SectionSkip 5137 6155	Physical Examination:   General appearance - alert, well appearing, and in no distress  Mental status - alert, oriented to person, place, and time  Eyes - sclera anicteric  Neck - supple, no significant adenopathy  Lymphatics - no palpable lymphadenopathy, no hepatosplenomegaly  Chest - clear to auscultation, no wheezes, rales or rhonchi, symmetric air entry  Heart - normal rate, regular rhythm, normal S1, S2, no murmurs, rubs, clicks or gallops  Abdomen - soft, nontender, nondistended, no masses or organomegaly  lap chole scars  Breasts - left breast normal without mass, skin or nipple changes or axillary nodes, abnormal mass palpable in 
+ the right breast at 9:00 6cm FN that measures 4x4cm  Neurological - alert, oriented, normal speech, no focal findings or movement disorder noted  Musculoskeletal - no joint tenderness, deformity or swelling  Extremities - peripheral pulses normal, no pedal edema, no clubbing or cyanosis  Skin - normal coloration and turgor, no rashes, no suspicious skin lesions noted
+T12	PROBLEM 48 73	early stage breast cancer
+T13	TREATMENT 90 109	neoadjuvant therapy
+T14	PROBLEM 179 270	a recently diagnosed right sided invasive  spindle cell metaplastic carcinoma breast cancer
+T15	PROBLEM 333 359	a mass in her right breast
+T16	PROBLEM 433 443	a 3cm mass
+T17	TEST 477 482	an US
+T18	PROBLEM 490 511	a complex cystic mass
+T19	TEST 560 573	US guided CNB
+T20	PROBLEM 585 631	malignant spindle cell carcinoma of the breast
+T21	TEST 633 635	ER
+T22	TEST 644 646	PR
+T23	TEST 655 664	Her2 FISH
+T24	TEST 670 675	ratio
+T25	PROBLEM 734 770	2.7 cm focal rounded nodular density
+T26	PROBLEM 847 898	rounded 2.8 x 1.9 cm area of decreased echogenicity
+T27	PROBLEM 904 944	somewhat variegated internal echotexture
+T28	PROBLEM 999 1018	postbiopsy hematoma
+T29	TEST 1030 1033	CXR
+T30	PROBLEM 1082 1096	irregular mass
+T31	PROBLEM 1102 1126	heterogenous enhancement
+T32	PROBLEM 1131 1147	central necrosis
+T33	PROBLEM 1196 1248	Prominent nodes in Right axillary tail   Left breast
+T34	PROBLEM 1254 1292	lobulated mass in upper outer quadrant
+T35	TEST 1335 1348	InVitae panel
+T36	TEST 1396 1399	MRI
+T37	PROBLEM 1410 1439	3.5 x 3.2 x 2.6 cm round mass
+T38	PROBLEM 1445 1483	irregular, slightly spiculated margins
+T39	PROBLEM 1488 1537	rim enhancement in the outer central right breast
+T40	PROBLEM 1609 1646	a 12 mm irregular mass enhancing mass
+T41	PROBLEM 1669 1704	another similar 8 mm enhancing mass
+T42	PROBLEM 1737 1753	the index lesion
+T43	PROBLEM 1798 1825	the index right breast mass
+T44	PROBLEM 1830 1857	associated satellite masses
+T45	PROBLEM 1929 1961	Known biopsy proven 
+ malignancy
+T46	TEST 1963 1970	BI-RADS
+T47	TEST 1999 2006	BI-RADS
+T48	PROBLEM 2031 2074	Right outer central breast index malignancy
+T49	PROBLEM 2092 2118	Two small satellite masses
+T50	PROBLEM 2181 2224	Mildly prominent right axillary lymph nodes
+T51	TEST 2236 2254	further evaluation
+T52	TEST 2260 2270	ultrasound
+T53	PROBLEM 2294 2339	Heterogenous hypermetabolic right breast mass
+T54	PROBLEM 2356 2388	patient's known breast carcinoma
+T55	PROBLEM 2390 2469	Associated minimally hypermetabolic non-enlarged bilateral axillary lymph nodes
+T56	TEST 2507 2526	same day breast MRI
+T57	PROBLEM 2531 2565	Indeterminate right adrenal nodule
+T58	TEST 2590 2608	Further evaluation
+T59	TEST 2630 2653	adrenal protocol CT/MRI
+T60	PROBLEM 2704 2738	spindle cell metaplastic carcinoma
+T61	TEST 2748 2762	repeat markers
+T62	TEST 2786 2790	R US
+T63	TREATMENT 2796 2810	research cores
+T64	TREATMENT 2815 2832	placement of clip
+T65	TEST 2875 2878	FNA
+T66	TEST 2900 2903	MRI
+T67	TEST 2911 2914	CNB
+T68	TEST 2942 2944	Cr
+T69	TREATMENT 3003 3024	neoadjuvant treatment
+T70	PROBLEM 3078 3100	Abnormal liver enzymes
+T71	PROBLEM 3109 3127	Hyperbilirubinemia
+T72	PROBLEM 3132 3164	Common bile duct (CBD) stricture
+T73	PROBLEM 3184 3197	CBD stricture
+T74	PROBLEM 3214 3227	acholic stool
+T75	PROBLEM 3232 3242	dark urine
+T76	PROBLEM 3247 3285	GERD (gastroesophageal reflux disease)
+T77	PROBLEM 3290 3300	mild, tums
+T78	PROBLEM 3318 3336	HTN (hypertension)
+T79	PROBLEM 3342 3359	Plantar fasciitis
+T80	TREATMENT 3457 3476	oral contraceptives
+T81	PROBLEM 3490 3499	Menopause
+T82	PROBLEM 3526 3537	hot flashes
+T83	TREATMENT 3551 3578	hormone replacement therapy
+T84	TREATMENT 3644 3659	CHOLECYSTECTOMY
+T85	TREATMENT 3661 3673	LAPAROSCOPIC
+T86	TREATMENT 3684 3709	Common bile duct stenting
+T87	TREATMENT 3723 3734	- Lap chole
+T88	TREATMENT 3773 3785	HYSTERECTOMY
+T89	PROBLEM 3799 3814	a large fibroid
+T90	TREATMENT 3831 3887	Medications           Current Outpatient 
+ Prescriptions
+T91	TREATMENT 3890 3920	Medication Sig Dispense Refill
+T92	TREATMENT 3925 3963	clotrimazole-betamethasone (LOTRISONE)
+T93	TREATMENT 4006 4030	ibuprofen (ADVIL,MOTRIN)
+T94	PROBLEM 4085 4089	Pain
+T95	TREATMENT 4097 4118	omeprazole (PRILOSEC)
+T96	TREATMENT 4182 4223	triamterene-hydrochlorothiazide (DYAZIDE)
+T97	TREATMENT 4280 4302	predniSONE (DELTASONE)
+T98	TREATMENT 4355 4366	medications
+T99	PROBLEM 4937 4950	Breast cancer
+T100	PROBLEM 4966 4972	Cancer
+T101	PROBLEM 5007 5018	Lung cancer
+T102	PROBLEM 5048 5062	Stomach cancer
+T103	PROBLEM 5215 5223	distress
+T104	PROBLEM 5328 5350	significant adenopathy
+T105	PROBLEM 5368 5392	palpable lymphadenopathy
+T106	PROBLEM 5397 5415	hepatosplenomegaly
+T107	TEST 5434 5446	auscultation
+T108	PROBLEM 5451 5458	wheezes
+T109	PROBLEM 5460 5465	rales
+T110	PROBLEM 5469 5476	rhonchi
+T111	PROBLEM 5554 5561	murmurs
+T112	PROBLEM 5563 5567	rubs
+T113	PROBLEM 5569 5575	clicks
+T114	PROBLEM 5579 5586	gallops
+T115	PROBLEM 5604 5613	nontender
+T116	PROBLEM 5615 5627	nondistended
+T117	PROBLEM 5632 5638	masses
+T118	PROBLEM 5642 5654	organomegaly
+T119	PROBLEM 5666 5671	scars
+T120	PROBLEM 5710 5714	mass
+T121	PROBLEM 5716 5738	skin or nipple changes
+T122	PROBLEM 5742 5756	axillary nodes
+T123	PROBLEM 5758 5771	abnormal mass
+T124	PROBLEM 5889 5903	focal findings
+T125	PROBLEM 5907 5924	movement disorder
+T126	PROBLEM 5953 5969	joint tenderness
+T127	PROBLEM 5971 5980	deformity
+T128	PROBLEM 5984 5992	swelling
+T129	TEST 6008 6025	peripheral pulses
+T130	PROBLEM 6037 6048	pedal edema
+T131	PROBLEM 6053 6061	clubbing
+T132	PROBLEM 6065 6073	cyanosis
+T133	PROBLEM 6115 6121	rashes
+T134	PROBLEM 6126 6149	suspicious skin lesions
+T135	PROBLEM 6244 6269	right sided breast cancer
+T136	PROBLEM 6359 6366	disease
+T137	PROBLEM 6378 6392	the tumor size
+T138	TREATMENT 6452 6476	neoadjuvant chemotherapy
+T139	PROBLEM 6526 6536	her cancer
+T140	TREATMENT 6619 6638	neoadjuvant therapy
+T141	TREATMENT 6710 6740	a promising experimental agent
+T142	PROBLEM 6822 6868	locally advanced triple negative breast cancer
+T143	PROBLEM 6933 6951	metastatic disease
+T144	TREATMENT 6993 7008	curative intent
+T145	TREATMENT 7058 7084	the multimodality approach
+T146	TREATMENT 7088 7111	breast cancer treatment
+T147	TREATMENT 7143 7152	treatment
+T148	TREATMENT 7166 7178	chemotherapy
+T149	TREATMENT 7180 7187	surgery
+T150	TREATMENT 7189 7205	hormonal therapy
+T151	TREATMENT 7223 7240	radiation therapy
+T152	TREATMENT 7336 7348	chemotherapy
+T153	TREATMENT 7352 7375	the neoadjuvant setting
+T154	TREATMENT 7407 7416	treatment
+T155	TREATMENT 7449 7474	breast conserving surgery
+T156	TREATMENT 7493 7518	the chemotherapy regimens
+T157	TREATMENT 7588 7602	these regimens
+T158	PROBLEM 7704 7757	her higher risk triple 
+ negative metaplastic disease
+T159	TREATMENT 7824 7841	weekly paclitaxel
+T160	TREATMENT 7866 7877	doxorubicin
+T161	TREATMENT 7883 7904	cyclophosphamide (AC)
+T162	TREATMENT 8016 8037	an experimental agent
+T163	TREATMENT 8053 8063	paclitaxel
+T164	TREATMENT 8091 8114	an experimental therapy
+T165	TEST 8279 8286	the MRI
+T166	TEST 8288 8303	research biopsy
+T167	TEST 8309 8313	Echo
+T168	TEST 8315 8325	mammaprint
+T169	TEST 8341 8349	the echo
+T170	TEST 8363 8371	Her labs
+T171	PROBLEM 8381 8403	an elevated creatinine
+T172	TEST 8408 8416	Alk phos
+T173	PROBLEM 8440 8450	dehydrated
+T174	PROBLEM 8503 8512	her tumor
+T175	PROBLEM 8779 8804	metaplastic breast cancer
+T176	PROBLEM 8959 8963	AC/T
+T177	PROBLEM 8973 8980	fatigue
+T178	PROBLEM 8982 8992	neuropathy
+T179	PROBLEM 8994 9015	skin and nail changes
+T180	PROBLEM 9017 9025	myalgias
+T181	PROBLEM 9027 9035	alopecia
+T182	PROBLEM 9037 9053	myelosuppression
+T183	PROBLEM 9055 9061	nausea
+T184	TREATMENT 9180 9202	chemo teaching session
+T185	TREATMENT 9229 9236	therapy
+T186	PROBLEM 9464 9475	this cancer
+T187	TEST 9548 9562	the gene panel
+T188	Age 7 9	60
+T189	ClinicalCondition 60 73	breast cancer
+T190	Stage 48 53	early
+R1	TumorDesc TumorDetails:T189 Desc:T190	
+T191	TreatmentType 102 109	therapy
+A1	NegationModalityVal T191 hypothetical_in_future
+A2	TreatmentTypeVal T191 neoadjuvant
+T192	Age 159 161	60
+T193	ClinicalCondition 257 270	breast cancer
+A3	ContinuityVal T193 new
+T194	Histology 212 256	invasive  spindle cell metaplastic carcinoma
+A4	HistoryVal T194 new
+A5	EpisodeDescription T194 FirstOccurrence
+T195	Site 200 205	right
+R2	SiteOf Arg1:T195 Arg2:T193	
+R3	TumorDesc TumorDetails:T193 Desc:T194	
+T196	Datetime 306 318	October 2016
+T197	Symptom 335 339	mass
+A6	IsPresentOnFirstCancerDiagnosis T197 yes
+A7	IsCausedByDiagnosedCancer T197 yes
+T198	Site 353 359	breast
+T199	Laterality 347 352	right
+R4	LateralityOfSite Arg1:T199 Arg2:T198	
+R5	SiteOf Arg1:T198 Arg2:T197	
+R6	HappensAtOnDuring Arg1:T197 Arg2:T196	
+T200	Datetime 414 423	11/30/16,
+T201	Radiology 480 482	US
+A8	IntentVal T201 diagnosis
+T203	RadPathResult 492 511	complex cystic mass
+A10	RadPathResultVal T203 Others
+R7	ResultOfTest Desc:T203 Test:T201	
+R8	HappensAtOnDuring Arg1:T201 Arg2:T200	
+T204	Datetime 550 558	11/30/16
+T205	Pathology 560 573	US guided CNB
+A11	IntentVal T205 diagnosis
+R9	HappensAtOnDuring Arg1:T205 Arg2:T204	
+T206	Histology 585 617	malignant spindle cell carcinoma
+A12	HistoryVal T206 new
+A13	EpisodeDescription T206 FirstOccurrence
+T207	BiomarkerName 633 635	ER
+A14	HistoryVal T207 new
+A15	EpisodeDescription T207 FirstOccurrence
+T208	BiomarkerName 644 646	PR
+A16	HistoryVal T208 new
+A17	EpisodeDescription T208 FirstOccurrence
+T209	BiomarkerName 655 659	Her2
+A18	HistoryVal T209 new
+A19	EpisodeDescription T209 FirstOccurrence
+T210	Pathology 660 664	FISH
+T211	BiomarkerResult 636 642	neg 0%
+A20	HistoryVal T211 new
+A21	EpisodeDescription T211 FirstOccurrence
+A22	BiomarkerResultVal T211 Negative
+T212	BiomarkerResult 647 653	neg 0%
+A23	HistoryVal T212 new
+A24	EpisodeDescription T212 FirstOccurrence
+A25	BiomarkerResultVal T212 Negative
+T213	BiomarkerResult 665 668	neg
+A26	HistoryVal T213 new
+A27	EpisodeDescription T213 FirstOccurrence
+A28	BiomarkerResultVal T213 Negative
+T214	RadPathResult 676 679	1.2
+R10	BiomarkerRel Arg1:T211 Arg2:T207	
+R11	BiomarkerRel Arg1:T212 Arg2:T208	
+R12	BiomarkerRel Arg1:T213 Arg2:T209	
+R13	ResultOfTest Desc:T214 Test:T210	
+R14	TestOrProcedureReveals Test:T205 Desc:T206	
+R15	TestOrProcedureReveals Test:T205 Desc:T207	
+R16	TestOrProcedureReveals Test:T205 Desc:T208	
+R17	TestOrProcedureReveals Test:T205 Desc:T209	
+T215	Datetime 682 690	12/17/16
+T216	Radiology 712 717	mammo
+A29	IntentVal T216 diagnosis
+T217	Site 691 700	Bilateral
+R18	SiteOf Arg1:T217 Arg2:T216	
+R19	HappensAtOnDuring Arg1:T216 Arg2:T215	
+T218	RadPathResult 734 770;814 822	2.7 cm focal rounded nodular density BIRADS 0
+A30	RadPathResultVal T218 NoDisease
+T219	Site 778 785;806 812	lateral breast
+T220	Laterality 800 805	right
+R20	LateralityOfSite Arg1:T220 Arg2:T219	
+R21	SiteOf Arg1:T219 Arg2:T218	
+R22	ResultOfTest Desc:T218 Test:T216	
+T221	Datetime 824 832	12/17/16
+T222	Radiology 834 836	US
+A31	IntentVal T222 diagnosis
+T223	Site 839 845	breast
+T224	Laterality 837 838	R
+R23	LateralityOfSite Arg1:T224 Arg2:T223	
+R24	SiteOf Arg1:T223 Arg2:T222	
+R25	HappensAtOnDuring Arg1:T222 Arg2:T221	
+T225	RadPathResult 847 944	rounded 2.8 x 1.9 cm area of decreased echogenicity with somewhat variegated internal echotexture
+A32	RadPathResultVal T225 Unclear
+R26	SiteOf Arg1:T223 Arg2:T225	
+R27	ResultOfTest Desc:T225 Test:T222	
+T226	Datetime 1020 1028	12/17/16
+T227	Radiology 1030 1033	CXR
+T228	RadPathResult 1036 1039	nml
+A33	RadPathResultVal T228 NoDisease
+R28	ResultOfTest Desc:T228 Test:T227	
+R29	HappensAtOnDuring Arg1:T227 Arg2:T226	
+T229	Datetime 1041 1049	12/30/16
+T230	Radiology 1050 1053	MRI
+A34	IntentVal T230 diagnosis
+T231	Site 1054 1061	breasts
+R30	SiteOf Arg1:T231 Arg2:T230	
+R31	HappensAtOnDuring Arg1:T230 Arg2:T229	
+T232	RadPathResult 1082 1194;1196 1297	irregular mass with heterogenous enhancement and central necrosis (with clip) in 9:00 6cmFN measures 2.9x2.5x3.3 Prominent nodes in Right axillary tail   Left breast with lobulated mass in upper outer quadrant, 7mm
+R32	ResultOfTest Desc:T232 Test:T230	
+T233	Datetime 1301 1309	01/15/17
+T235	Datetime 1355 1363	01/15/17
+T234	GenomicTest 1335 1342	InVitae
+A35	GenomicTestType T234 GeneExpression
+R33	HappensAtOnDuring Arg1:T234 Arg2:T233	
+T236	Datetime 1386 1394	01/18/17
+T237	Pathology 1396 1399	MRI
+A36	IntentVal T237 diagnosis
+T239	RadPathResult 1951 1972	malignancy (BI-RADS 6
+A38	RadPathResultVal T239 InitialCancerDiagnosis
+T240	Site 1921 1927	breast
+T241	Laterality 1915 1920	Right
+R34	LateralityOfSite Arg1:T241 Arg2:T240	
+R35	SiteOf Arg1:T240 Arg2:T239	
+R36	ResultOfTest Desc:T239 Test:T237	
+T242	RadPathResult 1989 2009	Negative (BI-RADS 1)
+A39	RadPathResultVal T242 NoDisease
+T243	Site 1981 1987	breast
+T244	Laterality 1976 1980	Left
+R37	LateralityOfSite Arg1:T244 Arg2:T243	
+R38	SiteOf Arg1:T243 Arg2:T242	
+R39	ResultOfTest Desc:T242 Test:T237	
+T245	Datetime 2275 2283	02/02/17
+T3	Radiology 2285 2290	PETCT
+A40	IntentVal T3 staging
+R40	HappensAtOnDuring Arg1:T3 Arg2:T245	
+T247	Datetime 2659 2667	02/02/17
+T248	Histology 2704 2738	spindle cell metaplastic carcinoma
+A42	HistoryVal T248 new
+A43	EpisodeDescription T248 FirstOccurrence
+T249	Datetime 2776 2784	02/03/17
+T250	Radiology 2788 2790	US
+A44	IntentVal T250 diagnosis
+T251	Site 2786 2787	R
+R41	SiteOf Arg1:T251 Arg2:T250	
+T252	Pathology 2834 2837	FNA
+A45	IntentVal T252 staging
+T253	Site 2838 2851	axillary node
+R42	SiteOf Arg1:T253 Arg2:T252	
+T254	Datetime 2865 2873	02/03/17
+R43	HappensAtOnDuring Arg1:T250 Arg2:T249	
+R44	HappensAtOnDuring Arg1:T252 Arg2:T254	
+T255	RadPathResult 2879 2887	negative
+R45	ResultOfTest Desc:T255 Test:T252	
+T256	Datetime 2891 2899	02/11/17
+T257	Pathology 2900 2914	MRI guided CNB
+A46	IntentVal T257 diagnosis
+R46	HappensAtOnDuring Arg1:T257 Arg2:T256	
+T258	TreatmentType 3015 3024	treatment
+A47	TreatmentTypeVal T258 neoadjuvant
+T259	ClinicalCondition 3078 3100	Abnormal liver enzymes
+T260	Datetime 3101 3105	2012
+R47	HappensAtOnDuring Arg1:T259 Arg2:T260	
+T261	ClinicalCondition 3109 3127	Hyperbilirubinemia
+T262	ClinicalCondition 3132 3164	Common bile duct (CBD) stricture
+T263	Datetime 3165 3169	2012
+R48	HappensAtOnDuring Arg1:T262 Arg2:T263	
+T264	ClinicalCondition 3173 3197	post-chole CBD stricture
+T265	Symptom 3214 3227	acholic stool
+T266	Symptom 3232 3242	dark urine
+T267	ClinicalCondition 3247 3251	GERD
+T268	MedicationName 3296 3300	tums
+R49	TreatmentAdministeredForProblem Treatment:T268 Prob:T267	
+T269	ClinicalCondition 3318 3321	HTN
+A48	ChronicVal T269 chronic
+A49	ChronicVal T267 chronic
+T270	Frequency 3301 3313	occasionally
+R50	Temporal Arg1:T268 Arg2:T270	
+T271	ClinicalCondition 3342 3359	Plantar fasciitis
+T272	PatientCharacteristics 3391 3399	Menarche
+T273	Age 3411 3413	12
+R51	BeginsOnOrAt Arg1:T272 Arg2:T273	
+T274	PatientCharacteristics 3426 3442	gravida 0 para 0
+T275	MedicationName 3457 3476	oral contraceptives
+A50	NegationModalityVal T275 negated
+T276	ClinicalCondition 3490 3499	Menopause
+T277	Age 3511 3513	57
+R52	BeginsOnOrAt Arg1:T276 Arg2:T277	
+T278	Symptom 3526 3537	hot flashes
+T279	Duration 3515 3522	3 years
+R53	HappensAtOnDuring Arg1:T278 Arg2:T279	
+T280	TreatmentType 3551 3578	hormone replacement therapy
+A51	NegationModalityVal T280 negated
+T281	ProcedureName 3644 3659;3661 3673	CHOLECYSTECTOMY LAPAROSCOPIC
+T10	Datetime 3675 3679	2007
+R54	HappensAtOnDuring Arg1:T281 Arg2:T10	
+T282	ProcedureName 3684 3709	Common bile duct stenting
+T283	Datetime 3711 3715	2012
+R55	HappensAtOnDuring Arg1:T282 Arg2:T283	
+T284	ProcedureName 3719 3734	post- Lap chole
+T285	Datetime 3743 3754	August 2011
+R56	BeginsOnOrAt Arg1:T284 Arg2:T285	
+T286	Datetime 3764 3768	2012
+R57	EndsOnOrAt Arg1:T284 Arg2:T286	
+T287	ProcedureName 3773 3785	HYSTERECTOMY
+T288	Datetime 3787 3791	1987
+R58	HappensAtOnDuring Arg1:T287 Arg2:T288	
+T289	ClinicalCondition 3807 3814	fibroid
+R59	TestOrProcedureConductedForProblem Test:T287 Prob:T289	
+T290	SectionSkip 3823 3871;3874 4381	Current Medications           Current Outpatient Prescriptions   Medication Sig Dispense Refill    clotrimazole-betamethasone (LOTRISONE) 1-0.05 % cream 2 (two) times a day.      ibuprofen (ADVIL,MOTRIN) 800 mg tablet Take 800 mg by mouth once as needed for Pain.      omeprazole (PRILOSEC) 20 mg capsule Take 20 mg by mouth As needed after meals.      triamterene-hydrochlorothiazide (DYAZIDE) 37.5-25 mg capsule Take 1 capsule by mouth Daily.      predniSONE (DELTASONE) 5 mg tablet        No current facility-administered medications for this visit
+A52	SectionSkipType T290 medications
+T291	MaritalStatus 4471 4478	Married
+A53	IsStoppedOrContinuing T291 stopped
+T292	Employment 4591 4624	***** ***** ***** *****     *****
+T293	Tobacco 4680 4685	Never
+T294	Tobacco 4716 4720	None
+T295	Alcohol 4737 4739	No
+T296	Drugs 4754 4756	No
+T297	MaritalStatus 4865 4873	divorced
+T298	SDoH 4877 4903	Raised step son from age 3
+T299	ClinicalCondition 4937 4950	Breast cancer
+A54	ExperiencerVal T299 family
+T300	ClinicalCondition 4966 4972	Cancer
+A55	ExperiencerVal T300 family
+T301	Age 4988 4990	40
+R60	HappensAtOnDuring Arg1:T300 Arg2:T301	
+T302	ClinicalCondition 5007 5018	Lung cancer
+A56	ExperiencerVal T302 family
+T303	ClinicalCondition 5048 5062	Stomach cancer
+A57	ExperiencerVal T303 family
+T304	SectionSkip 5137 5783;5786 6155	Physical Examination:   General appearance - alert, well appearing, and in no distress  Mental status - alert, oriented to person, place, and time  Eyes - sclera anicteric  Neck - supple, no significant adenopathy  Lymphatics - no palpable lymphadenopathy, no hepatosplenomegaly  Chest - clear to auscultation, no wheezes, rales or rhonchi, symmetric air entry  Heart - normal rate, regular rhythm, normal S1, S2, no murmurs, rubs, clicks or gallops  Abdomen - soft, nontender, nondistended, no masses or organomegaly  lap chole scars  Breasts - left breast normal without mass, skin or nipple changes or axillary nodes, abnormal mass palpable in the right breast at 9:00 6cm FN that measures 4x4cm  Neurological - alert, oriented, normal speech, no focal findings or movement disorder noted  Musculoskeletal - no joint tenderness, deformity or swelling  Extremities - peripheral pulses normal, no pedal edema, no clubbing or cyanosis  Skin - normal coloration and turgor, no rashes, no suspicious skin lesions noted
+A58	SectionSkipType T304 physical_exam
+T305	Age 6180 6182	60
+T306	BiomarkerName 6204 6206	ER
+A59	HistoryVal T306 new
+A60	EpisodeDescription T306 FirstOccurrence
+T307	BiomarkerName 6217 6219	PR
+A61	HistoryVal T307 new
+A62	EpisodeDescription T307 FirstOccurrence
+T308	BiomarkerName 6230 6234	HER2
+A63	HistoryVal T308 new
+A64	EpisodeDescription T308 FirstOccurrence
+T309	BiomarkerResult 6207 6215	Negative
+A65	HistoryVal T309 new
+A66	EpisodeDescription T309 FirstOccurrence
+A67	BiomarkerResultVal T309 Negative
+T310	BiomarkerResult 6220 6228	Negative
+A68	HistoryVal T310 history
+A69	EpisodeDescription T310 FirstOccurrence
+A70	BiomarkerResultVal T310 Negative
+T311	BiomarkerResult 6235 6243	Negative
+A71	HistoryVal T311 new
+A72	EpisodeDescription T311 FirstOccurrence
+T312	ClinicalCondition 6256 6269	breast cancer
+A73	ContinuityVal T312 new
+T313	Site 6244 6249	right
+R61	SiteOf Arg1:T313 Arg2:T312	
+R62	BiomarkerRel Arg1:T306 Arg2:T309	
+R63	BiomarkerRel Arg1:T307 Arg2:T310	
+R64	BiomarkerRel Arg1:T308 Arg2:T311	
+R65	TumorDesc TumorDetails:T312 Desc:T306	
+R66	TumorDesc TumorDetails:T312 Desc:T307	
+R67	TumorDesc TumorDetails:T312 Desc:T308	
+T314	TreatmentType 6464 6476	chemotherapy
+A74	NegationModalityVal T314 hypothetical_in_future
+A75	TreatmentTypeVal T314 neoadjuvant
+T315	TreatmentType 6631 6638	therapy
+A76	TreatmentTypeVal T315 neoadjuvant
+T316	ClinicalCondition 6855 6868	breast cancer
+A77	ContinuityVal T316 new
+T317	TumorCharacteristics 6296 6306	multifocal
+A78	HistoryVal T317 new
+A79	EpisodeDescription T317 FirstOccurrence
+R68	TumorDesc TumorDetails:T312 Desc:T317	
+T318	BiomarkerName 6839 6845	triple
+A80	HistoryVal T318 new
+A81	EpisodeDescription T318 FirstOccurrence
+T319	BiomarkerResult 6846 6854	negative
+A82	HistoryVal T319 new
+A83	EpisodeDescription T319 FirstOccurrence
+T320	LocalInvasion 6822 6838	locally advanced
+A84	HistoryVal T320 new
+A85	EpisodeDescription T320 FirstOccurrence
+R69	BiomarkerRel Arg1:T319 Arg2:T318	
+R70	TumorDesc TumorDetails:T316 Desc:T320	
+R71	TumorDesc TumorDetails:T316 Desc:T318	
+T321	Metastasis 6933 6943	metastatic
+A86	NegationModalityVal T321 negated
+A87	HistoryVal T321 new
+A88	EpisodeDescription T321 FirstOccurrence
+A89	TreatmentIntentVal T315 curative
+A90	TreatmentIntentVal T314 curative
+T322	TreatmentType 7166 7178	chemotherapy
+A91	TreatmentIntentVal T322 curative
+T323	TreatmentType 7180 7187	surgery
+A92	TreatmentIntentVal T323 curative
+T324	TreatmentType 7189 7205	hormonal therapy
+A93	TreatmentIntentVal T324 curative
+T325	TreatmentType 7223 7232	radiation
+A94	TreatmentIntentVal T325 curative
+A95	NegationModalityVal T322 hypothetical_in_future
+A96	NegationModalityVal T323 hypothetical_in_future
+A97	NegationModalityVal T324 hypothetical_in_future
+A98	NegationModalityVal T325 hypothetical_in_future
+T326	TreatmentType 7336 7348	chemotherapy
+A99	NegationModalityVal T326 hypothetical_in_future
+A100	TreatmentTypeVal T326 neoadjuvant
+A101	TreatmentIntentVal T326 curative
+T327	ProcedureName 7449 7474	breast conserving surgery
+A102	NegationModalityVal T327 hypothetical_in_future
+A103	IntentVal T327 treatment-curative
+A104	TreatmentTypeVal T327 local
+T328	ClinicalTrial 7644 7650	I-SPY2
+T329	Cycles 7811 7813	12
+T330	Frequency 7824 7830	weekly
+T331	MedicationName 7831 7841	paclitaxel
+A105	NegationModalityVal T331 hypothetical_in_future
+A106	TreatmentTypeVal T331 neoadjuvant
+A107	TreatmentIntentVal T331 curative
+A108	TreatmentCategory T331 AntiNeoPlastics
+T332	Cycles 7854 7855	4
+T333	MedicationName 7866 7877	doxorubicin
+A109	NegationModalityVal T333 hypothetical_in_future
+A110	TreatmentTypeVal T333 neoadjuvant
+A111	TreatmentIntentVal T333 curative
+A112	TreatmentCategory T333 AntiNeoPlastics
+T334	MedicationName 7883 7899	cyclophosphamide
+A113	NegationModalityVal T334 hypothetical_in_future
+A114	TreatmentTypeVal T334 neoadjuvant
+A115	TreatmentIntentVal T334 curative
+A116	TreatmentCategory T334 AntiNeoPlastics
+R72	Temporal Arg1:T331 Arg2:T330	
+R73	TreatmentDesc Therapy:T331 Desc:T329	
+R74	TreatmentDesc Therapy:T333 Desc:T332	
+R75	TreatmentDesc Therapy:T334 Desc:T332	
+T335	Frequency 7905 7918	every 2 weeks
+R76	Temporal Arg1:T333 Arg2:T335	
+R77	Temporal Arg1:T334 Arg2:T335	
+T336	ClinicalTrial 7957 7963	I-SPY2
+T337	MedicationName 8053 8063	paclitaxel
+A117	NegationModalityVal T337 hypothetical_in_future
+A118	TreatmentTypeVal T337 neoadjuvant
+A119	TreatmentIntentVal T337 curative
+A120	TreatmentCategory T337 AntiNeoPlastics
+T338	ClinicalTrial 8217 8223	I-SPY2
+T339	Radiology 8283 8286	MRI
+T340	Pathology 8297 8303	biopsy
+T341	Radiology 8309 8313	Echo
+T342	GenomicTest 8315 8325	mammaprint
+A121	GenomicTestType T342 GeneExpression
+T343	DiagnosticLabTest 8367 8371	labs
+T344	LabTestResult 8384 8416	elevated creatinine and Alk phos
+A122	LabTestResultVal T344 abnormal
+R78	ResultOfTest Desc:T344 Test:T343	
+T345	RadPathResult 8519 8538	Mammaprint low risk
+R79	ExclusionCriteriaFor Arg1:T345 Arg2:T338	
+T346	ClinicalCondition 8791 8804	breast cancer
+A123	ContinuityVal T346 new
+T347	Histology 8779 8790	metaplastic
+A124	HistoryVal T347 new
+A125	EpisodeDescription T347 FirstOccurrence
+R80	TumorDesc TumorDetails:T346 Desc:T347	
+T348	MedicationRegimen 8959 8964	AC/T,
+A126	NegationModalityVal T348 hypothetical_in_future
+A127	TreatmentTypeVal T348 neoadjuvant
+A128	TreatmentIntentVal T348 curative
+T349	Symptom 8973 8980	fatigue
+A129	NegationModalityVal T349 hypothetical_in_future
+T350	ClinicalCondition 8982 8992	neuropathy
+A130	NegationModalityVal T350 hypothetical_in_future
+T351	Symptom 8994 9015	skin and nail changes
+A131	NegationModalityVal T351 hypothetical_in_future
+T352	Symptom 9017 9025	myalgias
+A132	NegationModalityVal T352 hypothetical_in_future
+T353	Symptom 9027 9035	alopecia
+A133	NegationModalityVal T353 hypothetical_in_future
+T354	ClinicalCondition 9037 9053	myelosuppression
+A134	NegationModalityVal T354 hypothetical_in_future
+T355	Symptom 9055 9061	nausea
+R81	ConditionOrTreatmentCausesProblem Treatment:T348 Prob:T349	
+R82	ConditionOrTreatmentCausesProblem Treatment:T348 Prob:T350	
+R83	ConditionOrTreatmentCausesProblem Treatment:T348 Prob:T351	
+R84	ConditionOrTreatmentCausesProblem Treatment:T348 Prob:T352	
+R85	ConditionOrTreatmentCausesProblem Treatment:T348 Prob:T353	
+R86	ConditionOrTreatmentCausesProblem Treatment:T348 Prob:T354	
+R87	ConditionOrTreatmentCausesProblem Treatment:T348 Prob:T355	
+T356	ProcedureName 9092 9101	Medi-port
+A135	NegationModalityVal T356 hypothetical_in_future
+R88	HappensAtOnDuring Arg1:T235 Arg2:T234	
+R89	HappensAtOnDuring Arg1:T236 Arg2:T237	
+T202	SectionSkip 1410 1897	3.5 x 3.2 x 2.6 cm round mass with irregular, slightly spiculated margins and rim enhancement in the outer central right breast, middle depth. Approximately 15 mm anterior to the index mass there is a 12 mm irregular mass enhancing mass. In addition there is another similar 8 mm enhancing mass located 18 mm anterosuperior to the index lesion at the 10 o'clock position.  Taken together the index right breast mass and associated satellite masses span approximately 5.5 cm in AP extent.
+A9	SectionSkipType T202 radiology_report
+R90	HappensAtOnDuring Arg1:T247 Arg2:T248	
+R91	HappensAtOnDuring Arg1:T249 Arg2:T252	
+T238	LocalInvasion 6278 6294	locally advanced
+R92	TumorDesc TumorDetails:T312 Desc:T238	
+A37	NegationModalityVal T355 hypothetical_in_future
+T246	Datetime 9359 9381	first week in February
+T357	TreatmentType 9229 9236	therapy
+A41	NegationModalityVal T357 planned_in_future
+A136	TreatmentContinuityVal T357 planned
+R93	HappensAfter Arg1:T357 Arg2:T246	
+T358	Size 435 438	3cm
+A137	HistoryVal T358 new
+A138	EpisodeDescription T358 FirstOccurrence
+T359	Symptom 439 443	mass
+A139	IsPresentOnFirstCancerDiagnosis T359 yes
+A140	IsCausedByDiagnosedCancer T359 yes
+R94	SizeOf Arg1:T358 Arg2:T359	
+R95	HappensAtOnDuring Arg1:T359 Arg2:T200	
+T360	Site 447 458	9:00 6cm FN
+R96	SiteOf Arg1:T360 Arg2:T359	
+T361	Site 2037 2057	outer central breast
+T362	Laterality 2031 2036	Right
+R97	LateralityOfSite Arg1:T362 Arg2:T361	
+T363	RadPathResult 2064 2074	malignancy
+A141	RadPathResultVal T363 InitialCancerDiagnosis
+T364	Size 2084 2090	3.5 cm
+A142	HistoryVal T364 new
+A143	EpisodeDescription T364 FirstOccurrence
+R98	SizeOf Arg1:T364 Arg2:T363	
+R99	SiteOf Arg1:T361 Arg2:T363	
+R100	ResultOfTest Desc:T363 Test:T237	
+T365	RadPathResult 2092 2118	Two small satellite masses
+A144	RadPathResultVal T365 InitialCancerDiagnosis
+T366	Site 2131 2175	12-15 mm anterior/superior to the index mass
+R101	SiteOf Arg1:T366 Arg2:T365	
+R102	ResultOfTest Desc:T365 Test:T237	
+T367	LymphNodeInvolvement 2213 2224	lymph nodes
+A145	HistoryVal T367 new
+A146	EpisodeDescription T367 FirstOccurrence
+T368	Site 2204 2212	axillary
+T369	Laterality 2198 2203	right
+R103	LateralityOfSite Arg1:T369 Arg2:T368	
+R104	SiteOf Arg1:T368 Arg2:T367	
+R105	TestOrProcedureReveals Test:T237 Desc:T367	
+T370	Radiology 2260 2270	ultrasound
+A147	NegationModalityVal T370 hypothetical_in_future
+A148	IntentVal T370 diagnosis
+T371	RadPathResult 2294 2321;2335 2339	Heterogenous hypermetabolic mass
+A149	RadPathResultVal T371 InitialCancerDiagnosis
+T372	Laterality 2322 2327	right
+T373	Site 2328 2334	breast
+R106	LateralityOfSite Arg1:T372 Arg2:T373	
+R107	SiteOf Arg1:T373 Arg2:T371	
+R108	ResultOfTest Desc:T371 Test:T3	
+T374	LymphNodeInvolvement 2411 2438;2458 2470	hypermetabolic non-enlarged lymph nodes,
+A150	HistoryVal T374 new
+A151	EpisodeDescription T374 FirstOccurrence
+T375	Site 2449 2457	axillary
+T376	Laterality 2439 2448	bilateral
+R109	LateralityOfSite Arg1:T376 Arg2:T375	
+R110	SiteOf Arg1:T375 Arg2:T374	
+R111	TestOrProcedureReveals Test:T3 Desc:T374	
+T377	Metastasis 2559 2565	nodule
+A152	HistoryVal T377 new
+A153	EpisodeDescription T377 FirstOccurrence
+T378	Site 2551 2558	adrenal
+T379	Laterality 2545 2550	right
+R112	LateralityOfSite Arg1:T379 Arg2:T378	
+R113	SiteOf Arg1:T378 Arg2:T377	
+T380	Size 2582 2588	2.3 cm
+A154	HistoryVal T380 new
+A155	EpisodeDescription T380 FirstOccurrence
+R114	SizeOf Arg1:T380 Arg2:T377	
+T381	Radiology 2647 2653	CT/MRI
+A156	IntentVal T381 staging
+T382	Site 2630 2637	adrenal
+R115	SiteOf Arg1:T382 Arg2:T381	
+R116	TestOrProcedureConductedForProblem Test:T381 Prob:T377	
+R117	TestOrProcedureReveals Test:T3 Desc:T377	
+A157	NegationModalityVal T258 hypothetical_in_future
+T383	Histology 6504 6515	metaplastic
+A158	HistoryVal T383 new
+A159	EpisodeDescription T383 FirstOccurrence
+R118	InclusionCriteriaFor Arg1:T383 Arg2:T315	
+A160	NegationModalityVal T315 hypothetical_in_future
+A161	NegationModalityVal T328 hypothetical_in_future
+A162	NegationModalityVal T336 hypothetical_in_future
+A163	NegationModalityVal T338 hypothetical_in_future
+T384	Histology 7738 7749	metaplastic
+A164	HistoryVal T384 new
+A165	EpisodeDescription T384 FirstOccurrence
+T385	BiomarkerName 7720 7726	triple
+A166	HistoryVal T385 new
+A167	EpisodeDescription T385 FirstOccurrence
+T386	BiomarkerResult 7729 7737	negative
+A168	HistoryVal T386 new
+A169	EpisodeDescription T386 FirstOccurrence
+A170	BiomarkerResultVal T386 Negative
+R119	BiomarkerRel Arg1:T385 Arg2:T386	
+T387	TumorCharacteristics 7708 7719	higher risk
+A171	HistoryVal T387 new
+A172	EpisodeDescription T387 FirstOccurrence
+R120	InclusionCriteriaFor Arg1:T384 Arg2:T331	
+R121	InclusionCriteriaFor Arg1:T385 Arg2:T331	
+R122	InclusionCriteriaFor Arg1:T387 Arg2:T331	
+R123	InclusionCriteriaFor Arg1:T387 Arg2:T333	
+R124	InclusionCriteriaFor Arg1:T385 Arg2:T333	
+R125	InclusionCriteriaFor Arg1:T384 Arg2:T333	
+R126	InclusionCriteriaFor Arg1:T387 Arg2:T334	
+R127	InclusionCriteriaFor Arg1:T385 Arg2:T334	
+R128	InclusionCriteriaFor Arg1:T384 Arg2:T334	
+A173	NegationModalityVal T345 hypothetical_in_future
+T388	hpi_start 7 9	60
+T389	hpi_start 1901 1911	IMPRESSION
+T390	hpi_end 1403 1409	*****:
+T391	hpi_end 3015 3025	treatment.
+T392	ap_start 6159 6169	Assessment
+T393	ap_end 9577 9582	sent.

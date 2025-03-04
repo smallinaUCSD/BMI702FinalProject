@@ -1,0 +1,1009 @@
+T1	SectionAnnotate 6873 6888	FAMILY HISTORY:
+T2	SectionAnnotate 7053 7068	SOCIAL HISTORY:
+T5	SectionAnnotate 9446 9457	IMPRESSION:
+T6	PROBLEM 838 873	her locally recurrent breast cancer
+T7	PROBLEM 949 968	a right breast mass
+T8	TREATMENT 1000 1033	an axillary lymph node dissection
+T9	TREATMENT 1042 1060	surgical procedure
+T10	PROBLEM 1070 1117	a 1 cm, grade 1, infiltrating ductal  carcinoma
+T11	PROBLEM 1193 1213	metastatic carcinoma
+T12	TEST 1216 1223	S-phase
+T13	PROBLEM 1242 1251	The tumor
+T14	TEST 1269 1277	estrogen
+T15	TEST 1300 1312	progesterone
+T16	TREATMENT 1347 1369	interstitial radiation
+T17	TREATMENT 1439 1448	tamoxifen
+T18	PROBLEM 1505 1517	side effects
+T19	TEST 1641 1665	A fine-needle aspiration
+T20	PROBLEM 1704 1716	A dense area
+T21	PROBLEM 1769 1775	tender
+T22	PROBLEM 1803 1825	postsurgical  scarring
+T23	TEST 1898 1908	the workup
+T24	TEST 1918 1928	a PET scan
+T25	PROBLEM 1963 1989	a 5 x 7 cm area of density
+T26	PROBLEM 2006 2018	inflammation
+T27	TEST 2054 2072	a CT-guided biopsy
+T28	PROBLEM 2124 2167	discomfort in the right anterior chest wall
+T29	PROBLEM 2260 2283	a new right breast mass
+T30	TEST 2286 2292	Workup
+T31	PROBLEM 2296 2312	that breast mass
+T32	TEST 2342 2354	a breast MRI
+T33	PROBLEM 2396 2458	a bulky irregular mass in the right 8 o'clock posterior breast
+T34	PROBLEM 2494 2518	heterogenous enhancement
+T35	PROBLEM 2549 2565	metabolic uptake
+T36	TEST 2569 2580	PET/CT scan
+T37	PROBLEM 2592 2637	a second mass  abutting the pectoralis muscle
+T38	PROBLEM 2703 2717	A third nodule
+T39	TEST 2819 2835	The  PET/CT scan
+T40	TEST 2890 2904	a  PET/CT scan
+T41	PROBLEM 2938 2971	a 2 cm right axillary  lymph node
+T42	PROBLEM 2976 3018	a 1.4 cm hypermetabolic soft tissue nodule
+T43	TEST 3024 3030	an SUV
+T44	PROBLEM 3107 3141	A second right axillary lymph node
+T45	PROBLEM 3169 3183	hypermetabolic
+T46	TEST 3220 3270	a fine-needle  aspiration of the upper medial area
+T47	PROBLEM 3295 3304	carcinoma
+T48	TEST 3311 3349	a core biopsy of the right breast mass
+T49	PROBLEM 3366 3388	a reactive  lymph node
+T50	TREATMENT 3463 3482	surgical management
+T51	PROBLEM 3486 3496	this tumor
+T52	TREATMENT 3535 3551	muscle resection
+T53	TREATMENT 3636 3647	the surgery
+T54	TEST 3650 3673	A follow-up PET/CT scan
+T55	PROBLEM 3699 3739	a 2 cm subcutaneous hypermetabolic focus
+T56	TEST 3783 3789	an SUV
+T57	PROBLEM 3801 3844	an ill-defined  1.3 cm hypermetabolic focus
+T58	TEST 3916 3922	an SUV
+T59	PROBLEM 3980 3998	metastatic disease
+T60	TEST 4019 4043	a follow-up  PET/CT scan
+T61	PROBLEM 4074 4092	a soft tissue mass
+T62	TEST 4208 4216	the scan
+T63	PROBLEM 4231 4280	diffuse  heterogenous uptake throughout the liver
+T64	PROBLEM 4289 4306	the focal lesions
+T65	TEST 4336 4370	a right axillary lymph node biopsy
+T66	PROBLEM 4421 4437	benign pathology
+T67	TREATMENT 4495 4522	potential treatment options
+T68	TREATMENT 4550 4559	treatment
+T69	PROBLEM 4564 4611	her locally recurrent and  unresectable disease
+T70	PROBLEM 4682 4713	osteoarthritis in the left hand
+T71	PROBLEM 4715 4730	trace emphysema
+T72	TEST 4734 4739	x-ray
+T73	PROBLEM 4742 4756	diverticulosis
+T74	TEST 4760 4771	colonoscopy
+T75	PROBLEM 4773 4783	osteopenia
+T76	PROBLEM 4789 4812	a benign thyroid nodule
+T77	PROBLEM 4847 4875	neuropathy of the right hand
+T78	PROBLEM 4893 4920	a right brachial plexopathy
+T79	PROBLEM 4933 4975	muscle mass in her  intrinsic hand muscles
+T80	TREATMENT 5015 5029	a scalene  rib
+T81	PROBLEM 5062 5072	neuropathy
+T82	PROBLEM 5095 5128	a  right thoracic outlet syndrome
+T83	PROBLEM 5173 5177	weak
+T84	PROBLEM 5223 5235	her symptoms
+T85	PROBLEM 5260 5290	increasing loss of muscle mass
+T86	PROBLEM 5301 5330	a mild distal  polyneuropathy
+T87	PROBLEM 5336 5344	tingling
+T88	PROBLEM 5349 5408	numbness in the feet and hands and  milder in the left hand
+T89	PROBLEM 5470 5492	short-term memory loss
+T90	PROBLEM 5574 5582	symptoms
+T91	PROBLEM 5610 5620	depression
+T92	PROBLEM 5623 5642	A right frontal CVA
+T93	TEST 5662 5669	imaging
+T94	PROBLEM 5688 5695	embolic
+T95	PROBLEM 5748 5764	ocular migraines
+T96	PROBLEM 5781 5794	opaque vision
+T97	PROBLEM 5829 5837	episodic
+T98	PROBLEM 5926 5935	dizziness
+T99	PROBLEM 5941 5956	lightheadedness
+T100	PROBLEM 5994 6019	episodic  lightheadedness
+T101	PROBLEM 6024 6033	dizziness
+T102	PROBLEM 6057 6071	falling spells
+T103	PROBLEM 6096 6105	disabling
+T104	PROBLEM 6120 6136	a thyroid nodule
+T105	TREATMENT 6183 6190	surgery
+T106	PROBLEM 6207 6217	hammertoes
+T107	PROBLEM 6324 6333	migraines
+T108	PROBLEM 6362 6380	her falling spells
+T109	PROBLEM 6390 6434	hairline fractures in her wrists  and elbows
+T110	PROBLEM 6472 6502	pain in her wrists and  elbows
+T111	PROBLEM 6509 6528	fractured her ankle
+T112	PROBLEM 6534 6540	a fall
+T113	TREATMENT 6565 6573	a  brace
+T114	TREATMENT 6707 6726	oral contraceptives
+T115	TREATMENT 6756 6783	hormone replacement therapy
+T116	PROBLEM 6920 6933	breast cancer
+T117	PROBLEM 7003 7009	cancer
+T118	PROBLEM 7341 7364	pain in her  right hand
+T119	PROBLEM 7375 7390	some discomfort
+T120	PROBLEM 7407 7422	the breast mass
+T121	PROBLEM 7433 7462	pain in her wrists and elbows
+T122	PROBLEM 7625 7640	tight breathing
+T123	PROBLEM 7655 7664	dizziness
+T124	PROBLEM 7677 7685	episodic
+T125	PROBLEM 7713 7731	panic-like attacks
+T126	PROBLEM 7733 7741	flushing
+T127	PROBLEM 7752 7761	dizziness
+T128	PROBLEM 7881 7888	fatigue
+T129	TREATMENT 7907 7920	her radiation
+T130	PROBLEM 7991 8011	a  pulling sensation
+T131	PROBLEM 8081 8105	occasional shooting pain
+T132	PROBLEM 8110 8146	pain occasionally in her  left elbow
+T133	TEST 8297 8317	physical examination
+T134	PROBLEM 8349 8364	acute  distress
+T135	TEST 8417 8427	Her height
+T136	TEST 8437 8443	weight
+T137	TEST 8459 8473	blood pressure
+T138	TEST 8483 8488	pulse
+T139	TEST 8493 8505	respirations
+T140	TEST 8514 8528	her saturation
+T141	PROBLEM 8577 8584	lesions
+T142	PROBLEM 8627 8636	anicteric
+T143	PROBLEM 8663 8694	cervical or axillary adenopathy
+T144	PROBLEM 8708 8760	soft, mobile nodes in the left supraclavicular space
+T145	TEST 8805 8817	auscultation
+T146	TEST 8822 8832	percussion
+T147	TEST 8844 8860	Her cardiac exam
+T148	PROBLEM 8872 8878	murmur
+T149	PROBLEM 8882 8888	gallop
+T150	PROBLEM 8927 8933	masses
+T151	PROBLEM 8961 8984	a  well-healed incision
+T152	PROBLEM 9036 9048	some density
+T153	PROBLEM 9083 9116	a 2.5 x 2.5 cm, hard,  fixed mass
+T154	PROBLEM 9235 9244	nontender
+T155	PROBLEM 9253 9271	hepatosplenomegaly
+T156	PROBLEM 9315 9320	edema
+T157	TEST 9335 9350	Neurologic exam
+T158	PROBLEM 9405 9441	brachial plexopathy in her right arm
+T159	PROBLEM 9524 9597	locally recurrent, unresectable, hormone-receptor positive breast  cancer
+T160	TREATMENT 9653 9660	surgery
+T161	TREATMENT 9666 9688	interstitial radiation
+T162	TREATMENT 9711 9728	hormone 
+ therapy
+T163	PROBLEM 9733 9748	her  recurrence
+T164	TREATMENT 9778 9787	tamoxifen
+T165	TREATMENT 9878 9900	her  treatment options
+T166	TREATMENT 9912 9928	hormonal therapy
+T167	TREATMENT 9934 9957	an aromatase  inhibitor
+T168	TREATMENT 10014 10028	her  letrozole
+T169	TREATMENT 10034 10045	alendronate
+T170	PROBLEM 10063 10079	her bone density
+T171	TEST 10107 10123	her bone density
+T172	TEST 10150 10159	a T-score
+T173	PROBLEM 10208 10220	osteoporosis
+T174	PROBLEM 10261 10271	osteopenia
+T175	PROBLEM 10331 10340	bone mets
+T176	TREATMENT 10357 10372	zoledronic acid
+T177	TREATMENT 10414 10436	an aromatase inhibitor
+T178	TREATMENT 10505 10510	CALGB
+T179	TREATMENT 10546 10555	letrozole
+T180	TREATMENT 10587 10598	bevacizumab
+T181	TREATMENT 10602 10609	placebo
+T182	TREATMENT 10660 10680	additional treatment
+T183	TEST 10693 10706	a PET/CT scan
+T184	PROBLEM 10757 10778	increased FDG avidity
+T185	PROBLEM 10786 10824	a right  parasternal chest wall nodule
+T186	PROBLEM 10839 10851	a lymph node
+T187	PROBLEM 10895 10935	The right parasternal soft tissue nodule
+T188	PROBLEM 11016 11026	The lesion
+T189	PROBLEM 11043 11064	a soft tissue density
+T190	TREATMENT 11073 11126	three  surgical clips in the right upper inner breast
+T191	PROBLEM 11135 11146	FDG avidity
+T192	PROBLEM 11164 11168	scar
+T193	PROBLEM 11181 11217	a right inferior axillary lymph node
+T194	TEST 11241 11247	an SUV
+T195	PROBLEM 11257 11286	an adjacent 0.5 cm lymph node
+T196	TEST 11301 11316	the PET/CT scan
+T197	PROBLEM 11346 11369	the parasternal  nodule
+T198	PROBLEM 11402 11434	interestingly the axillary nodes
+T199	PROBLEM 11483 11489	cancer
+T200	PROBLEM 11535 11597	a small, well-demarcated, low-attenuation  lesion in the liver
+T201	PROBLEM 11614 11618	cyst
+T202	PROBLEM 11644 11657	abnormalities
+T203	PROBLEM 11764 11782	a low-stage cancer
+T204	PROBLEM 11832 11859	a local regional recurrence
+T205	TREATMENT 11918 11933	hormone therapy
+T206	TREATMENT 11971 11992	her treatment options
+T207	TREATMENT 12061 12070	treatment
+T208	TREATMENT 12076 12099	an aromatase  inhibitor
+T209	TEST 12142 12160	laboratory studies
+T210	TEST 12173 12184	PET/CT scan
+T211	TEST 12189 12205	MRI of her brain
+T212	PROBLEM 12217 12236	her falling  spells
+T213	TEST 12239 12259	The MRI of her brain
+T214	PROBLEM 12282 12292	malignancy
+T215	PROBLEM 12333 12379	a right middle frontal gyrus  encephalomalacia
+T216	PROBLEM 12384 12391	gliosis
+T217	PROBLEM 12408 12422	a prior insult
+T218	TEST 12438 12456	laboratory studies
+T219	TEST 12521 12531	creatinine
+T220	TEST 12533 12545	electrolytes
+T221	TEST 12547 12567	liver function tests
+T222	TEST 12574 12581	calcium
+T223	TEST 12599 12605	a CA27
+T224	TEST 12625 12631	an LDH
+T225	PROBLEM 12721 12748	a local regional recurrence
+T226	PROBLEM 12771 12812	receptor positive  indolent breast cancer
+T227	PROBLEM 12833 12840	disease
+T228	PROBLEM 12910 12922	this disease
+T229	TREATMENT 12928 12944	hormone  therapy
+T230	PROBLEM 13067 13076	the tumor
+T231	TREATMENT 13104 13124	a surgical resection
+T232	PROBLEM 13198 13223	long-term disease control
+T233	TREATMENT 13279 13294	zoledronic acid
+T234	PROBLEM 13307 13323	her osteoporosis
+T235	TREATMENT 13349 13372	an aromatase  inhibitor
+T236	TREATMENT 13428 13455	aromatase inhibitor therapy
+T237	TREATMENT 13475 13480	CALGB
+T238	TREATMENT 13501 13508	placebo
+T239	TREATMENT 13512 13523	bevacizumab
+T240	TEST 13728 13738	evaluation
+T241	Age 913 915	73
+T242	DiseaseState 850 859	recurrent
+T243	ClinicalCondition 860 873	breast cancer
+T244	Datetime 877 887	January 09
+T245	Age 913 915	73
+T246	Symptom 964 968	mass
+A1	IsPresentOnFirstCancerDiagnosis T246 yes
+A2	IsCausedByDiagnosedCancer T246 yes
+T247	Site 957 963	breast
+T248	Laterality 951 956	right
+R1	LateralityOfSite Arg1:T248 Arg2:T247	
+R2	SiteOf Arg1:T247 Arg2:T246	
+T249	Datetime 981 994	February 1994
+T250	ProcedureName 1003 1033	axillary lymph node dissection
+A3	IntentVal T250 staging
+A4	TreatmentTypeVal T250 local
+A5	TreatmentCategory T250 Others
+R3	HappensAtOnDuring Arg1:T250 Arg2:T249	
+T251	ProcedureName 1042 1060	surgical procedure
+A6	IntentVal T251 treatment-curative
+R4	SiteOf Arg1:T247 Arg2:T251	
+T252	Histology 1087 1117	infiltrating ductal  carcinoma
+A7	HistoryVal T252 history
+A8	EpisodeDescription T252 FirstOccurrence
+T253	Grade 1084 1085	1
+A9	HistoryVal T253 history
+A10	EpisodeDescription T253 FirstOccurrence
+T254	Size 1072 1076	1 cm
+A11	HistoryVal T254 history
+A12	EpisodeDescription T254 FirstOccurrence
+R5	TestOrProcedureReveals Test:T251 Desc:T252	
+R6	TestOrProcedureReveals Test:T251 Desc:T254	
+R7	TestOrProcedureReveals Test:T251 Desc:T253	
+T255	LymphNodeInvolvement 1150 1173	21 axillary lymph nodes
+A13	NegationModalityVal T255 negated
+A14	HistoryVal T255 history
+A15	EpisodeDescription T255 FirstOccurrence
+T256	Metastasis 1193 1203	metastatic
+A16	NegationModalityVal T256 negated
+A17	HistoryVal T256 history
+A18	EpisodeDescription T256 FirstOccurrence
+A19	TreatmentTypeVal T251 local
+A20	TreatmentCategory T251 Others
+A21	IsTumorRemaining T251 no
+R8	TestOrProcedureConductedForProblem Test:T251 Prob:T246	
+R9	HappensAtOnDuring Arg1:T251 Arg2:T249	
+R10	TestOrProcedureReveals Test:T251 Desc:T255	
+R11	TestOrProcedureReveals Test:T251 Desc:T256	
+T257	Pathology 1216 1223	S-phase
+T258	RadPathResult 1235 1239	3.6%
+R12	ResultOfTest Desc:T258 Test:T257	
+T259	BiomarkerName 1269 1286	estrogen-receptor
+A22	HistoryVal T259 history
+A23	EpisodeDescription T259 FirstOccurrence
+T260	BiomarkerResult 1287 1295	positive
+A24	HistoryVal T260 history
+A25	EpisodeDescription T260 FirstOccurrence
+A26	BiomarkerResultVal T260 Positive
+T261	BiomarkerName 1300 1321	progesterone-receptor
+A27	HistoryVal T261 history
+A28	EpisodeDescription T261 FirstOccurrence
+T262	BiomarkerResult 1323 1331	negative
+A29	HistoryVal T262 history
+A30	EpisodeDescription T262 FirstOccurrence
+A31	BiomarkerResultVal T262 Negative
+R13	BiomarkerRel Arg1:T259 Arg2:T260	
+R14	BiomarkerRel Arg1:T261 Arg2:T262	
+R15	TestOrProcedureReveals Test:T251 Desc:T259	
+R16	TestOrProcedureReveals Test:T251 Desc:T261	
+T263	RadiationTherapyName 1347 1369	interstitial radiation
+A32	TreatmentContinuityVal T263 finished
+A33	TreatmentTypeVal T263 adjuvant
+A34	TreatmentIntentVal T263 curative
+T264	RadiationTherapyModifier 1387 1402	4500  centigray
+T265	RadiationTherapyModifier 1410 1423	3 cm diameter
+R17	TreatmentDesc Therapy:T263 Desc:T264	
+R18	TreatmentDesc Therapy:T263 Desc:T265	
+T266	MedicationName 1439 1448	tamoxifen
+A35	TreatmentContinuityVal T266 discontinued_early
+A36	TreatmentTypeVal T266 adjuvant
+A37	TreatmentCategory T266 AntiNeoPlastics
+T267	Duration 1454 1467	1994 to  1996
+R19	HappensAtOnDuring Arg1:T266 Arg2:T267	
+T268	Symptom 1505 1517	side effects
+A38	NegationModalityVal T268 uncertain_in_past
+A39	IsPresentOnFirstCancerDiagnosis T268 no
+A40	IsCausedByDiagnosedCancer T268 no
+R20	TreatmentDiscontinuedBecauseOf Therapy:T266 Reason:T268	
+R21	TreatmentAdministeredForProblem Treatment:T263 Prob:T246	
+R22	TreatmentAdministeredForProblem Treatment:T266 Prob:T246	
+T269	Datetime 1571 1583	January 1996
+T270	LymphNodeInvolvement 1587 1591	node
+A41	HistoryVal T270 new
+A42	EpisodeDescription T270 FirstOccurrence
+T271	Site 1618 1633	supraclavicular
+T272	Laterality 1613 1617	left
+R23	LateralityOfSite Arg1:T272 Arg2:T271	
+R24	SiteOf Arg1:T271 Arg2:T270	
+T273	Pathology 1643 1665	fine-needle aspiration
+A43	IntentVal T273 diagnosis
+T274	RadPathResult 1689 1701	unremarkable
+A44	RadPathResultVal T274 NoDisease
+R25	ResultOfTest Desc:T274 Test:T273	
+R26	TestOrProcedureConductedForProblem Test:T273 Prob:T270	
+R27	HappensAtOnDuring Arg1:T269 Arg2:T270	
+T275	Symptom 1769 1775	tender
+A45	IsPresentOnFirstCancerDiagnosis T275 no
+T276	Datetime 1779 1783	2006
+R28	HappensAtOnDuring Arg1:T275 Arg2:T276	
+T277	Laterality 1752 1757	right
+T278	Site 1724 1734;1758 1764	12 o'clock breast
+R29	LateralityOfSite Arg1:T277 Arg2:T278	
+R30	SiteOf Arg1:T278 Arg2:T275	
+T279	Radiology 1920 1928	PET scan
+A46	IntentVal T279 diagnosis
+T280	Datetime 1932 1945	November 2005
+R31	HappensAtOnDuring Arg1:T279 Arg2:T280	
+T281	RadPathResult 1965 1989	5 x 7 cm area of density
+A47	RadPathResultVal T281 Others
+R32	ResultOfTest Desc:T281 Test:T279	
+T282	Pathology 2056 2072	CT-guided biopsy
+A48	NegationModalityVal T282 uncertain_in_past
+A49	IntentVal T282 diagnosis
+T283	Datetime 2099 2112	February 2008
+T284	ClinicalCondition 2124 2134	discomfort
+A50	ChronicVal T284 non-chronic
+A51	ContinuityVal T284 new
+T285	Site 2148 2167	anterior chest wall
+T286	Laterality 2142 2147	right
+R33	LateralityOfSite Arg1:T286 Arg2:T285	
+R34	SiteOf Arg1:T285 Arg2:T284	
+R35	HappensAtOnDuring Arg1:T284 Arg2:T283	
+T287	Symptom 2279 2283	mass
+A52	IsPresentOnFirstCancerDiagnosis T287 no
+A53	ContinuityVal T287 new
+T288	Site 2272 2278	breast
+T289	Laterality 2266 2271	right
+R36	LateralityOfSite Arg1:T289 Arg2:T288	
+R37	SiteOf Arg1:T288 Arg2:T287	
+T290	TumorTest 2286 2292	Workup
+A54	IntentVal T290 diagnosis
+T291	TestResult 2318 2330	unremarkable
+T292	Site 2301 2312	breast mass
+R38	SiteOf Arg1:T292 Arg2:T290	
+R39	ResultOfTest Desc:T291 Test:T290	
+T293	Radiology 2351 2354	MRI
+A55	IntentVal T293 diagnosis
+T294	Site 2344 2350	breast
+R40	SiteOf Arg1:T294 Arg2:T293	
+T295	Datetime 2372 2380	March 24
+R41	HappensAtOnDuring Arg1:T293 Arg2:T295	
+T296	RadPathResult 2398 2418	bulky irregular mass
+A56	RadPathResultVal T296 Progression
+T297	Site 2432 2458	8 o'clock posterior breast
+T298	Laterality 2426 2431	right
+R42	LateralityOfSite Arg1:T298 Arg2:T297	
+R43	SiteOf Arg1:T297 Arg2:T296	
+R44	ResultOfTest Desc:T296 Test:T293	
+T299	RadPathResult 2476 2518	1.9 x 1.5 cm with heterogenous enhancement
+A57	RadPathResultVal T299 InitialCancerDiagnosis
+R45	ResultOfTest Desc:T299 Test:T293	
+T300	Radiology 2569 2575	PET/CT
+T301	RadPathResult 2601 2605;2643 2676	mass similar enhancing characteristics
+A58	RadPathResultVal T301 Progression
+T302	Site 2620 2637	pectoralis muscle
+R46	SiteOf Arg1:T302 Arg2:T301	
+R47	ResultOfTest Desc:T301 Test:T300	
+T303	RadPathResult 2711 2717	nodule
+A59	RadPathResultVal T303 Progression
+T304	Site 2743 2758	lateral  breast
+T305	Laterality 2737 2742	right
+R48	LateralityOfSite Arg1:T305 Arg2:T304	
+R49	SiteOf Arg1:T304 Arg2:T303	
+R50	ResultOfTest Desc:T303 Test:T300	
+T306	Radiology 2824 2830	PET/CT
+A60	IntentVal T306 diagnosis
+T307	Datetime 2858 2868	02/22/2008
+R51	HappensAtOnDuring Arg1:T307 Arg2:T306	
+T308	Radiology 2893 2899	PET/CT
+T309	Datetime 2908 2921	December 2005
+R52	HappensAtOnDuring Arg1:T308 Arg2:T309	
+T310	RadPathResult 2940 2944;2961 2971	2 cm lymph node
+T311	Site 2951 2959	axillary
+T312	Laterality 2945 2950	right
+R53	SiteOf Arg1:T311 Arg2:T310	
+R54	LateralityOfSite Arg1:T312 Arg2:T311	
+R55	ResultOfTest Desc:T310 Test:T306	
+T313	RadPathResult 2978 3018	1.4 cm hypermetabolic soft tissue nodule
+A61	RadPathResultVal T313 Progression
+R56	ResultOfTest Desc:T313 Test:T306	
+T314	RadPathResult 3027 3038	SUV of  4.1
+A62	RadPathResultVal T314 Progression
+R57	ResultOfTest Desc:T314 Test:T306	
+T315	Site 3052 3104	mid anterior chest wall deep in the subcutaneous fat
+T316	Laterality 3046 3051	right
+R58	LateralityOfSite Arg1:T316 Arg2:T315	
+R59	SiteOf Arg1:T315 Arg2:T313	
+T317	RadPathResult 3131 3141;3169 3183	lymph node hypermetabolic
+A63	RadPathResultVal T317 Progression
+T318	Site 3122 3130	axillary
+T319	Laterality 3116 3121	right
+R60	LateralityOfSite Arg1:T319 Arg2:T318	
+R61	SiteOf Arg1:T318 Arg2:T317	
+R62	ResultOfTest Desc:T317 Test:T306	
+T320	Pathology 3222 3245	fine-needle  aspiration
+A64	IntentVal T320 diagnosis
+T321	Site 3253 3270	upper medial area
+R63	SiteOf Arg1:T321 Arg2:T320	
+T322	Histology 3295 3304	carcinoma
+A65	HistoryVal T322 new
+A66	EpisodeDescription T322 Progression
+R64	TestOrProcedureReveals Test:T320 Desc:T322	
+T323	Pathology 3313 3324	core biopsy
+A67	IntentVal T323 diagnosis
+T324	Site 3338 3350	breast mass,
+T325	Laterality 3332 3337	right
+R65	LateralityOfSite Arg1:T325 Arg2:T324	
+R66	SiteOf Arg1:T324 Arg2:T323	
+T326	LymphNodeInvolvement 3378 3388	lymph node
+A68	HistoryVal T326 new
+A69	EpisodeDescription T326 Progression
+R67	TestOrProcedureReveals Test:T323 Desc:T326	
+T327	ProcedureName 3535 3551	muscle resection
+A70	NegationModalityVal T327 negated
+T328	Radiology 3662 3668	PET/CT
+A71	IntentVal T328 diagnosis
+T329	Datetime 3678 3689	August 2008
+T330	RadPathResult 3701 3739;3786 3796	2 cm subcutaneous hypermetabolic focus SUV of 7.4
+A72	RadPathResultVal T330 Progression
+R68	ResultOfTest Desc:T330 Test:T328	
+R69	HappensAtOnDuring Arg1:T329 Arg2:T328	
+T331	Site 3754 3777	upper parasternal level
+T332	Laterality 3748 3753	right
+R70	LateralityOfSite Arg1:T332 Arg2:T331	
+R71	SiteOf Arg1:T331 Arg2:T330	
+T333	RadPathResult 3804 3844	ill-defined  1.3 cm hypermetabolic focus
+A73	RadPathResultVal T333 Progression
+T334	RadPathResult 3852 3883;3886 3910;3919 3929	posterior segment of the medial right  lobe of the liver SUV of 4.8
+A74	HistoryVal T334 new
+A75	EpisodeDescription T334 Progression
+A76	RadPathResultVal T334 Progression
+R72	ResultOfTest Desc:T334 Test:T328	
+T335	Metastasis 3980 3990	metastatic
+A77	HistoryVal T335 new
+A78	EpisodeDescription T335 Recurrence
+R73	TestOrProcedureReveals Test:T328 Desc:T335	
+T336	Datetime 4004 4017	November 2008
+T337	Radiology 4032 4038	PET/CT
+A79	IntentVal T337 staging
+T338	RadPathResult 4076 4092	soft tissue mass
+A80	RadPathResultVal T338 Progression
+T339	Site 4093 4160	inferior  and anterior to the right aspect of the manubrium sternum
+R74	SiteOf Arg1:T339 Arg2:T338	
+R75	ResultOfTest Desc:T338 Test:T337	
+T340	RadPathResult 4231 4280	diffuse  heterogenous uptake throughout the liver
+A81	RadPathResultVal T340 Progression
+R76	ResultOfTest Desc:T340 Test:T337	
+T341	Pathology 4364 4370	biopsy
+T342	Site 4344 4363	axillary lymph node
+T343	Laterality 4338 4343	right
+R77	LateralityOfSite Arg1:T343 Arg2:T342	
+R78	SiteOf Arg1:T342 Arg2:T341	
+T344	Datetime 4394 4407	February 2008
+R79	HappensAtOnDuring Arg1:T341 Arg2:T344	
+T345	RadPathResult 4421 4427	benign
+A82	RadPathResultVal T345 NoDisease
+R80	ResultOfTest Desc:T345 Test:T341	
+T346	DiseaseState 4568 4603	locally recurrent and  unresectable
+T347	ClinicalCondition 4682 4696	osteoarthritis
+A83	ChronicVal T347 chronic
+T348	Site 4709 4713	hand
+T349	Laterality 4704 4708	left
+R81	LateralityOfSite Arg1:T349 Arg2:T348	
+R82	SiteOf Arg1:T348 Arg2:T347	
+T350	ClinicalCondition 4721 4730	emphysema
+A84	ChronicVal T350 chronic
+T351	ClinicalCondition 4742 4756	diverticulosis
+A85	ChronicVal T351 chronic
+T352	ProcedureName 4760 4771	colonoscopy
+A86	IntentVal T352 screening
+R83	TestOrProcedureReveals Test:T352 Desc:T351	
+T353	Radiology 4734 4739	x-ray
+R84	TestOrProcedureReveals Test:T353 Desc:T350	
+T354	ClinicalCondition 4773 4783	osteopenia
+A87	ChronicVal T354 chronic
+T355	ClinicalCondition 4791 4812	benign thyroid nodule
+T356	ClinicalCondition 4847 4857	neuropathy
+A88	ChronicVal T356 chronic
+T357	Site 4871 4875	hand
+T358	Laterality 4865 4870	right
+R85	LateralityOfSite Arg1:T358 Arg2:T357	
+R86	SiteOf Arg1:T357 Arg2:T356	
+T359	ClinicalCondition 4910 4920	plexopathy
+T360	Site 4901 4909	brachial
+T361	Laterality 4895 4900	right
+R87	LateralityOfSite Arg1:T361 Arg2:T360	
+R88	SiteOf Arg1:T360 Arg2:T359	
+T362	Symptom 4925 4975	loss of muscle mass in her  intrinsic hand muscles
+T4	SectionSkip 8262 9441	PHYSICAL EXAMINATION:  GENERAL: On physical examination, she is a pleasant woman in no acute  distress who appears to have very good recall.  VITAL SIGNS: Her height is 5'6", weight is 152 pounds, blood pressure  160/82, pulse 82, respirations 18, and her saturation is 98% on room  air.  SKIN: Her skin reveals no lesions.  HEENT: Her oropharynx is clear.  She is anicteric.  LYMPH NODES: She has no cervical or axillary adenopathy.  There are  soft, mobile nodes in the left supraclavicular space.  LUNGS: Her lungs are clear bilaterally to auscultation and percussion.  CARDIAC: Her cardiac exam is without murmur or gallop.  BREASTS: Her left breast is without masses.  Her right breast reveals a  well-healed incision in the 12 o'clock aspect of her right breast with  some density just below the incision.  She has a 2.5 x 2.5 cm, hard,  fixed mass just lateral to the sternal edge in the left superior chest  wall above her breast.  ABDOMEN: Her abdomen is soft and nontender without hepatosplenomegaly.  EXTREMITIES: Her extremities are without edema.  NEUROLOGIC: Neurologic exam is grossly nonfocal, although I did not  evaluate for brachial plexopathy in her right arm
+A89	SectionSkipType T4 physical_exam
+T363	ClinicalCondition 6920 6933	breast cancer
+A90	ExperiencerVal T363 family
+T364	Age 6949 6951	70
+R89	HappensAtOnDuring Arg1:T363 Arg2:T364	
+T365	ClinicalCondition 7003 7009	cancer
+A91	ExperiencerVal T365 family
+T366	Site 7016 7031	small intestine
+T367	Site 7040 7048	prostate
+R90	SiteOf Arg1:T366 Arg2:T365	
+R91	SiteOf Arg1:T367 Arg2:T365	
+T368	MaritalStatus 7076 7084	divorced
+T369	LivingCondition 7089 7119	lives with her 42-year-old son
+T370	Employment 7145 7169	worked with the military
+T371	Alcohol 7192 7199	alcohol
+A92	NegationModalityVal T371 negated
+T372	Tobacco 7213 7223	cigarettes
+A93	IsStoppedOrContinuing T372 stopped
+T373	Datetime 7261 7275	12  months ago
+R92	EndsOnOrAt Arg1:T372 Arg2:T373	
+T374	ConsumptionQuantity 7228 7241	75-pack-years
+R93	ConsumptionQuantityRel Arg1:T372 Arg2:T374	
+T375	Symptom 7322 7336	lack of energy
+T376	Symptom 7341 7345	pain
+T377	Site 7360 7364	hand
+T378	Laterality 7354 7359	right
+R94	LateralityOfSite Arg1:T378 Arg2:T377	
+R95	SiteOf Arg1:T377 Arg2:T376	
+T379	Symptom 7380 7390	discomfort
+T380	Site 7411 7422	breast mass
+R96	SiteOf Arg1:T380 Arg2:T379	
+T381	Symptom 7433 7437	pain
+T382	Site 7445 7451	wrists
+T383	Site 7456 7462	elbows
+R97	SiteOf Arg1:T382 Arg2:T381	
+R98	SiteOf Arg1:T383 Arg2:T381	
+T384	Symptom 7502 7517	not eating well
+T385	Symptom 7524 7532;7537 7546	appetite decreased
+T386	Symptom 7557 7574	lost five  pounds
+T387	Duration 7584 7599	last few months
+R99	HappensAtOnDuring Arg1:T386 Arg2:T387	
+T388	Symptom 7625 7640	tight breathing
+T389	Symptom 7655 7664	dizziness
+T390	Symptom 7713 7732	panic-like attacks,
+T391	Symptom 7733 7741	flushing
+T392	Symptom 7752 7761	dizziness
+T393	Symptom 7881 7888	fatigue
+T394	TreatmentType 7911 7920	radiation
+T395	Datetime 7925 7929	1994
+R100	HappensAtOnDuring Arg1:T394 Arg2:T395	
+R101	BeginsOnOrAt Arg1:T393 Arg2:T395	
+T396	Employment 7968 7978	retirement
+T397	Symptom 7994 8011	pulling sensation
+T398	Site 8019 8038	anterior chest wall
+R102	SiteOf Arg1:T398 Arg2:T397	
+T399	Symptom 8092 8105	shooting pain
+T400	Site 8141 8146	elbow
+T401	Laterality 8136 8140	left
+R103	LateralityOfSite Arg1:T401 Arg2:T400	
+R104	SiteOf Arg1:T400 Arg2:T399	
+T402	Age 9500 9502	73
+T403	Datetime 5005 5009	1987
+T405	ClinicalCondition 5062 5072	neuropathy
+A94	ChronicVal T405 chronic
+T406	Laterality 5049 5054	right
+T404	ProcedureName 5026 5029;5034 5041	rib removed
+T407	Site 5017 5024	scalene
+R105	SiteOf Arg1:T407 Arg2:T404	
+R106	LateralityOfSite Arg1:T406 Arg2:T407	
+R107	TestOrProcedureConductedForProblem Test:T404 Prob:T405	
+T408	ClinicalCondition 5104 5128	thoracic outlet syndrome
+T409	Site 5098 5103	right
+R108	SiteOf Arg1:T409 Arg2:T408	
+R109	ConditionOrTreatmentCausesProblem Treatment:T405 Prob:T408	
+T410	Symptom 5173 5177	weak
+T411	Site 5158 5162	hand
+T412	Laterality 5152 5157	right
+R110	LateralityOfSite Arg1:T412 Arg2:T411	
+R111	SiteOf Arg1:T411 Arg2:T410	
+R112	ConditionOrTreatmentCausesProblem Treatment:T404 Prob:T410	
+T413	Symptom 5271 5290	loss of muscle mass
+A95	ChronicVal T413 chronic
+A96	ContinuityVal T413 worsening
+T414	Symptom 5227 5235	symptoms
+A97	ChronicVal T414 chronic
+A98	ContinuityVal T414 worsening
+T415	ClinicalCondition 5308 5330	distal  polyneuropathy
+T416	Symptom 5336 5344	tingling
+T417	Symptom 5349 5357	numbness
+T418	Site 5365 5369	feet
+T419	Site 5374 5379	hands
+R113	SiteOf Arg1:T418 Arg2:T417	
+R114	SiteOf Arg1:T418 Arg2:T416	
+R115	SiteOf Arg1:T419 Arg2:T416	
+R116	SiteOf Arg1:T419 Arg2:T417	
+R117	SiteOf Arg1:T418 Arg2:T415	
+R118	SiteOf Arg1:T419 Arg2:T415	
+T420	MedicationName 5438 5443	CoQ10
+R119	TreatmentAdministeredForProblem Treatment:T420 Prob:T415	
+T421	Symptom 5470 5492	short-term memory loss
+T422	ClinicalCondition 5600 5605	aging
+T423	ClinicalCondition 5610 5620	depression
+A99	ChronicVal T423 chronic
+A100	ChronicVal T422 chronic
+T424	Datetime 5538 5550	January 2008
+R120	HappensAtOnDuring Arg1:T422 Arg2:T424	
+R121	HappensAtOnDuring Arg1:T423 Arg2:T424	
+T425	RadPathResult 5639 5642	CVA
+A101	ContinuityVal T425 new
+T426	Radiology 5662 5669	imaging
+A102	RadPathResultVal T425 Others
+T427	Site 5631 5638	frontal
+T428	Laterality 5625 5630	right
+R122	LateralityOfSite Arg1:T428 Arg2:T427	
+R123	SiteOf Arg1:T427 Arg2:T425	
+T429	RadPathResult 5688 5695	embolic
+A103	NegationModalityVal T429 uncertain_in_past
+T430	Datetime 5719 5723	2003
+R124	ResultOfTest Desc:T425 Test:T426	
+R125	ResultOfTest Desc:T429 Test:T426	
+R126	HappensAtOnDuring Arg1:T426 Arg2:T430	
+T431	ClinicalCondition 5748 5764	ocular migraines
+T432	Symptom 5781 5794	opaque vision
+T433	Duration 5804 5816	20  minutes.
+R127	HappensAtOnDuring Arg1:T432 Arg2:T433	
+T434	Frequency 5829 5837	episodic
+R128	Temporal Arg1:T432 Arg2:T434	
+T435	Symptom 5926 5935	dizziness
+T436	Symptom 5941 5956	lightheadedness
+T437	Frequency 5911 5921	five times
+R129	Temporal Arg1:T435 Arg2:T437	
+R130	Temporal Arg1:T436 Arg2:T437	
+T438	Datetime 5975 5979	2007
+T439	Symptom 6004 6019	lightheadedness
+T440	Symptom 6024 6033	dizziness
+T441	Symptom 6057 6071	falling spells
+T442	ClinicalCondition 6122 6136	thyroid nodule
+T443	Duration 6141 6151	two  years
+R131	HappensAtOnDuring Arg1:T442 Arg2:T443	
+T444	ClinicalCondition 6207 6217	hammertoes
+T445	ProcedureName 6183 6190	surgery
+A104	TreatmentCategory T445 Others
+T446	Site 6198 6202	feet
+R132	TestOrProcedureConductedForProblem Test:T445 Prob:T444	
+R133	SiteOf Arg1:T446 Arg2:T445	
+T447	Datetime 6226 6237	early 1980s
+R134	HappensAtOnDuring Arg1:T445 Arg2:T447	
+T448	ClinicalCondition 6324 6333	migraines
+T449	Symptom 6366 6380	falling spells
+T450	ClinicalCondition 6390 6408	hairline fractures
+T451	Site 6416 6422	wrists
+T452	Site 6428 6434	elbows
+T453	Datetime 6441 6455	four years ago
+R135	SiteOf Arg1:T451 Arg2:T450	
+R136	SiteOf Arg1:T452 Arg2:T450	
+R137	BeginsOnOrAt Arg1:T450 Arg2:T453	
+T454	Symptom 6472 6476	pain
+T455	Site 6484 6490	wrists
+T456	Site 6496 6502	elbows
+R138	SiteOf Arg1:T456 Arg2:T454	
+R139	SiteOf Arg1:T455 Arg2:T454	
+T457	ProcedureName 6568 6573	brace
+T458	ClinicalCondition 6509 6518	fractured
+T459	Site 6523 6528	ankle
+R140	SiteOf Arg1:T459 Arg2:T458	
+R141	TestOrProcedureConductedForProblem Test:T457 Prob:T458	
+T460	PatientCharacteristics 6640 6648	menarche
+T461	Age 6656 6658	12
+R142	BeginsOnOrAt Arg1:T460 Arg2:T461	
+T462	Age 6688 6695	mid-50s
+R143	EndsOnOrAt Arg1:T460 Arg2:T462	
+T463	MedicationName 6707 6726	oral contraceptives
+T464	Age 6734 6736	27
+R144	BeginsOnOrAt Arg1:T463 Arg2:T464	
+T465	TreatmentType 6756 6783	hormone replacement therapy
+A105	TreatmentIntentVal T465 others
+T466	Duration 6788 6797	24 months
+T467	Age 6805 6807	56
+R145	HappensAtOnDuring Arg1:T465 Arg2:T466	
+R146	BeginsOnOrAt Arg1:T465 Arg2:T467	
+T468	Age 6834 6836	22
+T469	PatientCharacteristics 6857 6869	first child.
+R147	HappensAtOnDuring Arg1:T469 Arg2:T468	
+T470	ClinicalCondition 9583 9597	breast  cancer
+T471	BiomarkerName 9557 9573	hormone-receptor
+A107	EpisodeDescription T471 Recurrence
+T472	BiomarkerResult 9574 9582	positive
+A108	EpisodeDescription T472 Recurrence
+A109	BiomarkerResultVal T472 Positive
+R148	BiomarkerRel Arg1:T472 Arg2:T471	
+R149	TumorDesc TumorDetails:T470 Desc:T471	
+T473	DiseaseState 9532 9541	recurrent
+T474	TumorCharacteristics 9543 9555	unresectable
+A106	EpisodeDescription T474 Recurrence
+R150	TumorDesc TumorDetails:T470 Desc:T473	
+R151	TumorDesc TumorDetails:T470 Desc:T474	
+T475	Datetime 9643 9647	1994
+T476	TreatmentType 9653 9660	surgery
+A111	TreatmentContinuityVal T476 finished
+A112	TreatmentTypeVal T476 local
+A113	TreatmentIntentVal T476 curative
+R152	HappensAtOnDuring Arg1:T476 Arg2:T475	
+T477	RadiationTherapyName 9666 9688	interstitial radiation
+A114	TreatmentContinuityVal T477 finished
+A115	TreatmentTypeVal T477 adjuvant
+A116	TreatmentIntentVal T477 curative
+R153	HappensAtOnDuring Arg1:T477 Arg2:T475	
+T478	TreatmentType 9711 9718	hormone
+A117	NegationModalityVal T478 negated
+T479	DiseaseState 9738 9748	recurrence
+T480	MedicationName 9778 9787	tamoxifen
+A119	TreatmentTypeVal T480 adjuvant
+A120	TreatmentIntentVal T480 curative
+A121	TreatmentCategory T480 AntiNeoPlastics
+T481	Duration 9801 9817	under two  years
+T482	Datetime 9826 9830	1994
+R154	HappensAtOnDuring Arg1:T480 Arg2:T481	
+R155	HappensAtOnDuring Arg1:T480 Arg2:T482	
+R156	TreatmentAdministeredForProblem Treatment:T480 Prob:T479	
+T483	TreatmentType 9912 9928	hormonal therapy
+A122	NegationModalityVal T483 hypothetical_in_future
+A123	TreatmentTypeVal T483 others
+A124	TreatmentIntentVal T483 curative
+T484	MedicationName 9937 9957	aromatase  inhibitor
+A125	NegationModalityVal T484 hypothetical_in_future
+A126	TreatmentTypeVal T484 others
+A127	TreatmentIntentVal T484 curative
+T485	MedicationName 10019 10028	letrozole
+T486	MedicationName 10034 10045	alendronate
+T487	Radiology 10067 10079	bone density
+R157	TreatmentAdministeredForProblem Treatment:T485 Prob:T487	
+R158	TreatmentAdministeredForProblem Treatment:T486 Prob:T487	
+A128	IntentVal T487 screening
+T488	Radiology 10111 10123	bone density
+T489	Datetime 10127 10140	February 2008
+R159	HappensAtOnDuring Arg1:T488 Arg2:T489	
+T490	RadPathResult 10152 10159;10164 10168	T-score -2.8
+A129	RadPathResultVal T490 Others
+T491	Site 10176 10181	spine
+R160	SiteOf Arg1:T491 Arg2:T490	
+T492	ClinicalCondition 10208 10220	osteoporosis
+T493	ClinicalCondition 10261 10271	osteopenia
+T494	RadPathResult 10226 10230	-1.9
+A130	RadPathResultVal T494 Others
+R161	ResultOfTest Desc:T494 Test:T488	
+R162	ResultOfTest Desc:T490 Test:T488	
+T495	Site 10239 10244	femur
+R163	SiteOf Arg1:T495 Arg2:T494	
+T496	MedicationName 10357 10372	zoledronic acid
+T497	MedicationName 10417 10436	aromatase inhibitor
+T498	ClinicalTrial 10505 10516	CALGB 40503
+T499	MedicationName 10546 10555	letrozole
+T500	MedicationName 10587 10598	bevacizumab
+T501	MedicationName 10602 10609	placebo
+T502	Radiology 10695 10701	PET/CT
+T503	Datetime 10732 10742	January 16
+R164	HappensAtOnDuring Arg1:T502 Arg2:T503	
+T504	RadPathResult 10757 10778	increased FDG avidity
+T505	Site 10795 10824	parasternal chest wall nodule
+T506	Laterality 10788 10793	right
+R165	LateralityOfSite Arg1:T506 Arg2:T505	
+T507	Site 10841 10892	lymph node along the  inferior right axillary chain
+R166	SiteOf Arg1:T505 Arg2:T504	
+R167	SiteOf Arg1:T507 Arg2:T504	
+A131	NegationModalityVal T496 hypothetical_in_future
+A132	TreatmentCategory T496 Others
+R168	TreatmentAdministeredForProblem Treatment:T496 Prob:T492	
+R169	TreatmentAdministeredForProblem Treatment:T496 Prob:T493	
+A133	NegationModalityVal T497 hypothetical_in_future
+A134	NegationModalityVal T499 hypothetical_in_future
+A135	NegationModalityVal T500 hypothetical_in_future
+A136	NegationModalityVal T501 hypothetical_in_future
+A137	IntentVal T502 others
+R170	ResultOfTest Desc:T504 Test:T502	
+T508	Radiology 11305 11311	PET/CT
+T509	Datetime 11331 11344	February 2008
+R171	HappensAtOnDuring Arg1:T508 Arg2:T509	
+T510	Age 11694 11696	73
+T511	ClinicalCondition 11776 11782	cancer
+T512	Datetime 11786 11790	1994
+R172	HappensAtOnDuring Arg1:T511 Arg2:T512	
+T513	Stage 11766 11769	low
+A138	HistoryVal T513 history
+A139	EpisodeDescription T513 FirstOccurrence
+R173	TumorDesc TumorDetails:T511 Desc:T513	
+T514	DiseaseState 11834 11859;11868 11883	local regional recurrence not  resectable
+T515	Duration 11811 11820	14+ years
+R174	HappensAfter Arg1:T514 Arg2:T515	
+T516	TreatmentType 11918 11933	hormone therapy
+A142	NegationModalityVal T516 negated
+T517	MedicationName 12079 12099	aromatase  inhibitor
+A143	NegationModalityVal T517 hypothetical_in_future
+A144	TreatmentTypeVal T517 others
+A145	TreatmentIntentVal T517 curative
+A146	TreatmentCategory T517 AntiNeoPlastics
+T518	ClinicalTrial 12117 12122	study
+T519	DiagnosticLabTest 12142 12160	laboratory studies
+T520	Radiology 12173 12179	PET/CT
+T521	Radiology 12189 12192	MRI
+T522	Site 12200 12205	brain
+R175	SiteOf Arg1:T522 Arg2:T521	
+T523	Symptom 12221 12236	falling  spells
+R176	TestOrProcedureConductedForProblem Test:T521 Prob:T523	
+R177	TestOrProcedureConductedForProblem Test:T520 Prob:T523	
+R178	TestOrProcedureConductedForProblem Test:T519 Prob:T523	
+T524	Radiology 12243 12246	MRI
+T525	Site 12254 12259	brain
+R179	SiteOf Arg1:T525 Arg2:T524	
+T526	RadPathResult 12282 12292	malignancy
+A147	NegationModalityVal T526 negated
+T527	Site 12304 12309	brain
+T528	Site 12313 12317	bone
+R180	SiteOf Arg1:T527 Arg2:T526	
+R181	SiteOf Arg1:T528 Arg2:T526	
+R182	ResultOfTest Desc:T526 Test:T524	
+T529	RadPathResult 12363 12379	encephalomalacia
+T530	Site 12341 12361	middle frontal gyrus
+T531	Laterality 12335 12340	right
+R183	LateralityOfSite Arg1:T531 Arg2:T530	
+R184	SiteOf Arg1:T530 Arg2:T529	
+R185	ResultOfTest Desc:T529 Test:T524	
+T532	RadPathResult 12384 12391	gliosis
+R186	ResultOfTest Desc:T532 Test:T524	
+T533	DiagnosticLabTest 12438 12456	laboratory studies
+T534	LabTestResult 12509 12515	normal
+A148	LabTestResultVal T534 normal
+R187	ResultOfTest Desc:T534 Test:T533	
+T535	DiagnosticLabTest 12601 12608	CA27-29
+T536	LabTestResult 12618 12620	15
+R188	ResultOfTest Desc:T536 Test:T535	
+T537	DiagnosticLabTest 12628 12631	LDH
+T538	LabTestResult 12636 12642	normal
+A149	LabTestResultVal T538 normal
+R189	ResultOfTest Desc:T538 Test:T537	
+A150	LabTestResultVal T536 normal
+T539	ClinicalCondition 12799 12811	breast cance
+T540	BiomarkerName 12763 12779	hormone-receptor
+A151	HistoryVal T540 new
+A152	EpisodeDescription T540 Recurrence
+T541	BiomarkerResult 12754 12762;12780 12788	strongly positive
+A153	HistoryVal T541 new
+A154	EpisodeDescription T541 Recurrence
+A155	BiomarkerResultVal T541 Positive
+R190	BiomarkerRel Arg1:T541 Arg2:T540	
+R191	TumorDesc TumorDetails:T539 Desc:T540	
+T542	DiseaseState 12723 12737	local regional
+R192	TumorDesc TumorDetails:T539 Desc:T542	
+T543	TreatmentType 12928 12944	hormone  therapy
+A158	NegationModalityVal T543 hypothetical_in_future
+A159	TreatmentTypeVal T543 others
+A160	TreatmentIntentVal T543 curative
+R193	TreatmentAdministeredForProblem Treatment:T543 Prob:T539	
+T544	ProcedureName 13106 13124	surgical resection
+A161	IntentVal T544 treatment-others
+A162	TreatmentTypeVal T544 local
+A163	TreatmentCategory T544 Others
+T545	TreatmentType 13130 13137	radiate
+A164	NegationModalityVal T545 hypothetical_in_future
+A165	TreatmentTypeVal T545 adjuvant
+A166	TreatmentIntentVal T545 others
+A167	NegationModalityVal T544 hypothetical_in_future
+T546	MedicationName 13279 13294	zoledronic acid
+A168	TreatmentContinuityVal T546 started
+A169	TreatmentTypeVal T546 others
+A170	TreatmentCategory T546 Supportive
+T547	Datetime 13250 13260	January 09
+R194	HappensAtOnDuring Arg1:T546 Arg2:T547	
+T548	ClinicalCondition 13311 13323	osteoporosis
+R195	TreatmentAdministeredForProblem Treatment:T546 Prob:T548	
+T549	MedicationName 13352 13372	aromatase  inhibitor
+A171	NegationModalityVal T549 hypothetical_in_future
+A172	TreatmentTypeVal T549 adjuvant
+A173	TreatmentIntentVal T549 others
+T550	Datetime 13407 13417	January 25
+T551	MedicationName 13428 13447	aromatase inhibitor
+A174	NegationModalityVal T551 planned_in_future
+A175	TreatmentContinuityVal T551 planned
+A176	TreatmentTypeVal T551 adjuvant
+A177	TreatmentIntentVal T551 curative
+A178	TreatmentCategory T551 AntiNeoPlastics
+A179	TreatmentCategory T549 AntiNeoPlastics
+T552	ClinicalTrial 13475 13485	CALGB 4503
+T553	MedicationName 13501 13508	placebo
+A180	NegationModalityVal T553 hypothetical_in_future
+T554	MedicationName 13512 13523	bevacizumab
+A181	NegationModalityVal T554 hypothetical_in_future
+T555	DiagnosticLabTest 12516 12519	CBC
+T556	DiagnosticLabTest 12521 12531	creatinine
+T557	DiagnosticLabTest 12533 12545	electrolytes
+T558	DiagnosticLabTest 12547 12567	liver function tests
+T559	DiagnosticLabTest 12574 12581	calcium
+R196	ResultOfTest Desc:T534 Test:T555	
+R197	ResultOfTest Desc:T534 Test:T556	
+R198	ResultOfTest Desc:T534 Test:T557	
+R199	ResultOfTest Desc:T534 Test:T559	
+R200	ResultOfTest Desc:T534 Test:T558	
+A182	RadPathResultVal T532 Others
+A183	RadPathResultVal T529 Others
+A184	RadPathResultVal T526 Others
+T561	RadPathResult 11350 11392	parasternal  nodule had increased in size,
+A186	RadPathResultVal T561 Progression
+R201	ResultOfTest Desc:T561 Test:T502	
+T562	RadPathResult 11537 11618	small, well-demarcated, low-attenuation  lesion in the liver consistent with cyst
+T563	RadPathResult 11627 11658	bones reveal no  abnormalities.
+R202	ResultOfTest Desc:T562 Test:T502	
+R203	ResultOfTest Desc:T563 Test:T502	
+A187	DiseaseStateVal T242 progression-recurrence
+A188	DiseaseStateVal T346 progression-recurrence
+R204	SizeOf Arg1:T254 Arg2:T252	
+T564	Size 2688 2700	1.7 x 1.2 cm
+R205	SizeOf Arg1:T564 Arg2:T301	
+R206	TestOrProcedureReveals Test:T300 Desc:T564	
+T565	Size 2769 2781	0.6 x 0.3 cm
+R207	SizeOf Arg1:T565 Arg2:T303	
+R208	TestOrProcedureReveals Test:T300 Desc:T565	
+T566	Size 4172 4185	1.9  x 1.5 cm
+R209	SizeOf Arg1:T566 Arg2:T338	
+R210	TestOrProcedureReveals Test:T337 Desc:T566	
+R211	HappensAtOnDuring Arg1:T336 Arg2:T337	
+R212	HappensAtOnDuring Arg1:T403 Arg2:T404	
+R213	EndsOnOrAt Arg1:T435 Arg2:T438	
+R214	EndsOnOrAt Arg1:T436 Arg2:T438	
+T567	Laterality 8063 8068	right
+R215	LateralityOfSite Arg1:T567 Arg2:T398	
+A110	DiseaseStateVal T473 progression-recurrence
+A118	DiseaseStateVal T479 progression-recurrence
+A140	DiseaseStateVal T514 progression-recurrence
+A141	DiseaseStateVal T542 progression-recurrence
+R216	HappensAfter Arg1:T550 Arg2:T551	
+R217	HappensAfter Arg1:T553 Arg2:T550	
+R218	HappensAfter Arg1:T554 Arg2:T550	
+R219	ConditionOrTreatmentCausesProblem Treatment:T431 Prob:T432	
+T3	PatientCharacteristics 6817 6823	G2, P2
+R220	ConditionOrTreatmentCausesProblem Treatment:T394 Prob:T393	
+T560	ClinicalCondition 8171 8183	tennis elbow
+A156	ChronicVal T560 chronic
+R221	ConditionOrTreatmentCausesProblem Treatment:T560 Prob:T399	
+R222	SiteOf Arg1:T400 Arg2:T560	
+A157	NegationModalityVal T498 hypothetical_in_future
+A185	NegationModalityVal T518 hypothetical_in_future
+A189	NegationModalityVal T552 hypothetical_in_future
+T568	RadPathResult 11420 11434;11496 11514	axillary nodes decreased in  size
+R223	ResultOfTest Desc:T568 Test:T502	
+T569	Site 11031 11126	adjacent to a soft tissue density deep to three  surgical clips in the right upper inner breast
+T570	RadPathResult 10905 10935;11127 11168	parasternal soft tissue nodule without FDG avidity  consistent with scar
+T571	Size 10946 10952	1.9 cm
+R224	SizeOf Arg1:T571 Arg2:T570	
+R225	SiteOf Arg1:T569 Arg2:T570	
+R226	ResultOfTest Desc:T570 Test:T502	
+T572	Size 11229 11235	1.9 cm
+T573	Size 11269 11275	0.5 cm
+T574	LymphNodeInvolvement 11276 11286	lymph node
+R227	SizeOf Arg1:T573 Arg2:T574	
+T575	LymphNodeInvolvement 11207 11217;11244 11252	lymph node SUV of 2
+T576	Site 11189 11206	inferior axillary
+T577	Laterality 11183 11188	right
+R228	LateralityOfSite Arg1:T577 Arg2:T576	
+R229	SizeOf Arg1:T572 Arg2:T575	
+R230	SiteOf Arg1:T576 Arg2:T575	
+R231	TestOrProcedureReveals Test:T502 Desc:T575	
+R232	TestOrProcedureReveals Test:T502 Desc:T574	
+A190	NegationModalityVal T485 planned_in_future
+A191	NegationModalityVal T486 planned_in_future
+T578	hpi_start 708 712	DATE
+T579	hpi_end 6868 6869	.
+T580	ap_start 9446 9456	IMPRESSION
+T581	ap_end 13630 13636	woman.
+T582	Datetime 1454 1458	1994
+T583	Datetime 1463 1467	1996
+R233	BeginsOnOrAt Arg1:T266 Arg2:T582	
+R234	EndsOnOrAt Arg1:T266 Arg2:T583	

@@ -1,0 +1,646 @@
+T1	SectionAnnotate 0 11	Subjective:
+T2	SectionAnnotate 73 76	HPI
+T3	SectionSkip 888 3413	FINAL PATHOLOGIC DIAGNOSIS  Left breast, stereotactic core needle biopsy:  1. Ductal carcinoma in situ, intermediate nuclear grade, cribriform and  micropapillary patterns, with focal necrosis; see comment.  2. Microcalcifications in association with ductal carcinoma in situ.  >90% estrogen receptor positive, Progesterone receptor pending.      Based on this finding a lumpectomy was recommended and performed on 01/29/2017 the pathology of which is appended below:  Laterality: Left.  - Tumor site: Lower inner quadrant.    - Position: 7 o'clock.  - Invasive tumor type: None.  - Ductal carcinoma in situ (DCIS): Present.  - DCIS nuclear grade: Intermediate.  - DCIS architectural patterns: Solid and cribriform.  - Necrosis in DCIS: None.  - Ductal carcinoma in situ size: DCIS present in 5 contiguous slices  (December 26), spanning 1.8 cm.  - Microcalcifications: None.  - Resection margins for DCIS:   For Part A:     - Posterior margin: Positive (tumor is at ink, on slide A8).  Additional margin submitted in part B is <0.1 from the new margin.    - 
+ Anterior medial margin: Negative (tumor is <0.1 cm away, on  slide A7, A9, A10).    - Anterior lateral margin: Negative (tumor is >1 cm away, on slide  A6).    - Superior margin: Negative (tumor is >1 cm away).    - Inferior margin: Negative (tumor is >1 cm away).    Additional margin was submitted separately (Part B) and shows DCIS <0.1  cm from the new margin (black ink). Level sections were performed on  parts *****-***** to confirm the above diagnosis.    - Lobular carcinoma in situ: None.  - Non-neoplastic breast: Apocrine metaplasia, usual ductal hyperplasia,  fat necrosis.  - Lymph node status: N/A.  - AJCC/UICC stage: pTisNx.    - Tumor biomarker (ER/PR) status was positive.    At this time Ms. ***** is at her baseline. Her left breast is still somewhat sore subsequent to her surgery but she is in no severe pain. His weight is continuing to menstruate although she is having significant hot flashes and night sweats which have been going on about 9 months and perhaps are worsening. She has continues to have chronic low back pain but this is unchanged for her. Her appetite is good her activities are full her weight is stable and her bowel and bladder function are within normal limits               Patient Active Problem List   Diagnosis    Migraine    Chronic low back pain    Right-sided low back pain without sciatica    Current smoker    High blood pressure    Abnormal mammogram of left breast    DCIS (ductal carcinoma in situ)
+T4	SectionAnnotate 3425 3446	Past Medical History:
+T5	SectionAnnotate 3523 3545	Past Surgical History:
+T6	SectionSkip 3728 3747	Current Medications
+T7	SectionSkip 3758 5005	Current Outpatient Prescriptions   Medication Sig Dispense Refill    amLODIPine (NORVASC) 5 mg tablet Take 1 
+ tablet (5 mg total) by mouth Daily. 30 tablet 3    gabapentin (NEURONTIN) 300 mg capsule Take 1 capsule (300 mg total) by mouth 3 (three) times daily. 90 capsule 2    acetaminophen (TYLENOL) 500 mg tablet Take 1 tablet (500 mg total) by mouth every 6 (six) hours as needed for Pain or temp > 38.5 C. 120 tablet 6    blood pressure monitor KIT Check blood pressure once per day 1 kit 0    cetirizine (ZYRTEC) 10 mg tablet Take 1 tablet (10 mg total) by mouth Daily. 90 tablet prn    cyclobenzaprine (FLEXERIL) 5 mg tablet TAKE 1 TABLET BY MOUTH EVERY 8 HOURS AS NEEDED FOR MUSCLE SPASMS 90 tablet 3    ferrous sulfate 325 mg (65 mg elemental) tablet Take 1 tablet (325 mg total) by mouth daily with breakfast. 90 tablet 0    heating pads PADS 1 Units by Misc.(Non-Drug; Combo Route) route 3 (three) times daily. 3 each 3    lidocaine (XYLOCAINE) 5 % OINT ointment Apply thin layer (dime-sized amount) to right lower back once or twice daily as needed for pain 50 g 3    naproxen (NAPROSYN) 500 mg tablet TAKE 1 TABLET BY MOUTH TWICE DAILY WITH MEALS 100 tablet 0     No current facility-administered medications for this visit.
+T8	SectionAnnotate 5024 5038	Family History
+T9	SectionAnnotate 5226 5243	Review of Systems
+T11	SectionSkip 6689 7783	Physical Exam   Nursing note and vitals reviewed.  Constitutional: She is oriented to person, place, and time. She appears well-developed and well-nourished.   HENT:   Head: Normocephalic and atraumatic.   Eyes: EOM are normal. Pupils are equal, round, and reactive to light.   Neck: Normal range of motion. Neck supple.   Cardiovascular: Normal rate and regular rhythm.    Pulmonary/Chest: Effort normal and breath sounds normal.   Chest wall examination is significant for a left breast which is bandaged in the dependent portion and very tender to palpation. To gentle palpation there is no suspicious mass other than the expected postsurgical firmness. The left axilla is clear as is the left supraclavicular and left infraclavicular area. The right breast is without suspicious mass as is the right axilla right supraclavicular and right infraclavicular area   Abdominal: Soft.   Neurological: She is alert and oriented to person, place, and time.   Skin: Skin is warm and dry.   Psychiatric: She has a normal mood and affect. Her behavior is normal. 
+ Judgment and thought content normal.
+T12	SectionAnnotate 7794 7805	Assessment:
+T13	TEST 115 123	a biopsy
+T14	PROBLEM 131 147	left breast DCIS
+T15	TREATMENT 194 234	potential adjuvant anti-hormonal therapy
+T16	TEST 274 303	routine screening mammography
+T17	PROBLEM 318 377	indeterminate calcifications in the lower inner left breast
+T18	TEST 418 436	additional imaging
+T19	TEST 461 495	left breast diagnostic mammography
+T20	TEST 521 532	a mammogram
+T21	PROBLEM 542 557	extremely dense
+T22	PROBLEM 563 616	3 mm group of amorphous punctate round calcifications
+T23	TEST 671 682	the cc view
+T24	TEST 744 770	a stereotactic core biopsy
+T25	TEST 816 829	The pathology
+T26	TEST 929 960	stereotactic core needle biopsy
+T27	PROBLEM 966 990	Ductal carcinoma in situ
+T28	PROBLEM 992 1059	intermediate nuclear grade, cribriform and  micropapillary patterns
+T29	PROBLEM 1066 1080	focal necrosis
+T30	PROBLEM 1099 1118	Microcalcifications
+T31	PROBLEM 1139 1163	ductal carcinoma in situ
+T32	TEST 1171 1188	estrogen receptor
+T33	TEST 1199 1220	Progesterone receptor
+T34	TREATMENT 1257 1269	a lumpectomy
+T35	TEST 1314 1327	the pathology
+T36	PROBLEM 1471 1487	Ductal carcinoma
+T37	PROBLEM 1607 1623	Necrosis in DCIS
+T38	PROBLEM 1634 1650	Ductal carcinoma
+T39	PROBLEM 1665 1669	DCIS
+T40	TREATMENT 1767 1784	Resection margins
+T41	PROBLEM 1789 1793	DCIS
+T42	PROBLEM 1833 1848	Positive (tumor
+T43	TEST 1949 1971	Anterior medial margin
+T44	TEST 2035 2058	Anterior lateral margin
+T45	PROBLEM 2070 2075	tumor
+T46	PROBLEM 2138 2143	tumor
+T47	PROBLEM 2192 2197	tumor
+T48	TEST 2279 2283	DCIS
+T49	TEST 2326 2340	Level sections
+T50	PROBLEM 2415 2432	Lobular carcinoma
+T51	PROBLEM 2451 2472	Non-neoplastic breast
+T52	PROBLEM 2474 2493	Apocrine metaplasia
+T53	PROBLEM 2495 2519	usual ductal hyperplasia
+T54	PROBLEM 2522 2534	fat necrosis
+T55	TEST 2558 2562	N/A.
+T56	PROBLEM 2566 2570	AJCC
+T57	TEST 2583 2589	pTisNx
+T58	TEST 2596 2611	Tumor biomarker
+T59	TEST 2613 2618	ER/PR
+T60	PROBLEM 2712 2725	somewhat sore
+T61	TREATMENT 2740 2751	her surgery
+T62	PROBLEM 2769 2780	severe pain
+T63	TEST 2782 2792	His weight
+T64	PROBLEM 2844 2867	significant hot flashes
+T65	PROBLEM 2872 2884	night sweats
+T66	PROBLEM 2978 2999	chronic low back pain
+T67	PROBLEM 3215 3223	Migraine
+T68	PROBLEM 3228 3249	Chronic low back pain
+T69	PROBLEM 3254 3279	Right-sided low back pain
+T70	PROBLEM 3288 3296	sciatica
+T71	TEST 3320 3339	High blood pressure
+T72	PROBLEM 3344 3377	Abnormal mammogram of left breast
+T73	PROBLEM 3382 3404	DCIS (ductal carcinoma
+T74	PROBLEM 3468 3474	Anemia
+T75	PROBLEM 3480 3499	High blood pressure
+T76	TREATMENT 3548 3598	Procedure Laterality Date    OVARIAN CYST REMOVAL
+T77	TREATMENT 3644 3662	Allergen Reactions
+T78	TREATMENT 3667 3684	Penicillins Hives
+T79	TREATMENT 3689 3714	Hydrocodone-Acetaminophen
+T80	TREATMENT 3728 3747	Current Medications
+T81	TREATMENT 3758 3790	Current Outpatient Prescriptions
+T82	TREATMENT 3828 3848	amLODIPine (NORVASC)
+T83	TREATMENT 3922 3944	gabapentin (NEURONTIN)
+T84	TREATMENT 4039 4062	acetaminophen (TYLENOL)
+T85	PROBLEM 4149 4153	Pain
+T86	TEST 4157 4161	temp
+T87	TEST 4189 4203	blood pressure
+T88	TEST 4222 4236	blood pressure
+T89	TREATMENT 4262 4281	cetirizine (ZYRTEC)
+T90	TREATMENT 4357 4383	cyclobenzaprine (FLEXERIL)
+T91	PROBLEM 4447 4460	MUSCLE SPASMS
+T92	TREATMENT 4477 4492	ferrous sulfate
+T93	TREATMENT 4601 4618	heating pads PADS
+T94	TREATMENT 4630 4664	Misc.(Non-Drug; Combo Route) route
+T95	TREATMENT 4695 4722	3    lidocaine (XYLOCAINE)
+T96	TREATMENT 4727 4777	OINT ointment Apply thin layer (dime-sized amount)
+T97	PROBLEM 4832 4836	pain
+T98	TREATMENT 4848 4867	naproxen (NAPROSYN)
+T99	TREATMENT 4978 4989	medications
+T100	PROBLEM 5075 5087	Hypertension
+T101	PROBLEM 5100 5109	Arthritis
+T102	PROBLEM 5122 5132	Depression
+T103	PROBLEM 5145 5154	Migraines
+T104	PROBLEM 5167 5175	Diabetes
+T105	PROBLEM 5188 5200	Hypertension
+T106	PROBLEM 5284 5290	chills
+T107	PROBLEM 5292 5303	diaphoresis
+T108	PROBLEM 5305 5310	fever
+T109	PROBLEM 5312 5319	malaise
+T110	PROBLEM 5320 5327	fatigue
+T111	PROBLEM 5332 5343	weight loss
+T112	PROBLEM 5366 5376	congestion
+T113	PROBLEM 5378 5391	ear discharge
+T114	PROBLEM 5393 5401	ear pain
+T115	PROBLEM 5403 5415	hearing loss
+T116	PROBLEM 5417 5427	nosebleeds
+T117	PROBLEM 5429 5440	sore throat
+T118	PROBLEM 5445 5453	tinnitus
+T119	PROBLEM 5476 5490	blurred vision
+T120	PROBLEM 5492 5505	double vision
+T121	PROBLEM 5507 5518	photophobia
+T122	PROBLEM 5520 5524	pain
+T123	PROBLEM 5526 5535	discharge
+T124	PROBLEM 5540 5547	redness
+T125	PROBLEM 5577 5582	cough
+T126	PROBLEM 5584 5594	hemoptysis
+T127	PROBLEM 5596 5613	sputum production
+T128	PROBLEM 5615 5634	shortness of breath
+T129	PROBLEM 5636 5644	wheezing
+T130	PROBLEM 5649 5656	stridor
+T131	PROBLEM 5689 5699	chest pain
+T132	PROBLEM 5701 5713	palpitations
+T133	PROBLEM 5715 5724	orthopnea
+T134	PROBLEM 5726 5738	claudication
+T135	PROBLEM 5740 5752	leg swelling
+T136	PROBLEM 5757 5760	PND
+T137	PROBLEM 5807 5821	abdominal pain
+T138	PROBLEM 5823 5837	blood in stool
+T139	PROBLEM 5839 5851	constipation
+T140	PROBLEM 5853 5861	diarrhea
+T141	PROBLEM 5863 5872	heartburn
+T142	PROBLEM 5874 5880	melena
+T143	PROBLEM 5882 5888	nausea
+T144	PROBLEM 5893 5901	vomiting
+T145	PROBLEM 5933 5940	dysuria
+T146	PROBLEM 5942 5952	flank pain
+T147	PROBLEM 5954 5963	frequency
+T148	PROBLEM 5965 5974	hematuria
+T149	PROBLEM 5979 5986	urgency
+T150	PROBLEM 6020 6029	back pain
+T151	PROBLEM 6044 6049	falls
+T152	PROBLEM 6051 6061	joint pain
+T153	PROBLEM 6063 6071	myalgias
+T154	PROBLEM 6076 6085	neck pain
+T155	TREATMENT 6103 6109	a cane
+T156	PROBLEM 6111 6141	Right lower extremity weakness
+T157	PROBLEM 6146 6163	chronic back pain
+T158	PROBLEM 6170 6179	an injury
+T159	PROBLEM 6202 6209	itching
+T160	PROBLEM 6214 6218	rash
+T161	PROBLEM 6249 6258	dizziness
+T162	PROBLEM 6260 6268	tingling
+T163	PROBLEM 6270 6277	tremors
+T164	PROBLEM 6279 6293	sensory change
+T165	PROBLEM 6295 6308	speech change
+T166	PROBLEM 6310 6324	focal weakness
+T167	PROBLEM 6326 6334	seizures
+T168	PROBLEM 6336 6357	loss of consciousness
+T169	PROBLEM 6359 6367	weakness
+T170	PROBLEM 6372 6381	headaches
+T171	PROBLEM 6419 6442	environmental allergies
+T172	PROBLEM 6447 6457	polydipsia
+T173	PROBLEM 6468 6480	bruise/bleed
+T174	PROBLEM 6528 6538	depression
+T175	PROBLEM 6540 6554	hallucinations
+T176	PROBLEM 6556 6567	memory loss
+T177	PROBLEM 6589 6603	suicidal ideas
+T178	PROBLEM 6632 6639	anxious
+T179	PROBLEM 6658 6666	insomnia
+T180	PROBLEM 6881 6891	atraumatic
+T181	TEST 7098 7111	breath sounds
+T182	TEST 7122 7144	Chest wall examination
+T183	PROBLEM 7164 7177	a left breast
+T184	PROBLEM 7225 7236	very tender
+T185	TEST 7240 7249	palpation
+T186	TEST 7254 7270	gentle palpation
+T187	PROBLEM 7283 7298	suspicious mass
+T188	PROBLEM 7310 7344	the expected postsurgical firmness
+T189	PROBLEM 7461 7476	suspicious mass
+T190	PROBLEM 7876 7892	ductal carcinoma
+T191	PROBLEM 7942 7958	ductal carcinoma
+T192	TREATMENT 7988 7995	surgery
+T193	TREATMENT 8003 8012	radiation
+T194	TREATMENT 8099 8138	adjuvant systemic anti-hormonal therapy
+T195	PROBLEM 8185 8201	local recurrence
+T196	PROBLEM 8290 8314	new breast cancer events
+T197	PROBLEM 8399 8413	symptomatology
+T198	PROBLEM 8417 8428	hot flashes
+T199	PROBLEM 8433 8445	night sweats
+T200	TREATMENT 8532 8543	a tamoxifen
+T201	TREATMENT 8571 8592	anti-hormonal therapy
+T202	TREATMENT 8619 8628	tamoxifen
+T203	TREATMENT 8658 8680	antiestrogenic effects
+T204	PROBLEM 8685 8709	its various side effects
+T205	PROBLEM 8720 8732	exacerbation
+T206	PROBLEM 8736 8765	postmenopausal symptomatology
+T207	PROBLEM 8779 8790	hot flashes
+T208	PROBLEM 8795 8807	night sweats
+T209	PROBLEM 8809 8834	increase in clotting risk
+T210	PROBLEM 8858 8880	deep venous thrombosis
+T211	PROBLEM 8892 8909	pulmonary embolus
+T212	PROBLEM 8914 8920	stroke
+T213	PROBLEM 8948 8969	endometrial carcinoma
+T214	TREATMENT 9145 9162	radiation therapy
+T215	TREATMENT 9208 9217	tamoxifen
+T216	TREATMENT 9276 9285	this drug
+T217	TEST 9306 9339	her radiation oncology assessment
+T218	TREATMENT 9391 9410	beginning tamoxifen
+T219	TREATMENT 9421 9438	therapy tolerance
+T220	Age 54 56	51
+T221	Age 95 97	51
+T222	Pathology 117 123	biopsy
+A1	IntentVal T222 diagnosis
+T223	Histology 143 147	DCIS
+A2	HistoryVal T223 new
+A3	EpisodeDescription T223 FirstOccurrence
+T224	Site 136 142	breast
+T225	Laterality 131 135	left
+R1	LateralityOfSite Arg1:T225 Arg2:T224	
+R2	SiteOf Arg1:T224 Arg2:T223	
+R3	TestOrProcedureReveals Test:T222 Desc:T223	
+T226	TreatmentType 213 235	anti-hormonal therapy.
+A4	NegationModalityVal T226 hypothetical_in_future
+A5	TreatmentTypeVal T226 adjuvant
+A6	TreatmentIntentVal T226 unclear
+T227	Datetime 259 269	12/05/2016
+T228	Radiology 292 303	mammography
+A7	IntentVal T228 screening
+R4	HappensAtOnDuring Arg1:T228 Arg2:T227	
+T229	Site 354 365;371 377	lower inner breast
+T230	Laterality 366 370	left
+R5	LateralityOfSite Arg1:T230 Arg2:T229	
+T231	RadPathResult 318 346	indeterminate calcifications
+A8	RadPathResultVal T231 Unclear
+R6	ResultOfTest Desc:T231 Test:T228	
+R7	SiteOf Arg1:T229 Arg2:T231	
+T232	Datetime 450 460	12/11/2016
+T233	Site 466 472	breast
+T234	Laterality 461 465	left
+T235	Radiology 484 495	mammography
+A9	IntentVal T235 diagnosis
+R8	SiteOf Arg1:T233 Arg2:T235	
+R9	LateralityOfSite Arg1:T234 Arg2:T233	
+R10	HappensAtOnDuring Arg1:T235 Arg2:T232	
+T236	Site 629 641	inner breast
+T237	Laterality 624 628	left
+R11	LateralityOfSite Arg1:T237 Arg2:T236	
+T238	RadPathResult 563 616	3 mm group of amorphous punctate round calcifications
+A10	RadPathResultVal T238 Unclear
+R12	SiteOf Arg1:T236 Arg2:T238	
+T239	Pathology 746 770	stereotactic core biopsy
+A11	IntentVal T239 diagnosis
+T240	Datetime 804 814	12/27/2016
+R13	HappensAtOnDuring Arg1:T239 Arg2:T240	
+T242	Site 2696 2702	breast
+T243	Laterality 2691 2695	left
+R14	LateralityOfSite Arg1:T243 Arg2:T242	
+T244	Symptom 2721 2725	sore
+R15	SiteOf Arg1:T242 Arg2:T244	
+T245	ProcedureName 2744 2751	surgery
+A13	IntentVal T245 treatment-curative
+A14	TreatmentTypeVal T245 local
+A15	TreatmentCategory T245 Others
+A16	IsTumorRemaining T245 unclear
+T241	ap_start 7794 7804	Assessment
+A12	SectionSkipType T241 pathology_report
+T246	ProcedureName 1259 1269	lumpectomy
+A17	IntentVal T246 treatment-curative
+A18	TreatmentTypeVal T246 local
+A19	TreatmentCategory T246 Others
+T247	Datetime 1303 1313	01/29/2017
+R16	HappensAtOnDuring Arg1:T246 Arg2:T247	
+T248	Laterality 1369 1373	Left
+T249	Site 1390 1410	Lower inner quadrant
+R17	LateralityOfSite Arg1:T248 Arg2:T249	
+T250	Histology 1471 1495	Ductal carcinoma in situ
+A20	HistoryVal T250 new
+A21	EpisodeDescription T250 FirstOccurrence
+T251	MarginStatus 1833 1841	Positive
+A22	MarginVal T251 positive
+T252	MarginStatus 1916 1920	<0.1
+A23	MarginVal T252 LessThan2mm
+T253	MarginStatus 1992 1999	<0.1 cm
+A24	MarginVal T253 LessThan2mm
+T254	MarginStatus 2060 2068	Negative
+A25	MarginVal T254 MoreThan2mm(Neg)
+T255	MarginStatus 2128 2136	Negative
+A26	MarginVal T255 MoreThan2mm(Neg)
+T256	MarginStatus 2182 2190	Negative
+A27	MarginVal T256 MoreThan2mm(Neg)
+T257	MarginStatus 2284 2292	<0.1  cm
+A28	MarginVal T257 LessThan2mm
+T258	BiomarkerName 2613 2615	ER
+A29	EpisodeDescription T258 FirstOccurrence
+T259	BiomarkerName 2616 2619	PR)
+A30	EpisodeDescription T259 FirstOccurrence
+T260	BiomarkerResult 2631 2639	positive
+A31	EpisodeDescription T260 FirstOccurrence
+A32	BiomarkerResultVal T260 Positive
+R18	BiomarkerRel Arg1:T258 Arg2:T260	
+R19	BiomarkerRel Arg1:T259 Arg2:T260	
+R20	SiteOf Arg1:T249 Arg2:T250	
+R21	ProcedureDesc Procedure:T246 Desc:T251	
+R22	TestOrProcedureReveals Test:T246 Desc:T250	
+R23	ProcedureDesc Procedure:T246 Desc:T252	
+R24	ProcedureDesc Procedure:T246 Desc:T253	
+R25	ProcedureDesc Procedure:T246 Desc:T254	
+R26	ProcedureDesc Procedure:T246 Desc:T255	
+R27	ProcedureDesc Procedure:T246 Desc:T256	
+R28	ProcedureDesc Procedure:T246 Desc:T257	
+T261	Symptom 2769 2780	severe pain
+A33	NegationModalityVal T261 negated
+T262	Symptom 2856 2867	hot flashes
+T263	Symptom 2872 2884	night sweats
+A34	ContinuityVal T262 worsening
+A35	ContinuityVal T263 worsening
+T264	Symptom 2995 2999	pain
+A36	IsCausedByDiagnosedCancer T264 no
+A37	ChronicVal T264 chronic
+A38	ContinuityVal T264 stable
+T265	Site 2986 2994	low back
+R29	SiteOf Arg1:T265 Arg2:T264	
+T266	SectionSkip 3728 3867;3870 4989	Current Medications           Current Outpatient Prescriptions   Medication Sig Dispense Refill    amLODIPine (NORVASC) 5 mg tablet Take 1 tablet (5 mg total) by mouth Daily. 30 tablet 3    gabapentin (NEURONTIN) 300 mg capsule Take 1 capsule (300 mg total) by mouth 3 (three) times daily. 90 capsule 2    acetaminophen (TYLENOL) 500 mg tablet Take 1 tablet (500 mg total) by mouth every 6 (six) hours as needed for Pain or temp > 38.5 C. 120 tablet 6    blood pressure monitor KIT Check blood pressure once per day 1 kit 0    cetirizine (ZYRTEC) 10 mg tablet Take 1 tablet (10 mg total) by mouth Daily. 90 tablet prn    cyclobenzaprine (FLEXERIL) 5 mg tablet TAKE 1 TABLET BY MOUTH EVERY 8 HOURS AS NEEDED FOR MUSCLE SPASMS 90 tablet 3    ferrous sulfate 325 mg (65 mg elemental) tablet Take 1 tablet (325 mg total) by mouth daily with breakfast. 90 tablet 0    heating pads PADS 1 Units by Misc.(Non-Drug; Combo Route) route 3 (three) times daily. 3 each 3    lidocaine (XYLOCAINE) 5 % OINT ointment Apply thin layer (dime-sized amount) to right lower back once or twice daily as needed for pain 50 g 3    naproxen (NAPROSYN) 500 mg tablet TAKE 1 TABLET BY MOUTH TWICE DAILY WITH MEALS 100 tablet 0     No current facility-administered medications
+A39	SectionSkipType T266 medications
+T267	ClinicalCondition 5075 5087	Hypertension
+A40	ExperiencerVal T267 family
+T268	ClinicalCondition 5100 5109	Arthritis
+A41	ChronicVal T268 chronic
+A42	ExperiencerVal T268 family
+T269	ClinicalCondition 5122 5132	Depression
+A43	ChronicVal T269 chronic
+T270	ClinicalCondition 5145 5154	Migraines
+T271	ClinicalCondition 5167 5175	Diabetes
+A44	ChronicVal T271 chronic
+A45	ExperiencerVal T271 family
+T272	ClinicalCondition 5188 5200	Hypertension
+A46	ExperiencerVal T272 family
+T273	Symptom 6025 6029	pain
+T274	Site 6020 6024	back
+R30	SiteOf Arg1:T274 Arg2:T273	
+A47	ChronicVal T270 chronic
+A48	ExperiencerVal T270 family
+A49	ExperiencerVal T269 family
+T275	Symptom 6133 6141	weakness
+T276	Laterality 6111 6116	Right
+T277	Site 6117 6132	lower extremity
+R31	LateralityOfSite Arg1:T276 Arg2:T277	
+R32	SiteOf Arg1:T277 Arg2:T275	
+T278	Symptom 6159 6163	pain
+A50	IsCausedByDiagnosedCancer T278 no
+A51	ChronicVal T278 chronic
+A52	ContinuityVal T278 stable
+T279	Site 6154 6158	back
+R33	SiteOf Arg1:T279 Arg2:T278	
+T280	SectionSkip 6673 7744;7747 7783	Objective:      Physical Exam   Nursing note and vitals reviewed.  Constitutional: She is oriented to person, place, and time. She appears well-developed and well-nourished.   HENT:   Head: Normocephalic and atraumatic.   Eyes: EOM are normal. Pupils are equal, round, and reactive to light.   Neck: Normal range of motion. Neck supple.   Cardiovascular: Normal rate and regular rhythm.    Pulmonary/Chest: Effort normal and breath sounds normal.   Chest wall examination is significant for a left breast which is bandaged in the dependent portion and very tender to palpation. To gentle palpation there is no suspicious mass other than the expected postsurgical firmness. The left axilla is clear as is the left supraclavicular and left infraclavicular area. The right breast is without suspicious mass as is the right axilla right supraclavicular and right infraclavicular area   Abdominal: Soft.   Neurological: She is alert and oriented to person, place, and time.   Skin: Skin is warm and dry.   Psychiatric: She has a normal mood and affect. Her behavior is normal. Judgment and thought content normal.
+A53	SectionSkipType T280 physical_exam
+T281	Histology 7876 7900	ductal carcinoma in situ
+A54	EpisodeDescription T281 FirstOccurrence
+T282	Histology 7942 7966	ductal carcinoma in situ
+A55	EpisodeDescription T282 FirstOccurrence
+T283	ProcedureName 7988 7995	surgery
+A56	NegationModalityVal T283 hypothetical_in_future
+A57	IntentVal T283 treatment-curative
+A58	TreatmentTypeVal T283 local
+T284	RadiationTherapyName 8003 8012	radiation
+A59	NegationModalityVal T284 hypothetical_in_future
+A60	TreatmentTypeVal T284 adjuvant
+A61	TreatmentIntentVal T284 others
+R34	TestOrProcedureConductedForProblem Test:T283 Prob:T282	
+R35	TreatmentAdministeredForProblem Treatment:T284 Prob:T282	
+T285	TreatmentType 8108 8138	systemic anti-hormonal therapy
+A62	NegationModalityVal T285 hypothetical_in_future
+A63	TreatmentTypeVal T285 adjuvant
+A64	TreatmentIntentVal T285 others
+T286	Symptom 8417 8428	hot flashes
+T287	Symptom 8433 8445	night sweats
+T288	MedicationName 8534 8543	tamoxifen
+A65	NegationModalityVal T288 hypothetical_in_future
+A66	TreatmentTypeVal T288 adjuvant
+A67	TreatmentIntentVal T288 others
+A68	TreatmentCategory T288 AntiNeoPlastics
+T289	TreatmentType 8571 8592	anti-hormonal therapy
+A69	NegationModalityVal T289 hypothetical_in_future
+A70	TreatmentTypeVal T289 adjuvant
+A71	TreatmentIntentVal T289 others
+T290	MedicationName 8619 8628	tamoxifen
+A72	NegationModalityVal T290 hypothetical_in_future
+A73	TreatmentTypeVal T290 adjuvant
+A74	TreatmentIntentVal T290 others
+A75	TreatmentCategory T290 AntiNeoPlastics
+T291	Symptom 8779 8790	hot flashes
+T292	Symptom 8795 8808	night sweats,
+T293	ClinicalCondition 8858 8880	deep venous thrombosis
+A76	NegationModalityVal T293 hypothetical_in_future
+T294	ClinicalCondition 8892 8909	pulmonary embolus
+A77	NegationModalityVal T294 hypothetical_in_future
+T295	ClinicalCondition 8914 8920	stroke
+A78	NegationModalityVal T295 hypothetical_in_future
+T296	ClinicalCondition 8948 8969	endometrial carcinoma
+A79	NegationModalityVal T296 hypothetical_in_future
+R38	ConditionOrTreatmentCausesProblem Treatment:T290 Prob:T291	
+R39	ConditionOrTreatmentCausesProblem Treatment:T290 Prob:T292	
+R40	ConditionOrTreatmentCausesProblem Treatment:T290 Prob:T293	
+R41	ConditionOrTreatmentCausesProblem Treatment:T290 Prob:T294	
+R42	ConditionOrTreatmentCausesProblem Treatment:T290 Prob:T295	
+R43	ConditionOrTreatmentCausesProblem Treatment:T290 Prob:T296	
+T297	RadiationTherapyName 9145 9162	radiation therapy
+A80	NegationModalityVal T297 hypothetical_in_future
+A81	TreatmentTypeVal T297 adjuvant
+A82	TreatmentIntentVal T297 others
+T298	MedicationName 9208 9217	tamoxifen
+A83	TreatmentContinuityVal T298 planned
+A84	TreatmentTypeVal T298 adjuvant
+A85	TreatmentIntentVal T298 others
+T299	MedicationName 9401 9410	tamoxifen
+A86	TreatmentTypeVal T299 adjuvant
+T300	ClinicalCondition 3468 3474	Anemia
+T301	ClinicalCondition 3480 3499	High blood pressure
+A88	ChronicVal T301 chronic
+T302	Datetime 3500 3510	11/27/2016
+R44	BeginsOnOrAt Arg1:T301 Arg2:T302	
+R45	BeginsOnOrAt Arg1:T300 Arg2:T302	
+T303	Allergy 3667 3678	Penicillins
+T304	Allergy 3689 3714	Hydrocodone-Acetaminophen
+T305	ClinicalCondition 3215 3223	Migraine
+A89	ChronicVal T305 chronic
+T306	ClinicalCondition 3236 3249	low back pain
+A90	ChronicVal T306 chronic
+T307	Symptom 3254 3296	Right-sided low back pain without sciatica
+T308	Tobacco 3301 3315	Current smoker
+A91	IsStoppedOrContinuing T308 continuing
+T309	ClinicalCondition 3320 3339	High blood pressure
+A92	ChronicVal T309 chronic
+T310	Radiology 3353 3362	mammogram
+A93	IntentVal T310 diagnosis
+T311	Site 3371 3377	breast
+T312	Histology 3382 3413	DCIS (ductal carcinoma in situ)
+A94	EpisodeDescription T312 FirstOccurrence
+R46	TestOrProcedureReveals Test:T310 Desc:T312	
+R47	SiteOf Arg1:T311 Arg2:T310	
+T313	ProcedureName 3586 3598	CYST REMOVAL
+T314	Age 3617 3619	27
+T10	PhysicalActivity 3056 3066	activities
+A95	IsStoppedOrContinuing T10 continuing
+T315	Duration 2916 2924	9 months
+R48	HappensAtOnDuring Arg1:T262 Arg2:T315	
+R49	HappensAtOnDuring Arg1:T263 Arg2:T315	
+T316	SectionSkip 1357 1946;1949 2639	Laterality: Left.  - Tumor site: Lower inner quadrant.    - Position: 7 o'clock.  - Invasive tumor type: None.  - Ductal carcinoma in situ (DCIS): Present.  - DCIS nuclear grade: Intermediate.  - DCIS architectural patterns: Solid and cribriform.  - Necrosis in DCIS: None.  - Ductal carcinoma in situ size: DCIS present in 5 contiguous slices  (December 26), spanning 1.8 cm.  - Microcalcifications: None.  - Resection margins for DCIS:   For Part A:     - Posterior margin: Positive (tumor is at ink, on slide A8).  Additional margin submitted in part B is <0.1 from the new margin.    - Anterior medial margin: Negative (tumor is <0.1 cm away, on  slide A7, A9, A10).    - Anterior lateral margin: Negative (tumor is >1 cm away, on slide  A6).    - Superior margin: Negative (tumor is >1 cm away).    - Inferior margin: Negative (tumor is >1 cm away).    Additional margin was submitted separately (Part B) and shows DCIS <0.1  cm from the new margin (black ink). Level sections were performed on  parts *****-***** to confirm the above diagnosis.    - Lobular carcinoma in situ: None.  - Non-neoplastic breast: Apocrine metaplasia, usual ductal hyperplasia,  fat necrosis.  - Lymph node status: N/A.  - AJCC/UICC stage: pTisNx.    - Tumor biomarker (ER/PR) status was positive
+A96	SectionSkipType T316 pathology_report
+T317	Laterality 3599 3608	Bilateral
+T318	Site 3578 3585	OVARIAN
+R50	LateralityOfSite Arg1:T317 Arg2:T318	
+R51	SiteOf Arg1:T318 Arg2:T313	
+R52	HappensAtOnDuring Arg1:T313 Arg2:T314	
+T319	Symptom 3080 3096	weight is stable
+A97	NegationModalityVal T319 negated
+T320	Symptom 3105 3131	bowel and bladder function
+A98	NegationModalityVal T320 negated
+T321	Symptom 5284 5290	chills
+A99	NegationModalityVal T321 negated
+T322	Symptom 5292 5303	diaphoresis
+A100	NegationModalityVal T322 negated
+T323	Symptom 5305 5310	fever
+A101	NegationModalityVal T323 negated
+T324	Symptom 5312 5327	malaise/fatigue
+A102	NegationModalityVal T324 negated
+T325	Symptom 5332 5343	weight loss
+A103	NegationModalityVal T325 negated
+T326	Symptom 5366 5376	congestion
+A104	NegationModalityVal T326 negated
+T327	Symptom 5378 5391	ear discharge
+A105	NegationModalityVal T327 negated
+T328	Symptom 5393 5401	ear pain
+A106	NegationModalityVal T328 negated
+T329	Symptom 5403 5415	hearing loss
+A107	NegationModalityVal T329 negated
+T330	Symptom 5417 5427	nosebleeds
+A108	NegationModalityVal T330 negated
+T331	Symptom 5429 5440	sore throat
+A109	NegationModalityVal T331 negated
+T332	Symptom 5445 5453	tinnitus
+A110	NegationModalityVal T332 negated
+T333	Symptom 5933 5940	dysuria
+A111	NegationModalityVal T333 negated
+T334	Symptom 5839 5851	constipation
+A112	NegationModalityVal T334 negated
+T335	Symptom 5853 5861	diarrhea
+A113	NegationModalityVal T335 negated
+T336	Symptom 5863 5872	heartburn
+A114	NegationModalityVal T336 negated
+T337	Symptom 5874 5880	melena
+A115	NegationModalityVal T337 negated
+T338	Symptom 5882 5888	nausea
+A116	NegationModalityVal T338 negated
+T339	Symptom 5893 5901	vomiting
+A117	NegationModalityVal T339 negated
+T340	Symptom 5701 5713	palpitations
+A118	NegationModalityVal T340 negated
+T341	Symptom 5715 5724	orthopnea
+A119	NegationModalityVal T341 negated
+T342	Symptom 5726 5738	claudication
+A120	NegationModalityVal T342 negated
+T343	Symptom 5757 5760	PND
+A121	NegationModalityVal T343 negated
+T344	Symptom 5577 5582	cough
+A122	NegationModalityVal T344 negated
+T345	Symptom 5584 5594	hemoptysis
+A123	NegationModalityVal T345 negated
+T346	Symptom 5636 5644	wheezing
+A124	NegationModalityVal T346 negated
+T347	Symptom 5649 5656	stridor
+A125	NegationModalityVal T347 negated
+T348	Symptom 5540 5547	redness
+A126	NegationModalityVal T348 negated
+T349	Symptom 5526 5535	discharge
+A127	NegationModalityVal T349 negated
+T350	Symptom 5520 5524	pain
+A128	NegationModalityVal T350 negated
+T351	Symptom 5507 5518	photophobia
+A129	NegationModalityVal T351 negated
+T352	Symptom 5965 5974	hematuria
+A130	NegationModalityVal T352 negated
+T353	Symptom 5979 5986	urgency
+A131	NegationModalityVal T353 negated
+T354	Symptom 5954 5963	frequency
+A132	NegationModalityVal T354 negated
+T355	Symptom 5942 5952	flank pain
+A133	NegationModalityVal T355 negated
+T356	Symptom 5823 5837	blood in stool
+A134	NegationModalityVal T356 negated
+T357	Symptom 5807 5821	abdominal pain
+A135	NegationModalityVal T357 negated
+T358	Symptom 5689 5699	chest pain
+A136	NegationModalityVal T358 negated
+T359	Symptom 5740 5752	leg swelling
+A137	NegationModalityVal T359 negated
+T360	Symptom 5596 5613	sputum production
+A138	NegationModalityVal T360 negated
+T361	Symptom 5615 5634	shortness of breath
+A139	NegationModalityVal T361 negated
+T362	Symptom 5476 5490	blurred vision
+A140	NegationModalityVal T362 negated
+T363	Symptom 5492 5505	double vision
+A141	NegationModalityVal T363 negated
+T364	Symptom 6044 6049	falls
+A142	NegationModalityVal T364 negated
+T365	Symptom 6063 6071	myalgias
+A143	NegationModalityVal T365 negated
+T366	Symptom 6051 6061	joint pain
+A144	NegationModalityVal T366 negated
+T367	Symptom 6076 6085	neck pain
+A145	NegationModalityVal T367 negated
+T368	Symptom 6658 6666	insomnia
+A146	NegationModalityVal T368 negated
+T369	Symptom 6624 6631	nervous
+A147	NegationModalityVal T369 negated
+T370	Symptom 6632 6639	anxious
+A148	NegationModalityVal T370 negated
+T371	Symptom 6540 6554	hallucinations
+A149	NegationModalityVal T371 negated
+T372	Symptom 6528 6538	depression
+A150	NegationModalityVal T372 negated
+T373	Symptom 6447 6457	polydipsia
+A151	NegationModalityVal T373 negated
+T374	Symptom 6249 6258	dizziness
+A152	NegationModalityVal T374 negated
+T375	Symptom 6260 6268	tingling
+A153	NegationModalityVal T375 negated
+T376	Symptom 6270 6277	tremors
+A154	NegationModalityVal T376 negated
+T377	Symptom 6372 6381	headaches
+A155	NegationModalityVal T377 negated
+T378	Symptom 6359 6367	weakness
+A156	NegationModalityVal T378 negated
+T379	Symptom 6326 6334	seizures
+A157	NegationModalityVal T379 negated
+T380	Symptom 6279 6293	sensory change
+A158	NegationModalityVal T380 negated
+T381	Symptom 6295 6308	speech change
+A159	NegationModalityVal T381 negated
+T382	Symptom 6310 6324	focal weakness
+A160	NegationModalityVal T382 negated
+T383	Symptom 6336 6357	loss of consciousness
+A161	NegationModalityVal T383 negated
+T384	Symptom 6202 6209	itching
+A162	NegationModalityVal T384 negated
+T385	Symptom 6214 6218	rash
+A163	NegationModalityVal T385 negated
+T386	Symptom 6419 6442	environmental allergies
+A164	NegationModalityVal T386 negated
+T387	Symptom 6468 6474	bruise
+A165	NegationModalityVal T387 negated
+T388	Symptom 6475 6480	bleed
+A166	NegationModalityVal T388 negated
+T389	Symptom 6556 6567	memory loss
+A167	NegationModalityVal T389 negated
+T390	Symptom 6569 6584	substance abuse
+A168	NegationModalityVal T390 negated
+T391	Symptom 6589 6603	suicidal ideas
+A169	NegationModalityVal T391 negated
+T392	Datetime 708 712	2011
+R53	HappensAfter Arg1:T238 Arg2:T392	
+R54	ConditionOrTreatmentCausesProblem Treatment:T245 Prob:T244	
+T393	SDoH 6089 6109	Ambulate with a cane
+T394	DiseaseState 8191 8201	recurrence
+A170	NegationModalityVal T394 hypothetical_in_future
+A171	DiseaseStateVal T394 progression-recurrence
+R55	TreatmentAdministeredForProblem Treatment:T285 Prob:T394	
+T395	ClinicalCondition 8821 8834	clotting risk
+R56	ConditionOrTreatmentCausesProblem Treatment:T290 Prob:T395	
+A172	NegationModalityVal T299 planned_in_future
+A173	NegationModalityVal T298 planned_in_future
+A87	TreatmentContinuityVal T299 planned
+A174	NegationModalityVal T291 hypothetical_in_future
+A175	NegationModalityVal T292 hypothetical_in_future
+A176	NegationModalityVal T395 hypothetical_in_future
+T396	hpi_start 0 10	Subjective
+T397	SectionSkip 816 1229	The pathology from this is appended below:    Left breast December 28/  FINAL PATHOLOGIC DIAGNOSIS  Left breast, stereotactic core needle biopsy:  1. Ductal carcinoma in situ, intermediate nuclear grade, cribriform and  micropapillary patterns, with focal necrosis; see comment.  2. Microcalcifications in association with ductal carcinoma in situ.  >90% estrogen receptor positive, Progesterone receptor pending.
+A177	SectionSkipType T397 pathology_report
+T398	hpi_end 804 815	12/27/2016.
+T399	hpi_start 1235 1240	Based
+T400	hpi_end 1309 1313	2017
+T401	hpi_start 2644 2646	At
+T402	hpi_end 3408 3412	situ
+T403	ap_end 9429 9438	tolerance
+T404	Symptom 8697 8709	side effects
+A178	NegationModalityVal T404 hypothetical_in_future
+T405	Symptom 8658 8680	antiestrogenic effects
+A179	NegationModalityVal T405 hypothetical_in_future
+T406	Symptom 8736 8765	postmenopausal symptomatology
+A180	NegationModalityVal T406 hypothetical_in_future
+R36	ConditionOrTreatmentCausesProblem Treatment:T290 Prob:T405	
+R37	ConditionOrTreatmentCausesProblem Treatment:T290 Prob:T404	
+R57	ConditionOrTreatmentCausesProblem Treatment:T290 Prob:T406	

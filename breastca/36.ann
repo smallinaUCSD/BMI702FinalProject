@@ -1,0 +1,892 @@
+T1	SectionAnnotate 0 4	HPI:
+T2	SectionAnnotate 2167 2188	Past Medical History:
+T3	SectionAnnotate 2258 2280	Past Surgical History:
+T4	SectionAnnotate 2448 2462	Family History
+T5	SectionAnnotate 3083 3097	Social History
+T6	SectionAnnotate 3106 3130	Social History Narrative
+T7	SectionSkip 3293 3426	Current Outpatient Prescriptions:     cholecalciferol, vitamin D3, (VITAMIN D3) 2,000 unit CAP capsule, Take by mouth., Disp: , Rfl:
+T8	SectionAnnotate 3431 3448	Review of Systems
+T9	SectionSkip 3698 4952	Physical Examination: General appearance - alert, well appearing, and in no distress  Mental status - alert, oriented to person, place, and time  Eyes - pupils equal and reactive, 
+ extraocular eye movements intact  Mouth - mucous membranes moist, pharynx normal without lesions  Neck - supple, no significant adenopathy  Lymphatics - no palpable lymphadenopathy   Chest - clear to auscultation, no wheezes, rales or rhonchi, symmetric air entry,  Heart - normal rate, regular rhythm, normal S1, S2, no murmurs, rubs, clicks or gallops  Abdomen - soft, nontender, nondistended, no masses or organomegaly  Breasts - Left breast with periareolar scar and distortion  Right breast with no masses  Back exam - full range of motion, no tenderness, palpable spasm or pain on motion  Neurological - alert, oriented, normal speech, no focal findings or movement disorder noted  Musculoskeletal - no joint tenderness, deformity or swelling  Extremities - peripheral pulses normal, no pedal edema, no clubbing or cyanosis  Skin - normal coloration and turgor, no rashes, no suspicious skin lesions noted    I personally reviewed and interpreted the following results:  No results found for this or any previous visit.     05/20/2017 MRI BREAST BX VACCUUM ASSIST LT
+T10	SectionSkip 4954 5681	FINDINGS: Benefits, risks, and alternatives of the procedure were discussed with the patient and informed consent was obtained. A time out was held. The patient's left breast was prepped in the usual sterile fashion. Local anesthesia was achieved with 1% lidocaine, along with 1% lidocaine with diluted epinephrine Gadolinium based contrast (5 cc of Gadavist) was administered intravenously without difficulty and the finding in question at the posterior left 6:00 position was visualized. Using MRI guidance and grid compression, a 9 gauge vacuum assisted core biopsy device was used to obtain tissue samples. A titanium marker was placed after the biopsy. The patient tolerated procedure well with no immediate Complications.
+T11	SectionSkip 5682 5886	Pathology showed proliferative fibrocystic changes without atypia.   IMPRESSIONS:  MRI-guided core biopsy of a 4 mm focus of 
+ contrastenhancement in the posterior, lower (6:00) region of the left breast.
+T14	SectionSkip 6853 8839	FINDINGS: The breasts demonstrate heterogeneous fibroglandular tissue. There is minimal background enhancement that is symmetric.  Right breast: There are no abnormal areas of contrast enhancement.  Left breast: Postoperative changes in the left breast with a seroma in the left breast at 12:00 extending from the nipple areolar complex to the pectoralis muscle. The seroma measures 8.6 x 4.6 cm (AP, transverse). The craniocaudal extent of the anterior portion of the seroma measures 5.1 cm in the posterior portion measures 2.9 cm. The posterior portion of the seroma measures 3.4 x 1.1 x 2.9 cm (AP, transverse, CC). There is peripheral enhancement surrounding the seroma. There is irregular peripheral enhancement along the anterolateral superior margin of the anterior portion of the seroma (postcontrast axial image 54 and 49 and sagittal image 32) and along the posterolateral aspect of the 
+ anterior portion of the seroma (postcontrast axial image 42 and sagittal 39). The nodular peripheral enhancement extends to the nipple areolar complex. There is also nodular peripheral enhancement along the medial margin of the anterior portion of the seroma(postcontrast axial image 45 and sagittal image 53). The peripheral enhancement demonstrates type I kinetics. No fat plane between the peripheral enhancement of the seroma and the left pectoralis muscle. 4 x 2 x 4 mm focus of enhancement in the posterior left breast at 6:00 (postcontrast axial image 72 and sagittal image 44). Kinetics curve assessment demonstrates type I enhancement There is diffuse skin thickening, likely related to postoperative changes.  Other: Postoperative seroma in the left axilla from recent sentinel lymph node dissection measuring 6.6 x 4.0 x at least 5.5 cm (AP, transverse, CC). The full craniocaudad extent of this seroma is not imaged. There is thin peripheral enhancement surrounding the seroma, which is due to postoperative changes. There is no axillary or internal mammary lymphadenopathy.
+T15	SectionAnnotate 8841 8852	IMPRESSION:
+T16	SectionSkip 9546 9790	FINDINGS:  Expected intense activity is noted at the injection site at the  left breast. 3 foci of tracer uptake in the left axilla,  compatible with 
+ sentinel lymph nodes.    04/21/2017 Left Breast US Guided Biopsy, Left Post-Biopsy Mammogram
+T18	SectionSkip 10241 10531	FINDINGS  The breasts are heterogeneously dense, which may obscure small masses. There is an irregular mass measuring 20 millimeters with spiculated margin in the left breast at 12 o'clock.This is best seen on the tomosynthesis views. The right breast appears unremarkable.  LEFT ULTRASOUND
+T19	SectionSkip 10532 11186	FINDINGS  A targeted ultrasound was performed of the left breast at 12 o'clock  located 2 centimeters from the nipple. Ultrasound is suggestive of a solid mass measuring 17 millimeters in the left breast at 12 o'clock located 2 centimeters from the nipple.This corresponds to the palpable finding of clinical concern.  IMPRESSION  Solid mass in the left breast is highly suggestive of malignancy.  Ultrasound-guided core biopsy is recommended. The referring physician was notified of these results by fax. The left axilla will be evaluated with ultrasound when the patient returns for biopsy. If there adenopathy, US guided core biopsy will be performed.
+T20	SectionAnnotate 11190 11210	Assessment and Plan:
+T21	TREATMENT 76 93	treatment options
+T22	PROBLEM 98 131	her newly diagnosed breast cancer
+T23	PROBLEM 226 239	Breast cancer
+T24	PROBLEM 268 277	Stage IIb
+T25	TEST 292 295	IDC
+T26	PROBLEM 352 370	a left breast mass
+T27	TEST 465 477	Dx mammogram
+T28	PROBLEM 479 495	L irregular mass
+T29	PROBLEM 507 525	spiculated margins
+T30	TEST 550 552	US
+T31	PROBLEM 592 602	solid mass
+T32	TEST 621 649	US Guided Needle Core biopsy
+T33	TEST 650 652	Gr
+T34	TEST 655 658	IDC
+T35	TEST 659 661	ER
+T36	TEST 668 670	PR
+T37	TEST 674 685	%,HER-2/neg
+T38	TEST 689 692	IHC
+T39	TEST 697 702	Ki-67
+T40	TEST 709 713	FISH
+T41	TREATMENT 738 753	Left lumpectomy
+T42	TEST 795 798	IDC
+T43	TEST 809 812	LVI
+T44	TEST 814 821	margins
+T45	PROBLEM 832 847	2/2 lymph nodes
+T46	TREATMENT 877 900	extracapsular extension
+T47	TEST 905 922	Postoperative MRI
+T48	PROBLEM 989 1005	residual disease
+T49	PROBLEM 1010 1052	a 4mm focus of enhancement in the L breast
+T50	TEST 1069 1086	MRI guided biopsy
+T51	TEST 1099 1119	this additional area
+T52	PROBLEM 1129 1161	proliferative fibrocystic change
+T53	PROBLEM 1170 1176	atypia
+T54	TEST 1189 1198	BRCA test
+T55	PROBLEM 1258 1262	BRCA
+T56	TREATMENT 1274 1306	Surgical re-excision left breast
+T57	TREATMENT 1308 1332	lumpectomy re-excision:1
+T58	PROBLEM 1334 1352	Residual IDC spans
+T59	PROBLEM 1361 1394	Invasive carcinoma at deep margin
+T60	PROBLEM 1442 1449	tumor '
+T61	PROBLEM 1529 1559	a much larger lesional  volume
+T62	PROBLEM 1582 1615	the small residual tumor deposits
+T63	PROBLEM 1696 1727	A much smaller residual deposit
+T64	PROBLEM 1807 1828	mild left breast pain
+T65	TREATMENT 1841 1863	lumpectomy re-excision
+T66	PROBLEM 1916 1935	pinching" sensation
+T67	TREATMENT 2085 2094	treatment
+T68	PROBLEM 2210 2223	Breast cancer
+T69	TEST 2313 2319	BIOPSY
+T70	TREATMENT 2322 2378	EXCISION / DISSECTION AXILLARY NODE Left     MASTECTOMY
+T71	TREATMENT 2379 2399	PARTIAL / LUMPECTOMY
+T72	TREATMENT 2403 2427	AXILLARY LYMPHADENECTOMY
+T73	PROBLEM 2499 2512	Breast cancer
+T74	PROBLEM 2541 2554	Breast cancer
+T75	PROBLEM 2576 2589	Breast cancer
+T76	PROBLEM 2604 2617	Breast cancer
+T77	PROBLEM 2667 2673	cancer
+T78	PROBLEM 2679 2692	Breast cancer
+T79	PROBLEM 2721 2734	Breast cancer
+T80	PROBLEM 2812 2825	Breast cancer
+T81	TREATMENT 2980 3016	Previous hormone replacement therapy
+T82	PROBLEM 3029 3038	Allergies
+T83	TREATMENT 3332 3347	cholecalciferol
+T84	TREATMENT 3349 3373	vitamin D3, (VITAMIN D3)
+T85	TEST 3531 3533	BP
+T86	TEST 3543 3548	Pulse
+T87	TEST 3554 3558	Temp
+T88	TEST 3564 3565	C
+T89	TEST 3585 3589	Resp
+T90	TEST 3595 3597	Ht
+T91	TEST 3642 3644	Wt
+T92	TEST 3671 3675	SpO2
+T93	TEST 3682 3685	BMI
+T94	TEST 3698 3718	Physical Examination
+T95	PROBLEM 3774 3782	distress
+T96	TEST 3880 3905	extraocular eye movements
+T97	PROBLEM 3969 3976	lesions
+T98	PROBLEM 3996 4018	significant adenopathy
+T99	PROBLEM 4036 4060	palpable lymphadenopathy
+T100	TEST 4080 4092	auscultation
+T101	PROBLEM 4097 4104	wheezes
+T102	PROBLEM 4106 4111	rales
+T103	PROBLEM 4115 4122	rhonchi
+T104	PROBLEM 4201 4208	murmurs
+T105	PROBLEM 4210 4214	rubs
+T106	PROBLEM 4216 4222	clicks
+T107	PROBLEM 4226 4233	gallops
+T108	PROBLEM 4251 4260	nontender
+T109	PROBLEM 4262 4274	nondistended
+T110	PROBLEM 4279 4285	masses
+T111	PROBLEM 4289 4301	organomegaly
+T112	PROBLEM 4313 4324	Left breast
+T113	PROBLEM 4330 4375	periareolar scar and distortion  Right breast
+T114	PROBLEM 4384 4390	masses
+T115	TEST 4392 4401	Back exam
+T116	PROBLEM 4429 4439	tenderness
+T117	PROBLEM 4441 4455	palpable spasm
+T118	PROBLEM 4459 4463	pain
+T119	PROBLEM 4525 4539	focal findings
+T120	PROBLEM 4543 4560	movement disorder
+T121	PROBLEM 4589 4605	joint tenderness
+T122	PROBLEM 4607 4616	deformity
+T123	PROBLEM 4620 4628	swelling
+T124	TEST 4644 4661	peripheral pulses
+T125	PROBLEM 4673 4684	pedal edema
+T126	PROBLEM 4689 4697	clubbing
+T127	PROBLEM 4701 4709	cyanosis
+T128	PROBLEM 4751 4757	rashes
+T129	PROBLEM 4762 4785	suspicious skin lesions
+T130	TEST 4921 4924	MRI
+T131	TREATMENT 5001 5014	the procedure
+T132	TREATMENT 5103 5128	The patient's left breast
+T133	TREATMENT 5171 5187	Local anesthesia
+T134	TREATMENT 5206 5218	1% lidocaine
+T135	TREATMENT 5231 5243	1% lidocaine
+T136	TREATMENT 5249 5279	diluted epinephrine Gadolinium
+T137	TREATMENT 5304 5313	Gadavist)
+T138	PROBLEM 5353 5363	difficulty
+T139	TEST 5450 5462	MRI guidance
+T140	TREATMENT 5467 5483	grid compression
+T141	TREATMENT 5485 5529	a 9 gauge vacuum assisted core biopsy device
+T142	TEST 5549 5563	tissue samples
+T143	TREATMENT 5565 5582	A titanium marker
+T144	TEST 5600 5610	the biopsy
+T145	TREATMENT 5634 5643	procedure
+T146	PROBLEM 5657 5680	immediate Complications
+T147	TEST 5682 5691	Pathology
+T148	PROBLEM 5699 5732	proliferative fibrocystic changes
+T149	PROBLEM 5741 5747	atypia
+T150	TEST 5765 5768	MRI
+T151	TEST 5776 5787	core biopsy
+T152	PROBLEM 5791 5845	a 4 mm focus of 
+ contrastenhancement in the posterior
+T153	TEST 5886 5895	Pathology
+T154	PROBLEM 5903 5922	fibrocystic changes
+T155	TEST 5947 5967	the imaging findings
+T156	TEST 5996 6006	breast MRI
+T157	TEST 6026 6065	the usual imaging surveillance protocol
+T158	TEST 6111 6133	Left Breast Ultrasound
+T159	TEST 6169 6190	A targeted ultrasound
+T160	TEST 6313 6320	the MRI
+T161	TEST 6410 6417	the MRI
+T162	PROBLEM 6429 6489	a 4 mm focus of enhancement in the left lower central breast
+T163	TEST 6512 6515	MRI
+T164	TEST 6516 6529	guided biopsy
+T165	PROBLEM 6546 6590	enhancement in the left lower central breast
+T166	TEST 6626 6642	this examination
+T167	TEST 6774 6790	BI-RADS Category
+T168	TEST 6818 6821	MRI
+T169	PROBLEM 6887 6922	heterogeneous fibroglandular tissue
+T170	PROBLEM 6933 6963	minimal background enhancement
+T171	PROBLEM 7011 7049	abnormal areas of contrast enhancement
+T172	PROBLEM 7065 7105	Postoperative changes in the left breast
+T173	PROBLEM 7111 7138	a seroma in the left breast
+T174	PROBLEM 7216 7226	The seroma
+T175	PROBLEM 7318 7328	the seroma
+T176	PROBLEM 7412 7422	the seroma
+T177	TEST 7452 7471	AP, transverse, CC)
+T178	PROBLEM 7482 7504	peripheral enhancement
+T179	PROBLEM 7517 7527	the seroma
+T180	PROBLEM 7538 7570	irregular peripheral enhancement
+T181	TEST 7650 7674	postcontrast axial image
+T182	TEST 7689 7703	sagittal image
+T183	PROBLEM 7773 7783	the seroma
+T184	TEST 7785 7809	postcontrast axial image
+T185	TEST 7817 7825	sagittal
+T186	PROBLEM 7831 7865	The nodular peripheral enhancement
+T187	PROBLEM 7919 7949	nodular peripheral enhancement
+T188	TEST 8044 8058	sagittal image
+T189	PROBLEM 8104 8119	type I kinetics
+T190	PROBLEM 8142 8213	the peripheral enhancement of the seroma and the left pectoralis muscle
+T191	PROBLEM 8215 8277	4 x 2 x 4 mm focus of enhancement in the posterior left breast
+T192	TEST 8287 8311	postcontrast axial image
+T193	TEST 8319 8333	sagittal image
+T194	TEST 8339 8364	Kinetics curve assessment
+T195	PROBLEM 8378 8396	type I enhancement
+T196	PROBLEM 8406 8429	diffuse skin thickening
+T197	PROBLEM 8449 8470	postoperative changes
+T198	PROBLEM 8480 8519	Postoperative seroma in the left axilla
+T199	TREATMENT 8525 8562	recent sentinel lymph node dissection
+T200	TEST 8602 8621	AP, transverse, CC)
+T201	PROBLEM 8655 8666	this seroma
+T202	PROBLEM 8691 8741	thin peripheral enhancement surrounding the seroma
+T203	PROBLEM 8759 8780	postoperative changes
+T204	PROBLEM 8794 8838	axillary or internal mammary lymphadenopathy
+T205	TREATMENT 8899 8931	annual mammogramthe right breast
+T206	PROBLEM 8978 8988	malignancy
+T207	PROBLEM 8990 9022	Irregular peripheral enhancement
+T208	PROBLEM 9176 9192	residual disease
+T209	PROBLEM 9226 9252	postoperative inflammation
+T210	TREATMENT 9259 9276	recent lumpectomy
+T211	TEST 9288 9309	surgical consultation
+T212	PROBLEM 9311 9355	4 mm focus of enhancement in the left breast
+T213	PROBLEM 9367 9384	mildly suspicious
+T214	TEST 9401 9420	targeted ultrasound
+T215	TEST 9470 9487	MRI guided biopsy
+T216	TEST 9504 9525	Sentinel node imaging
+T217	PROBLEM 9557 9582	Expected intense activity
+T218	PROBLEM 9635 9677	3 foci of tracer uptake in the left axilla
+T219	PROBLEM 9698 9718	sentinel lymph nodes
+T220	TEST 9734 9762	Left Breast US Guided Biopsy
+T221	TEST 9764 9801	Left Post-Biopsy Mammogram  Pathology
+T222	PROBLEM 9811 9840	Infiltrating Ductal Carcinoma
+T223	TEST 9896 9918	the imaging impression
+T224	TREATMENT 9930 9947	surgical excision
+T225	TREATMENT 9988 9998	management
+T226	TEST 10142 10180	Bilateral Digital Diagnostic Mammogram
+T227	PROBLEM 10183 10186	CAD
+T228	TEST 10188 10210	Left Breast Ultrasound
+T229	TEST 10221 10249	BILATERAL MAMMOGRAM FINDINGS
+T230	PROBLEM 10267 10288	heterogeneously dense
+T231	PROBLEM 10308 10320	small masses
+T232	PROBLEM 10331 10348	an irregular mass
+T233	TEST 10451 10474	the tomosynthesis views
+T234	TEST 10516 10540	LEFT ULTRASOUND FINDINGS
+T235	TEST 10542 10563	A targeted ultrasound
+T236	TEST 10651 10661	Ultrasound
+T237	PROBLEM 10679 10691	a solid mass
+T238	PROBLEM 10863 10892	Solid mass in the left breast
+T239	PROBLEM 10917 10927	malignancy
+T240	TEST 10930 10959	Ultrasound-guided core biopsy
+T241	TEST 11077 11087	ultrasound
+T242	TEST 11117 11123	biopsy
+T243	PROBLEM 11134 11144	adenopathy
+T244	TEST 11146 11167	US guided core biopsy
+T245	PROBLEM 11262 11275	Breast cancer
+T246	PROBLEM 11329 11347	a T2N1 grade 2 IDC
+T247	TEST 11364 11368	Ki67
+T248	TEST 11379 11394	her core biopsy
+T249	TEST 11397 11401	HER2
+T250	TEST 11418 11437	the surgical sample
+T251	PROBLEM 11452 11470	gene amplification
+T252	TEST 11500 11513	the pathology
+T253	TREATMENT 11530 11537	therapy
+T254	PROBLEM 11588 11598	the cancer
+T255	TEST 11618 11637	her genetic testing
+T256	PROBLEM 11656 11674	distant recurrence
+T257	TEST 11739 11761	expanded panel testing
+T258	TEST 11765 11777	BRCA testing
+T259	TEST 11805 11818	her pathology
+T260	PROBLEM 11849 11892	small area of positivity at the deep margin
+T261	TEST 11896 11919	the re-resection sample
+T262	PROBLEM 11932 11961	additional multifocal disease
+T263	PROBLEM 11979 11989	the fascia
+T264	TREATMENT 12030 12047	radiation therapy
+T265	PROBLEM 12072 12082	her cancer
+T266	TREATMENT 12102 12123	adjuvant chemotherapy
+T267	TEST 12149 12162	her pathology
+T268	TREATMENT 12188 12216	any additional node sampling
+T269	TREATMENT 12259 12268	radiation
+T270	TREATMENT 12277 12292	further surgery
+T271	TREATMENT 12331 12340	radiation
+T272	TREATMENT 12394 12415	further node sampling
+T273	TREATMENT 12442 12454	chemotherapy
+T276	PROBLEM 12560 12593	hormone receptor positive disease
+T277	TREATMENT 12599 12617	these two regimens
+T278	TREATMENT 12642 12644	TC
+T279	TREATMENT 12683 12696	scalp cooling
+T280	TEST 12798 12818	these recent studies
+T281	TREATMENT 12836 12849	scalp cooling
+T282	PROBLEM 12866 12875	hair loss
+T283	TREATMENT 12907 12936	our scalp cooling coordinator
+T284	TREATMENT 13035 13041	a port
+T285	TREATMENT 13072 13101	chemotherapy in her right arm
+T286	TREATMENT 13158 13176	the port placement
+T287	PROBLEM 13228 13259	her cosmesis in the left breast
+T288	TREATMENT 13375 13384	radiation
+T289	TREATMENT 13405 13423	additional surgery
+T290	TREATMENT 13487 13500	ONPRO support
+T291	TREATMENT 13515 13536	chemotherapy teaching
+T292	TREATMENT 13538 13552	port placement
+T293	TEST 13569 13575	PET/CT
+T294	TEST 13577 13590	Baseline echo
+T295	TREATMENT 13614 13616	AC
+T296	TREATMENT 13858 13875	Treatment options
+T297	Age 29 31	58
+T298	ClinicalCondition 118 131	breast cancer
+A1	ContinuityVal T298 new
+A2	ExperiencerVal T298 patient
+T299	ClinicalCondition 226 239	Breast cancer
+A3	ContinuityVal T299 new
+T300	Site 246 252	breast
+T301	Laterality 241 245	left
+R1	LateralityOfSite Arg1:T301 Arg2:T300	
+R2	SiteOf Arg1:T300 Arg2:T299	
+T302	Datetime 253 263	06/24/2017
+R3	HappensAtOnDuring Arg1:T299 Arg2:T302	
+T303	Stage 274 277	IIb
+T304	TNM 279 285	T2N1M0
+T305	Histology 292 295	IDC
+A4	HistoryVal T305 new
+A5	EpisodeDescription T305 FirstOccurrence
+T306	Grade 290 291	2
+A6	HistoryVal T306 new
+A7	EpisodeDescription T306 FirstOccurrence
+T307	BiomarkerName 297 299	ER
+A8	HistoryVal T307 new
+A9	EpisodeDescription T307 FirstOccurrence
+T308	BiomarkerName 304 306	PR
+A10	HistoryVal T308 new
+A11	EpisodeDescription T308 FirstOccurrence
+T309	BiomarkerName 311 320	Her-2-neu
+A12	HistoryVal T309 new
+A13	EpisodeDescription T309 FirstOccurrence
+T310	BiomarkerResult 300 303	pos
+A14	HistoryVal T310 new
+A15	EpisodeDescription T310 FirstOccurrence
+T311	BiomarkerResult 307 310	pos
+A16	HistoryVal T311 new
+A17	EpisodeDescription T311 FirstOccurrence
+T312	BiomarkerResult 321 324	neg
+A18	HistoryVal T312 new
+A19	EpisodeDescription T312 FirstOccurrence
+A20	BiomarkerResultVal T312 Negative
+R4	BiomarkerRel Arg1:T312 Arg2:T309	
+R5	BiomarkerRel Arg1:T311 Arg2:T308	
+R6	BiomarkerRel Arg1:T310 Arg2:T307	
+R7	TumorDesc TumorDetails:T299 Desc:T303	
+R8	TumorDesc TumorDetails:T299 Desc:T304	
+R9	TumorDesc TumorDetails:T299 Desc:T306	
+R10	TumorDesc TumorDetails:T299 Desc:T305	
+R11	TumorDesc TumorDetails:T299 Desc:T307	
+R12	TumorDesc TumorDetails:T299 Desc:T308	
+R13	TumorDesc TumorDetails:T299 Desc:T309	
+T313	Datetime 327 337	March 2017
+T314	Symptom 366 370	mass
+A21	IsPresentOnFirstCancerDiagnosis T314 yes
+A22	IsCausedByDiagnosedCancer T314 yes
+T315	Site 359 365	breast
+T316	Laterality 354 358	left
+R14	LateralityOfSite Arg1:T316 Arg2:T315	
+R15	SiteOf Arg1:T315 Arg2:T314	
+R16	HappensAtOnDuring Arg1:T314 Arg2:T313	
+T317	Size 381 384	2cm
+A23	HistoryVal T317 new
+A24	EpisodeDescription T317 FirstOccurrence
+T318	Symptom 402 407	pinch
+A25	IsPresentOnFirstCancerDiagnosis T318 yes
+A26	IsCausedByDiagnosedCancer T318 yes
+T319	Site 420 426	breast
+T320	Laterality 415 419	left
+R17	LateralityOfSite Arg1:T320 Arg2:T319	
+R18	SiteOf Arg1:T319 Arg2:T318	
+T321	Datetime 453 461	04/10/17
+T322	Radiology 468 477	mammogram
+A27	IntentVal T322 diagnosis
+T323	Site 462 464	BL
+R19	SiteOf Arg1:T323 Arg2:T322	
+R20	HappensAtOnDuring Arg1:T322 Arg2:T321	
+T324	RadPathResult 481 525	irregular mass 20 mm with spiculated margins
+A28	RadPathResultVal T324 InitialCancerDiagnosis
+T325	Site 529 539	12 o'clock
+T326	Laterality 479 480	L
+R21	LateralityOfSite Arg1:T326 Arg2:T325	
+R22	SiteOf Arg1:T325 Arg2:T324	
+R23	ResultOfTest Desc:T324 Test:T322	
+T327	Datetime 541 549	04/10/17
+T328	Radiology 550 552	US
+A29	IntentVal T328 diagnosis
+T329	RadPathResult 592 608	solid mass 17 mm
+A30	RadPathResultVal T329 InitialCancerDiagnosis
+T330	Site 555 586	12 o'clock 2 cm from the nipple
+T331	Laterality 553 554	L
+R24	LateralityOfSite Arg1:T331 Arg2:T330	
+R25	SiteOf Arg1:T330 Arg2:T329	
+R26	ResultOfTest Desc:T329 Test:T328	
+R27	HappensAtOnDuring Arg1:T328 Arg2:T327	
+T332	Datetime 611 619	04/21/17
+T333	Pathology 621 649	US Guided Needle Core biopsy
+A31	IntentVal T333 diagnosis
+T334	Grade 653 654	2
+A32	HistoryVal T334 new
+A33	EpisodeDescription T334 FirstOccurrence
+T335	Histology 655 658	IDC
+A34	HistoryVal T335 new
+A35	EpisodeDescription T335 FirstOccurrence
+T336	BiomarkerName 659 661	ER
+A36	HistoryVal T336 new
+A37	EpisodeDescription T336 FirstOccurrence
+T337	BiomarkerName 668 670	PR
+A38	HistoryVal T337 new
+A39	EpisodeDescription T337 FirstOccurrence
+T338	BiomarkerName 676 681	HER-2
+A40	HistoryVal T338 new
+A41	EpisodeDescription T338 FirstOccurrence
+T339	Pathology 697 702	Ki-67
+A42	IntentVal T339 diagnosis
+T340	Pathology 709 713	FISH
+A43	IntentVal T340 diagnosis
+T341	RadPathResult 714 727	not amplified
+R28	ResultOfTest Desc:T341 Test:T340	
+T342	RadPathResult 703 707	>30%
+R29	ResultOfTest Desc:T342 Test:T339	
+T343	BiomarkerResult 682 685	neg
+A44	HistoryVal T343 new
+A45	EpisodeDescription T343 FirstOccurrence
+A46	BiomarkerResultVal T343 Negative
+T344	BiomarkerResult 670 675	+ 25%
+A47	HistoryVal T344 new
+A48	EpisodeDescription T344 FirstOccurrence
+A49	BiomarkerResultVal T344 Positive
+T345	BiomarkerResult 661 667	+ >95%
+A50	HistoryVal T345 new
+A51	EpisodeDescription T345 FirstOccurrence
+A52	BiomarkerResultVal T345 Positive
+R30	BiomarkerRel Arg1:T336 Arg2:T345	
+R31	BiomarkerRel Arg1:T337 Arg2:T344	
+R32	BiomarkerRel Arg1:T338 Arg2:T343	
+R33	TestOrProcedureReveals Test:T333 Desc:T334	
+R34	TestOrProcedureReveals Test:T333 Desc:T335	
+R35	TestOrProcedureReveals Test:T333 Desc:T336	
+R36	TestOrProcedureReveals Test:T333 Desc:T337	
+R37	TestOrProcedureReveals Test:T333 Desc:T338	
+T346	Datetime 729 737	04/30/17
+T347	ProcedureName 743 753	lumpectomy
+A53	IntentVal T347 treatment-curative
+A54	TreatmentTypeVal T347 local
+A55	TreatmentCategory T347 Others
+T348	ProcedureName 758 763	SLNBx
+A56	IntentVal T348 staging
+T349	Site 738 742	Left
+R38	SiteOf Arg1:T349 Arg2:T347	
+R39	HappensAtOnDuring Arg1:T347 Arg2:T346	
+R40	HappensAtOnDuring Arg1:T348 Arg2:T346	
+T350	Grade 793 794	2
+A57	HistoryVal T350 new
+A58	EpisodeDescription T350 FirstOccurrence
+T351	Histology 795 798	IDC
+A59	HistoryVal T351 new
+A60	EpisodeDescription T351 FirstOccurrence
+T352	Size 800 805	3.6cm
+A61	HistoryVal T352 new
+A62	EpisodeDescription T352 FirstOccurrence
+T353	LocalInvasion 807 808	+
+A63	HistoryVal T353 new
+A64	EpisodeDescription T353 FirstOccurrence
+T354	MarginStatus 822 830	positive
+A65	MarginVal T354 positive
+T355	LymphNodeInvolvement 832 847	2/2 lymph nodes
+A66	HistoryVal T355 new
+A67	EpisodeDescription T355 FirstOccurrence
+R41	TestOrProcedureReveals Test:T347 Desc:T350	
+A68	IsTumorRemaining T347 yes
+R42	TestOrProcedureReveals Test:T347 Desc:T351	
+R43	TestOrProcedureReveals Test:T347 Desc:T352	
+R44	TestOrProcedureReveals Test:T347 Desc:T353	
+R45	ProcedureDesc Procedure:T347 Desc:T354	
+R46	TestOrProcedureReveals Test:T348 Desc:T355	
+T356	Radiology 919 922	MRI
+A69	IntentVal T356 TreatmentAssessment
+T357	Datetime 923 931	05/06/17
+R47	HappensAtOnDuring Arg1:T356 Arg2:T357	
+T358	Site 1046 1052;1056 1065	breast 6 o'clock
+T359	Laterality 1044 1045	L
+R48	LateralityOfSite Arg1:T359 Arg2:T358	
+T360	RadPathResult 1012 1036	4mm focus of enhancement
+A70	RadPathResultVal T360 TreatmentResponse
+R49	SiteOf Arg1:T358 Arg2:T360	
+T361	RadPathResult 932 973	enhancement surrounding the surgical site
+A71	RadPathResultVal T361 TreatmentResponse
+R50	ResultOfTest Desc:T360 Test:T356	
+R51	ResultOfTest Desc:T361 Test:T356	
+T362	Pathology 1069 1086	MRI guided biopsy
+A72	IntentVal T362 diagnosis
+T363	Datetime 1087 1095	05/20/17
+R52	HappensAtOnDuring Arg1:T362 Arg2:T363	
+T364	RadPathResult 1129 1176	proliferative fibrocystic change without atypia
+A73	RadPathResultVal T364 NoDisease
+R53	ResultOfTest Desc:T364 Test:T362	
+T365	Datetime 1180 1188	05/19/17
+T366	GenomicTest 1189 1193	BRCA
+A74	GenomicTestType T366 Germline
+T367	GenomicTestResult 1199 1207	negative
+A75	GenomicTestType T367 Germline
+R54	HappensAtOnDuring Arg1:T366 Arg2:T365	
+R55	ResultOfTest Desc:T367 Test:T366	
+T368	Datetime 1265 1273	06/04/17
+T369	ProcedureName 1274 1294	Surgical re-excision
+A76	IntentVal T369 treatment-curative
+A77	TreatmentTypeVal T369 local
+A78	TreatmentCategory T369 Others
+T370	Site 1300 1306	breast
+T371	Laterality 1295 1299	left
+R56	LateralityOfSite Arg1:T371 Arg2:T370	
+T372	ProcedureName 1308 1330	lumpectomy re-excision
+A79	IntentVal T372 treatment-curative
+A80	TreatmentTypeVal T372 local
+A81	TreatmentCategory T372 Others
+R57	SiteOf Arg1:T370 Arg2:T369	
+R58	SiteOf Arg1:T370 Arg2:T372	
+T373	Histology 1343 1346	IDC
+A82	HistoryVal T373 new
+A83	EpisodeDescription T373 FirstOccurrence
+T374	Size 1353 1356	2cm
+A84	HistoryVal T374 new
+A85	EpisodeDescription T374 FirstOccurrence
+R59	TestOrProcedureReveals Test:T372 Desc:T373	
+R60	TestOrProcedureReveals Test:T372 Desc:T374	
+T375	Histology 1361 1379	Invasive carcinoma
+A86	HistoryVal T375 new
+A87	EpisodeDescription T375 FirstOccurrence
+R61	TestOrProcedureReveals Test:T372 Desc:T375	
+T376	Size 1667 1676	6mm x 4mm
+A88	HistoryVal T376 new
+A89	EpisodeDescription T376 FirstOccurrence
+R62	TestOrProcedureReveals Test:T372 Desc:T376	
+T377	ProcedureName 1841 1863	lumpectomy re-excision
+A90	IntentVal T377 treatment-curative
+A91	TreatmentTypeVal T377 local
+A92	TreatmentCategory T377 Others
+T378	Datetime 1867 1877	06/04/2107
+R63	HappensAtOnDuring Arg1:T377 Arg2:T378	
+T379	Symptom 1824 1828	pain
+T380	Site 1817 1823	breast
+T381	Laterality 1812 1816	left
+R64	LateralityOfSite Arg1:T381 Arg2:T380	
+R65	SiteOf Arg1:T380 Arg2:T379	
+T382	SDoH 1988 2030	supportive family/friends that live nearby
+T383	ClinicalCondition 2210 2223	Breast cancer
+T384	Datetime 2237 2247	March 2017
+T385	Site 2230 2236	breast
+T386	Laterality 2225 2229	left
+R66	LateralityOfSite Arg1:T386 Arg2:T385	
+R67	SiteOf Arg1:T385 Arg2:T383	
+R68	HappensAtOnDuring Arg1:T383 Arg2:T384	
+T387	ProcedureName 2313 2357	BIOPSY / EXCISION / DISSECTION AXILLARY NODE
+A93	IntentVal T387 staging
+T388	Site 2358 2362	Left
+R69	SiteOf Arg1:T388 Arg2:T387	
+T389	ProcedureName 2368 2427	MASTECTOMY PARTIAL / LUMPECTOMY W/ AXILLARY LYMPHADENECTOMY
+A94	IntentVal T389 DiagnosisAndTreatment
+A95	TreatmentTypeVal T389 local
+A96	TreatmentCategory T389 Others
+T390	Site 2428 2432	Left
+R70	SiteOf Arg1:T390 Arg2:T389	
+T391	Datetime 2433 2443	04/30/2017
+R71	HappensAtOnDuring Arg1:T387 Arg2:T391	
+R72	HappensAtOnDuring Arg1:T389 Arg2:T391	
+T392	ClinicalCondition 2499 2512	Breast cancer
+A97	ExperiencerVal T392 family
+T393	ClinicalCondition 2541 2554	Breast cancer
+A98	ExperiencerVal T393 family
+T394	ClinicalCondition 2576 2589	Breast cancer
+A99	ExperiencerVal T394 family
+T395	ClinicalCondition 2604 2617	Breast cancer
+A100	ExperiencerVal T395 family
+T396	Age 2534 2536	35
+T397	Age 2569 2571	70
+T398	Age 2597 2599	37
+T399	Age 2625 2627	42
+R73	HappensAtOnDuring Arg1:T396 Arg2:T392	
+R74	HappensAtOnDuring Arg1:T393 Arg2:T397	
+R75	HappensAtOnDuring Arg1:T394 Arg2:T398	
+R76	HappensAtOnDuring Arg1:T395 Arg2:T399	
+T400	SectionSkip 2679 2897	Breast cancer Paternal Grandmother 35    Breast cancer Paternal Aunt   diagnosed in her late 70s, mother of the 2 sisters below    Breast cancer Other   Paternal Cousin x 2, they are sisters, diagnosed at 37 and 42yo
+A101	SectionSkipType T400 copy_forward
+T401	PatientCharacteristics 2902 2907	G2 P2
+T402	PatientCharacteristics 2916 2932	first pregnancy:
+T403	Age 2933 2935	22
+T404	PatientCharacteristics 2944 2952	menarche
+T405	Age 2954 2956	14
+T406	ClinicalCondition 2965 2974	menopause
+T407	Age 2976 2978	42
+R77	HappensAtOnDuring Arg1:T402 Arg2:T403	
+R78	BeginsOnOrAt Arg1:T404 Arg2:T405	
+R79	BeginsOnOrAt Arg1:T406 Arg2:T407	
+T408	TreatmentType 2989 3016	hormone replacement therapy
+A102	NegationModalityVal T408 negated
+T409	Allergy 3064 3075	Penicillins
+T410	MaritalStatus 3134 3142	Divorced
+T411	LivingCondition 3144 3155	lives alone
+T412	PatientCharacteristics 3159 3163	G2P2
+T413	SDoH 3165 3188	36 and 25 year old sons
+T414	Employment 3192 3233	Works as a ***** ***** in the ***** *****
+T415	PatientCharacteristics 3237 3240	LMP
+T416	Age 3245 3247	42
+R80	HappensAtOnDuring Arg1:T415 Arg2:T416	
+T417	TreatmentType 3281 3284	HRT
+A103	NegationModalityVal T417 negated
+A104	SectionSkipType T7 medications
+T418	SectionSkip 3531 3877;3880 4791	BP 132/85 | Pulse 69 | Temp 36.5 C (97.7 F) (Oral)  | Resp 16 | Ht 160 cm (5' 3") Comment: June 2017 @ ***** | Wt 57.9 kg (127 lb 9.6 oz) | SpO2 98% | BMI 22.6 kg/m2  Physical Examination: General appearance - alert, well appearing, and in no distress  Mental status - alert, oriented to person, place, and time  Eyes - pupils equal and reactive, extraocular eye movements intact  Mouth - mucous membranes moist, pharynx normal without lesions  Neck - supple, no significant adenopathy  Lymphatics - no palpable lymphadenopathy   Chest - clear to auscultation, no wheezes, rales or rhonchi, symmetric air entry,  Heart - normal rate, regular rhythm, normal S1, S2, no murmurs, rubs, clicks or gallops  Abdomen - soft, nontender, nondistended, no masses or organomegaly  Breasts - Left breast with periareolar scar and distortion  Right breast with no masses  Back exam - full range of motion, no tenderness, palpable spasm or pain on motion  Neurological - alert, oriented, normal speech, no focal findings or movement disorder noted  Musculoskeletal - no joint tenderness, deformity or swelling  Extremities - peripheral pulses normal, no pedal edema, no clubbing or cyanosis  Skin - normal coloration and turgor, no rashes, no suspicious skin lesions noted
+A105	SectionSkipType T418 physical_exam
+T419	Datetime 4910 4920	05/20/2017
+T420	Pathology 4921 4924;4932 4934	MRI BX
+A106	IntentVal T420 diagnosis
+T421	Site 4925 4931	BREAST
+R81	SiteOf Arg1:T421 Arg2:T420	
+R82	HappensAtOnDuring Arg1:T420 Arg2:T419	
+A107	SectionSkipType T10 radiology_report
+T422	RadPathResult 5699 5747	proliferative fibrocystic changes without atypia
+A108	RadPathResultVal T422 NoDisease
+R83	ResultOfTest Desc:T422 Test:T420	
+T423	Datetime 6100 6110	05/09/2017
+T424	Radiology 6123 6133	Ultrasound
+A110	IntentVal T424 diagnosis
+T425	Site 6116 6122	Breast
+T426	Laterality 6111 6115	Left
+R84	LateralityOfSite Arg1:T426 Arg2:T425	
+R85	SiteOf Arg1:T425 Arg2:T424	
+R86	HappensAtOnDuring Arg1:T424 Arg2:T423	
+T13	SectionSkip 6143 6803	LEFT ULTRASOUND FINDINGS: A targeted ultrasound was performed of the left breast at 6 o'clock located 3 centimeters from the nipple. There is no sonographic correlate to the MRI finding in the left lower central breast  IMPRESSION  There is no sonographic finding to the MRI finding of a 4 mm focus of enhancement in the left lower central breast. Therefore, recommend MRI-guided biopsy of the focus of enhancement in the left lower central breast, as per MRI report. The results of this examination were reviewed directly with the patient by a member of the Breast Health Center, and a written summary report was provided to her. BI-RADS Category 1 : Negative
+A111	SectionSkipType T13 radiology_report
+T427	Datetime 6807 6817	05/06/2017
+T428	Radiology 6818 6821;6839 6851	MRI WWO CONTRAST
+A112	IntentVal T428 diagnosis
+T429	Site 6822 6828	BREAST
+T430	Laterality 6829 6838	BILATERAL
+R87	LateralityOfSite Arg1:T430 Arg2:T429	
+R88	SiteOf Arg1:T429 Arg2:T428	
+R89	HappensAtOnDuring Arg1:T428 Arg2:T427	
+T431	SectionSkip 6853 7750;7753 8838	FINDINGS: The breasts demonstrate heterogeneous fibroglandular tissue. There is minimal background enhancement that is symmetric.  Right breast: There are no abnormal areas of contrast enhancement.  Left breast: Postoperative changes in the left breast with a seroma in the left breast at 12:00 extending from the nipple areolar complex to the pectoralis muscle. The seroma measures 8.6 x 4.6 cm (AP, transverse). The craniocaudal extent of the anterior portion of the seroma measures 5.1 cm in the posterior portion measures 2.9 cm. The posterior portion of the seroma measures 3.4 x 1.1 x 2.9 cm (AP, transverse, CC). There is peripheral enhancement surrounding the seroma. There is irregular peripheral enhancement along the anterolateral superior margin of the anterior portion of the seroma (postcontrast axial image 54 and 49 and sagittal image 32) and along the posterolateral aspect of the anterior portion of the seroma (postcontrast axial image 42 and sagittal 39). The nodular peripheral enhancement extends to the nipple areolar complex. There is also nodular peripheral enhancement along the medial margin of the anterior portion of the seroma(postcontrast axial image 45 and sagittal image 53). The peripheral enhancement demonstrates type I kinetics. No fat plane between the peripheral enhancement of the seroma and the left pectoralis muscle. 4 x 2 x 4 mm focus of enhancement in the posterior left breast at 6:00 (postcontrast axial image 72 and sagittal image 44). Kinetics curve assessment demonstrates type I enhancement There is diffuse skin thickening, likely related to postoperative changes.  Other: Postoperative seroma in the left axilla from recent sentinel lymph node dissection measuring 6.6 x 4.0 x at least 5.5 cm (AP, transverse, CC). The full craniocaudad extent of this seroma is not imaged. There is thin peripheral enhancement surrounding the seroma, which is due to postoperative changes. There is no axillary or internal mammary lymphadenopathy
+A113	SectionSkipType T431 radiology_report
+T432	ClinicalCondition 11262 11275	Breast cancer
+A114	ContinuityVal T432 new
+T433	Site 11282 11288	breast
+T434	Laterality 11277 11281	left
+R90	LateralityOfSite Arg1:T434 Arg2:T433	
+R91	SiteOf Arg1:T433 Arg2:T432	
+T435	Age 11291 11293	58
+R92	HappensAtOnDuring Arg1:T432 Arg2:T435	
+T436	PatientCharacteristics 11303 11317	postmenopausal
+T437	TNM 11331 11335	T2N1
+A115	HistoryVal T437 new
+A116	EpisodeDescription T437 FirstOccurrence
+T438	Grade 11342 11343	2
+A117	HistoryVal T438 new
+A118	EpisodeDescription T438 FirstOccurrence
+T439	Histology 11344 11347	IDC
+A119	HistoryVal T439 new
+A120	EpisodeDescription T439 FirstOccurrence
+T440	Pathology 11364 11368	Ki67
+T441	RadPathResult 11372 11375	30%
+T442	Pathology 11383 11394	core biopsy
+A121	IntentVal T442 diagnosis
+R93	ResultOfTest Desc:T441 Test:T440	
+R94	TumorDesc TumorDetails:T432 Desc:T437	
+R95	TumorDesc TumorDetails:T432 Desc:T439	
+R96	TumorDesc TumorDetails:T432 Desc:T438	
+T443	Pathology 11474 11478	FISH
+A122	IntentVal T443 diagnosis
+T444	RadPathResult 11449 11470	no gene amplification
+R97	ResultOfTest Desc:T444 Test:T443	
+T12	Pathology 5765 5787	MRI-guided core biopsy
+T445	Site 5847 5866;5879 5885	lower (6:00) region breast
+T446	Laterality 5874 5878	left
+R98	LateralityOfSite Arg1:T446 Arg2:T445	
+R99	SiteOf Arg1:T445 Arg2:T12	
+T447	RadPathResult 5903 5922	fibrocystic changes
+A109	RadPathResultVal T447 NoDisease
+R100	ResultOfTest Desc:T447 Test:T12	
+T448	Radiology 5996 6006	breast MRI
+A123	NegationModalityVal T448 hypothetical_in_future
+A124	IntentVal T448 screening
+T449	Duration 6010 6018	6 months
+R101	HappensAfter Arg1:T448 Arg2:T449	
+T450	RadPathResult 8879 8887	Negative
+A125	RadPathResultVal T450 NoDisease
+T451	Site 8860 8866	breast
+T452	Laterality 8854 8859	Right
+R102	LateralityOfSite Arg1:T452 Arg2:T451	
+R103	SiteOf Arg1:T451 Arg2:T450	
+R104	ResultOfTest Desc:T450 Test:T428	
+T453	Site 8939 8945	breast
+T454	Laterality 8934 8938	Left
+R105	LateralityOfSite Arg1:T454 Arg2:T453	
+T455	RadPathResult 8947 8957	BI-RADS 4C
+A126	RadPathResultVal T455 Unclear
+R106	SiteOf Arg1:T453 Arg2:T455	
+R107	ResultOfTest Desc:T455 Test:T428	
+T456	Datetime 9490 9500	04/30/2017
+T457	Radiology 9504 9525	Sentinel node imaging
+A127	IntentVal T457 staging
+T458	Site 9538 9544	breast
+T459	Laterality 9533 9537	left
+R108	LateralityOfSite Arg1:T459 Arg2:T458	
+R109	SiteOf Arg1:T458 Arg2:T457	
+R110	HappensAtOnDuring Arg1:T457 Arg2:T456	
+T460	RadPathResult 9635 9695;9698 9718	3 foci of tracer uptake in the left axilla,  compatible with sentinel lymph nodes
+A128	RadPathResultVal T460 Others
+R111	ResultOfTest Desc:T460 Test:T457	
+T461	Datetime 9723 9733	04/21/2017
+T462	Pathology 9746 9763	US Guided Biopsy,
+A129	IntentVal T462 diagnosis
+T463	Site 9739 9745	Breast
+T464	Laterality 9734 9738	Left
+R112	LateralityOfSite Arg1:T464 Arg2:T463	
+R113	SiteOf Arg1:T463 Arg2:T462	
+R114	HappensAtOnDuring Arg1:T462 Arg2:T461	
+T17	Histology 9811 9840	Infiltrating Ductal Carcinoma
+R115	TestOrProcedureReveals Test:T462 Desc:T17	
+T465	Datetime 10131 10141	04/10/2017
+T466	Radiology 10152 10159;10171 10180	Digital Mammogram
+A130	IntentVal T466 diagnosis
+T467	Site 10142 10151	Bilateral
+R116	SiteOf Arg1:T467 Arg2:T466	
+T468	Radiology 10200 10210	Ultrasound
+T469	Site 10193 10199	Breast
+T470	Laterality 10188 10192	Left
+R117	LateralityOfSite Arg1:T470 Arg2:T469	
+R118	SiteOf Arg1:T469 Arg2:T468	
+A131	IntentVal T468 diagnosis
+R119	HappensAtOnDuring Arg1:T466 Arg2:T465	
+R120	HappensAtOnDuring Arg1:T468 Arg2:T465	
+A132	SectionSkipType T18 radiology_report
+T471	ClinicalCondition 11592 11598	cancer
+T472	GenomicTest 11622 11637	genetic testing
+A133	GenomicTestType T472 Unclear
+T473	TreatmentType 12030 12039	radiation
+T474	TreatmentType 12111 12123	chemotherapy
+A134	NegationModalityVal T474 hypothetical_in_future
+A135	TreatmentTypeVal T474 adjuvant
+A136	TreatmentIntentVal T474 curative
+T475	ProcedureName 12203 12216	node sampling
+A137	IntentVal T475 staging
+A138	TreatmentCategory T475 Others
+T476	TreatmentType 12259 12268	radiation
+A139	TreatmentTypeVal T476 adjuvant
+T477	TreatmentType 12285 12292	surgery
+A140	TreatmentTypeVal T477 local
+T478	TreatmentType 12331 12340	radiation
+A141	TreatmentTypeVal T478 adjuvant
+T479	TreatmentType 12442 12454	chemotherapy
+A142	TreatmentTypeVal T479 adjuvant
+T274	MedicationName 12476 12478	AC
+A143	NegationModalityVal T274 hypothetical_in_future
+A144	TreatmentTypeVal T274 adjuvant
+A145	TreatmentIntentVal T274 curative
+A146	TreatmentCategory T274 AntiNeoPlastics
+T275	MedicationName 12486 12487	T
+A147	NegationModalityVal T275 hypothetical_in_future
+A148	TreatmentTypeVal T275 adjuvant
+A149	TreatmentIntentVal T275 curative
+A150	TreatmentCategory T275 AntiNeoPlastics
+T480	MedicationName 12491 12493	TC
+A151	NegationModalityVal T480 hypothetical_in_future
+A152	TreatmentTypeVal T480 adjuvant
+A153	TreatmentIntentVal T480 curative
+A154	TreatmentCategory T480 AntiNeoPlastics
+T481	Frequency 12479 12485	weekly
+R121	Temporal Arg1:T481 Arg2:T274	
+T482	Cycles 12496 12497	4
+R122	TreatmentDesc Therapy:T480 Desc:T482	
+R123	TreatmentDesc Therapy:T275 Desc:T482	
+T483	MedicationName 12642 12644	TC
+A155	NegationModalityVal T483 hypothetical_in_future
+A156	TreatmentTypeVal T483 adjuvant
+A157	TreatmentIntentVal T483 curative
+A158	TreatmentCategory T483 AntiNeoPlastics
+T484	TreatmentType 12683 12696	scalp cooling
+A159	TreatmentTypeVal T484 others
+T485	MedicationName 12782 12784	TC
+A160	NegationModalityVal T485 hypothetical_in_future
+A161	TreatmentTypeVal T485 adjuvant
+A162	TreatmentIntentVal T485 curative
+A163	TreatmentCategory T485 AntiNeoPlastics
+T486	Cycles 12787 12788	6
+R124	TreatmentDesc Therapy:T485 Desc:T486	
+T487	TreatmentType 12836 12849	scalp cooling
+T488	Symptom 12866 12875	hair loss
+A164	NegationModalityVal T488 hypothetical_in_future
+R125	TreatmentAdministeredForProblem Treatment:T487 Prob:T488	
+T489	TreatmentType 13072 13084	chemotherapy
+A165	NegationModalityVal T489 hypothetical_in_future
+A166	TreatmentTypeVal T489 adjuvant
+A167	TreatmentIntentVal T489 curative
+T490	ProcedureName 13162 13176	port placement
+A168	NegationModalityVal T490 hypothetical_in_future
+A169	TreatmentCategory T490 Others
+T491	TreatmentType 13375 13384	radiation
+A170	NegationModalityVal T491 hypothetical_in_future
+A171	TreatmentTypeVal T491 adjuvant
+A172	TreatmentIntentVal T491 curative
+T492	MedicationName 13475 13477	TC
+A173	NegationModalityVal T492 planned_in_future
+A174	TreatmentTypeVal T492 adjuvant
+A175	TreatmentIntentVal T492 curative
+A176	TreatmentCategory T492 AntiNeoPlastics
+T493	Cycles 13480 13481	6
+R126	TreatmentDesc Therapy:T492 Desc:T493	
+T494	MedicationName 13487 13492	ONPRO
+A177	NegationModalityVal T494 planned_in_future
+A178	TreatmentTypeVal T494 others
+A179	TreatmentCategory T494 Supportive
+T495	ProcedureName 13538 13552	port placement
+T496	Radiology 13569 13575	PET/CT
+A180	NegationModalityVal T496 hypothetical_in_future
+A181	IntentVal T496 staging
+T497	Radiology 13586 13590	echo
+A182	IntentVal T497 others
+T498	Datetime 13642 13650	07/09/17
+T499	TreatmentType 13656 13664	dignicap
+A183	TreatmentTypeVal T499 others
+A184	TreatmentIntentVal T499 others
+R127	HappensAtOnDuring Arg1:T499 Arg2:T498	
+T500	MedicationName 13614 13616	AC
+A185	NegationModalityVal T500 negated
+A186	TreatmentTypeVal T500 adjuvant
+A187	TreatmentIntentVal T500 curative
+A188	TreatmentCategory T500 AntiNeoPlastics
+R128	SizeOf Arg1:T317 Arg2:T314	
+R129	HappensAtOnDuring Arg1:T332 Arg2:T333	
+R130	SizeOf Arg1:T352 Arg2:T351	
+T501	Size 866 871	1.8cm
+R131	SizeOf Arg1:T501 Arg2:T355	
+R132	HappensAtOnDuring Arg1:T368 Arg2:T369	
+R133	HappensAtOnDuring Arg1:T368 Arg2:T372	
+R134	SizeOf Arg1:T374 Arg2:T373	
+R135	SiteOf Arg1:T370 Arg2:T375	
+R136	SizeOf Arg1:T376 Arg2:T373	
+T502	Size 1729 1736	2 x 1mm
+T503	Site 1748 1769	deep resection margin
+R137	SiteOf Arg1:T503 Arg2:T502	
+R138	SizeOf Arg1:T502 Arg2:T373	
+R139	LateralityOfSite Arg1:T371 Arg2:T503	
+T504	Site 1680 1693	cross section
+R140	SiteOf Arg1:T504 Arg2:T376	
+R141	LateralityOfSite Arg1:T371 Arg2:T504	
+T505	Site 1383 1413	deep margin in one small focus
+R142	SiteOf Arg1:T505 Arg2:T375	
+R143	LateralityOfSite Arg1:T371 Arg2:T505	
+T506	SectionSkip 8990 9488	Irregular peripheral enhancement along the anterior, anterolateral, medial, and posterolateral aspect of the anterior portion of the seroma in the left breast at 12:00 is suspicious for residual disease. Differential diagnosis includes postoperative inflammation given recent lumpectomy. Recommend surgical consultation. 4 mm focus of enhancement in the left breast at 6:00 is mildly suspicious (4A). Recommend targeted ultrasound. If there is no sonographic correlate, recommend MRI guided biopsy.
+A189	SectionSkipType T506 radiology_report
+T507	Pathology 689 692	IHC
+T508	RadPathResult 693 695	1+
+R144	ResultOfTest Desc:T508 Test:T507	
+R145	TestOrProcedureConductedForProblem Test:T377 Prob:T379	
+T509	Pathology 11809 11818	pathology
+A190	IntentVal T509 diagnosis
+T510	RadPathResult 11840 11961	possible small area of positivity at the deep margin on the re-resection sample, as well as additional multifocal disease
+A191	RadPathResultVal T510 Unclear
+R146	ResultOfTest Desc:T510 Test:T509	
+A192	NegationModalityVal T473 planned_in_future
+A193	NegationModalityVal T476 planned_in_future
+A194	NegationModalityVal T477 hypothetical_in_future
+A195	NegationModalityVal T478 planned_in_future
+A196	NegationModalityVal T479 planned_in_future
+A197	NegationModalityVal T495 planned_in_future
+T511	Radiology 8906 8915	mammogram
+A198	NegationModalityVal T511 hypothetical_in_future
+A199	IntentVal T511 screening
+T512	Frequency 8899 8905	annual
+T513	Site 8925 8931	breast
+T514	Laterality 8919 8924	right
+R147	LateralityOfSite Arg1:T514 Arg2:T513	
+R148	SiteOf Arg1:T513 Arg2:T511	
+R149	Temporal Arg1:T511 Arg2:T512	
+T515	DiseaseState 11664 11674	recurrence
+A200	NegationModalityVal T515 hypothetical_in_future
+A201	DiseaseStateVal T515 progression-recurrence
+A202	NegationModalityVal T475 hypothetical_in_future
+T516	ProcedureName 12402 12415	node sampling
+A203	NegationModalityVal T516 hypothetical_in_future
+A204	IntentVal T516 staging
+A205	TreatmentCategory T516 Others
+T517	ClinicalCondition 12586 12593	disease
+A206	ExperiencerVal T517 others
+T518	BiomarkerName 12560 12576	hormone receptor
+A207	ExperiencerVal T518 others
+T519	BiomarkerResult 12577 12585	positive
+A208	ExperiencerVal T519 others
+A209	BiomarkerResultVal T519 Positive
+R150	BiomarkerRel Arg1:T518 Arg2:T519	
+R151	TumorDesc TumorDetails:T518 Desc:T517	
+R152	InclusionCriteriaFor Arg1:T518 Arg2:T485	
+A210	NegationModalityVal T487 hypothetical_in_future
+A211	NegationModalityVal T484 hypothetical_in_future
+A212	NegationModalityVal T497 planned_in_future
+T520	hpi_start 0 3	HPI
+T521	hpi_end 2151 2157	*****.
+T522	ap_start 11190 11200	Assessment
+T523	ap_end 13850 13856	given.

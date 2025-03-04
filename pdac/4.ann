@@ -1,0 +1,773 @@
+T1	SectionAnnotate 2881 2898	INTERVAL HISTORY:
+T2	SectionAnnotate 3140 3143	ROS
+T3	SectionSkip 3211 6006	Current Outpatient Medications   Medication Sig Dispense Refill    butenafine (LOTRIMIN ULTRA) 1 % cream       cholecalciferol, vitamin D3, 1000 UNITS TAB tablet Take 4 tablets by mouth daily         clotrimazole (MYCELEX) 10 mg troche 1 tablet (10 mg total) by Other route 3 (three) times daily Take by buccal route. Take for 14 days and during chemotherapy cycles after initial treatment 90 Troche 1    fluconazole (DIFLUCAN) 100 mg tablet Take 200mg PO qd on day one followed by 100mg PO qd on subsequent days.  Take for 1 week and then stop. 8 tablet 0    hyoscyamine (LEVSIN/SL) 0.125 MG SL tablet Place 1 tablet (0.125 mg total) under the tongue every 4 (four) hours as needed 
+ (abdominal cramping). (Patient not taking: Reported on 09/17/2019  ) 60 tablet 3    KERYDIN 5 % SolA       L.acidoph/B.long/L.plant/B.lac (PROBIOTIC ACIDOPHILUS BEADS ORAL) Take by mouth.      lidocaine-prilocaine (EMLA) 2.5-2.5 % cream Apply cream one hour before port access as needed for pain. 30 g 2    lipase-protease-amylase (CREON) 24,000-76,000 -120,000 unit capsule Take 2 tabs with meals and 1 tab with snacks. 300 capsule 5    loperamide (IMODIUM) 2 mg capsule Take two capsules by mouth at the onset of diarrhea, then take one capsule every 2 hours until diarrhea-free for 12 hours. 30 capsule 5    medical cannabis       ondansetron (ZOFRAN) 8 mg tablet Take 1 tablet three times a day as needed for nausea and vomiting. Start 2 days after last dose of palonosetron (Aloxi) is given. (Patient not taking: Reported on 07/25/2019  ) 30 tablet 5    oxyCODONE (OXYCONTIN) 10 mg 12 hr ER tablet Take 1 tablet (10 mg total) by mouth every 12 (twelve) hours (Patient not taking: Reported on 09/17/2019  ) 60 tablet 0    oxyCODONE (ROXICODONE) 10 mg tablet Take 1 tablet (10 mg total) by mouth every 4 (four) hours as needed for Pain (for moderate to severe pain). (Patient not taking: Reported on 09/17/2019  ) 90 tablet 0    prochlorperazine (COMPAZINE) 10 mg tablet Take 1 tablet (10 mg total) by mouth every 6 (six) hours as needed (nausea and vomiting). (Patient not taking: Reported on 09/17/2019  ) 30 tablet 5    rivaroxaban (XARELTO) 20 mg tablet Take 1 tablet (20 mg total) by mouth daily 30 tablet 5    terbinafine HCl (LAMISIL) 1 % cream Apply topically Daily. Use as instructed      TURMERIC ORAL Take by mouth      UNABLE TO FIND Take 1 tablet by mouth Host Defense brand "Stamets 7" Daily Immune Support, one tablet every other day during weeks of no infusion.   Each tablet contains 71.5 mg of royal sun blazei, cordyceps, reishi, maitake, lion's mane, chaga, and mesima.        UNABLE TO FIND Take by mouth Host 
+ Defense brand Turkey Tail extract, ~ 0.5 ml every other day during weeks of no infusion       No current facility-administered medications for this visit.
+T4	SectionSkip 6014 6073	ALLERGIES:  Allergies/Contraindications  No Known Allergies
+T5	SectionSkip 6190 6275	PHYSICAL EXAM:  Objective   Vital Signs:   There were no vitals filed for this visit.
+T6	SectionSkip 6597 6613	Laboratory data:
+T7	SectionSkip 6616 7233	Lab Results   Component Value Date    WBC Count 6.4 09/03/2019    Neutrophil Absolute Count 4.18 09/03/2019    Hemoglobin 11.4 (L) 09/03/2019    Hematocrit 35.4 (L) 09/03/2019    Platelet Count 126 (L) 09/03/2019    Creatinine 0.74 09/03/2019    Bilirubin, Total 0.4 09/03/2019    Alkaline Phosphatase 160 (H) 09/03/2019    Aspartate transaminase 31 09/03/2019    Alanine transaminase 30 09/03/2019    Albumin, Serum / Plasma 3.7 04/26/2019    Int'l Normaliz Ratio 1.1 03/05/2019    Sodium, Serum / Plasma 134 (L) 04/26/2019    Potassium, Serum / Plasma 3.9 04/26/2019    Calcium, total, Serum / Plasma 9.1 04/26/2019
+T8	SectionSkip 7238 7629	Lab Results   Component Value Date    Cancer Antigen 19-9 576 (H) 08/27/2019    Cancer Antigen 19-9 826 (H) 08/01/2019    Cancer Antigen 19-9 588 (H) 07/11/2019    Carcinoembryonic Antigen 16.2 (H) 08/27/2019    Carcinoembryonic Antigen 11.7 (H) 08/01/2019    Carcinoembryonic Antigen 17.0 (H) 07/11/2019     Foundation Medicine liquid biopsy results:   MSI Status Undetermined  RB1 P26fs*47
+T9	SectionAnnotate 7635 7655	ASSESSMENT AND PLAN:
+T10	PROBLEM 273 303	adenocarcinoma of the pancreas
+T11	TEST 309 315	biopsy
+T12	PROBLEM 323 369	oligo metastatic disease in the abdominal wall
+T13	PROBLEM 419 433	abdominal pain
+T14	PROBLEM 438 449	weight loss
+T15	TEST 473 492	a CT of the abdomen
+T16	PROBLEM 506 528	a mass in the pancreas
+T17	PROBLEM 570 601	a concerning soft tissue nodule
+T18	TEST 651 653	CT
+T19	TEST 654 657	PET
+T20	PROBLEM 665 719	a hypermetabolically active large pancreatic tail mass
+T21	PROBLEM 759 791	the lesion in the abdominal wall
+T22	PROBLEM 796 813	slightly PET avid
+T23	TEST 815 818	SUV
+T24	TEST 839 855	EUS directed FNA
+T25	PROBLEM 859 880	the pancreatic lesion
+T26	PROBLEM 905 919	adenocarcinoma
+T27	PROBLEM 921 924	MSS
+T28	TEST 939 970	Biopsy of abdominal wall nodule
+T29	PROBLEM 978 1003	metastatic adenocarcinoma
+T30	TREATMENT 1040 1055	C1D1 FOLFIRINOX
+T31	TEST 1060 1064	labs
+T32	PROBLEM 1074 1092	hyperbilirubinemia
+T33	TEST 1094 1100	t bili
+T34	PROBLEM 1138 1156	hyperbilirubinemia
+T35	PROBLEM 1198 1214	Gilbert syndrome
+T36	TREATMENT 1216 1226	Irinotecan
+T37	TREATMENT 1258 1269	C1D1 FOLFOX
+T38	TREATMENT 1284 1299	C2D1 FOLFIRINOX
+T39	TEST 1301 1307	T bili
+T40	TREATMENT 1365 1375	Irinotecan
+T41	PROBLEM 1416 1437	irinotecan toxicities
+T42	TREATMENT 1485 1495	FOLFIRINOX
+T43	TEST 1509 1515	CT CAP
+T44	PROBLEM 1523 1545	stable pancreatic mass
+T45	PROBLEM 1550 1605	slight decreased size of anterior abdominal wall lesion
+T46	ProcedureName 1646 1661	US with doppler
+T47	TEST 1654 1664	doppler LE
+T48	PROBLEM 1674 1760	segmental occlusive thrombi within the superior and mid duplicated left peroneal veins
+T49	TREATMENT 1781 1788	xarelto
+T50	TREATMENT 1807 1817	FOLFIRINOX
+T51	TEST 1819 1821	CA
+T52	TREATMENT 1853 1863	FOLFIRINOX
+T53	TREATMENT 1882 1892	FOLFIRINOX
+T54	TEST 1894 1896	CA
+T55	TEST 1921 1927	CT CAP
+T56	TREATMENT 1958 1967	treatment
+T57	TEST 2009 2011	CA
+T58	TREATMENT 2034 2043	Treatment
+T59	PROBLEM 2064 2080	thrombocytopenia
+T60	TEST 2082 2085	PLT
+T61	TREATMENT 2107 2117	FOLFIRINOX
+T62	TEST 2119 2121	CA
+T63	TREATMENT 2150 2160	FOLFIRINOX
+T64	TREATMENT 2174 2190	C12D1 FOLFIRINOX
+T65	TEST 2216 2218	CT
+T66	PROBLEM 2219 2253	CAP stable disease in the pancreas
+T67	PROBLEM 2258 2279	abdominal wall lesion
+T68	TREATMENT 2314 2332	chemotherapy break
+T69	TREATMENT 2450 2468	surgical resection
+T70	PROBLEM 2470 2487	His pancreas mass
+T71	PROBLEM 2549 2577	extensive vessel involvement
+T72	PROBLEM 2582 2592	encasement
+T73	TREATMENT 2622 2645	consolidation radiation
+T74	PROBLEM 2667 2685	his pancreas tumor
+T75	PROBLEM 2728 2745	the complications
+T76	TREATMENT 2815 2832	radiation therapy
+T77	PROBLEM 2863 2875	asymptomatic
+T78	PROBLEM 2958 2974	some oral thrush
+T79	TREATMENT 2984 2995	fluconazole
+T80	TREATMENT 3058 3073	cicloprox cream
+T81	PROBLEM 3078 3104	tinea cruris in groin area
+T82	TEST 3134 3143	point ROS
+T83	TEST 3158 3175	all other systems
+T84	TREATMENT 3211 3241	Current Outpatient Medications
+T85	TREATMENT 3279 3306	butenafine (LOTRIMIN ULTRA)
+T86	TREATMENT 3324 3339	cholecalciferol
+T87	TREATMENT 3341 3351	vitamin D3
+T88	TREATMENT 3414 3436	clotrimazole (MYCELEX)
+T89	TREATMENT 3560 3579	chemotherapy cycles
+T90	TREATMENT 3586 3603	initial treatment
+T91	TREATMENT 3607 3613	Troche
+T92	TREATMENT 3620 3642	fluconazole (DIFLUCAN)
+T93	TREATMENT 3776 3799	hyoscyamine (LEVSIN/SL)
+T94	PROBLEM 3902 3920	abdominal cramping
+T95	TREATMENT 3986 3993	KERYDIN
+T96	TREATMENT 3998 4075	SolA       L.acidoph/B.long/L.plant/B.lac (PROBIOTIC ACIDOPHILUS BEADS ORAL)
+T97	TREATMENT 4097 4124	lidocaine-prilocaine (EMLA)
+T98	TREATMENT 4169 4180	port access
+T99	PROBLEM 4195 4199	pain
+T100	TREATMENT 4212 4243	lipase-protease-amylase (CREON)
+T101	TREATMENT 4344 4364	loperamide (IMODIUM)
+T102	PROBLEM 4421 4429	diarrhea
+T103	TREATMENT 4542 4562	ondansetron (ZOFRAN)
+T104	PROBLEM 4621 4627	nausea
+T105	PROBLEM 4632 4640	vomiting
+T106	TREATMENT 4674 4694	palonosetron (Aloxi)
+T107	TREATMENT 4768 4789	oxyCODONE (OXYCONTIN)
+T108	TREATMENT 4936 4958	oxyCODONE (ROXICODONE)
+T109	PROBLEM 5044 5048	Pain
+T110	PROBLEM 5054 5077	moderate to severe pain
+T111	TREATMENT 5143 5171	prochlorperazine (COMPAZINE)
+T112	PROBLEM 5253 5259	nausea
+T113	PROBLEM 5264 5272	vomiting
+T114	TREATMENT 5338 5359	rivaroxaban (XARELTO)
+T115	TREATMENT 5432 5457	terbinafine HCl (LAMISIL)
+T116	TREATMENT 5587 5614	Host Defense brand "Stamets
+T117	TREATMENT 5624 5638	Immune Support
+T118	TREATMENT 5686 5694	infusion
+T119	TREATMENT 5730 5746	royal sun blazei
+T120	TREATMENT 5748 5757	cordyceps
+T121	TREATMENT 5931 5939	infusion
+T122	TREATMENT 5979 5990	medications
+T123	PROBLEM 6058 6073	Known Allergies
+T124	PROBLEM 6306 6317	Symptomatic
+T125	PROBLEM 6368 6371	NAD
+T126	PROBLEM 6439 6459	respiratory distress
+T127	PROBLEM 6524 6526	HI
+T128	PROBLEM 6528 6530	SI
+T129	PROBLEM 6532 6546	hallucinations
+T130	PROBLEM 6548 6556	paranoia
+T131	PROBLEM 6561 6570	delusions
+T132	TEST 6640 6645	Value
+T133	TEST 6654 6657	WBC
+T134	TEST 6658 6663	Count
+T135	TEST 6682 6692	Neutrophil
+T136	TEST 6693 6707	Absolute Count
+T137	TEST 6727 6737	Hemoglobin
+T138	TEST 6744 6745	L
+T139	TEST 6761 6771	Hematocrit
+T140	TEST 6795 6809	Platelet Count
+T141	TEST 6815 6816	L
+T142	TEST 6832 6842	Creatinine
+T143	TEST 6862 6871	Bilirubin
+T144	TEST 6873 6878	Total
+T145	TEST 6897 6917	Alkaline Phosphatase
+T146	TEST 6940 6962	Aspartate transaminase
+T147	TEST 6980 7000	Alanine transaminase
+T148	TEST 7018 7025	Albumin
+T149	TEST 7027 7032	Serum
+T150	TEST 7035 7041	Plasma
+T151	TEST 7060 7065	Int'l
+T152	TEST 7066 7074	Normaliz
+T153	TEST 7075 7080	Ratio
+T154	TEST 7099 7105	Sodium
+T155	TEST 7107 7112	Serum
+T156	TEST 7115 7121	Plasma
+T157	TEST 7144 7153	Potassium
+T158	TEST 7155 7160	Serum
+T159	TEST 7163 7169	Plasma
+T160	TEST 7188 7195	Calcium
+T161	TEST 7204 7209	Serum
+T162	TEST 7212 7218	Plasma
+T163	TEST 7276 7282	Cancer
+T164	TEST 7283 7290	Antigen
+T165	TEST 7318 7332	Cancer Antigen
+T166	TEST 7360 7374	Cancer Antigen
+T167	TEST 7402 7426	Carcinoembryonic Antigen
+T168	TEST 7450 7474	Carcinoembryonic Antigen
+T169	TEST 7498 7522	Carcinoembryonic Antigen
+T170	PROBLEM 7814 7844	adenocarcinoma of the pancreas
+T171	TEST 7850 7856	biopsy
+T172	PROBLEM 7864 7910	oligo metastatic disease in the abdominal wall
+T173	TREATMENT 7939 7949	FOLFIRINOX
+T174	PROBLEM 7955 7989	Stage IV pancreatic adenocarcinoma
+T175	TREATMENT 8026 8036	FOLFIRINOX
+T176	TREATMENT 8091 8109	chemotherapy break
+T177	TEST 8118 8130	restaging CT
+T178	TREATMENT 8259 8277	surgical resection
+T179	TREATMENT 8325 8353	palliative radiation therapy
+T180	PROBLEM 8357 8374	his pancreas mass
+T181	TREATMENT 8413 8422	radiation
+T182	PROBLEM 8453 8471	signs and symptoms
+T183	PROBLEM 8475 8485	a GI bleed
+T184	PROBLEM 8490 8509	other complications
+T185	PROBLEM 8530 8548	his pancreas tumor
+T186	PROBLEM 8674 8680	Thrush
+T187	TREATMENT 8709 8720	fluconazole
+T188	TEST 8741 8762	patient complete labs
+T189	PROBLEM 8775 8783	diabetes
+T190	PROBLEM 8796 8807	prediabetes
+T191	TEST 8810 8823	blood glucose
+T192	TEST 8828 8839	Hemboglobin
+T193	TEST 8840 8843	A1C
+T194	PROBLEM 8858 8924	thrombi within the superior and mid duplicated left peroneal veins
+T195	TREATMENT 8938 8945	xarelto
+T196	PROBLEM 8953 8967	Abdominal pain
+T197	PROBLEM 8968 8976	cramping
+T198	TREATMENT 9036 9041	Creon
+T199	TREATMENT 9086 9095	Oxycontin
+T200	TREATMENT 9111 9120	Oxycodone
+T201	PROBLEM 9142 9145	BTP
+T202	PROBLEM 9178 9189	Weight loss
+T203	PROBLEM 9691 9706	Mental capacity
+T204	PROBLEM 9716 9720	pain
+T205	TREATMENT 9735 9751	treatment 
+ plan
+T206	TREATMENT 9802 9827	life sustaining treatment
+T207	PROBLEM 10019 10035	any new symptoms
+T208	PROBLEM 10365 10377	the symptoms
+T209	TREATMENT 10379 10393	treatment plan
+T210	Age 146 153	53 y.o.
+T211	ClinicalCondition 273 303	adenocarcinoma of the pancreas
+T212	Histology 273 287	adenocarcinoma
+T213	Metastasis 323 339	oligo metastatic
+T214	Site 355 369	abdominal wall
+R1	SiteOf Arg1:T214 Arg2:T213	
+R2	TumorDesc TumorDetails:T213 Desc:T211	
+R3	TumorDesc TumorDetails:T212 Desc:T211	
+T215	ProcedureName 309 315	biopsy
+A1	IntentVal T215 diagnosis
+A2	TreatmentTypeVal T215 others
+A3	TreatmentCategory T215 Others
+R4	TestOrProcedureReveals Test:T215 Desc:T213	
+T216	Symptom 419 433	abdominal pain
+A4	IsPresentOnFirstCancerDiagnosis T216 yes
+A5	IsCausedByDiagnosedCancer T216 yes
+A6	ChronicVal T216 non-chronic
+T217	Symptom 438 449	weight loss
+A7	IsPresentOnFirstCancerDiagnosis T217 yes
+A8	IsCausedByDiagnosedCancer T217 yes
+A9	ChronicVal T217 non-chronic
+T218	Datetime 454 464	01/10/2019
+R5	HappensBefore Arg1:T216 Arg2:T218	
+R6	HappensBefore Arg1:T217 Arg2:T218	
+T219	Radiology 475 492	CT of the abdomen
+A10	IntentVal T219 diagnosis
+R7	HappensAtOnDuring Arg1:T219 Arg2:T218	
+T220	RadPathResult 508 512	mass
+A11	RadPathResultVal T220 InitialCancerDiagnosis
+T221	Site 520 528	pancreas
+R8	SiteOf Arg1:T221 Arg2:T220	
+T222	RadPathResult 572 601	concerning soft tissue nodule
+A12	RadPathResultVal T222 InitialCancerDiagnosis
+T223	Site 609 623	abdominal wall
+T224	Laterality 627 634	midline
+R9	LateralityOfSite Arg1:T224 Arg2:T223	
+R10	SiteOf Arg1:T223 Arg2:T222	
+R11	ResultOfTest Desc:T220 Test:T219	
+R12	ResultOfTest Desc:T222 Test:T219	
+R13	TestOrProcedureConductedForProblem Test:T219 Prob:T216	
+R14	TestOrProcedureConductedForProblem Test:T219 Prob:T217	
+T225	Datetime 641 649	02/06/19
+T226	Radiology 651 657	CT PET
+A13	IntentVal T226 staging
+A14	RadPathResultVal T226 InitialCancerDiagnosis
+T227	RadPathResult 667 698;715 748	hypermetabolically active large mass abutting adjacent structures
+A15	RadPathResultVal T227 InitialCancerDiagnosis
+T228	RadPathResult 763 769;796 822	lesion slightly PET avid (SUV 1.2
+A16	RadPathResultVal T228 InitialCancerDiagnosis
+T229	Site 699 709	pancreatic
+T230	Laterality 710 714	tail
+T231	Site 777 791	abdominal wall
+R15	SiteOf Arg1:T231 Arg2:T228	
+R16	LateralityOfSite Arg1:T230 Arg2:T229	
+R17	SiteOf Arg1:T229 Arg2:T227	
+R18	ResultOfTest Desc:T227 Test:T226	
+R19	ResultOfTest Desc:T228 Test:T226	
+T232	SectionSkip 3211 3898;3901 5849;5852 6006	Current Outpatient Medications   Medication Sig Dispense Refill    butenafine (LOTRIMIN ULTRA) 1 % cream       cholecalciferol, vitamin D3, 1000 UNITS TAB tablet Take 4 tablets by mouth daily         clotrimazole (MYCELEX) 10 mg troche 1 tablet (10 mg total) by Other route 3 (three) times daily Take by buccal route. Take for 14 days and during chemotherapy cycles after initial treatment 90 Troche 1    fluconazole (DIFLUCAN) 100 mg tablet Take 200mg PO qd on day one followed by 100mg PO qd on subsequent days.  Take for 1 week and then stop. 8 tablet 0    hyoscyamine (LEVSIN/SL) 0.125 MG SL tablet Place 1 tablet (0.125 mg total) under the tongue every 4 (four) hours as needed (abdominal cramping). (Patient not taking: Reported on 09/17/2019  ) 60 tablet 3    KERYDIN 5 % SolA       L.acidoph/B.long/L.plant/B.lac (PROBIOTIC ACIDOPHILUS BEADS ORAL) Take by mouth.      lidocaine-prilocaine (EMLA) 2.5-2.5 % cream Apply cream one hour before port access as needed for pain. 30 g 2    lipase-protease-amylase (CREON) 24,000-76,000 -120,000 unit capsule Take 2 tabs with meals and 1 tab with snacks. 300 capsule 5    loperamide (IMODIUM) 2 mg capsule Take two capsules by mouth at the onset of diarrhea, then take one capsule every 2 hours until diarrhea-free for 12 hours. 30 capsule 5    medical cannabis       ondansetron (ZOFRAN) 8 mg tablet Take 1 tablet three times a day as needed for nausea and vomiting. Start 2 days after last dose of palonosetron (Aloxi) is given. (Patient not taking: Reported on 07/25/2019  ) 30 tablet 5    oxyCODONE (OXYCONTIN) 10 mg 12 hr ER tablet Take 1 tablet (10 mg total) by mouth every 12 (twelve) hours (Patient not taking: Reported on 09/17/2019  ) 60 tablet 0    oxyCODONE (ROXICODONE) 10 mg tablet Take 1 tablet (10 mg total) by mouth every 4 (four) hours as needed for Pain (for moderate to severe pain). (Patient not taking: Reported on 09/17/2019  ) 90 tablet 0    prochlorperazine (COMPAZINE) 10 mg tablet Take 1 tablet (10 mg total) by mouth every 6 (six) hours as needed (nausea and vomiting). (Patient not taking: Reported on 09/17/2019  ) 30 tablet 5    rivaroxaban (XARELTO) 20 mg tablet Take 1 tablet (20 mg total) by mouth daily 30 tablet 5    terbinafine HCl (LAMISIL) 1 % cream Apply topically Daily. Use as instructed      TURMERIC ORAL Take by mouth      UNABLE TO FIND Take 1 tablet by mouth Host Defense brand "Stamets 7" Daily Immune Support, one tablet every other day during weeks of no infusion.   Each tablet contains 71.5 mg of royal sun blazei, cordyceps, reishi, maitake, lion's mane, chaga, and mesima.        UNABLE TO FIND Take by mouth Host Defense brand Turkey Tail extract, ~ 0.5 ml every other day during weeks of no infusion       No current facility-administered medications for this visit.
+A17	SectionSkipType T232 medications
+A18	SectionSkipType T5 physical_exam
+A19	SectionSkipType T4 allergies
+R20	HappensAtOnDuring Arg1:T226 Arg2:T225	
+T233	Datetime 829 837	01/22/19
+T234	ProcedureName 839 855	EUS directed FNA
+A20	IntentVal T234 diagnosis
+A21	TreatmentTypeVal T234 others
+A22	TreatmentCategory T234 Others
+T235	RadPathResult 863 873;905 919	pancreatic adenocarcinoma
+A23	RadPathResultVal T235 InitialCancerDiagnosis
+R21	ResultOfTest Desc:T235 Test:T234	
+T236	Histology 905 919	adenocarcinoma
+A24	HistoryVal T236 new
+A25	EpisodeDescription T236 FirstOccurrence
+T237	BiomarkerName 921 924	MSS
+A26	EpisodeDescription T237 FirstOccurrence
+A27	BiomarkerResultVal T237 Negative
+T238	Site 863 873	pancreatic
+T239	ClinicalCondition 863 873;905 919	pancreatic adenocarcinoma
+A28	ContinuityVal T239 new
+R22	SiteOf Arg1:T238 Arg2:T239	
+A29	HistoryVal T237 new
+R23	TumorDesc TumorDetails:T237 Desc:T239	
+T240	BiomarkerResult 921 924	MSS
+A30	EpisodeDescription T240 FirstOccurrence
+A31	BiomarkerResultVal T240 Negative
+R24	BiomarkerRel Arg1:T240 Arg2:T237	
+R25	TumorDesc TumorDetails:T236 Desc:T239	
+R26	TestOrProcedureReveals Test:T234 Desc:T239	
+T241	RadPathResult 978 1003	metastatic adenocarcinoma
+A32	RadPathResultVal T241 InitialCancerDiagnosis
+T242	ClinicalCondition 964 1004	nodule showed metastatic adenocarcinoma.
+A33	ContinuityVal T242 new
+T243	Metastasis 978 988	metastatic
+A34	HistoryVal T243 new
+A35	EpisodeDescription T243 FirstOccurrence
+T244	Histology 989 1003	adenocarcinoma
+A36	HistoryVal T244 new
+A37	EpisodeDescription T244 FirstOccurrence
+R27	TumorDesc TumorDetails:T243 Desc:T242	
+R28	TumorDesc TumorDetails:T244 Desc:T242	
+T245	ProcedureName 939 945	Biopsy
+A38	IntentVal T245 diagnosis
+A39	TreatmentTypeVal T245 others
+A40	TreatmentCategory T245 Others
+R29	ResultOfTest Desc:T241 Test:T245	
+T246	Datetime 929 937	02/14/19
+R30	HappensAtOnDuring Arg1:T245 Arg2:T246	
+R31	HappensAtOnDuring Arg1:T234 Arg2:T233	
+R32	TestOrProcedureReveals Test:T245 Desc:T242	
+T247	Site 949 963	abdominal wall
+R33	SiteOf Arg1:T247 Arg2:T242	
+T248	Datetime 1008 1016	03/08/19
+T249	Cycles 1040 1044	C1D1
+T250	MedicationRegimen 1045 1055	FOLFIRINOX
+A41	TreatmentContinuityVal T250 planned
+R34	TreatmentDesc Therapy:T250 Desc:T249	
+T251	LabTestResult 1074 1092	hyperbilirubinemia
+A42	IsPresentOnFirstCancerDiagnosis T251 no
+A43	IsCausedByDiagnosedCancer T251 yes
+A44	ChronicVal T251 non-chronic
+T252	LabTestResult 1138 1156	hyperbilirubinemia
+A45	ChronicVal T252 chronic
+A46	ContinuityVal T252 unclear
+T253	ClinicalCondition 1198 1214	Gilbert syndrome
+A47	ChronicVal T253 chronic
+A48	ContinuityVal T253 unclear
+A49	LabTestResultVal T251 abnormal
+T254	DiagnosticLabTest 1060 1064	labs
+A50	IntentVal T254 others
+R35	ResultOfTest Desc:T251 Test:T254	
+A51	LabTestResultVal T252 abnormal
+T255	MedicationName 1216 1226	Irinotecan
+A52	NegationModalityVal T255 negated
+A53	TreatmentTypeVal T255 maintenance
+R36	NotUndergoneBecauseOf Arg1:T255 Reason:T251	
+T256	Datetime 1274 1282	03/19/19
+T257	Cycles 1284 1288	C2D1
+T258	MedicationRegimen 1289 1299	FOLFIRINOX
+A54	TreatmentContinuityVal T258 started
+A55	TreatmentTypeVal T258 maintenance
+R37	TreatmentDesc Therapy:T258 Desc:T257	
+T259	DiagnosticLabTest 1301 1307	T bili
+A56	IntentVal T259 others
+T260	LabTestResult 1312 1315	0.8
+A57	LabTestResultVal T260 normal
+R38	ResultOfTest Desc:T260 Test:T259	
+R39	HappensAtOnDuring Arg1:T258 Arg2:T256	
+R40	HappensAtOnDuring Arg1:T256 Arg2:T259	
+R41	BeginsOnOrAt Arg1:T250 Arg2:T248	
+R42	HappensAtOnDuring Arg1:T251 Arg2:T248	
+T261	MedicationName 1365 1375	Irinotecan
+A58	TreatmentContinuityVal T261 started
+A59	TreatmentTypeVal T261 maintenance
+R43	HappensAtOnDuring Arg1:T261 Arg2:T256	
+T262	Datetime 1441 1449	04/02/19
+T263	Cycles 1451 1455	C3D1
+T264	MedicationRegimen 1456 1466	FOLFIRINOX
+A60	TreatmentContinuityVal T264 continuing
+A61	TreatmentTypeVal T264 maintenance
+R44	TreatmentDesc Therapy:T264 Desc:T263	
+R45	HappensAtOnDuring Arg1:T264 Arg2:T262	
+T265	Datetime 1470 1478	04/30/19
+T266	Cycles 1480 1484	C4D1
+T267	MedicationRegimen 1485 1495	FOLFIRINOX
+A62	TreatmentContinuityVal T267 continuing
+A63	TreatmentTypeVal T267 maintenance
+A64	TreatmentIntentVal T267 palliative
+A65	TreatmentIntentVal T264 palliative
+A66	TreatmentIntentVal T261 palliative
+A67	TreatmentCategory T261 AntiNeoPlastics
+A68	TreatmentIntentVal T258 palliative
+R46	TreatmentDesc Therapy:T267 Desc:T266	
+R47	HappensAtOnDuring Arg1:T267 Arg2:T265	
+T268	Datetime 1499 1507	05/15/19
+T269	Radiology 1509 1515	CT CAP
+A69	IntentVal T269 TreatmentAssessment
+T270	RadPathResult 1523 1529;1541 1545	stable mass
+A70	RadPathResultVal T270 DiseaseStability
+T271	Site 1530 1540	pancreatic
+R48	SiteOf Arg1:T271 Arg2:T270	
+T272	RadPathResult 1550 1574;1599 1605	slight decreased size of lesion
+A71	RadPathResultVal T272 DiseaseStability
+T273	Site 1575 1598	anterior abdominal wall
+R49	SiteOf Arg1:T273 Arg2:T272	
+R50	ResultOfTest Desc:T272 Test:T269	
+R51	ResultOfTest Desc:T270 Test:T269	
+T274	Datetime 1607 1615	05/16/19
+T275	Cycles 1617 1621	C5D1
+T276	MedicationRegimen 1622 1632	FOLFIRINOX
+A72	TreatmentContinuityVal T276 continuing
+A73	TreatmentTypeVal T276 maintenance
+A74	TreatmentIntentVal T276 palliative
+R52	TreatmentDesc Therapy:T276 Desc:T275	
+R53	HappensAtOnDuring Arg1:T276 Arg2:T274	
+T277	Datetime 1636 1644	05/18/19
+A75	IntentVal T46 others
+A76	TreatmentTypeVal T46 others
+A77	TreatmentCategory T46 Others
+T278	ClinicalCondition 1674 1701	segmental occlusive thrombi
+A78	ChronicVal T278 non-chronic
+A79	ContinuityVal T278 new
+T279	Site 1662 1664	LE
+R54	SiteOf Arg1:T279 Arg2:T278	
+R55	TestOrProcedureReveals Test:T46 Desc:T278	
+T280	MedicationName 1781 1788	xarelto
+A80	TreatmentContinuityVal T280 started
+A81	TreatmentTypeVal T280 others
+A82	TreatmentIntentVal T280 others
+A83	TreatmentCategory T280 Others
+R56	TreatmentAdministeredForProblem Treatment:T280 Prob:T278	
+R57	HappensAtOnDuring Arg1:T46 Arg2:T277	
+T281	Datetime 1792 1800	05/28/19
+T282	Cycles 1802 1806	C6D1
+T283	MedicationRegimen 1807 1817	FOLFIRINOX
+A84	TreatmentContinuityVal T283 continuing
+A85	TreatmentTypeVal T283 maintenance
+A86	TreatmentIntentVal T283 palliative
+R58	TreatmentDesc Therapy:T283 Desc:T282	
+R59	HappensAtOnDuring Arg1:T283 Arg2:T281	
+T284	DiagnosticLabTest 1819 1826	CA 19-9
+A87	IntentVal T284 TreatmentAssessment
+T285	DiagnosticLabTest 1894 1901	CA 19-9
+A88	IntentVal T285 TreatmentAssessment
+T286	DiagnosticLabTest 2119 2126	CA 19-9
+A89	IntentVal T286 TreatmentAssessment
+T287	LabTestResult 1829 1834	2,528
+A90	LabTestResultVal T287 abnormal
+T288	LabTestResult 1904 1907	995
+A91	LabTestResultVal T288 abnormal
+T289	LabTestResult 2129 2132	826
+A92	LabTestResultVal T289 abnormal
+R60	ResultOfTest Desc:T289 Test:T286	
+R61	ResultOfTest Desc:T288 Test:T285	
+R62	ResultOfTest Desc:T287 Test:T284	
+R63	HappensAtOnDuring Arg1:T284 Arg2:T281	
+T290	Datetime 1838 1846	06/11/19
+T291	Datetime 1911 1919	07/06/19
+T292	Datetime 1999 2007	07/11/19
+T293	Datetime 2091 2099	08/01/19
+T294	Datetime 2134 2142	08/13/19
+T295	Datetime 2164 2172	09/03/19
+T296	Datetime 2206 2214	09/10/19
+T297	DiagnosticLabTest 2009 2016	CA 19-9
+A93	IntentVal T297 TreatmentAssessment
+T298	LabTestResult 2019 2022	588
+A94	LabTestResultVal T298 abnormal
+R64	ResultOfTest Desc:T298 Test:T297	
+R65	HappensAtOnDuring Arg1:T297 Arg2:T292	
+T299	Cycles 1848 1852	C7D1
+T300	MedicationRegimen 1853 1863	FOLFIRINOX
+A95	TreatmentContinuityVal T300 continuing
+A96	TreatmentTypeVal T300 maintenance
+A97	TreatmentIntentVal T300 palliative
+R66	TreatmentDesc Therapy:T300 Desc:T299	
+R67	HappensAtOnDuring Arg1:T300 Arg2:T290	
+T301	Datetime 1867 1875	06/25/19
+T302	MedicationRegimen 1882 1892	FOLFIRINOX
+A98	TreatmentContinuityVal T302 continuing
+A99	TreatmentTypeVal T302 maintenance
+A100	TreatmentIntentVal T302 palliative
+T303	Cycles 1877 1881	C8D1
+R68	TreatmentDesc Therapy:T302 Desc:T303	
+R69	HappensAtOnDuring Arg1:T302 Arg2:T301	
+R70	HappensAtOnDuring Arg1:T285 Arg2:T301	
+T304	Radiology 1921 1927	CT CAP
+A101	IntentVal T304 TreatmentAssessment
+T305	RadPathResult 1946 1967	response to treatment
+A102	RadPathResultVal T305 TreatmentResponse
+R71	ResultOfTest Desc:T305 Test:T304	
+R72	HappensAtOnDuring Arg1:T304 Arg2:T291	
+T306	Datetime 1970 1978	07/09/19
+T307	MedicationRegimen 1985 1995	FOLFIRINOX
+A103	TreatmentContinuityVal T307 continuing
+A104	TreatmentTypeVal T307 maintenance
+A105	TreatmentIntentVal T307 palliative
+T308	Cycles 1980 1984	C9D1
+R73	TreatmentDesc Therapy:T307 Desc:T308	
+R74	HappensAtOnDuring Arg1:T307 Arg2:T306	
+T309	Datetime 2024 2032	07/25/19
+T310	Cycles 2050 2058	Cycle 10
+A106	NegationModalityVal T310 negated
+T311	LabTestResult 2082 2088	PLT 95
+A107	LabTestResultVal T311 abnormal
+T312	TreatmentType 2034 2043	Treatment
+R75	TreatmentDesc Therapy:T310 Desc:T312	
+R76	NotUndergoneBecauseOf Arg1:T312 Reason:T311	
+T313	MedicationRegimen 2107 2117	FOLFIRINOX
+A108	TreatmentContinuityVal T313 continuing
+A109	TreatmentTypeVal T313 maintenance
+A110	TreatmentIntentVal T313 palliative
+T314	Cycles 2101 2106	C10D1
+R77	TreatmentDesc Therapy:T314 Desc:T313	
+R78	HappensAtOnDuring Arg1:T313 Arg2:T293	
+R79	HappensAtOnDuring Arg1:T286 Arg2:T293	
+T315	Cycles 2144 2149	C11D1
+T316	MedicationRegimen 2150 2160	FOLFIRINOX
+A111	TreatmentContinuityVal T316 continuing
+A112	TreatmentTypeVal T316 maintenance
+A113	TreatmentIntentVal T316 palliative
+R80	TreatmentDesc Therapy:T316 Desc:T315	
+R81	HappensAtOnDuring Arg1:T316 Arg2:T294	
+T317	Cycles 2174 2179	C12D1
+T318	MedicationRegimen 2180 2190	FOLFIRINOX
+A114	TreatmentContinuityVal T318 finished
+A115	TreatmentTypeVal T318 maintenance
+A116	TreatmentIntentVal T318 palliative
+R82	TreatmentDesc Therapy:T318 Desc:T317	
+R83	HappensAtOnDuring Arg1:T318 Arg2:T295	
+T319	Radiology 2216 2222	CT CAP
+A117	IntentVal T319 TreatmentAssessment
+T320	RadPathResult 2223 2237	stable disease
+A118	RadPathResultVal T320 DiseaseStability
+A119	LabTestResultVal T320 normal
+T321	Site 2245 2253	pancreas
+T322	Site 2258 2279	abdominal wall lesion
+R84	SiteOf Arg1:T321 Arg2:T320	
+R85	SiteOf Arg1:T322 Arg2:T320	
+R86	ResultOfTest Desc:T320 Test:T319	
+R87	HappensAtOnDuring Arg1:T319 Arg2:T296	
+T323	TreatmentType 2314 2332	chemotherapy break
+A120	TreatmentContinuityVal T323 started
+R88	HappensAtOnDuring Arg1:T323 Arg2:T296	
+T324	Datetime 2338 2346	10/03/19
+T325	ProcedureName 2450 2468	surgical resection
+A121	NegationModalityVal T325 hypothetical_in_future
+R89	HappensAfter Arg1:T325 Arg2:T324	
+T326	LocalInvasion 720 748	abutting adjacent structures
+T327	ClinicalCondition 699 719	pancreatic tail mass
+R90	TumorDesc TumorDetails:T326 Desc:T327	
+R91	TestOrProcedureReveals Test:T226 Desc:T327	
+T328	ProcedureName 2491 2505	not resectable
+A122	NegationModalityVal T328 negated
+A123	TreatmentCategory T328 AntiNeoPlastics
+T329	LocalInvasion 2549 2592	extensive vessel involvement and encasement
+A124	EpisodeDescription T329 Others
+T330	ClinicalCondition 2474 2487	pancreas mass
+R92	TumorDesc TumorDetails:T329 Desc:T330	
+R93	NotUndergoneBecauseOf Arg1:T328 Reason:T329	
+T331	Site 2474 2482	pancreas
+R94	SiteOf Arg1:T331 Arg2:T330	
+T332	RadiationTherapyName 2622 2645	consolidation radiation
+A125	NegationModalityVal T332 hypothetical_in_future
+R95	HappensAtOnDuring Arg1:T328 Arg2:T324	
+T333	RadiationTherapyName 2815 2832	radiation therapy
+A126	NegationModalityVal T333 negated
+T334	Symptom 2863 2875	asymptomatic
+A127	NegationModalityVal T334 negated
+R96	NotUndergoneBecauseOf Arg1:T333 Reason:T334	
+T335	LocalInvasion 2689 2709	abutting the stomach
+T336	ClinicalCondition 2732 2745	complications
+A128	NegationModalityVal T336 hypothetical_in_future
+T337	ClinicalCondition 2680 2685	tumor
+T338	Site 2671 2679	pancreas
+R97	SiteOf Arg1:T338 Arg2:T337	
+R98	TumorDesc TumorDetails:T335 Desc:T337	
+R99	TreatmentAdministeredForProblem Treatment:T332 Prob:T335	
+R100	TreatmentAdministeredForProblem Treatment:T332 Prob:T336	
+T339	Symptom 2916 2939	feeling generally well.
+T340	ClinicalCondition 2963 2974	oral thrush
+A129	ChronicVal T340 non-chronic
+A130	ContinuityVal T340 new
+T341	MedicationName 2984 2995	fluconazole
+A131	TreatmentContinuityVal T341 started
+A132	TreatmentTypeVal T341 others
+A133	TreatmentIntentVal T341 others
+A134	TreatmentCategory T341 Supportive
+R101	TreatmentAdministeredForProblem Treatment:T341 Prob:T340	
+T342	ClinicalCondition 3078 3090	tinea cruris
+A135	ChronicVal T342 non-chronic
+A136	ContinuityVal T342 new
+T343	Site 3094 3104	groin area
+R102	SiteOf Arg1:T343 Arg2:T342	
+T344	MedicationName 3058 3073	cicloprox cream
+A137	TreatmentContinuityVal T344 started
+A138	TreatmentTypeVal T344 others
+A139	TreatmentIntentVal T344 others
+A140	TreatmentCategory T344 Supportive
+R103	TreatmentAdministeredForProblem Treatment:T344 Prob:T342	
+T345	Age 7685 7692	53 y.o.
+T346	PerformanceStatus 6302 6303	1
+A141	PerformanceStatusType T346 ECOG
+T347	ClinicalCondition 7814 7849;7864 7888	adenocarcinoma of the pancreas with oligo metastatic disease
+A142	ContinuityVal T347 stable
+T348	Histology 7814 7828	adenocarcinoma
+A143	HistoryVal T348 history
+T349	Metastasis 7864 7880	oligo metastatic
+T350	Site 7896 7911	abdominal wall.
+R104	SiteOf Arg1:T350 Arg2:T349	
+R105	TumorDesc TumorDetails:T349 Desc:T347	
+R106	TumorDesc TumorDetails:T348 Desc:T347	
+T351	MedicationRegimen 7939 7949	FOLFIRINOX
+A145	TreatmentContinuityVal T351 finished
+A146	TreatmentTypeVal T351 maintenance
+A147	TreatmentIntentVal T351 palliative
+T352	Cycles 7926 7935	12 cycles
+R107	TreatmentDesc Therapy:T352 Desc:T351	
+T353	Stage 7955 7963	Stage IV
+A148	HistoryVal T353 history
+T354	ClinicalCondition 7964 7989	pancreatic adenocarcinoma
+T355	Histology 7975 7989	adenocarcinoma
+A149	HistoryVal T355 history
+R108	TumorDesc TumorDetails:T355 Desc:T354	
+T356	Site 7964 7974	pancreatic
+R109	SiteOf Arg1:T356 Arg2:T354	
+R110	TumorDesc TumorDetails:T353 Desc:T354	
+T357	Cycles 8013 8022	12 cycles
+T358	MedicationRegimen 8026 8036	FOLFIRINOX
+A150	TreatmentContinuityVal T358 finished
+A151	TreatmentTypeVal T358 maintenance
+A152	TreatmentIntentVal T358 palliative
+T359	Datetime 8042 8055	February 2019
+T360	Datetime 8058 8069	August 2019
+R111	TreatmentDesc Therapy:T358 Desc:T357	
+R112	BeginsOnOrAt Arg1:T358 Arg2:T359	
+R113	EndsOnOrAt Arg1:T358 Arg2:T360	
+T361	TreatmentType 8091 8109	chemotherapy break
+A153	NegationModalityVal T361 negated
+A154	TreatmentContinuityVal T361 continuing
+T362	Radiology 8118 8130	restaging CT
+A155	IntentVal T362 TreatmentAssessment
+T363	Datetime 8143 8151	11/19/19
+A156	NegationModalityVal T362 planned_in_future
+R114	HappensAtOnDuring Arg1:T362 Arg2:T363	
+T364	ProcedureName 8259 8296	surgical resection is not recommended
+A157	NegationModalityVal T364 negated
+A158	TreatmentTypeVal T364 local
+A159	TreatmentCategory T364 AntiNeoPlastics
+T365	RadiationTherapyName 8325 8353;8397 8435	palliative radiation therapy not recommended radiation at this time
+A160	NegationModalityVal T365 negated
+A161	TreatmentTypeVal T365 local
+A162	TreatmentIntentVal T365 palliative
+T366	ClinicalCondition 8370 8374	mass
+A163	ChronicVal T366 non-chronic
+A164	ContinuityVal T366 stable
+T367	Site 8361 8369	pancreas
+R115	SiteOf Arg1:T367 Arg2:T366	
+R116	TreatmentAdministeredForProblem Treatment:T365 Prob:T366	
+T368	GenomicTest 8587 8620	Foundation Medicine liquid biopsy
+A165	IntentVal T368 TreatmentAssessment
+A166	GenomicTestType T368 Somatic
+T369	GenomicTestResult 8632 8669	MSI Status Undetermined  RB1 P26fs*47
+R117	ResultOfTest Desc:T369 Test:T368	
+T370	ClinicalCondition 8674 8680	Thrush
+A167	ChronicVal T370 non-chronic
+A168	ContinuityVal T370 stable
+T371	MedicationName 8709 8720	fluconazole
+A169	NegationModalityVal T371 planned_in_future
+A170	TreatmentContinuityVal T371 planned
+A171	TreatmentTypeVal T371 others
+A172	TreatmentIntentVal T371 others
+R118	TreatmentAdministeredForProblem Treatment:T371 Prob:T370	
+T372	ClinicalCondition 8796 8807	prediabetes
+A173	ChronicVal T372 chronic
+A174	ContinuityVal T372 unclear
+T373	DiagnosticLabTest 8828 8843	Hemboglobin A1C
+A175	NegationModalityVal T373 planned_in_future
+T374	DiagnosticLabTest 8810 8823	blood glucose
+A176	NegationModalityVal T374 planned_in_future
+T375	ClinicalCondition 8848 8865	occlusive thrombi
+A177	ChronicVal T375 non-chronic
+A178	ContinuityVal T375 unclear
+T376	Site 8877 8924	superior and mid duplicated left peroneal veins
+R119	SiteOf Arg1:T376 Arg2:T375	
+T377	MedicationName 8938 8945	xarelto
+A179	TreatmentContinuityVal T377 continuing
+A180	TreatmentTypeVal T377 others
+A181	TreatmentIntentVal T377 others
+A182	TreatmentCategory T377 Others
+R120	TreatmentAdministeredForProblem Treatment:T377 Prob:T375	
+T378	Frequency 8946 8948	QD
+R121	Temporal Arg1:T378 Arg2:T377	
+T379	Symptom 8953 8976	Abdominal pain/cramping
+A183	IsPresentOnFirstCancerDiagnosis T379 yes
+A184	IsCausedByDiagnosedCancer T379 yes
+A185	ChronicVal T379 chronic
+A186	ContinuityVal T379 improving
+T380	MedicationName 9036 9041	Creon
+A187	TreatmentContinuityVal T380 continuing
+A188	TreatmentTypeVal T380 others
+A189	TreatmentCategory T380 Supportive
+T381	Frequency 9045 9076	2 or 3 tab/meal and 1 tab/snack
+R122	Temporal Arg1:T381 Arg2:T380	
+T382	MedicationName 9086 9095	Oxycontin
+A190	TreatmentContinuityVal T382 continuing
+A191	TreatmentTypeVal T382 others
+A192	TreatmentIntentVal T382 others
+A193	TreatmentCategory T382 Supportive
+T383	TreatmentDosage 9096 9100	10mg
+T384	Frequency 9104 9107	bid
+R123	TreatmentDesc Therapy:T383 Desc:T382	
+R124	Temporal Arg1:T384 Arg2:T382	
+T385	MedicationName 9111 9120	Oxycodone
+A194	TreatmentContinuityVal T385 continuing
+A195	TreatmentTypeVal T385 others
+A196	TreatmentIntentVal T385 others
+A197	TreatmentCategory T385 Supportive
+T386	TreatmentDosage 9121 9130	5 to 10mg
+T387	Frequency 9134 9137	q4h
+R125	TreatmentDesc Therapy:T386 Desc:T385	
+R126	Temporal Arg1:T387 Arg2:T385	
+T388	Symptom 9178 9189	Weight loss
+A198	IsPresentOnFirstCancerDiagnosis T388 yes
+A199	IsCausedByDiagnosedCancer T388 yes
+A200	ChronicVal T388 chronic
+A201	ContinuityVal T388 improving
+T389	SectionSkip 3211 3898;3901 5849;5852 6005	Current Outpatient Medications   Medication Sig Dispense Refill    butenafine (LOTRIMIN ULTRA) 1 % cream       cholecalciferol, vitamin D3, 1000 UNITS TAB tablet Take 4 tablets by mouth daily         clotrimazole (MYCELEX) 10 mg troche 1 tablet (10 mg total) by Other route 3 (three) times daily Take by buccal route. Take for 14 days and during chemotherapy cycles after initial treatment 90 Troche 1    fluconazole (DIFLUCAN) 100 mg tablet Take 200mg PO qd on day one followed by 100mg PO qd on subsequent days.  Take for 1 week and then stop. 8 tablet 0    hyoscyamine (LEVSIN/SL) 0.125 MG SL tablet Place 1 tablet (0.125 mg total) under the tongue every 4 (four) hours as needed (abdominal cramping). (Patient not taking: Reported on 09/17/2019  ) 60 tablet 3    KERYDIN 5 % SolA       L.acidoph/B.long/L.plant/B.lac (PROBIOTIC ACIDOPHILUS BEADS ORAL) Take by mouth.      lidocaine-prilocaine (EMLA) 2.5-2.5 % cream Apply cream one hour before port access as needed for pain. 30 g 2    lipase-protease-amylase (CREON) 24,000-76,000 -120,000 unit capsule Take 2 tabs with meals and 1 tab with snacks. 300 capsule 5    loperamide (IMODIUM) 2 mg capsule Take two capsules by mouth at the onset of diarrhea, then take one capsule every 2 hours until diarrhea-free for 12 hours. 30 capsule 5    medical cannabis       ondansetron (ZOFRAN) 8 mg tablet Take 1 tablet three times a day as needed for nausea and vomiting. Start 2 days after last dose of palonosetron (Aloxi) is given. (Patient not taking: Reported on 07/25/2019  ) 30 tablet 5    oxyCODONE (OXYCONTIN) 10 mg 12 hr ER tablet Take 1 tablet (10 mg total) by mouth every 12 (twelve) hours (Patient not taking: Reported on 09/17/2019  ) 60 tablet 0    oxyCODONE (ROXICODONE) 10 mg tablet Take 1 tablet (10 mg total) by mouth every 4 (four) hours as needed for Pain (for moderate to severe pain). (Patient not taking: Reported on 09/17/2019  ) 90 tablet 0    prochlorperazine (COMPAZINE) 10 mg tablet Take 1 tablet (10 mg total) by mouth every 6 (six) hours as needed (nausea and vomiting). (Patient not taking: Reported on 09/17/2019  ) 30 tablet 5    rivaroxaban (XARELTO) 20 mg tablet Take 1 tablet (20 mg total) by mouth daily 30 tablet 5    terbinafine HCl (LAMISIL) 1 % cream Apply topically Daily. Use as instructed      TURMERIC ORAL Take by mouth      UNABLE TO FIND Take 1 tablet by mouth Host Defense brand "Stamets 7" Daily Immune Support, one tablet every other day during weeks of no infusion.   Each tablet contains 71.5 mg of royal sun blazei, cordyceps, reishi, maitake, lion's mane, chaga, and mesima.        UNABLE TO FIND Take by mouth Host Defense brand Turkey Tail extract, ~ 0.5 ml every other day during weeks of no infusion       No current facility-administered medications for this visit
+A202	SectionSkipType T389 medications
+T390	LocalInvasion 535 542	encased
+A203	EpisodeDescription T390 FirstOccurrence
+T391	Site 547 558	celiac axis
+R127	SiteOf Arg1:T391 Arg2:T390	
+T392	Metastasis 572 601	concerning soft tissue nodule
+A204	NegationModalityVal T392 uncertain_in_present
+R128	TestOrProcedureReveals Test:T219 Desc:T390	
+A205	TreatmentTypeVal T250 maintenance
+A206	TreatmentIntentVal T250 palliative
+T393	MedicationRegimen 1263 1269	FOLFOX
+A207	TreatmentContinuityVal T393 started
+A208	TreatmentTypeVal T393 maintenance
+A209	TreatmentIntentVal T393 palliative
+T394	Cycles 1258 1262	C1D1
+R129	TreatmentDesc Therapy:T394 Desc:T393	
+T395	ClinicalCondition 1427 1437	toxicities
+A210	NegationModalityVal T395 hypothetical_in_future
+A211	ChronicVal T395 chronic
+R130	ConditionOrTreatmentCausesProblem Treatment:T261 Prob:T395	
+R131	HappensAtOnDuring Arg1:T268 Arg2:T269	
+T396	Site 1713 1760	superior and mid duplicated left peroneal veins
+R132	SiteOf Arg1:T396 Arg2:T278	
+R133	ExclusionCriteriaFor Arg1:T311 Arg2:T312	
+T397	DiseaseState 2223 2237	stable disease
+A212	DiseaseStateVal T397 stability
+A213	IntentVal T328 treatment-curative
+A214	TreatmentTypeVal T328 local
+A215	NegationModalityVal T339 negated
+T398	SectionSkip 6306 6570	Symptomatic but completely ambulatory  Constitutional:  WDWN, NAD, pleasant and conversant   Eyes: sclera anicteric  Respiratory: no respiratory distress  Neurologic: Alert & oriented x 3  Psychiatric: Mood stable. No HI, SI, hallucinations, paranoia, or delusions
+A216	SectionSkipType T398 physical_exam
+A144	EpisodeDescription T349 Progression
+T399	Symptom 8477 8485	GI bleed
+A217	NegationModalityVal T399 hypothetical_in_future
+T400	LocalInvasion 8558 8564	invade
+A218	NegationModalityVal T400 hypothetical_in_future
+T401	Site 8574 8582	stomach.
+R134	SiteOf Arg1:T401 Arg2:T400	
+T402	ClinicalCondition 8534 8548	pancreas tumor
+R135	ConditionOrTreatmentCausesProblem Treatment:T402 Prob:T399	
+T403	ClinicalCondition 8775 8783	diabetes
+A219	NegationModalityVal T403 uncertain_in_present
+R136	TreatmentAdministeredForProblem Treatment:T380 Prob:T379	
+R137	TreatmentAdministeredForProblem Treatment:T382 Prob:T379	
+R138	TreatmentAdministeredForProblem Treatment:T385 Prob:T379	
+T404	Datetime 9867 9875	11/21/19
+T405	Symptom 10023 10035	new symptoms
+A220	NegationModalityVal T405 hypothetical_in_future
+T406	hpi_start 107 114	PATIENT
+T407	hpi_end 3100 3105	area.
+T408	ap_start 7635 7645	ASSESSMENT
+T409	ap_end 10109 10112	me.
+R139	HappensAtOnDuring Arg1:T249 Arg2:T248	
+R140	BeginsOnOrAt Arg1:T393 Arg2:T248	
+R141	EndsOnOrAt Arg1:T296 Arg2:T318	

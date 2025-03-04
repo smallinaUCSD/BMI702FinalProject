@@ -1,0 +1,859 @@
+T1	SectionAnnotate 0 4	HPI:
+T3	SectionAnnotate 3086 3107	Past Medical History:
+T4	SectionAnnotate 3400 3422	Past Surgical History:
+T5	SectionAnnotate 3719 3733	Family History
+T6	SectionAnnotate 5007 5021	Social History
+T7	SectionAnnotate 5120 5144	Social History Narrative
+T8	SectionSkip 5559 6811	Current Outpatient Medications:     ascorbic acid, vitamin C, 500 mg TABSR, Take by mouth daily., Disp: , Rfl:     B-complex with vitamin C tablet, Take by mouth daily., Disp: , Rfl:     clonazePAM (KLONOPIN) 1 mg tablet, Take 1 tablet (1 mg total) by mouth nightly as needed for Anxiety 
+ (Insomnia)., Disp: 5 tablet, Rfl: 3    KAVA ROOT ORAL, Take by mouth. Kava tincture-  Use 1/2 -1 teaspoon by mouth Kava for anxiety, Disp: , Rfl:     Lactobacillus acidophilus (PROBIOTIC ORAL), Take 1 capsule by mouth. PROBIOTIC-10PO, Disp: , Rfl:     lamoTRIgine (LAMICTAL XR) 200 mg 24 hr ER tablet, Take 1 tablet (200 mg total) by mouth daily., Disp: 30 tablet, Rfl: 0    multivitamin capsule, Take 1 capsule by mouth daily. Multiple Vitamin, Disp: , Rfl:     multivitamin-Ca-iron-minerals TAB, Take 1 tablet by mouth., Disp: , Rfl:     tretinoin microspheres (RETIN-A MICRO PUMP) 0.08 % GlwP, Apply 1 Application topically Daily., Disp: 50 g, Rfl: 5    TURMERIC ORAL, Take 1 capsule by mouth. TURMERIC PO take 1 cap by mouth daily, Disp: , Rfl:     UNABLE TO FIND, Med Name: ELDERBERRY PO take by mouth daily., Disp: , Rfl:     zolpidem (AMBIEN) 5 mg tablet, Take 1 tablet (5 mg total) by mouth nightly as needed for Sleep, Disp: 5 tablet, Rfl: 0
+T9	SectionAnnotate 6815 6832	Review of Systems
+T10	SectionSkip 7162 8655	Physical Examination: General appearance - alert, well appearing, and in no distress  Mental status - alert, oriented to person, place, and time  Eyes - Right eyelid stye, upper lid pupils equal and reactive, extraocular eye movements intact  Mouth - mucous membranes moist, pharynx normal without lesions  Neck - supple, no significant adenopathy  Lymphatics - no palpable lymphadenopathy  Chest - clear to auscultation, no wheezes, rales or rhonchi, symmetric air entry  Heart - normal rate, regular rhythm, normal S1, S2, no murmurs, rubs, clicks or gallops  Abdomen - soft, nontender, nondistended, no masses or 
+ organomegaly  Breasts - 2 cm R breast mass 8 cm from the nipple   Back exam - full range of motion, no tenderness, palpable spasm or pain on motion  Neurological - alert, oriented, normal speech, no focal findings or movement disorder noted  Musculoskeletal - no joint tenderness, deformity or swelling  Extremities - peripheral pulses normal, no pedal edema, no clubbing or cyanosis  Skin - normal coloration and turgor, no rashes, no suspicious skin lesions noted  Tatoo left upper shoulder and left abdomen     I personally reviewed and interpreted the following results:  Results for orders placed or performed in visit on 03/17/19   Syphilis Screen by RPR with Reflex to Treponemal Antibody   Result Value Ref Range    Syphilis Screen by RPR with Reflex to Treponemal Antibody Nonreactive Nonreactive   HIV Ag/Ab Combo   Result Value Ref Range    HIV Ag/Ab Combo NEG NEG
+T11	SectionAnnotate 8662 8682	Assessment and Plan:
+T12	TREATMENT 70 87	treatment options
+T13	PROBLEM 92 125	her newly diagnosed breast cancer
+T14	PROBLEM 214 227	Breast Cancer
+T15	PROBLEM 277 294	right breast mass
+T16	TEST 307 326	Bilateral breast US
+T17	PROBLEM 360 371	6x7 mm mass
+T18	PROBLEM 377 393	ductal extension
+T19	PROBLEM 415 419	DCIS
+T20	PROBLEM 458 480	lower abdomen swelling
+T21	PROBLEM 482 501	urethral discomfort
+T22	PROBLEM 506 517	breast mass
+T23	TEST 547 551	exam
+T24	PROBLEM 563 585	mobile, nontender mass
+T25	TEST 644 660	Right breast FNA
+T26	PROBLEM 726 744	fibrocystic change
+T27	PROBLEM 748 760	fibroadenoma
+T28	TEST 774 791	Abdomen-pelvic CT
+T29	PROBLEM 796 810	acute findings
+T30	PROBLEM 816 830	abdominal pain
+T31	TEST 845 882	Bilateral breast diagnostic mammogram
+T32	PROBLEM 892 909	A focal asymmetry
+T33	TEST 938 955	Triangular marker
+T34	PROBLEM 972 1023	focal pain in the lower slightly outer right breast
+T35	PROBLEM 1033 1066	underlying mammographic correlate
+T36	PROBLEM 1068 1139	Scattered and occasionally grouped benign-appearing microcalcifications
+T37	PROBLEM 1169 1186	coarse dystrophic
+T38	TREATMENT 1211 1232	reported fat grafting
+T39	TEST 1246 1276	Bilateral breast diagnostic US
+T40	PROBLEM 1285 1335	22 x 10 x 15 mm oval complex solid and cystic mass
+T41	PROBLEM 1341 1364	peripheral echogenicity
+T42	PROBLEM 1369 1424	an irregular, antiparallel hypoechoic central component
+T43	PROBLEM 1484 1516	The central hypoechoic component
+T44	PROBLEM 1575 1617	focal pain in the lower outer right breast
+T45	PROBLEM 1726 1754	A few normal-appearing nodes
+T46	TEST 1803 1837	Right breast US guided core biopsy
+T47	PROBLEM 1876 1887	Grade 1 IDC
+T48	TEST 1889 1893	ER+(
+T49	TEST 1900 1902	PR
+T50	PROBLEM 1929 1952	strong nuclear staining
+T51	TEST 1955 1959	HER2
+T52	TEST 1972 1975	IHC
+T53	TEST 1980 1984	FISH
+T54	TEST 2062 2067	Ki-67
+T55	PROBLEM 2075 2108	Focal atypical ductal hyperplasia
+T56	PROBLEM 2110 2147	Pseudoangiomatous stromal hyperplasia
+T57	PROBLEM 2149 2153	DCIS
+T58	TREATMENT 2260 2311	bilateral TSSM with expander/implant reconstruction
+T59	TREATMENT 2354 2381	surgical options lumpectomy
+T60	TREATMENT 2385 2405	bilateral mastectomy
+T61	TEST 2419 2434	genetic testing
+T62	TREATMENT 2524 2541	double mastectomy
+T63	PROBLEM 2666 2685	Alzheimer's disease
+T64	PROBLEM 2701 2725	Bipolar 2 disorder (HCC)
+T65	PROBLEM 2741 2749	Insomnia
+T66	TEST 2810 2812	ER
+T67	TEST 2814 2816	PR
+T68	TEST 2875 2897	a bilateral breast MRI
+T69	PROBLEM 3145 3165	Seasonal    Anxiety
+T70	PROBLEM 3171 3194	Bilateral ovarian cysts
+T71	PROBLEM 3200 3225	Bipolar II disorder (HCC)
+T72	TREATMENT 3264 3272	lamictal
+T73	PROBLEM 3277 3288	Hemorrhoids
+T74	PROBLEM 3298 3339	Invasive ductal carcinoma of right breast
+T75	PROBLEM 3370 3395	Invasive Ductal carcinoma
+T76	TEST 3495 3508	BREAST BIOPSY
+T77	TREATMENT 3685 3703	REFRACTIVE SURGERY
+T78	PROBLEM 3775 3781	Rashes
+T79	PROBLEM 3784 3797	Skin problems
+T80	PROBLEM 3818 3830	Hypertension
+T81	PROBLEM 3873 3885	Hypertension
+T82	PROBLEM 3907 3915	Diabetes
+T83	PROBLEM 3939 3951	Hypertension
+T84	PROBLEM 3973 3988	Rheum arthritis
+T85	PROBLEM 4016 4024	Diabetes
+T86	PROBLEM 4052 4064	Hypertension
+T87	PROBLEM 4092 4104	Colon cancer
+T88	PROBLEM 4157 4165	Diabetes
+T89	PROBLEM 4193 4206	Heart disease
+T90	PROBLEM 4234 4246	Hypertension
+T91	PROBLEM 4274 4283	Migraines
+T92	PROBLEM 4311 4319	Diabetes
+T93	PROBLEM 4347 4366	Alzheimer's disease
+T94	PROBLEM 4394 4413	Alzheimer's disease
+T95	PROBLEM 4447 4460	Breast cancer
+T96	PROBLEM 4497 4514	Lobular carcinoma
+T97	PROBLEM 4543 4556	Breast cancer
+T98	PROBLEM 4634 4642	Melanoma
+T99	PROBLEM 4656 4676	Basal cell carcinoma
+T100	PROBLEM 4690 4713	Squamous cell carcinoma
+T101	TEST 4727 4735	Skin ca.
+T102	PROBLEM 4757 4766	Allergies
+T103	PROBLEM 4787 4805	Allergen Reactions
+T104	PROBLEM 4810 4838	Latex Itching     IRRITATION
+T105	PROBLEM 4860 4871	tender skin
+T106	PROBLEM 4876 4891	skin irritation
+T107	TREATMENT 4896 4908	Aripiprazole
+T108	PROBLEM 4933 4943	depression
+T109	PROBLEM 4945 4962	Suicidal ideation
+T110	TREATMENT 4967 4977	Lurasidone
+T111	TREATMENT 5596 5609	ascorbic acid
+T112	TREATMENT 5611 5620	vitamin C
+T113	TREATMENT 5691 5707	vitamin C tablet
+T114	TREATMENT 5749 5770	clonazePAM (KLONOPIN)
+T115	PROBLEM 5842 5849	Anxiety
+T116	PROBLEM 5853 5861	Insomnia
+T117	TREATMENT 5923 5936	Kava tincture
+T118	PROBLEM 5977 5984	anxiety
+T119	TREATMENT 6004 6046	Lactobacillus acidophilus (PROBIOTIC ORAL)
+T120	TREATMENT 6107 6132	lamoTRIgine (LAMICTAL XR)
+T121	TREATMENT 6231 6251	multivitamin capsule
+T122	TREATMENT 6284 6300	Multiple Vitamin
+T123	TREATMENT 6317 6353	  multivitamin-Ca-iron-minerals TAB
+T124	TREATMENT 6398 6441	tretinoin microspheres (RETIN-A MICRO PUMP)
+T125	TREATMENT 6556 6572	TURMERIC PO take
+T126	TREATMENT 6693 6710	zolpidem (AMBIEN)
+T127	TEST 6915 6917	BP
+T128	TEST 7030 7035	Pulse
+T129	TEST 7042 7046	Temp
+T130	TEST 7050 7051	C
+T131	TEST 7075 7079	Resp
+T132	TEST 7086 7088	Wt
+T133	TEST 7132 7136	SpO2
+T134	TEST 7145 7148	BMI
+T135	TEST 7162 7182	Physical Examination
+T136	PROBLEM 7238 7246	distress
+T137	TEST 7371 7396	extraocular eye movements
+T138	PROBLEM 7460 7467	lesions
+T139	PROBLEM 7487 7509	significant adenopathy
+T140	PROBLEM 7527 7551	palpable lymphadenopathy
+T141	TEST 7570 7582	auscultation
+T142	PROBLEM 7587 7594	wheezes
+T143	PROBLEM 7596 7601	rales
+T144	PROBLEM 7605 7612	rhonchi
+T145	PROBLEM 7690 7697	murmurs
+T146	PROBLEM 7699 7703	rubs
+T147	PROBLEM 7705 7711	clicks
+T148	PROBLEM 7715 7722	gallops
+T149	PROBLEM 7740 7749	nontender
+T150	PROBLEM 7751 7763	nondistended
+T151	PROBLEM 7768 7774	masses
+T152	PROBLEM 7780 7792	organomegaly
+T153	PROBLEM 7804 7822	2 cm R breast mass
+T154	TEST 7833 7855	the nipple   Back exam
+T155	PROBLEM 7883 7893	tenderness
+T156	PROBLEM 7895 7909	palpable spasm
+T157	PROBLEM 7913 7917	pain
+T158	PROBLEM 7979 7993	focal findings
+T159	PROBLEM 7997 8014	movement disorder
+T160	PROBLEM 8043 8059	joint tenderness
+T161	PROBLEM 8061 8070	deformity
+T162	PROBLEM 8074 8082	swelling
+T163	TEST 8098 8115	peripheral pulses
+T164	PROBLEM 8127 8138	pedal edema
+T165	PROBLEM 8143 8151	clubbing
+T166	PROBLEM 8155 8163	cyanosis
+T167	PROBLEM 8205 8211	rashes
+T168	PROBLEM 8216 8239	suspicious skin lesions
+T169	TEST 8418 8433	Syphilis Screen
+T170	TEST 8437 8440	RPR
+T171	TEST 8446 8452	Reflex
+T172	TEST 8456 8475	Treponemal Antibody
+T173	TEST 8485 8490	Value
+T174	TEST 8504 8519	Syphilis Screen
+T175	TEST 8523 8526	RPR
+T176	TEST 8532 8538	Reflex
+T177	TEST 8542 8561	Treponemal Antibody
+T178	TEST 8588 8594	HIV Ag
+T179	TEST 8595 8603	Ab Combo
+T180	TEST 8613 8618	Value
+T181	TEST 8623 8628	Range
+T182	TEST 8632 8635	HIV
+T183	TEST 8636 8638	Ag
+T184	TEST 8639 8647	Ab Combo
+T185	PROBLEM 8730 8754	Bipolar 2 disorder (HCC)
+T186	PROBLEM 8759 8767	Insomnia
+T187	PROBLEM 8772 8785	Breast Cancer
+T188	PROBLEM 8883 8901	2.2 cm grade 1 IDC
+T189	PROBLEM 8903 8930	strongly ER and PR positive
+T190	PROBLEM 8936 8955	mammaprint low risk
+T191	TREATMENT 8986 8993	surgery
+T192	TREATMENT 9018 9025	COVID19
+T193	TREATMENT 9080 9087	surgery
+T194	TREATMENT 9188 9195	surgery
+T195	PROBLEM 9291 9301	her cancer
+T196	TEST 9336 9347	the imaging
+T197	TEST 9352 9365	her pathology
+T198	PROBLEM 9423 9442	ovarian suppression
+T199	PROBLEM 9461 9474	breast cancer
+T200	TREATMENT 9523 9540	endocrine therapy
+T201	TREATMENT 9626 9660	shorter duration endocrine therapy
+T202	TEST 9731 9750	the current studies
+T203	PROBLEM 9814 9826	many cancers
+T204	PROBLEM 9844 9865	late recurrence risks
+T205	TREATMENT 9933 9971	different endocrine therapy approaches
+T206	TREATMENT 10007 10016	tamoxifen
+T207	PROBLEM 10076 10089	a 2 cm cancer
+T208	TEST 10093 10097	exam
+T209	PROBLEM 10119 10129	depression
+T210	PROBLEM 10160 10194	her underlying bipolar II disorder
+T211	PROBLEM 10215 10231	toxicities of OS
+T212	TREATMENT 10237 10254	monthly goserelin
+T213	TREATMENT 10285 10294	tamoxifen
+T214	PROBLEM 10302 10307	an AI
+T215	TREATMENT 10528 10537	goserelin
+T216	TREATMENT 10571 10580	letrozole
+T217	TREATMENT 10641 10648	surgery
+T218	TREATMENT 10667 10677	lumpectomy
+T219	TREATMENT 10685 10695	mastectomy
+T220	TREATMENT 10718 10738	bilateral mastectomy
+T221	TREATMENT 10744 10758	reconstruction
+T222	TREATMENT 10760 10769	Hot soaks
+T223	TEST 10773 10783	stye  Labs
+T224	TREATMENT 10800 10809	estradiol
+T225	TREATMENT 10829 10838	treatment
+T226	PROBLEM 10842 10853	hot flashes
+T227	TREATMENT 10913 10920	effexor
+T228	TREATMENT 10925 10935	gabapentin
+T229	TREATMENT 10940 10952	her lamictal
+T230	PROBLEM 10957 10987	underlying bipolar II disorder
+T231	TREATMENT 11029 11036	surgery
+T232	TREATMENT 11141 11158	Treatment options
+T233	Age 23 25	34
+T234	ClinicalCondition 112 125	breast cancer
+A1	ContinuityVal T234 new
+T235	ClinicalCondition 214 227	Breast Cancer
+A2	ContinuityVal T235 new
+T236	Site 228 233	Right
+R1	SiteOf Arg1:T236 Arg2:T235	
+T237	Datetime 234 244	04/25/2019
+R2	HappensAtOnDuring Arg1:T237 Arg2:T235	
+T238	Datetime 249 262	December 2018
+T239	Symptom 290 294	mass
+A3	IsPresentOnFirstCancerDiagnosis T239 yes
+A4	IsCausedByDiagnosedCancer T239 yes
+A5	ContinuityVal T239 new
+R3	HappensAtOnDuring Arg1:T238 Arg2:T239	
+T240	Datetime 296 306	03/05/2019
+T241	Radiology 324 326	US
+A6	IntentVal T241 diagnosis
+T242	Site 317 323	breast
+T243	Laterality 307 316	Bilateral
+R4	LateralityOfSite Arg1:T243 Arg2:T242	
+R5	SiteOf Arg1:T242 Arg2:T241	
+T244	RadPathResult 360 393	6x7 mm mass with ductal extension
+A7	RadPathResultVal T244 InitialCancerDiagnosis
+T245	Site 397 407	1 o'clock,
+R6	SiteOf Arg1:T245 Arg2:T244	
+R7	ResultOfTest Desc:T244 Test:T241	
+T246	Histology 415 419	DCIS
+A8	NegationModalityVal T246 uncertain_in_present
+A9	HistoryVal T246 new
+A10	EpisodeDescription T246 FirstOccurrence
+R8	TestOrProcedureReveals Test:T241 Desc:T246	
+T247	Datetime 423 433	03/17/2019
+T248	Symptom 472 480	swelling
+T249	Site 458 471	lower abdomen
+R9	SiteOf Arg1:T249 Arg2:T248	
+T250	Symptom 491 501	discomfort
+T251	Site 482 490	urethral
+R10	SiteOf Arg1:T251 Arg2:T250	
+T252	Symptom 513 517	mass
+A11	IsPresentOnFirstCancerDiagnosis T252 yes
+A12	IsCausedByDiagnosedCancer T252 yes
+T253	Site 506 512	breast
+R11	SiteOf Arg1:T253 Arg2:T252	
+T254	Radiology 532 534	US
+A13	IntentVal T254 diagnosis
+T255	Site 525 531	breast
+R12	SiteOf Arg1:T255 Arg2:T254	
+T257	Datetime 632 642	03/17/2019
+T258	Pathology 657 660	FNA
+A15	IntentVal T258 diagnosis
+T259	Site 650 656;664 673	breast 1 o'clock
+T260	Laterality 644 649	Right
+R13	SiteOf Arg1:T259 Arg2:T258	
+R14	LateralityOfSite Arg1:T260 Arg2:T259	
+R15	HappensAtOnDuring Arg1:T257 Arg2:T258	
+T261	RadPathResult 726 760	fibrocystic change or fibroadenoma
+A16	RadPathResultVal T261 NoDisease
+R16	ResultOfTest Desc:T261 Test:T258	
+T262	Datetime 763 773	03/17/2018
+T263	Radiology 789 791	CT
+A17	IntentVal T263 staging
+T264	Site 774 788	Abdomen-pelvic
+R17	SiteOf Arg1:T264 Arg2:T263	
+R18	HappensAtOnDuring Arg1:T263 Arg2:T262	
+T266	Symptom 826 830	pain
+T267	Site 816 825	abdominal
+R20	SiteOf Arg1:T267 Arg2:T266	
+R21	TestOrProcedureConductedForProblem Test:T263 Prob:T266	
+T265	RadPathResult 796 810	acute findings
+A18	NegationModalityVal T265 negated
+A19	RadPathResultVal T265 NoDisease
+R19	ResultOfTest Desc:T265 Test:T263	
+T268	Datetime 834 844	03/28/2019
+T269	Radiology 873 882	mammogram
+A20	IntentVal T269 diagnosis
+T270	Site 855 861	breast
+T271	Laterality 845 854	Bilateral
+R22	LateralityOfSite Arg1:T271 Arg2:T270	
+R23	SiteOf Arg1:T270 Arg2:T269	
+T272	RadPathResult 894 909	focal asymmetry
+A21	RadPathResultVal T272 Others
+R24	ResultOfTest Desc:T272 Test:T269	
+T273	RadPathResult 1068 1232	Scattered and occasionally grouped benign-appearing microcalcifications, both breasts, predominantly coarse dystrophic, likely the sequelae of reported fat grafting
+A22	RadPathResultVal T273 Others
+R25	ResultOfTest Desc:T273 Test:T269	
+T274	Datetime 1235 1245	03/28/2019
+T275	Radiology 1274 1276	US
+A23	IntentVal T275 diagnosis
+T276	Site 1256 1262	breast
+T277	Laterality 1246 1255	Bilateral
+R26	LateralityOfSite Arg1:T277 Arg2:T276	
+R27	SiteOf Arg1:T276 Arg2:T275	
+R28	HappensAtOnDuring Arg1:T275 Arg2:T274	
+R29	HappensAtOnDuring Arg1:T269 Arg2:T268	
+T279	Site 1438 1482	upper inner quadrant, 1:00, 8 cm from nipple
+T280	Laterality 1432 1437	right
+R31	LateralityOfSite Arg1:T280 Arg2:T279	
+T281	Site 1776 1782	breast
+T282	Laterality 1771 1775	Left
+T283	RadPathResult 1784 1790	benign
+A25	RadPathResultVal T283 NoDisease
+R33	LateralityOfSite Arg1:T282 Arg2:T281	
+R34	SiteOf Arg1:T281 Arg2:T283	
+R35	ResultOfTest Desc:T283 Test:T275	
+T284	Datetime 1792 1802	03/30/2019
+T285	Pathology 1816 1837	US guided core biopsy
+A26	IntentVal T285 diagnosis
+T286	Site 1809 1815;1841 1867	breast 1 o'clock 8 cm from nipple
+T287	Laterality 1803 1808	Right
+R36	LateralityOfSite Arg1:T287 Arg2:T286	
+R37	SiteOf Arg1:T286 Arg2:T285	
+T288	Histology 1884 1887	IDC
+A27	HistoryVal T288 new
+A28	EpisodeDescription T288 FirstOccurrence
+T289	Grade 1882 1883	1
+A29	HistoryVal T289 new
+A30	EpisodeDescription T289 FirstOccurrence
+T290	BiomarkerName 1889 1891	ER
+A31	HistoryVal T290 new
+A32	EpisodeDescription T290 FirstOccurrence
+T291	BiomarkerName 1900 1902	PR
+A33	HistoryVal T291 new
+A34	EpisodeDescription T291 FirstOccurrence
+T292	BiomarkerName 1955 1959	HER2
+A35	HistoryVal T292 new
+A36	EpisodeDescription T292 FirstOccurrence
+T293	BiomarkerResult 1962 1971	equivocal
+A37	EpisodeDescription T293 FirstOccurrence
+A38	BiomarkerResultVal T293 Unclear
+A39	HistoryVal T293 new
+T294	BiomarkerResult 1891 1898	+(>95%)
+A40	HistoryVal T294 new
+A41	EpisodeDescription T294 FirstOccurrence
+A42	BiomarkerResultVal T294 Positive
+R38	BiomarkerRel Arg1:T290 Arg2:T294	
+R39	BiomarkerRel Arg1:T292 Arg2:T293	
+T295	Pathology 2062 2067	Ki-67
+A43	IntentVal T295 diagnosis
+T296	RadPathResult 2069 2073	~10%
+R40	ResultOfTest Desc:T296 Test:T295	
+T297	Pathology 1980 1984	FISH
+A44	IntentVal T297 diagnosis
+T298	RadPathResult 1985 1998	non-amplified
+R41	ResultOfTest Desc:T298 Test:T297	
+T299	BiomarkerResult 1903 1907	~90%
+A45	HistoryVal T299 new
+A46	EpisodeDescription T299 FirstOccurrence
+A47	BiomarkerResultVal T299 Positive
+R42	BiomarkerRel Arg1:T291 Arg2:T299	
+R43	TestOrProcedureReveals Test:T285 Desc:T289	
+R44	TestOrProcedureReveals Test:T285 Desc:T288	
+R45	TestOrProcedureReveals Test:T285 Desc:T290	
+R46	TestOrProcedureReveals Test:T285 Desc:T291	
+T300	Histology 2149 2153	DCIS
+A48	NegationModalityVal T300 negated
+R47	TestOrProcedureReveals Test:T285 Desc:T300	
+T301	Datetime 2168 2178	04/24/2019
+T302	Datetime 2219 2229	04/24/2019
+T304	Datetime 2313 2323	04/25/2019
+T305	ProcedureName 2371 2381	lumpectomy
+A53	NegationModalityVal T305 hypothetical_in_future
+A54	IntentVal T305 treatment-curative
+A55	TreatmentTypeVal T305 local
+T307	GenomicTest 2419 2434	genetic testing
+A60	IntentVal T307 screening
+A61	GenomicTestType T307 Unclear
+T308	Datetime 2437 2447	04/25/2019
+T309	GenomicTestResult 2471 2479	Negative
+A62	GenomicTestType T309 Unclear
+R48	ResultOfTest Desc:T309 Test:T307	
+R49	HappensAtOnDuring Arg1:T307 Arg2:T308	
+T310	Datetime 2481 2491	05/08/2019
+T312	Datetime 2592 2602	05/24/2019
+T313	GenomicTest 2603 2613	Mammaprint
+A67	GenomicTestType T313 GeneExpression
+R51	HappensAtOnDuring Arg1:T312 Arg2:T313	
+T314	GenomicTestResult 2625 2641	Low risk: +0.287
+A68	GenomicTestType T314 GeneExpression
+A69	IntentVal T313 diagnosis
+R52	ResultOfTest Desc:T314 Test:T313	
+T315	ClinicalCondition 2666 2685	Alzheimer's disease
+A70	ExperiencerVal T315 family
+T316	Datetime 2686 2696	04/25/2019
+R55	HappensAtOnDuring Arg1:T315 Arg2:T316	
+T317	ClinicalCondition 2701 2719	Bipolar 2 disorder
+A71	ChronicVal T317 chronic
+A72	ExperiencerVal T317 family
+A73	ChronicVal T315 chronic
+T318	ClinicalCondition 2741 2749	Insomnia
+A74	ChronicVal T318 chronic
+A75	ExperiencerVal T318 family
+T319	Datetime 2750 2760	04/04/2019
+T320	Datetime 2726 2736	04/04/2019
+R56	HappensAtOnDuring Arg1:T317 Arg2:T320	
+R57	HappensAtOnDuring Arg1:T318 Arg2:T319	
+T321	Radiology 2894 2897	MRI
+A77	IntentVal T321 diagnosis
+T322	Datetime 2901 2909	April 24
+T323	Site 2887 2893	breast
+T324	Laterality 2877 2886	bilateral
+R58	LateralityOfSite Arg1:T324 Arg2:T323	
+R59	SiteOf Arg1:T323 Arg2:T321	
+R60	HappensAtOnDuring Arg1:T321 Arg2:T322	
+T325	Alcohol 2947 2951	wine
+A78	IsStoppedOrContinuing T325 continuing
+T326	ConsumptionQuantity 2997 3018	1-3 glasses 5x a week
+R61	ConsumptionQuantityRel Arg1:T325 Arg2:T326	
+T327	Allergy 3129 3136	Allergy
+T328	Datetime 3137 3141	2010
+R62	HappensAtOnDuring Arg1:T327 Arg2:T328	
+T329	ClinicalCondition 3145 3165	Seasonal    Anxiety
+A79	ChronicVal T329 chronic
+T330	ClinicalCondition 3171 3194	Bilateral ovarian cysts
+A80	ChronicVal T330 chronic
+T331	ClinicalCondition 3200 3219	Bipolar II disorder
+A81	ChronicVal T331 chronic
+T332	Age 3240 3248	mid 20's
+R63	BeginsOnOrAt Arg1:T331 Arg2:T332	
+T333	MedicationName 3264 3272	lamictal
+A82	TreatmentContinuityVal T333 continuing
+A83	TreatmentTypeVal T333 others
+A84	TreatmentIntentVal T333 others
+A85	TreatmentCategory T333 Others
+R64	TreatmentAdministeredForProblem Treatment:T333 Prob:T331	
+T334	ClinicalCondition 3277 3288	Hemorrhoids
+A86	ContinuityVal T334 unclear
+T335	Datetime 3289 3293	2012
+R65	HappensAtOnDuring Arg1:T334 Arg2:T335	
+T336	Histology 3298 3323	Invasive ductal carcinoma
+A87	HistoryVal T336 history
+A88	EpisodeDescription T336 FirstOccurrence
+T337	Datetime 3356 3366	04/04/2019
+R66	HappensAtOnDuring Arg1:T336 Arg2:T337	
+T338	Histology 3370 3395	Invasive Ductal carcinoma
+T339	ProcedureName 3455 3469	BLEPHAROPLASTY
+A89	IntentVal T339 treatment-others
+A90	TreatmentTypeVal T339 others
+A91	TreatmentCategory T339 Others
+T340	Site 3470 3479	Bilateral
+R67	SiteOf Arg1:T340 Arg2:T339	
+T341	Datetime 3480 3490	11/14/2018
+R68	HappensAtOnDuring Arg1:T341 Arg2:T339	
+T342	Pathology 3495 3508	BREAST BIOPSY
+A92	IntentVal T342 diagnosis
+T343	ProcedureName 3515 3527	Fat transfer
+T344	Datetime 3529 3533	2019
+R69	HappensAtOnDuring Arg1:T343 Arg2:T344	
+T345	ProcedureName 3557 3569	labialplasty
+T346	Site 3537 3543;3548 3552	breast face
+T347	Datetime 3571 3575	2015
+R70	SiteOf Arg1:T346 Arg2:T345	
+T348	ProcedureName 3580 3591	LIPOSUCTION
+T349	Datetime 3593 3597	2015
+R71	HappensAtOnDuring Arg1:T348 Arg2:T349	
+T350	ProcedureName 3685 3703	REFRACTIVE SURGERY
+T351	Site 3704 3713	Bilateral
+R72	SiteOf Arg1:T351 Arg2:T350	
+T352	ClinicalCondition 3775 3797	Rashes / Skin problems
+A93	ExperiencerVal T352 family
+T353	ClinicalCondition 3818 3830	Hypertension
+A94	ExperiencerVal T353 family
+T354	Tobacco 3851 3858	smoking
+A95	ExperiencerVal T354 family
+T355	ClinicalCondition 3873 3885	Hypertension
+A96	ExperiencerVal T355 family
+T356	ClinicalCondition 3907 3915	Diabetes
+A97	ChronicVal T356 chronic
+A98	ExperiencerVal T356 family
+A99	ChronicVal T355 chronic
+A100	ChronicVal T353 chronic
+T357	ClinicalCondition 3939 3951	Hypertension
+A101	ChronicVal T357 chronic
+A102	ExperiencerVal T357 family
+T358	ClinicalCondition 3973 3988	Rheum arthritis
+A103	ChronicVal T358 chronic
+A104	ExperiencerVal T358 family
+T359	ClinicalCondition 4016 4024	Diabetes
+A105	ChronicVal T359 chronic
+A106	ExperiencerVal T359 family
+T360	ClinicalCondition 4052 4064	Hypertension
+A107	ChronicVal T360 chronic
+A108	ExperiencerVal T360 family
+T361	ClinicalCondition 4092 4104	Colon cancer
+A109	ExperiencerVal T361 family
+T362	ClinicalCondition 4157 4165	Diabetes
+A110	ChronicVal T362 chronic
+A111	ExperiencerVal T362 family
+T363	ClinicalCondition 4193 4206	Heart disease
+A112	ChronicVal T363 chronic
+A113	ExperiencerVal T363 family
+T364	ClinicalCondition 4234 4246	Hypertension
+A114	ChronicVal T364 chronic
+A115	ExperiencerVal T364 family
+T365	ClinicalCondition 4274 4283	Migraines
+A116	ChronicVal T365 chronic
+A117	ExperiencerVal T365 family
+T366	ClinicalCondition 4311 4319	Diabetes
+A118	ChronicVal T366 chronic
+A119	ExperiencerVal T366 family
+T367	ClinicalCondition 4347 4366	Alzheimer's disease
+A120	ChronicVal T367 chronic
+A121	ExperiencerVal T367 family
+T368	ClinicalCondition 4394 4413	Alzheimer's disease
+A122	ChronicVal T368 chronic
+A123	ExperiencerVal T368 family
+T369	ClinicalCondition 4447 4460	Breast cancer
+A125	ExperiencerVal T369 family
+T370	ClinicalCondition 4497 4514	Lobular carcinoma
+A126	ExperiencerVal T370 family
+T371	ClinicalCondition 4543 4556	Breast cancer
+A124	ExperiencerVal T371 family
+T372	Age 4487 4489	40
+T373	Age 4516 4518	40
+R73	HappensAtOnDuring Arg1:T369 Arg2:T372	
+R74	HappensAtOnDuring Arg1:T370 Arg2:T373	
+T374	Site 4519 4528	bilateral
+R75	SiteOf Arg1:T374 Arg2:T370	
+T375	Age 4138 4152	L60's to E70's
+R76	HappensAtOnDuring Arg1:T361 Arg2:T375	
+T376	Age 4583 4585	55
+R77	HappensAtOnDuring Arg1:T371 Arg2:T376	
+T377	Tobacco 4613 4619	smoker
+A127	ExperiencerVal T377 family
+T378	ClinicalCondition 4634 4642	Melanoma
+A128	NegationModalityVal T378 negated
+A129	ExperiencerVal T378 family
+T379	ClinicalCondition 4656 4676	Basal cell carcinoma
+A130	NegationModalityVal T379 negated
+A131	ExperiencerVal T379 family
+T380	ClinicalCondition 4690 4713	Squamous cell carcinoma
+A132	NegationModalityVal T380 negated
+A133	ExperiencerVal T380 family
+T381	ClinicalCondition 4727 4734	Skin ca
+A134	NegationModalityVal T381 uncertain_in_past
+A135	ExperiencerVal T381 family
+T382	Allergy 4810 4815	Latex
+T383	Employment 5162 5204	work for ***** as a ***** and ***** *****,
+T384	Employment 5386 5432	worked as a ***** ***** ***** and teaches yoga
+T385	LivingCondition 5436 5496	Lives with her aunt and uncle in their guest house right now
+T386	MedicationName 5500 5503	OCP
+T387	Duration 5509 5516	5 years
+R78	HappensAtOnDuring Arg1:T386 Arg2:T387	
+A136	TreatmentContinuityVal T386 finished
+T388	SectionSkip 5559 5849;5852 6811	Current Outpatient Medications:     ascorbic acid, vitamin C, 500 mg TABSR, Take by mouth daily., Disp: , Rfl:     B-complex with vitamin C tablet, Take by mouth daily., Disp: , Rfl:     clonazePAM (KLONOPIN) 1 mg tablet, Take 1 tablet (1 mg total) by mouth nightly as needed for Anxiety (Insomnia)., Disp: 5 tablet, Rfl: 3    KAVA ROOT ORAL, Take by mouth. Kava tincture-  Use 1/2 -1 teaspoon by mouth Kava for anxiety, Disp: , Rfl:     Lactobacillus acidophilus (PROBIOTIC ORAL), Take 1 capsule by mouth. PROBIOTIC-10PO, Disp: , Rfl:     lamoTRIgine (LAMICTAL XR) 200 mg 24 hr ER tablet, Take 1 tablet (200 mg total) by mouth daily., Disp: 30 tablet, Rfl: 0    multivitamin capsule, Take 1 capsule by mouth daily. Multiple Vitamin, Disp: , Rfl:     multivitamin-Ca-iron-minerals TAB, Take 1 tablet by mouth., Disp: , Rfl:     tretinoin microspheres (RETIN-A MICRO PUMP) 0.08 % GlwP, Apply 1 Application topically Daily., Disp: 50 g, Rfl: 5    TURMERIC ORAL, Take 1 capsule by mouth. TURMERIC PO take 1 cap by mouth daily, Disp: , Rfl:     UNABLE TO FIND, Med Name: ELDERBERRY PO take by mouth daily., Disp: , Rfl:     zolpidem (AMBIEN) 5 mg tablet, Take 1 tablet (5 mg total) by mouth nightly as needed for Sleep, Disp: 5 tablet, Rfl: 0
+A137	SectionSkipType T388 medications
+T389	SectionSkip 6915 7777;7780 8289	BP 110/75 (BP Location: Left upper arm, Patient Position: Sitting, Cuff Size: Adult) Comment: vitals after visit | Pulse 52  | Temp 36 C (96.8 F) (Temporal)  | Resp 16  | Wt 61.5 kg (135 lb 9.6 oz) Comment: w/shoes | SpO2 100%  | BMI 23.61 kg/m   Physical Examination: General appearance - alert, well appearing, and in no distress  Mental status - alert, oriented to person, place, and time  Eyes - Right eyelid stye, upper lid pupils equal and reactive, extraocular eye movements intact  Mouth - mucous membranes moist, pharynx normal without lesions  Neck - supple, no significant adenopathy  Lymphatics - no palpable lymphadenopathy  Chest - clear to auscultation, no wheezes, rales or rhonchi, symmetric air entry  Heart - normal rate, regular rhythm, normal S1, S2, no murmurs, rubs, clicks or gallops  Abdomen - soft, nontender, nondistended, no masses or organomegaly  Breasts - 2 cm R breast mass 8 cm from the nipple   Back exam - full range of motion, no tenderness, palpable spasm or pain on motion  Neurological - alert, oriented, normal speech, no focal findings or movement disorder noted  Musculoskeletal - no joint tenderness, deformity or swelling  Extremities - peripheral pulses normal, no pedal edema, no clubbing or cyanosis  Skin - normal coloration and turgor, no rashes, no suspicious skin lesions noted  Tatoo left upper shoulder and left abdomen
+A138	SectionSkipType T389 physical_exam
+T390	SectionSkip 8418 8655	Syphilis Screen by RPR with Reflex to Treponemal Antibody   Result Value Ref Range    Syphilis Screen by RPR with Reflex to Treponemal Antibody Nonreactive Nonreactive   HIV Ag/Ab Combo   Result Value Ref Range    HIV Ag/Ab Combo NEG NEG
+A139	SectionSkipType T390 laboratory
+T391	ClinicalCondition 8730 8748	Bipolar 2 disorder
+A140	ChronicVal T391 chronic
+T392	ClinicalCondition 8759 8767	Insomnia
+A141	ChronicVal T392 chronic
+T393	ClinicalCondition 8772 8785	Breast Cancer
+T394	Site 8786 8791	Right
+R79	SiteOf Arg1:T394 Arg2:T393	
+T395	ClinicalCondition 8814 8833	Alzheimer's disease	
+A142	ExperiencerVal T395 family
+T396	Age 8841 8843	34
+T397	PatientCharacteristics 8853 8866	premenopausal
+T398	Histology 8898 8901	IDC
+A143	HistoryVal T398 new
+A144	EpisodeDescription T398 FirstOccurrence
+T399	Grade 8896 8897	1
+A145	HistoryVal T399 new
+A146	EpisodeDescription T399 FirstOccurrence
+T401	BiomarkerName 8912 8914	ER
+A147	HistoryVal T401 new
+A148	EpisodeDescription T401 FirstOccurrence
+T402	BiomarkerName 8919 8921	PR
+A149	HistoryVal T402 new
+A150	EpisodeDescription T402 FirstOccurrence
+T403	BiomarkerResult 8922 8930	positive
+A151	HistoryVal T403 new
+A152	EpisodeDescription T403 FirstOccurrence
+A153	BiomarkerResultVal T403 Positive
+R80	BiomarkerRel Arg1:T401 Arg2:T403	
+R81	BiomarkerRel Arg1:T402 Arg2:T403	
+T404	GenomicTest 8936 8946	mammaprint
+A154	IntentVal T404 diagnosis
+A155	GenomicTestType T404 GeneExpression
+T405	RadPathResult 8947 8955	low risk
+R82	ResultOfTest Desc:T405 Test:T404	
+T406	TreatmentType 9423 9442	ovarian suppression
+A156	NegationModalityVal T406 hypothetical_in_future
+T410	PatientCharacteristics 9475 9494	under the age of 35
+R83	InclusionCriteriaFor Arg1:T410 Arg2:T406	
+T408	Duration 9567 9574	5 years
+R85	HappensOverlapping Arg1:T406 Arg2:T408	
+T409	TreatmentType 9523 9540	endocrine therapy
+R86	HappensOverlapping Arg1:T409 Arg2:T408	
+T411	MedicationName 10007 10016	tamoxifen
+A157	NegationModalityVal T411 hypothetical_in_future
+T412	ClinicalCondition 10119 10129	depression
+A158	ChronicVal T412 chronic
+R87	ExclusionCriteriaFor Arg1:T412 Arg2:T411	
+T413	ClinicalCondition 10175 10194	bipolar II disorder
+A159	ChronicVal T413 chronic
+T414	Size 10078 10082	2 cm
+R89	ExclusionCriteriaFor Arg1:T414 Arg2:T411	
+T415	Symptom 10215 10225	toxicities
+A160	NegationModalityVal T415 hypothetical_in_future
+T416	TreatmentType 10229 10231	OS
+T417	MedicationName 10245 10254	goserelin
+R90	ConditionOrTreatmentCausesProblem Treatment:T417 Prob:T415	
+R91	ConditionOrTreatmentCausesProblem Treatment:T416 Prob:T415	
+R92	NotUndergoneBecauseOf Arg1:T411 Reason:T413	
+T418	MedicationName 10285 10294	tamoxifen
+A161	NegationModalityVal T418 hypothetical_in_future
+T419	TreatmentType 10305 10307	AI
+A162	NegationModalityVal T419 hypothetical_in_future
+T420	Symptom 10271 10281	toxicities
+A163	NegationModalityVal T420 hypothetical_in_future
+R88	TreatmentAdministeredForProblem Treatment:T418 Prob:T420	
+R93	TreatmentAdministeredForProblem Treatment:T419 Prob:T420	
+T421	MedicationName 10528 10537	goserelin
+A164	NegationModalityVal T421 planned_in_future
+A165	TreatmentContinuityVal T421 planned
+A166	TreatmentIntentVal T421 curative
+T422	MedicationName 10571 10580	letrozole
+A167	NegationModalityVal T422 planned_in_future
+A168	TreatmentContinuityVal T422 planned
+A169	TreatmentIntentVal T422 curative
+A170	TreatmentCategory T422 AntiNeoPlastics
+T423	Datetime 10538 10543	today
+R94	BeginsOnOrAt Arg1:T421 Arg2:T423	
+T424	Duration 10590 10599	two weeks
+R95	HappensAfter Arg1:T422 Arg2:T424	
+T425	ProcedureName 10667 10677	lumpectomy
+A171	NegationModalityVal T425 hypothetical_in_future
+A172	IntentVal T425 treatment-curative
+A173	TreatmentTypeVal T425 local
+T426	ProcedureName 10685 10695	mastectomy
+A174	NegationModalityVal T426 hypothetical_in_future
+A175	IntentVal T426 treatment-curative
+A176	TreatmentTypeVal T426 local
+T428	Symptom 10842 10853	hot flashes
+A181	NegationModalityVal T428 hypothetical_in_future
+T429	MedicationName 10913 10920	effexor
+T430	MedicationName 10925 10935	gabapentin
+T431	MedicationName 10944 10952	lamictal
+T432	ClinicalCondition 10968 10988	bipolar II disorder.
+A182	ChronicVal T432 chronic
+T433	MedicationName 10800 10809	estradiol
+A183	NegationModalityVal T433 hypothetical_in_future
+R96	HappensAtOnDuring Arg1:T240 Arg2:T241	
+R97	HappensAtOnDuring Arg1:T247 Arg2:T254	
+R98	HappensBefore Arg1:T247 Arg2:T248	
+R99	HappensBefore Arg1:T247 Arg2:T250	
+R53	HappensAtOnDuring Arg1:T304 Arg2:T305	
+T256	Site 3333 3339	breast
+T434	Laterality 3327 3332	right
+R101	LateralityOfSite Arg1:T434 Arg2:T256	
+R102	SiteOf Arg1:T256 Arg2:T336	
+T435	ClinicalCondition 10083 10089	cancer
+R103	SizeOf Arg1:T414 Arg2:T435	
+T436	Frequency 10237 10244	monthly
+R104	Temporal Arg1:T436 Arg2:T417	
+T437	Size 552 556	1 cm
+T438	Site 600 629	5 cm from nipple at 1 o'clock
+T439	Symptom 557 585	firm, mobile, nontender mass
+R105	SizeOf Arg1:T437 Arg2:T439	
+R106	SiteOf Arg1:T438 Arg2:T439	
+R107	TestOrProcedureConductedForProblem Test:T258 Prob:T439	
+A14	IsPresentOnFirstCancerDiagnosis T439 yes
+A184	IsCausedByDiagnosedCancer T439 yes
+T440	Size 1532 1538	10 mm.
+T441	RadPathResult 1488 1516	central hypoechoic component
+A185	RadPathResultVal T441 Others
+T442	RadPathResult 1732 1754	normal-appearing nodes
+A186	RadPathResultVal T442 Others
+R108	SizeOf Arg1:T440 Arg2:T441	
+T443	Symptom 1581 1585	pain
+A187	IsPresentOnFirstCancerDiagnosis T443 yes
+A188	IsCausedByDiagnosedCancer T443 yes
+T444	Site 1593 1604;1611 1617;1621 1648	lower outer breast 7 o'clock, 5 cm from nipple
+T445	Laterality 1605 1610	right
+R109	LateralityOfSite Arg1:T445 Arg2:T444	
+R110	SiteOf Arg1:T444 Arg2:T443	
+T446	Site 1718 1724	axilla
+T447	Laterality 1713 1717	left
+T448	Symptom 1698 1705	concern
+R111	LateralityOfSite Arg1:T447 Arg2:T446	
+R112	SiteOf Arg1:T446 Arg2:T448	
+T278	RadPathResult 1301 1364	oval complex solid and cystic mass with peripheral echogenicity
+A24	RadPathResultVal T278 Others
+T449	Size 1285 1300	22 x 10 x 15 mm
+R30	SizeOf Arg1:T449 Arg2:T278	
+T450	RadPathResult 1372 1424	irregular, antiparallel hypoechoic central component
+A189	RadPathResultVal T450 Others
+R32	SiteOf Arg1:T279 Arg2:T450	
+R113	SiteOf Arg1:T279 Arg2:T278	
+R114	ResultOfTest Desc:T278 Test:T275	
+R115	ResultOfTest Desc:T450 Test:T275	
+R116	ResultOfTest Desc:T441 Test:T275	
+R117	ResultOfTest Desc:T442 Test:T275	
+T451	Pathology 1972 1975	IHC
+T452	RadPathResult 1976 1977	2
+R118	ResultOfTest Desc:T452 Test:T451	
+T303	ProcedureName 2270 2311	TSSM with expander/implant reconstruction
+A49	NegationModalityVal T303 hypothetical_in_future
+A50	IntentVal T303 treatment-curative
+A51	TreatmentTypeVal T303 local
+A52	TreatmentCategory T303 Others
+T453	Site 2260 2269	bilateral
+R54	SiteOf Arg1:T453 Arg2:T303	
+R119	HappensAtOnDuring Arg1:T303 Arg2:T302	
+T306	ProcedureName 2395 2405	mastectomy
+A56	NegationModalityVal T306 hypothetical_in_future
+A57	IntentVal T306 treatment-curative
+A58	TreatmentTypeVal T306 local
+A59	TreatmentCategory T306 Others
+T454	Site 2385 2394	bilateral
+R100	SiteOf Arg1:T454 Arg2:T306	
+R120	HappensAtOnDuring Arg1:T306 Arg2:T304	
+T311	ProcedureName 2531 2541	mastectomy
+A63	IntentVal T311 treatment-curative
+A64	TreatmentTypeVal T311 local
+A65	TreatmentCategory T311 Others
+A66	NegationModalityVal T311 planned_in_future
+T455	Site 2524 2530	double
+R50	SiteOf Arg1:T455 Arg2:T311	
+R121	HappensAtOnDuring Arg1:T311 Arg2:T310	
+T427	ProcedureName 10728 10738	mastectomy
+A177	NegationModalityVal T427 hypothetical_in_future
+A178	IntentVal T427 treatment-curative
+A179	TreatmentTypeVal T427 local
+A180	TreatmentCategory T427 Others
+T456	Site 10718 10727	bilateral
+R122	SiteOf Arg1:T456 Arg2:T427	
+T400	Size 8878 8889	1 to 2.2 cm
+A190	HistoryVal T400 new
+A191	EpisodeDescription T400 FirstOccurrence
+R123	SizeOf Arg1:T400 Arg2:T398	
+T457	Allergy 4896 4908	Aripiprazole
+T458	Allergy 4967 4977	Lurasidone
+T459	ProcedureName 11029 11036	surgery
+A192	NegationModalityVal T459 hypothetical_in_future
+A193	IntentVal T459 treatment-curative
+A194	TreatmentTypeVal T459 local
+A195	TreatmentCategory T459 Others
+A196	NegationModalityVal T416 hypothetical_in_future
+A197	NegationModalityVal T417 hypothetical_in_future
+T407	ClinicalCondition 9461 9474	breast cancer
+A198	ExperiencerVal T407 others
+T460	BiomarkerName 9457 9459	HR
+A199	ExperiencerVal T460 others
+T461	BiomarkerResult 9459 9460	+
+A200	ExperiencerVal T461 others
+A201	BiomarkerResultVal T461 Positive
+R84	BiomarkerRel Arg1:T460 Arg2:T461	
+R124	InclusionCriteriaFor Arg1:T407 Arg2:T406	
+R125	InclusionCriteriaFor Arg1:T460 Arg2:T406	
+T462	Duration 9675 9684	two years
+T463	TreatmentType 9643 9660	endocrine therapy
+A202	NegationModalityVal T463 hypothetical_in_future
+R126	HappensAtOnDuring Arg1:T463 Arg2:T462	
+R127	HappensAtOnDuring Arg1:T285 Arg2:T284	
+T464	SDoH 5256 5373	Had been planning to go to ***** school in *****    Now plans to complete her undergraduate school in the ***** *****
+T465	Employment 5382 5432	has worked as a ***** ***** ***** and *****  *****
+T466	LivingCondition 5428 5496	****    Lives with her aunt and uncle in ***** ***** ***** right now
+T467	Datetime 8976 8981	March
+T468	ProcedureName 8986 8993	surgery
+A203	NegationModalityVal T468 hypothetical_in_future
+T469	ProcedureName 9080 9087	surgery
+A204	NegationModalityVal T469 hypothetical_in_future
+T470	ProcedureName 9188 9195	surgery
+A205	NegationModalityVal T470 hypothetical_in_future
+T471	DiseaseState 9849 9859	recurrence
+A206	NegationModalityVal T471 hypothetical_in_future
+A207	DiseaseStateVal T471 progression-recurrence
+T472	TreatmentType 9943 9960	endocrine therapy
+A208	NegationModalityVal T472 hypothetical_in_future
+T473	ProcedureName 10641 10648	surgery
+A209	NegationModalityVal T473 hypothetical_in_future
+T474	MedicationName 10344 10346	AI
+A210	NegationModalityVal T474 hypothetical_in_future
+T475	Duration 10386 10395	two weeks
+R128	HappensAfter Arg1:T474 Arg2:T475	
+T476	TreatmentType 10413 10415	OS
+A211	NegationModalityVal T476 hypothetical_in_future
+T477	TreatmentType 10510 10512	OS
+A212	NegationModalityVal T477 hypothetical_in_future
+T478	Symptom 10461 10467	menses
+A213	NegationModalityVal T478 hypothetical_in_future
+T479	Duration 10485 10494	two weeks
+R129	HappensAfter Arg1:T478 Arg2:T479	
+R130	HappensAtOnDuring Arg1:T477 Arg2:T479	
+T480	hpi_start 0 3	HPI
+T2	Datetime 2787 2795	03/30/19
+T481	BiomarkerName 2810 2812	ER
+T482	BiomarkerResult 2812 2813	+
+T483	BiomarkerName 2814 2816	PR
+T484	BiomarkerResult 2816 2817	+
+R131	BiomarkerRel Arg1:T484 Arg2:T483	
+R132	BiomarkerRel Arg1:T482 Arg2:T481	
+T485	BiomarkerName 2822 2826	HER2
+A214	BiomarkerResultVal T484 Positive
+T486	BiomarkerResult 2827 2836	equivocal
+R133	BiomarkerRel Arg1:T486 Arg2:T485	
+T487	Histology 2837 2840	IDC
+T488	Laterality 2848 2853	right
+T489	Site 2854 2860	breast
+R134	LateralityOfSite Arg1:T488 Arg2:T489	
+R135	HappensAtOnDuring Arg1:T2 Arg2:T481	
+R136	HappensAtOnDuring Arg1:T483 Arg2:T2	
+R137	HappensAtOnDuring Arg1:T485 Arg2:T2	
+R138	HappensAtOnDuring Arg1:T487 Arg2:T2	
+R139	SiteOf Arg1:T489 Arg2:T487	
+R140	SiteOf Arg1:T489 Arg2:T485	
+R141	SiteOf Arg1:T489 Arg2:T481	
+R142	SiteOf Arg1:T489 Arg2:T483	
+A76	HistoryVal T482 new
+A215	EpisodeDescription T482 FirstOccurrence
+A216	HistoryVal T484 new
+A217	EpisodeDescription T484 FirstOccurrence
+A218	HistoryVal T481 new
+A219	EpisodeDescription T481 FirstOccurrence
+A220	EpisodeDescription T483 FirstOccurrence
+A221	EpisodeDescription T485 FirstOccurrence
+A222	EpisodeDescription T487 FirstOccurrence
+A223	EpisodeDescription T486 FirstOccurrence
+T490	ap_start 8662 8672	Assessment
+T491	hpi_end 3074 3080	*****.
+T492	ap_end 11036 11037	.

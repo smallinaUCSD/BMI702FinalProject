@@ -1,0 +1,529 @@
+T1	SectionAnnotate 136 163	HISTORY OF PRESENT ILLNESS:
+T2	SectionAnnotate 2007 2028	Past Medical History:
+T3	SectionSkip 2371 2383	MEDICATIONS:
+T4	SectionSkip 2385 3173	Current Outpatient Prescriptions   Medication Sig Dispense Refill    ergocalciferol, vitamin D2, (ERGOCALCIFEROL) 50,000 unit capsule       metFORMIN (GLUCOPHAGE) 500 mg tablet       omega-3 fatty acids-fish oil 300-1,000 mg capsule       GAVILYTE-G 236-22.74-6.74 -5.86 gram solution       JOLIVETTE 0.35 mg tablet       ondansetron (ZOFRAN) 8 mg tablet To be taken as needed for nausea ( see colonoscopy prep instructions for details) 1 tablet 1    ondansetron (ZOFRAN) 8 mg tablet To be taken as needed for nausea ( see colonoscopy prep instructions for details) 1 tablet 1    prednisoLONE acetate (PRED FORTE) 1 % ophthalmic suspension       PROLENSA 0.07 % DROPSOLN       VIGAMOX 0.5 % ophthalmic solution        No current facility-administered medications for this visit.
+T5	SectionSkip 3181 3201	ALLERGIES:  No Known
+T6	SectionAnnotate 3215 3230	FAMILY HISTORY:
+T7	SectionAnnotate 3232 3246	Family History
+T8	SectionAnnotate 3368 3383	SOCIAL HISTORY:
+T9	SectionAnnotate 3385 3399	Social History
+T10	SectionAnnotate 3404 3428	Social History Narrative
+T11	SectionAnnotate 3762 3779	Review of Systems
+T12	SectionSkip 3854 4629	PHYSICAL EXAM:  General appearance - alert, well appearing, and in no 
+ distress  HEENT: anicteric, OP clear  Mental status - alert, oriented to person, place, and time  Lymph nodes - no palpable cervical or supraclavicular lymphadenopathy   Axilla - multiple right axillary nodes, largest 2.5 cm and mobile  Breasts - 7x5 cm mass in RUOQ, mobile, inverted right nipple, left breast without dominant mass   Chest - clear to auscultation, no wheezes, rales or rhonchi, symmetric air entry  Heart - normal rate, regular rhythm  Abdomen - soft,ND/NT, no HSM  Neurological - A&Ox3, grossly non-focal  Musculoskeletal - No point tenderness in spine or other ***** tenderness  Extremities - no edema  Skin - normal coloration and turgor, no rashes, no suspicious skin lesions noted
+T14	SectionSkip 4633 4683	LABS:    IMAGING/PATHOLOGY:  As noted above in HPI
+T17	PROBLEM 37 69	newly diagnosed HR-negative HER2
+T18	PROBLEM 71 84	breast cancer
+T19	TREATMENT 101 117	systemic therapy
+T20	TREATMENT 122 132	management
+T21	PROBLEM 204 228	3D Tomo- spiculated mass
+T22	PROBLEM 284 317	adjacent architectural distortion
+T23	PROBLEM 322 332	nodularity
+T24	TEST 336 346	Ultrasound
+T25	PROBLEM 354 365	1.6 cm mass
+T26	PROBLEM 381 398	another 1 cm mass
+T27	PROBLEM 403 420	0.5 adjacent mass
+T28	PROBLEM 422 452	Suspicious right axillary node
+T29	TEST 465 489	right breast core biopsy
+T30	TEST 504 507	LVI
+T31	TEST 509 515	ER-neg
+T32	TEST 517 519	PR
+T33	TEST 525 529	HER2
+T34	TEST 534 544	FISH ratio
+T35	TEST 550 554	Ki67
+T36	TEST 570 591	Right axillary LN FNA
+T37	PROBLEM 594 619	metastatic breast adenoca
+T38	TEST 632 642	Breast MRI
+T39	PROBLEM 655 683	multiple right breast masses
+T40	TEST 703 707	clip
+T41	PROBLEM 709 730	similar adjacent mass
+T42	TEST 752 756	clip
+T43	PROBLEM 758 792	Multiple additional smaller masses
+T44	TEST 909 915	PET CT
+T45	PROBLEM 944 973	hypermetabolism in left ilium
+T46	PROBLEM 1022 1040	metastatic disease
+T47	PROBLEM 1043 1060	Right breast mass
+T48	PROBLEM 1072 1113	the patient's known primary breast cancer
+T49	PROBLEM 1118 1169	multiple right axillary and subpectoral lymph nodes
+T50	PROBLEM 1186 1207	lymph node metastases
+T51	PROBLEM 1210 1272	3.4 x 2.6 cm hyperattenuating and mildly hypermetabolic lesion
+T52	PROBLEM 1335 1355	a carotid body tumor
+T53	TEST 1370 1373	MRI
+T54	PROBLEM 1392 1428	3 rounded foci of signal abnormality
+T55	PROBLEM 1433 1499	enhancement involving the left iliac bone and bilateral sacral ala
+T56	PROBLEM 1539 1565	osseous metastatic disease
+T57	TEST 1592 1604	MR Face/Neck
+T58	PROBLEM 1608 1654	Avidly enhancing left carotid bifurcation mass
+T59	PROBLEM 1660 1670	flow voids
+T60	PROBLEM 1675 1738	splaying of the proximal internal and external carotid arteries
+T61	TEST 1740 1767	The imaging characteristics
+T62	PROBLEM 1786 1814	a carotid body paraganglioma
+T63	PROBLEM 1883 1892	bone pain
+T64	PROBLEM 1896 1923	any other systemic concerns
+T65	PROBLEM 1934 1947	her neck mass
+T66	PROBLEM 2050 2063	Breast cancer
+T67	PROBLEM 2069 2086	Diabetes mellitus
+T68	TREATMENT 2358 2382	HRT          MEDICATIONS
+T69	TREATMENT 2385 2430	Current Outpatient Prescriptions   Medication
+T70	TREATMENT 2435 2450	Dispense Refill
+T71	TREATMENT 2455 2499	ergocalciferol, vitamin D2, (ERGOCALCIFEROL)
+T72	TREATMENT 2527 2549	metFORMIN (GLUCOPHAGE)
+T73	TREATMENT 2571 2599	omega-3 fatty acids-fish oil
+T74	TREATMENT 2681 2690	JOLIVETTE
+T75	TREATMENT 2713 2733	ondansetron (ZOFRAN)
+T76	PROBLEM 2772 2778	nausea
+T77	TREATMENT 2843 2863	ondansetron (ZOFRAN)
+T78	PROBLEM 2902 2908	nausea
+T79	TREATMENT 2973 3006	prednisoLONE acetate (PRED FORTE)
+T80	TREATMENT 3040 3048	PROLENSA
+T81	TREATMENT 3072 3079	VIGAMOX
+T82	TREATMENT 3146 3157	medications
+T83	PROBLEM 3196 3211	Known Allergies
+T84	PROBLEM 3320 3330	malignancy
+T85	TEST 3791 3808	review of systems
+T86	PROBLEM 3926 3934	distress
+T87	TEST 4024 4035	Lymph nodes
+T88	PROBLEM 4041 4093	palpable cervical or supraclavicular lymphadenopathy
+T89	PROBLEM 4105 4134	multiple right axillary nodes
+T90	PROBLEM 4173 4192	7x5 cm mass in RUOQ
+T91	PROBLEM 4245 4258	dominant mass
+T92	TEST 4278 4290	auscultation
+T93	PROBLEM 4295 4302	wheezes
+T94	PROBLEM 4304 4309	rales
+T95	PROBLEM 4313 4320	rhonchi
+T96	PROBLEM 4395 4400	ND/NT
+T97	PROBLEM 4405 4408	HSM
+T98	PROBLEM 4472 4497	point tenderness in spine
+T99	PROBLEM 4513 4523	tenderness
+T100	PROBLEM 4542 4547	edema
+T101	PROBLEM 4589 4595	rashes
+T102	PROBLEM 4600 4623	suspicious skin lesions
+T103	PROBLEM 4744 4776	newly diagnosed HR-negative HER2
+T104	PROBLEM 4778 4791	breast cancer
+T105	TREATMENT 4808 4824	systemic therapy
+T106	TREATMENT 4829 4839	management
+T107	TEST 4842 4852	Her PET CT
+T108	PROBLEM 4871 4886	bone metastasis
+T109	TEST 4900 4916	her staging work
+T110	TEST 4933 4946	MRI of pelvis
+T111	TEST 4951 4957	biopsy
+T112	TEST 4962 4991	definitive stage IV diagnosis
+T113	PROBLEM 4997 5005	stage IV
+T114	TREATMENT 5020 5036	systemic therapy
+T115	TREATMENT 5042 5059	weekly paclitaxel
+T116	TREATMENT 5066 5077	trastuzumab
+T117	TREATMENT 5084 5094	pertuzumab
+T118	TREATMENT 5174 5199	long term disease control
+T119	PROBLEM 5208 5220	asymptomatic
+T120	PROBLEM 5226 5237	bone lesion
+T121	PROBLEM 5249 5269	radiate bone lesions
+T122	TEST 5290 5310	MRI Pelvis  MRI neck
+T123	TREATMENT 5361 5378	weekly paclitaxel
+T124	TREATMENT 5385 5396	trastuzumab
+T125	TREATMENT 5403 5413	pertuzumab
+T126	TEST 5424 5460	echocardiogram  Port placement  labs
+T127	TREATMENT 5596 5622	Reviewed treatment options
+T128	TREATMENT 5624 5646	treatment side effects
+T129	TREATMENT 5814 5829	the medications
+T130	PROBLEM 5834 5843	allergies
+T131	Age 17 19	53
+T132	BiomarkerName 53 55	HR
+A1	HistoryVal T132 new
+A2	EpisodeDescription T132 FirstOccurrence
+T133	BiomarkerName 65 69	HER2
+A3	HistoryVal T133 new
+A4	EpisodeDescription T133 FirstOccurrence
+T134	ClinicalCondition 71 84	breast cancer
+A5	ContinuityVal T134 new
+T135	BiomarkerResult 56 64	negative
+A6	HistoryVal T135 new
+A7	EpisodeDescription T135 FirstOccurrence
+T136	BiomarkerResult 69 70	+
+A8	HistoryVal T136 new
+A9	EpisodeDescription T136 FirstOccurrence
+A10	BiomarkerResultVal T136 Positive
+R1	BiomarkerRel Arg1:T136 Arg2:T133	
+R2	BiomarkerRel Arg1:T132 Arg2:T135	
+R3	TumorDesc TumorDetails:T134 Desc:T133	
+R4	TumorDesc TumorDetails:T134 Desc:T132	
+T137	Datetime 167 175	06/09/16
+T138	Radiology 193 211	mammo with 3D Tomo
+A11	IntentVal T138 diagnosis
+T139	Site 176 181	right
+R5	SiteOf Arg1:T139 Arg2:T138	
+R6	HappensAtOnDuring Arg1:T138 Arg2:T137	
+T140	RadPathResult 213 228;239 245	spiculated mass 2.2 cm
+A12	RadPathResultVal T140 InitialCancerDiagnosis
+T141	Site 251 265;272 278	10-11:00    in breast
+T142	Laterality 266 271	right
+R7	LateralityOfSite Arg1:T142 Arg2:T141	
+R8	SiteOf Arg1:T141 Arg2:T140	
+R9	ResultOfTest Desc:T140 Test:T138	
+T143	Radiology 336 346	Ultrasound
+A13	IntentVal T143 diagnosis
+T144	RadPathResult 354 365	1.6 cm mass
+A14	RadPathResultVal T144 InitialCancerDiagnosis
+R10	ResultOfTest Desc:T144 Test:T143	
+T145	Site 369 374	10:00
+R11	SiteOf Arg1:T145 Arg2:T144	
+T146	RadPathResult 389 398	1 cm mass
+A15	RadPathResultVal T146 InitialCancerDiagnosis
+T147	RadPathResult 403 406;416 420	0.5 mass
+A16	RadPathResultVal T147 InitialCancerDiagnosis
+R12	ResultOfTest Desc:T146 Test:T143	
+R13	ResultOfTest Desc:T147 Test:T143	
+T148	Datetime 456 464	06/30/16
+T149	Pathology 478 489	core biopsy
+A17	IntentVal T149 diagnosis
+T150	Site 471 477	breast
+T151	Laterality 465 470	right
+R14	LateralityOfSite Arg1:T151 Arg2:T150	
+R15	SiteOf Arg1:T150 Arg2:T149	
+R16	HappensAtOnDuring Arg1:T149 Arg2:T148	
+T152	Histology 492 495	IDC
+A18	HistoryVal T152 new
+A19	EpisodeDescription T152 FirstOccurrence
+R17	TestOrProcedureReveals Test:T149 Desc:T152	
+T153	LocalInvasion 504 507	LVI
+A20	NegationModalityVal T153 negated
+A21	HistoryVal T153 new
+A22	EpisodeDescription T153 FirstOccurrence
+T154	BiomarkerName 509 511	ER
+A23	HistoryVal T154 new
+A24	EpisodeDescription T154 FirstOccurrence
+T155	BiomarkerName 517 519	PR
+A25	HistoryVal T155 new
+A26	EpisodeDescription T155 FirstOccurrence
+T156	BiomarkerName 525 529	HER2
+A27	HistoryVal T156 new
+A28	EpisodeDescription T156 FirstOccurrence
+T157	Pathology 534 538	FISH
+A29	IntentVal T157 diagnosis
+T158	BiomarkerResult 512 515	neg
+A30	HistoryVal T158 new
+A31	EpisodeDescription T158 FirstOccurrence
+T159	BiomarkerResult 520 523	neg
+A32	HistoryVal T159 new
+A33	EpisodeDescription T159 FirstOccurrence
+A34	BiomarkerResultVal T159 Negative
+T160	BiomarkerResult 531 532	+
+A35	HistoryVal T160 new
+A36	EpisodeDescription T160 FirstOccurrence
+A37	BiomarkerResultVal T160 Positive
+R18	BiomarkerRel Arg1:T160 Arg2:T156	
+R19	BiomarkerRel Arg1:T159 Arg2:T155	
+R20	BiomarkerRel Arg1:T154 Arg2:T158	
+T161	RadPathResult 545 547	13
+R21	ResultOfTest Desc:T161 Test:T157	
+T162	Pathology 550 554	Ki67
+A38	IntentVal T162 diagnosis
+T163	RadPathResult 555 561	10-15%
+R22	ResultOfTest Desc:T163 Test:T162	
+T164	Pathology 588 591	FNA
+T165	Site 576 587	axillary LN
+T166	Laterality 570 575	Right
+R23	LateralityOfSite Arg1:T166 Arg2:T165	
+R24	SiteOf Arg1:T165 Arg2:T164	
+T167	Histology 612 619	adenoca
+A39	HistoryVal T167 new
+A40	EpisodeDescription T167 FirstOccurrence
+T168	Site 605 611	breast
+T169	Metastasis 594 604	metastatic
+A41	HistoryVal T169 new
+A42	EpisodeDescription T169 FirstOccurrence
+R25	TestOrProcedureReveals Test:T149 Desc:T153	
+R26	TestOrProcedureReveals Test:T149 Desc:T154	
+R27	TestOrProcedureReveals Test:T149 Desc:T155	
+R28	TestOrProcedureReveals Test:T149 Desc:T156	
+R29	TestOrProcedureReveals Test:T164 Desc:T169	
+R30	TestOrProcedureReveals Test:T164 Desc:T167	
+R31	SiteOf Arg1:T168 Arg2:T167	
+T170	Datetime 623 631	07/22/16
+T171	Pathology 639 642	MRI
+A43	IntentVal T171 diagnosis
+T172	Site 632 638	Breast
+T173	Laterality 647 652	RIGHT
+R32	SiteOf Arg1:T172 Arg2:T171	
+R33	LateralityOfSite Arg1:T173 Arg2:T172	
+T174	RadPathResult 655 663;677 683	multiple masses
+A44	RadPathResultVal T174 InitialCancerDiagnosis
+T175	Site 670 676	breast
+T176	Laterality 664 669	right
+R34	LateralityOfSite Arg1:T176 Arg2:T175	
+R35	SiteOf Arg1:T175 Arg2:T174	
+R36	ResultOfTest Desc:T174 Test:T171	
+T177	Size 685 697	2.4 x 1.7 cm
+A45	HistoryVal T177 new
+A46	EpisodeDescription T177 FirstOccurrence
+T178	Size 731 741	2.4x1.6 cm
+A47	HistoryVal T178 new
+A48	EpisodeDescription T178 FirstOccurrence
+T179	LymphNodeInvolvement 832 835	LNs
+A49	HistoryVal T179 new
+A50	EpisodeDescription T179 FirstOccurrence
+T180	Site 823 831	axillary
+R37	SiteOf Arg1:T180 Arg2:T179	
+T181	Datetime 900 908	07/24/16
+T182	Radiology 909 915	PET CT
+A51	IntentVal T182 staging
+T183	Metastasis 1022 1032	metastatic
+A52	NegationModalityVal T183 uncertain_in_present
+A53	HistoryVal T183 new
+A54	EpisodeDescription T183 FirstOccurrence
+R39	HappensAtOnDuring Arg1:T182 Arg2:T181	
+R40	TestOrProcedureReveals Test:T182 Desc:T183	
+T185	Datetime 1361 1369	07/31/16
+T186	Radiology 1370 1373	MRI
+A55	IntentVal T186 staging
+T187	Site 1374 1380	Pelvis
+R41	SiteOf Arg1:T187 Arg2:T186	
+R42	HappensAtOnDuring Arg1:T186 Arg2:T185	
+T188	Metastasis 1547 1557	metastatic
+A56	NegationModalityVal T188 uncertain_in_present
+A57	HistoryVal T188 new
+A58	EpisodeDescription T188 FirstOccurrence
+T189	Site 1539 1546	osseous
+R43	SiteOf Arg1:T189 Arg2:T188	
+R44	TestOrProcedureReveals Test:T186 Desc:T188	
+T191	Pathology 1592 1594	MR
+A59	IntentVal T191 staging
+T192	Site 1595 1604	Face/Neck
+R46	SiteOf Arg1:T192 Arg2:T191	
+T193	Datetime 1573 1590	*****/*****/*****
+R47	HappensAtOnDuring Arg1:T191 Arg2:T193	
+T194	RadPathResult 1788 1814	carotid body paraganglioma
+A60	RadPathResultVal T194 Others
+R48	ResultOfTest Desc:T194 Test:T191	
+T195	Symptom 1943 1947	mass
+A61	IsPresentOnFirstCancerDiagnosis T195 yes
+A62	IsCausedByDiagnosedCancer T195 unclear
+A63	ChronicVal T195 chronic
+A64	ContinuityVal T195 stable
+T196	Symptom 1888 1892	pain
+A65	NegationModalityVal T196 negated
+T197	Site 1883 1887	bone
+R49	SiteOf Arg1:T197 Arg2:T196	
+T198	ClinicalCondition 2050 2063	Breast cancer
+T199	ClinicalCondition 2069 2086	Diabetes mellitus
+A66	ChronicVal T199 chronic
+T200	PatientCharacteristics 2325 2329	G7P6
+A67	SectionSkipType T4 medications
+T201	LivingCondition 3432 3467	Lives in ***** with husband and son
+A68	IsStoppedOrContinuing T201 continuing
+T202	Employment 3684 3697	does not work
+T203	Employment 3713 3731	cleaning buildings
+A69	ExperiencerVal T203 family
+T204	LivingCondition 3604 3619	living in *****
+A70	ExperiencerVal T204 family
+T205	Duration 3624 3632	33 years
+R50	HappensOverlapping Arg1:T204 Arg2:T205	
+T206	LivingCondition 3540 3553	live in *****
+A71	ExperiencerVal T206 family
+T207	LivingCondition 3501 3509	in *****
+A72	ExperiencerVal T207 family
+T208	LivingCondition 3519 3526	n *****
+A73	ExperiencerVal T208 family
+T209	LivingCondition 3561 3577	moved from *****
+A74	IsStoppedOrContinuing T209 stopped
+T210	Datetime 3578 3588	1 year ago
+R51	EndsOnOrAt Arg1:T209 Arg2:T210	
+T211	LivingCondition 3640 3655	coming to *****
+A75	ExperiencerVal T211 family
+T212	Datetime 3656 3666	1 year ago
+R52	BeginsOnOrAt Arg1:T211 Arg2:T212	
+T213	SectionSkip 3854 3923;3926 4629	PHYSICAL EXAM:  General appearance - alert, well appearing, and in no distress  HEENT: anicteric, OP clear  Mental status - alert, oriented to person, place, and time  Lymph nodes - no palpable cervical or supraclavicular lymphadenopathy   Axilla - multiple right axillary nodes, largest 2.5 cm and mobile  Breasts - 7x5 cm mass in RUOQ, mobile, inverted right nipple, left breast without dominant mass   Chest - clear to auscultation, no wheezes, rales or rhonchi, symmetric air entry  Heart - normal rate, regular rhythm  Abdomen - soft,ND/NT, no HSM  Neurological - A&Ox3, grossly non-focal  Musculoskeletal - No point tenderness in spine or other ***** tenderness  Extremities - no edema  Skin - normal coloration and turgor, no rashes, no suspicious skin lesions noted
+A76	SectionSkipType T213 physical_exam
+T214	Age 4724 4726	53
+T215	Radiology 4846 4852	PET CT
+A77	IntentVal T215 staging
+T216	BiomarkerName 4760 4762	HR
+A78	HistoryVal T216 new
+A79	EpisodeDescription T216 FirstOccurrence
+T217	ClinicalCondition 4778 4791	breast cancer
+A80	ContinuityVal T217 new
+T218	BiomarkerName 4772 4776	HER2
+A81	HistoryVal T218 new
+A82	EpisodeDescription T218 FirstOccurrence
+T219	BiomarkerResult 4763 4771	negative
+A83	HistoryVal T219 new
+A84	EpisodeDescription T219 FirstOccurrence
+A85	BiomarkerResultVal T219 Negative
+T220	BiomarkerResult 4776 4777	+
+A86	HistoryVal T220 new
+A87	EpisodeDescription T220 FirstOccurrence
+A88	BiomarkerResultVal T220 Positive
+R53	BiomarkerRel Arg1:T220 Arg2:T218	
+R54	BiomarkerRel Arg1:T216 Arg2:T219	
+R55	TumorDesc TumorDetails:T217 Desc:T218	
+R56	TumorDesc TumorDetails:T217 Desc:T216	
+T221	Metastasis 4876 4886	metastasis
+A89	NegationModalityVal T221 uncertain_in_present
+T222	Site 4871 4875	bone
+R57	SiteOf Arg1:T222 Arg2:T221	
+R58	TestOrProcedureReveals Test:T215 Desc:T221	
+T223	Radiology 4933 4936	MRI
+A90	IntentVal T223 staging
+T224	Site 4940 4946	pelvis
+T225	Pathology 4951 4957	biopsy
+A91	IntentVal T225 staging
+R59	SiteOf Arg1:T224 Arg2:T223	
+T226	Stage 4979 4981	IV
+A92	NegationModalityVal T226 uncertain_in_present
+A93	HistoryVal T226 new
+A94	EpisodeDescription T226 FirstOccurrence
+T227	TreatmentType 4808 4824	systemic therapy
+A95	NegationModalityVal T227 hypothetical_in_future
+A96	TreatmentIntentVal T227 curative
+T228	Stage 5003 5005	IV
+A97	NegationModalityVal T228 uncertain_in_present
+A98	HistoryVal T228 new
+A99	EpisodeDescription T228 FirstOccurrence
+T229	MedicationName 5049 5059	paclitaxel
+A100	NegationModalityVal T229 hypothetical_in_future
+A101	TreatmentIntentVal T229 curative
+A102	TreatmentCategory T229 AntiNeoPlastics
+T230	Frequency 5042 5048	weekly
+T231	MedicationName 5066 5077	trastuzumab
+A103	NegationModalityVal T231 hypothetical_in_future
+A104	TreatmentIntentVal T231 curative
+A105	TreatmentCategory T231 AntiNeoPlastics
+T232	MedicationName 5084 5094	pertuzumab
+A106	NegationModalityVal T232 hypothetical_in_future
+A107	TreatmentIntentVal T232 curative
+A108	TreatmentCategory T232 AntiNeoPlastics
+T233	Frequency 5079 5083	q3wk
+T234	Frequency 5061 5065	q3wk
+R60	Temporal Arg1:T229 Arg2:T230	
+R61	Temporal Arg1:T231 Arg2:T234	
+R62	Temporal Arg1:T232 Arg2:T233	
+T235	BiomarkerName 5102 5104	HR
+A109	HistoryVal T235 new
+A110	EpisodeDescription T235 FirstOccurrence
+T236	BiomarkerName 5114 5118	HER2
+A111	HistoryVal T236 new
+A112	EpisodeDescription T236 FirstOccurrence
+T237	BiomarkerResult 5105 5113	negative
+A113	HistoryVal T237 new
+A114	EpisodeDescription T237 FirstOccurrence
+A115	BiomarkerResultVal T237 Negative
+T238	BiomarkerResult 5118 5119	+
+A116	HistoryVal T238 new
+A117	EpisodeDescription T238 FirstOccurrence
+A118	BiomarkerResultVal T238 Positive
+R63	BiomarkerRel Arg1:T237 Arg2:T235	
+R64	BiomarkerRel Arg1:T236 Arg2:T238	
+T239	TreatmentType 5249 5256	radiate
+A119	NegationModalityVal T239 hypothetical_in_future
+T240	Site 5257 5269	bone lesions
+R65	SiteOf Arg1:T240 Arg2:T239	
+T241	Radiology 5290 5293	MRI
+A120	NegationModalityVal T241 planned_in_future
+A121	IntentVal T241 staging
+T242	Radiology 5302 5305	MRI
+A122	NegationModalityVal T242 planned_in_future
+A123	IntentVal T242 staging
+T243	Site 5294 5300	Pelvis
+T244	Site 5306 5310	neck
+R66	SiteOf Arg1:T243 Arg2:T241	
+R67	SiteOf Arg1:T244 Arg2:T242	
+T245	Radiology 5424 5438	echocardiogram
+A124	IntentVal T245 treatment-others
+T246	MedicationName 5368 5378	paclitaxel
+A125	NegationModalityVal T246 planned_in_future
+A126	TreatmentContinuityVal T246 planned
+A127	TreatmentIntentVal T246 curative
+A128	TreatmentCategory T246 AntiNeoPlastics
+T247	MedicationName 5385 5396	trastuzumab
+A129	NegationModalityVal T247 planned_in_future
+A130	TreatmentIntentVal T247 curative
+A131	TreatmentCategory T247 AntiNeoPlastics
+T248	MedicationName 5403 5413	pertuzumab
+A132	NegationModalityVal T248 planned_in_future
+A133	TreatmentContinuityVal T248 planned
+A134	TreatmentIntentVal T248 curative
+A135	TreatmentCategory T248 AntiNeoPlastics
+T249	Frequency 5361 5367	weekly
+T250	Frequency 5380 5384	q3wk
+T251	Frequency 5398 5402	q3wk
+R68	Temporal Arg1:T249 Arg2:T246	
+R69	Temporal Arg1:T250 Arg2:T247	
+R70	Temporal Arg1:T251 Arg2:T248	
+R71	SizeOf Arg1:T177 Arg2:T174	
+R72	SizeOf Arg1:T178 Arg2:T174	
+R73	TestOrProcedureReveals Test:T171 Desc:T177	
+R74	TestOrProcedureReveals Test:T171 Desc:T178	
+T16	Grade 498 499	2
+R75	TestOrProcedureReveals Test:T149 Desc:T16	
+R76	HappensAtOnDuring Arg1:T148 Arg2:T164	
+R77	HappensAtOnDuring Arg1:T170 Arg2:T171	
+T252	Size 865 877	3.5 x 1.7 cm
+R78	SizeOf Arg1:T252 Arg2:T179	
+T253	PatientCharacteristics 2289 2303	Perimenopausal
+T254	PatientCharacteristics 2331 2345	first delivery
+T255	Age 2351 2353	17
+R79	HappensAtOnDuring Arg1:T254 Arg2:T255	
+T256	PatientCharacteristics 3332 3334;3343 3363	FA and wife are related
+A136	NegationModalityVal T202 negated
+T257	Symptom 5226 5237	bone lesion
+A137	NegationModalityVal T257 negated
+T258	PatientCharacteristics 2305 2308	LMP
+T259	Datetime 2309 2323	1-2 months ago
+R80	HappensAtOnDuring Arg1:T258 Arg2:T259	
+T260	TreatmentType 2358 2361	HRT
+A138	NegationModalityVal T260 negated
+T184	RadPathResult 920 959	Solitary small focus of hypermetabolism
+A139	RadPathResultVal T184 Unclear
+T261	Site 968 973	ilium
+T262	Laterality 963 967	left
+R38	LateralityOfSite Arg1:T262 Arg2:T261	
+R81	SiteOf Arg1:T261 Arg2:T184	
+R82	ResultOfTest Desc:T184 Test:T182	
+T263	RadPathResult 1056 1060	mass
+T264	Site 1049 1055	breast
+T265	Laterality 1043 1048	Right
+R83	LateralityOfSite Arg1:T265 Arg2:T264	
+R84	SiteOf Arg1:T264 Arg2:T263	
+R85	ResultOfTest Desc:T263 Test:T182	
+T266	LymphNodeInvolvement 1158 1169	lymph nodes
+A140	HistoryVal T266 new
+A141	EpisodeDescription T266 FirstOccurrence
+T267	Site 1146 1157	subpectoral
+T268	Site 1133 1141	axillary
+T269	Laterality 1127 1132	right
+R86	LateralityOfSite Arg1:T269 Arg2:T268	
+R87	LateralityOfSite Arg1:T269 Arg2:T267	
+R88	SiteOf Arg1:T268 Arg2:T266	
+R89	SiteOf Arg1:T267 Arg2:T266	
+R90	TestOrProcedureReveals Test:T182 Desc:T266	
+T270	RadPathResult 1223 1272	hyperattenuating and mildly hypermetabolic lesion
+T271	Site 1294 1320	carotid artery bifurcation
+T272	Laterality 1289 1293	left
+T273	Size 1210 1222	3.4 x 2.6 cm
+A142	RadPathResultVal T270 Unclear
+A143	RadPathResultVal T263 InitialCancerDiagnosis
+R91	SizeOf Arg1:T273 Arg2:T270	
+R92	LateralityOfSite Arg1:T272 Arg2:T271	
+R93	SiteOf Arg1:T271 Arg2:T270	
+R94	ResultOfTest Desc:T270 Test:T182	
+T190	RadPathResult 1392 1444	3 rounded foci of signal abnormality and enhancement
+T274	Site 1464 1474	iliac bone
+T275	Laterality 1459 1463	left
+T276	Site 1489 1499	sacral ala
+T277	Laterality 1479 1488	bilateral
+R45	LateralityOfSite Arg1:T275 Arg2:T274	
+R95	LateralityOfSite Arg1:T277 Arg2:T276	
+T278	Size 1517 1522	12 mm
+R96	SiteOf Arg1:T274 Arg2:T190	
+R97	SiteOf Arg1:T276 Arg2:T190	
+R98	SizeOf Arg1:T278 Arg2:T190	
+R99	ResultOfTest Desc:T190 Test:T186	
+T279	ClinicalCondition 3320 3330	malignancy
+A144	NegationModalityVal T279 negated
+A145	ExperiencerVal T279 family
+T280	Age 3477 3478	.
+A146	NegationModalityVal T245 planned_in_future
+T281	ap_end 5874 5881	record.
+T282	ap_start 4687 4697	ASSESSMENT
+A147	SectionSkipType T14 laboratory
+T13	hpi_end 1970 1977	stable.
+T15	hpi_start 0 5	*****

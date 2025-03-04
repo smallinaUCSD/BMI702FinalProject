@@ -1,0 +1,832 @@
+T1	SectionAnnotate 83 87	HPI:
+T2	SectionSkip 2620 4758	Current Outpatient Prescriptions   Medication Sig Dispense Refill    acetaminophen (TYLENOL) 325 mg tablet Take 1 tablet (325 mg total) by mouth every 6 (six) hours as needed for Pain. Dose, strength, route or frequency not available. 180 tablet 3    alendronate (FOSAMAX) 70 mg tablet TAKE 1 TABLET BY MOUTH EVERY 7 DAYS 12 tablet 3    ascorbate calcium (VITAMIN C ORAL) Take by mouth.      baclofen (LIORESAL) 10 mg tablet Take 1 tablet (10 mg total) by mouth nightly as needed (Muscle pain, use at night only). 90 tablet 3    benzonatate (TESSALON) 100 mg capsule Take 1 capsule (100 mg total) by mouth 3 (three) times daily as needed for Cough. 90 capsule 3    clotrimazole (LOTRIMIN) 1 % cream APPLY EXTERNALLY TO THE AFFECTED AREA TWICE DAILY 60 g 0    cyanocobalamin, vitamin B-12, (VITAMIN B-12 ORAL) Take by mouth.      dextran 70-hypromellose (NATURAL BALANCE TEARS) 0.1-0.3 % DROPSOLN ophthalmic solution Place 2 drops into both eyes 2 (two) times daily. 30 mL 3    ergocalciferol, vitamin D2, (VITAMIN D ORAL) Take by mouth.      loratadine (CLARITIN) 10 mg tablet Take 1 tablet (10 mg total) by mouth Daily. 90 tablet 3    melatonin 3 mg TAB tablet Take 1 tablet (3 mg total) by mouth nightly at bedtime. 90 tablet 3    mometasone (NASONEX) 50 mcg/actuation spray 2 
+ sprays by Nasal route Daily. 17 g 1    multivitamin tablet Take 1 tablet by mouth Daily.        omeprazole (PRILOSEC) 20 mg capsule TAKE 1 CAPSULE BY MOUTH DAILY 90 capsule 1    promethazine-dextromethorphan 6.25-15 mg/5 mL syrup Take 5 mLs by mouth 4 (four) times daily as needed for Cough. 473 mL 3    blood pressure monitor KIT Please check your blood pressure daily and record (Patient not taking: Reported on 01/24/2018) 1 kit 0    menthol (BENGAY COLD THERAPY) 5 % GEL Apply 1 Application topically 2 (two) times daily. (Patient not taking: Reported on 01/24/2018) 85 g prn    VENTOLIN HFA 90 mcg/actuation metered dose inhaler INHALE 1 PUFF INTO THE LUNGS EVERY 4 HOURS AS NEEDED FOR WHEEZING OR SHORTNESS OF BREATH (Patient not taking: Reported on 10/24/2017) 54 g 0     No current facility-administered medications for this visit.
+T3	SectionAnnotate 5347 5361	SOCIAL HISTORY
+T4	SectionAnnotate 6572 6586	Social History
+T7	SectionAnnotate 13660 13677	ASSESSMENT & PLAN
+T8	PROBLEM 39 79	HER2 negative cancer of the right breast
+T9	PROBLEM 134 149	R breast cancer
+T10	TEST 211 231	Bilateral Breast MRI
+T11	PROBLEM 241 296	1.2 x 0.7 x 0.7 cm mass in the upper outer right breast
+T12	PROBLEM 299 309	A 2nd mass
+T13	PROBLEM 343 357	the index mass
+T14	PROBLEM 388 403	A 3rd 9 mm mass
+T15	PROBLEM 443 458	the larger mass
+T16	TEST 473 492	R Breast Ultrasound
+T17	PROBLEM 529 554	a 0.7 x 0.9 x 0.9 cm mass
+T18	PROBLEM 556 562	A mass
+T19	TEST 656 674	Core needle biopsy
+T20	PROBLEM 678 683	1mass
+T21	TEST 724 729	grade
+T22	TEST 732 734	ER
+T23	TEST 738 740	PR
+T24	TEST 750 754	Her2
+T25	TEST 758 761	IHC
+T26	TEST 776 779	IDC
+T27	TEST 785 791	a Ki67
+T28	TEST 802 808	Biopsy
+T29	PROBLEM 812 820	the mass
+T30	TEST 865 868	IDC
+T31	TEST 898 900	PR
+T32	TEST 904 913	Her2 0IHC
+T33	TEST 914 918	FISH
+T34	TEST 933 939	a Ki67
+T35	TEST 1065 1113	CT Limited Whole Body- right lateral breast mass
+T36	DiseaseState 1152 1169	recurrent disease
+T37	Metastasis 1186 1219	hypermetabolic metastatic disease
+T38	PROBLEM 1257 1262	fever
+T39	Symptom 1264 1270	chills
+T40	Symptom 1272 1283	diaphoresis
+T41	Symptom 1285 1300	appetite change
+T42	Symptom 1302 1309	fatigue
+T43	Symptom 1314 1338	unexpected weight change
+T44	Symptom 1343 1360	chronic headaches
+T45	Symptom 1381 1393	hearing loss
+T46	Symptom 1395 1405	nosebleeds
+T47	PROBLEM 1407 1417	congestion
+T48	Symptom 1419 1430	sore throat
+T49	Symptom 1432 1443	mouth sores
+T50	Symptom 1445 1454	neck pain
+T51	Symptom 1456 1470	sinus pressure
+T52	Symptom 1475 1483	tinnitus
+T53	Symptom 1507 1518	photophobia
+T54	Symptom 1520 1524	pain
+T55	Symptom 1526 1535	discharge
+T56	Symptom 1537 1544	redness
+T57	Symptom 1546 1553	itching
+T58	Symptom 1558 1576	visual disturbance
+T59	Symptom 1606 1611	apnea
+T60	Symptom 1613 1628	chest tightness
+T61	Symptom 1630 1649	shortness of breath
+T62	Symptom 1651 1659	wheezing
+T63	PROBLEM 1663 1677	allergic cough
+T64	Symptom 1708 1718	chest pain
+T65	Symptom 1720 1732	palpitations
+T66	Symptom 1737 1749	leg swelling
+T67	Symptom 1784 1790	nausea
+T68	Symptom 1792 1800	vomiting
+T69	Symptom 1802 1816	abdominal pain
+T70	Symptom 1818 1826	diarrhea
+T71	Symptom 1828 1840	constipation
+T72	Symptom 1842 1856	blood in stool
+T73	Symptom 1861 1881	abdominal distention
+T74	Symptom 1913 1920	dysuria
+T75	Symptom 1922 1929	urgency
+T76	Symptom 1931 1940	frequency
+T77	Symptom 1942 1951	hematuria
+T78	PROBLEM 1953 1971	vaginal 
+ bleeding
+T79	PROBLEM 1975 1984	discharge
+T80	Symptom 1988 2008	difficulty urinating
+T81	Symptom 2042 2050	myalgias
+T82	Symptom 2053 2067	joint swelling
+T83	Symptom 2072 2083	arthralgias
+T84	PROBLEM 2087 2117	chronic back and shoulder pain
+T85	Symptom 2149 2156	itching
+T86	Symptom 2158 2162	rash
+T87	Symptom 2174 2199	tenderness at biopsy site
+T88	Symptom 2246 2256	neuropathy
+T89	Symptom 2258 2267	dizziness
+T90	Symptom 2269 2276	tremors
+T91	Symptom 2278 2286	seizures
+T92	Symptom 2288 2295	syncope
+T93	Symptom 2297 2314	speech difficulty
+T94	Symptom 2316 2324	weakness
+T95	Symptom 2326 2342	light-headedness
+T96	Symptom 2344 2352	numbness
+T97	Symptom 2357 2366	headaches
+T98	Symptom 2398 2408	adenopathy
+T99	Symptom 2419 2431	bruise/bleed
+T100	Symptom 2479 2493	suicidal ideas
+T101	Symptom 2495 2512	sleep disturbance
+T102	Symptom 2514 2537	decreased concentration
+T103	Symptom 2541 2548	anxiety
+T104	PROBLEM 2553 2560	disease
+T105	PROBLEM 2579 2602	treatment complications
+T106	TREATMENT 2607 2618	MEDICATIONS
+T107	TREATMENT 2620 2665	Current Outpatient Prescriptions   Medication
+T108	TREATMENT 2690 2713	acetaminophen (TYLENOL)
+T109	PROBLEM 2800 2804	Pain
+T110	TREATMENT 2873 2894	alendronate (FOSAMAX)
+T111	TREATMENT 2960 2994	ascorbate calcium (VITAMIN C ORAL)
+T112	TREATMENT 3016 3035	baclofen (LIORESAL)
+T113	PROBLEM 3105 3116	Muscle pain
+T114	TREATMENT 3154 3176	benzonatate (TESSALON)
+T115	PROBLEM 3267 3272	Cough
+T116	TREATMENT 3291 3314	clotrimazole (LOTRIMIN)
+T117	TREATMENT 3345 3362	THE AFFECTED AREA
+T118	TREATMENT 3386 3400	cyanocobalamin
+T119	TREATMENT 3402 3435	vitamin B-12, (VITAMIN B-12 ORAL)
+T120	TREATMENT 3457 3464	dextran
+T121	TREATMENT 3468 3504	hypromellose (NATURAL BALANCE TEARS)
+T122	TREATMENT 3606 3620	ergocalciferol
+T123	TREATMENT 3622 3650	vitamin D2, (VITAMIN D ORAL)
+T124	TREATMENT 3672 3693	loratadine (CLARITIN)
+T125	TREATMENT 3767 3776	melatonin
+T126	TREATMENT 3865 3885	mometasone (NASONEX)
+T127	TREATMENT 3953 3965	multivitamin
+T128	TREATMENT 4011 4032	omeprazole (PRILOSEC)
+T129	TREATMENT 4094 4123	promethazine-dextromethorphan
+T130	PROBLEM 4201 4206	Cough
+T131	TEST 4221 4235	blood pressure
+T132	TEST 4261 4280	your blood pressure
+T133	TREATMENT 4355 4383	menthol (BENGAY COLD THERAPY
+T134	TREATMENT 4502 4514	VENTOLIN HFA
+T135	TREATMENT 4521 4552	/actuation metered dose inhaler
+T136	PROBLEM 4610 4618	WHEEZING
+T137	PROBLEM 4622 4641	SHORTNESS OF BREATH
+T138	TREATMENT 4731 4742	medications
+T139	PROBLEM 4768 4788	ALLERGIES  Allergies
+T140	TREATMENT 4809 4827	Allergen Reactions
+T141	TREATMENT 4832 4850	Iodinated Contrast
+T142	TREATMENT 4861 4875	Iv Dye Itching
+T143	PROBLEM 4880 4884	Rash
+T144	TEST 4921 4929	CT Scans
+T145	TEST 4974 4986	future scans
+T146	TREATMENT 4991 5037	Contrast [Gadolinium-Containing Contrast Media
+T147	PROBLEM 5039 5046	Itching
+T148	PROBLEM 5078 5086	allergic
+T149	PROBLEM 5090 5093	GAD
+T150	PROBLEM 5130 5138	allergic
+T151	TREATMENT 5187 5191	meds
+T152	TREATMENT 5207 5232	Hydrocodone-Acetaminophen
+T153	PROBLEM 5233 5239	Nausea
+T154	TREATMENT 5249 5260	Penicillins
+T155	PROBLEM 5294 5304	Runny nose
+T156	PROBLEM 5309 5318	dizziness
+T157	ClinicalCondition 5406 5414	Cataract
+T158	PROBLEM 5420 5435	Elevated CA-125
+T159	PROBLEM 5441 5479	GERD (gastroesophageal reflux disease)
+T160	PROBLEM 5485 5498	Kidney stones
+T161	PROBLEM 5504 5548	Metastatic papillary carcinoma to lymph node
+T162	PROBLEM 5563 5586	left pelvic lymph nodes
+T163	PROBLEM 5591 5595	NSVD
+T164	TREATMENT 5604 5632	spontaneous vaginal delivery
+T165	ClinicalCondition 5645 5659	Ovarian cancer
+T166	PROBLEM 5679 5689	stage IIIC
+T167	PROBLEM 5696 5722	platinum-sensitive disease
+T168	PROBLEM 5770 5786	Onset    Cancer
+T169	PROBLEM 5801 5814	breast cancer
+T170	PROBLEM 5819 5831	Hypertension
+T171	PROBLEM 5844 5850	Stroke
+T172	PROBLEM 5867 5875	Diabetes
+T173	PROBLEM 5876 5893	Other     Cancer
+T174	PROBLEM 5894 5918	Sister      liver cancer
+T175	PROBLEM 5923 5931	Diabetes
+T176	PROBLEM 5945 5957	Hypertension
+T177	PROBLEM 5971 5979	Glaucoma
+T178	PROBLEM 5993 6005	Hypertension
+T179	PROBLEM 6018 6026	Diabetes
+T180	PROBLEM 6039 6047	Glaucoma
+T181	PROBLEM 6081 6094	Breast cancer
+T182	TREATMENT 6096 6116	bilateral mastectomy
+T183	PROBLEM 6121 6130	Amblyopia
+T184	PROBLEM 6143 6152	Blindness
+T185	PROBLEM 6165 6174	Cataracts
+T186	PROBLEM 6187 6198	Keratoconus
+T187	PROBLEM 6211 6224	Macular degen
+T188	PROBLEM 6237 6255	Retinal detachment
+T189	PROBLEM 6268 6278	Strabismus
+T190	PROBLEM 6291 6306	Anesth problems
+T191	ClinicalCondition 6319 6336	Bleeding disorder
+T192	ClinicalCondition 6349 6368	Anesthesia problems
+T193	ClinicalCondition 6381 6399	Autoimmune disease
+T194	ClinicalCondition 6412 6432	Congenital Anomalies
+T195	ClinicalCondition 6445 6460	Hyperthyroidism
+T196	ClinicalCondition 6473 6487	Hypothyroidism
+T197	ClinicalCondition 6500 6508	Melanoma
+T198	ClinicalCondition 6521 6538	Neurofibromatosis
+T199	ClinicalCondition 6551 6557	Ptosis
+T200	TEST 7116 7120	ECOG
+T201	TEST 7124 7135	Vital Signs
+T202	TEST 7138 7140	BP
+T203	TEST 7151 7156	Pulse
+T204	TEST 7163 7167	Temp
+T205	TEST 7173 7174	C
+T206	TEST 7194 7198	Resp
+T207	TEST 7205 7207	Ht
+T208	TEST 7256 7258	Wt
+T209	TEST 7286 7289	LMP
+T210	TEST 7304 7308	SpO2
+T211	PROBLEM 7379 7382	NAD
+T212	PROBLEM 7407 7413	rashes
+T213	PROBLEM 7417 7424	lesions
+T214	PROBLEM 7440 7449	anicteric
+T215	PROBLEM 7472 7489	sinuses nontender
+T216	PROBLEM 7528 7536	erythema
+T217	PROBLEM 7541 7547	thrush
+T218	PROBLEM 7567 7621	cervical, supraclavicular, or axillary lymphadenopathy
+T219	TEST 7665 7675	percussion
+T220	PROBLEM 7680 7687	wheezes
+T221	PROBLEM 7689 7696	rhonchi
+T222	PROBLEM 7701 7709	crackles
+T223	PROBLEM 7764 7771	murmurs
+T224	PROBLEM 7776 7781	edema
+T225	PROBLEM 7792 7814	firm palpable 
+ nodule
+T226	PROBLEM 7906 7915	nontender
+T227	PROBLEM 7920 7930	distention
+T228	PROBLEM 7935 7947	organomegaly
+T229	PROBLEM 7970 8007	point tenderness over bones or joints
+T230	PROBLEM 8047 8078	focal motor or sensory deficits
+T231	PROBLEM 8388 8409	BRCA1 genetic carrier
+T232	PROBLEM 8428 8442	ovarian cancer
+T233	PROBLEM 8447 8479	triple negative right breast IDC
+T234	PROBLEM 8485 8495	new masses
+T235	TEST 8499 8508	mammogram
+T236	PROBLEM 8551 8581	hypermetabolic lymphadenopathy
+T237	PROBLEM 8594 8604	metastases
+T238	PROBLEM 8639 8649	metastases
+T239	PROBLEM 8662 8672	metastases
+T240	PROBLEM 8682 8748	Right lateral breast dumbbell shaped enhancing hypermetabolic mass
+T241	TEST 8772 8779	SUV Max
+T242	PROBLEM 8860 8881	symmetric, FDG uptake
+T243	PROBLEM 8965 8976	mass effect
+T244	TEST 8985 8997	these images
+T245	TEST 9027 9030	MRI
+T246	PROBLEM 9058 9099	intracranial and/or skull base metastases
+T247	PROBLEM 9168 9213	Unchanged right upper lobe pleural-based mass
+T248	PROBLEM 9276 9299	significant FDG avidity
+T249	PROBLEM 9301 9354	Unchanged left upper and lower lobe pulmonary nodules
+T250	TEST 9410 9415	image
+T251	PROBLEM 9498 9534	Scattered bone islands in the pelvis
+T252	PROBLEM 9573 9637	Multilevel degenerative changes of the cervical and lumbar spine
+T253	PROBLEM 9639 9673	Unchanged 3.4 cm lipomatous lesion
+T254	TREATMENT 9707 9732	Midline abdominal staples
+T255	PROBLEM 9753 9805	Hypermetabolic  (FDG avid) right lateral breast mass
+T256	PROBLEM 9844 9861	recurrent disease
+T257	PROBLEM 9878 9911	hypermetabolic metastatic disease
+T258	TEST 9917 9952	Right breast diagnostic mammography
+T259	TEST 9954 9973	Limited R breast US
+T260	TEST 9999 10017	Prior examinations
+T261	TEST 10060 10063	MRI
+T262	PROBLEM 10166 10188	fibroglandular density
+T263	TEST 10191 10200	BB marker
+T264	PROBLEM 10252 10265	palpated lump
+T265	PROBLEM 10281 10291	two masses
+T266	TEST 10293 10304	both biopsy
+T267	TREATMENT 10312 10343	IDC (ribbon clip and heart clip
+T268	PROBLEM 10346 10364	The irregular mass
+T269	TREATMENT 10376 10391	the ribbon clip
+T270	PROBLEM 10448 10480	the more posterior obscured mass
+T271	TEST 10492 10506	the heart clip
+T272	TEST 10559 10568	BB marker
+T273	PROBLEM 10643 10656	palpated lump
+T274	TEST 10705 10715	Ultrasound
+T275	PROBLEM 10739 10762	sonographic abnormality
+T276	PROBLEM 10789 10802	palpated lump
+T277	TEST 10900 10938	Limited ultrasound of the right axilla
+T278	PROBLEM 10952 10963	lymph nodes
+T279	PROBLEM 11042 11072	Known biopsy proven malignancy
+T280	TEST 11074 11081	BI-RADS
+T281	TREATMENT 11120 11159	continued surgical/oncologic management
+T282	TEST 11163 11178	two-site biopsy
+T283	PROBLEM 11186 11209	right breast malignancy
+T284	TEST 11280 11299	today's examination
+T285	PROBLEM 11348 11361	palpated lump
+T286	TEST 11488 11508	palpation-guided FNA
+T287	TEST 11530 11554	Bilateral MRI of Breasts
+T288	TEST 11580 11598	Prior examinations
+T289	TEST 11617 11626	mammogram
+T290	TEST 11686 11689	MRI
+T291	TEST 11703 11733	This bilateral breast MRI exam
+T292	PROBLEM 11747 11777	minimum background enhancement
+T293	PROBLEM 11809 11830	fibroglandular tissue
+T294	PROBLEM 11859 11917	a new 12 x 7 x 7 mm (ML x AP x CC) irregularly shaped mass
+T295	PROBLEM 11923 11941	spiculated margins
+T296	TEST 11991 12018	Signal intensity/time curve
+T297	PROBLEM 12032 12083	rapid initial rise and washout enhancement kinetics
+T298	PROBLEM 12086 12097	This lesion
+T299	TEST 12114 12138	axial postcontrast image
+T300	PROBLEM 12237 12301	a second new 6 x 6 x 7 mm (ML x AP x CC) irregularly shaped mass
+T301	PROBLEM 12307 12324	irregular margins
+T302	TEST 12326 12353	Signal intensity/time curve
+T303	PROBLEM 12367 12418	rapid initial rise and washout enhancement kinetics
+T304	PROBLEM 12421 12432	This lesion
+T305	PROBLEM 12541 12561	non-mass enhancement
+T306	PROBLEM 12567 12650	linear distribution and clumped internal enhancement in the lower outer left breast
+T307	TEST 12693 12696	MRI
+T308	PROBLEM 12760 12793	new abnormal areas of enhancement
+T309	PROBLEM 12819 12829	malignancy
+T310	TEST 12889 12896	BI-RADS
+T311	PROBLEM 12959 12983	Two new irregular masses
+T312	PROBLEM 12998 13015	rapid enhancement
+T313	TREATMENT 13021 13028	washout
+T314	TEST 13098 13131	diagnostic right breast mammogram
+T315	TEST 13137 13156	targeted ultrasound
+T316	TEST 13161 13179	further evaluation
+T317	TEST 13184 13199	biopsy planning
+T318	TEST 13215 13255	stereotactic or ultrasound-guided biopsy
+T319	TEST 13300 13309	mammogram
+T320	TEST 13313 13323	ultrasound
+T321	TEST 13340 13361	MR-guided core biopsy
+T322	PROBLEM 13369 13413	Significant interval decrease in conspicuity
+T323	PROBLEM 13450 13470	non-mass enhancement
+T324	PROBLEM 13535 13552	a benign etiology
+T325	TEST 13554 13572	Annual mammography
+T326	TEST 13588 13591	MRI
+T327	TEST 13632 13651	high-risk screening
+T328	PROBLEM 13722 13737	R breast cancer
+T329	ClinicalCondition 13789 13802	Breast Cancer
+T330	TEST 13806 13818	Latest PETCT
+T331	PROBLEM 13842 13857	R breast lesion
+T332	TREATMENT 13922 13927	chemo
+T333	TREATMENT 14007 14033	Port placement ASAP  Chemo
+T334	TREATMENT 14049 14054	taxol
+T335	TREATMENT 14078 14083	chemo
+T336	TREATMENT 14275 14286	medications
+T337	TREATMENT 14447 14465	the treatment plan
+T338	PROBLEM 14467 14475	symptoms
+T339	TREATMENT 14480 14499	therapeutic options
+T340	BiomarkerName 31 33	HR
+A1	HistoryVal T340 new
+A2	EpisodeDescription T340 FirstOccurrence
+T341	BiomarkerResult 34 37	low
+A3	BiomarkerResultVal T341 LowPositive
+*	BiomarkerRel T341 T340
+T342	BiomarkerName 39 43	HER2
+T343	BiomarkerResult 44 52	negative
+A4	BiomarkerResultVal T343 Negative
+*	BiomarkerRel T342 T343
+T344	TumorCharacteristics 143 149	cancer
+T345	Site 136 142	breast
+R1	SiteOf Arg1:T345 Arg2:T344	
+T346	Laterality 134 135	R
+R2	LateralityOfSite Arg1:T346 Arg2:T345	
+T347	Datetime 199 209	10/04/2017
+T348	Radiology 228 231	MRI
+A5	IntentVal T348 others
+T349	Site 221 227	Breast
+T350	Laterality 211 220	Bilateral
+R3	LateralityOfSite Arg1:T350 Arg2:T349	
+R4	SiteOf Arg1:T349 Arg2:T348	
+T351	Size 241 259	1.2 x 0.7 x 0.7 cm
+A6	EpisodeDescription T351 FirstOccurrence
+T352	RadPathResult 260 264	mass
+A7	RadPathResultVal T352 InitialCancerDiagnosis
+T353	Site 290 296	breast
+T354	Site 272 283	upper outer
+T355	Laterality 284 289	right
+R5	LateralityOfSite Arg1:T355 Arg2:T353	
+R6	LateralityOfSite Arg1:T355 Arg2:T354	
+R7	SiteOf Arg1:T354 Arg2:T352	
+R8	ResultOfTest Desc:T352 Test:T348	
+R9	TestOrProcedureReveals Test:T348 Desc:T351	
+T356	RadPathResult 305 309	mass
+A8	RadPathResultVal T356 InitialCancerDiagnosis
+T357	Site 318 339	posterior and lateral
+R10	SiteOf Arg1:T357 Arg2:T356	
+T358	Size 368 386	0.6 x 0.6 x 0.7 cm
+A9	EpisodeDescription T358 FirstOccurrence
+R11	SiteOf Arg1:T357 Arg2:T358	
+R12	SiteOf Arg1:T357 Arg2:T348	
+T359	Size 394 398	9 mm
+T360	RadPathResult 399 403	mass
+A10	RadPathResultVal T360 InitialCancerDiagnosis
+T361	Site 417 439	posterior and superior
+A11	EpisodeDescription T359 FirstOccurrence
+T362	Datetime 642 652	10/11/2017
+T363	ProcedureName 656 674	Core needle biopsy
+A12	IntentVal T363 diagnosis
+T364	Site 687 714	10o'clock 10 cm from nipple
+R15	SiteOf Arg1:T364 Arg2:T363	
+T365	Size 717 723	0.6 cm
+A13	EpisodeDescription T365 FirstOccurrence
+T366	Grade 730 731	3
+A14	EpisodeDescription T366 FirstOccurrence
+T367	BiomarkerName 732 734	ER
+A15	EpisodeDescription T367 FirstOccurrence
+T368	BiomarkerResult 735 737	1%
+A16	BiomarkerResultVal T368 LowPositive
+*	BiomarkerRel T367 T368
+R16	TestOrProcedureReveals Test:T363 Desc:T365	
+R17	TestOrProcedureReveals Test:T363 Desc:T366	
+R18	TestOrProcedureReveals Test:T363 Desc:T367	
+T369	BiomarkerName 738 740	PR
+T370	BiomarkerResult 741 749	negative
+A17	BiomarkerResultVal T370 Negative
+*	BiomarkerRel T370 T369
+T371	BiomarkerName 750 754	Her2
+T372	BiomarkerResult 755 757	1+
+A18	BiomarkerResultVal T372 Negative
+T373	Pathology 758 766	IHC/FISH
+A19	IntentVal T373 diagnosis
+T374	RadPathResult 767 775	negative
+A20	RadPathResultVal T374 Others
+R19	ResultOfTest Desc:T374 Test:T373	
+T375	Histology 776 779	IDC
+A21	EpisodeDescription T375 FirstOccurrence
+T376	Pathology 787 791	Ki67
+A22	IntentVal T376 diagnosis
+T377	RadPathResult 795 798	70%
+A23	RadPathResultVal T377 Others
+R20	ResultOfTest Desc:T377 Test:T376	
+T378	Datetime 1049 1059	01/10/2018
+T379	Radiology 1061 1075	PET CT Limited
+A24	IntentVal T379 staging
+T380	RadPathResult 1109 1113	mass
+A25	EpisodeDescription T380 Recurrence
+T381	Site 1094 1108	lateral breast
+T382	Laterality 1088 1093	right
+R21	LateralityOfSite Arg1:T382 Arg2:T381	
+R22	SiteOf Arg1:T381 Arg2:T380	
+T383	Size 1123 1135	2.7 x 1.7 cm
+A26	EpisodeDescription T383 Recurrence
+R23	TestOrProcedureReveals Test:T379 Desc:T36	
+R24	TestOrProcedureReveals Test:T379 Desc:T380	
+T384	Symptom 1663 1677	allergic cough
+A27	NegationModalityVal T384 affirmed
+A28	IsPresentOnFirstCancerDiagnosis T384 yes
+A29	IsCausedByDiagnosedCancer T384 no
+A30	ChronicVal T384 chronic
+A31	ContinuityVal T384 stable
+T385	Symptom 2113 2117	pain
+A32	NegationModalityVal T385 affirmed
+A33	IsPresentOnFirstCancerDiagnosis T385 yes
+A34	IsCausedByDiagnosedCancer T385 no
+A35	ChronicVal T385 chronic
+T386	Site 2104 2112	shoulder
+T387	Site 2095 2099	back
+R25	SiteOf Arg1:T387 Arg2:T385	
+R26	SiteOf Arg1:T386 Arg2:T385	
+T388	Duration 2120 2127	2 years
+A37	ChronicVal T165 non-chronic
+A38	ContinuityVal T165 stable
+A39	ExperiencerVal T165 patient
+T389	Stage 5685 5689	IIIC
+A40	NegationModalityVal T165 affirmed
+A41	HistoryVal T165 history
+A42	EpisodeDescription T165 Recurrence
+T390	Datetime 5660 5664	1998
+T391	DiseaseState 5668 5677	recurrent
+T392	TreatmentType 13922 13927	chemo
+A43	NegationModalityVal T392 hypothetical_in_future
+A44	TreatmentTypeVal T392 others
+T393	ProcedureName 14007 14021	Port placement
+A45	NegationModalityVal T393 affirmed
+A46	IntentVal T393 treatment-others
+A47	TreatmentTypeVal T393 others
+T394	MedicationName 14049 14054	taxol
+A48	NegationModalityVal T394 hypothetical_in_future
+A50	TreatmentIntentVal T394 palliative
+A51	TreatmentCategory T394 AntiNeoPlastics
+T395	Cycles 14057 14059	12
+T397	Datetime 14096 14110	next Wednesday
+T398	Datetime 953 963	10/19/2017
+T399	Datetime 1000 1010	12/27/2017
+T400	ProcedureName 802 808	Biopsy
+A53	IntentVal T400 diagnosis
+T401	SectionSkip 4768 5318	ALLERGIES  Allergies/Contraindications   Allergen Reactions    Iodinated Contrast- Oral And Iv Dye Itching and Rash     Patient takes pre-meds prior to CT Scans. She will continue to need the pre-meds for future scans    Contrast [Gadolinium-Containing Contrast Media] Itching     Patient not sure if she is allergic to GAD.   Will add to allergy list: She is allergic to NON-Ionic Contrast (CT,etc.) She takes pre - meds for this.     Hydrocodone-Acetaminophen Nausea Only    Penicillins Unknown    Pollen Extracts      Runny nose and dizziness
+A54	SectionSkipType T401 allergies
+T5	SectionSkip 7101 7805;7808 8174	PHYSICAL EXAM  ECOG 0  Vital Signs:  BP 127/66  | Pulse 69  | Temp 36.3 C (97.4 F) (Oral)  | Resp 16  | Ht 158 cm (5' 2.21") Comment: 01/24/2018 @ ***** | Wt 59.1 kg (130 lb 6.4 oz)  | LMP 01/09/1998  | SpO2 98%  | Breastfeeding? No  | BMI 23.69 kg/m     Constitutional:  WDWN, NAD.  Skin: warm, moist. No rashes or lesions.  Eyes: sclera anicteric, PERRL, EOMI.   HENT: sinuses nontender, nasal mucosa intact, pharynx without erythema, no thrush.   Lymph Nodes: no cervical, supraclavicular, or axillary lymphadenopathy.    Respiratory: BL lungs CTA, resonant to percussion, no wheezes, rhonchi, or crackles  Cardiovascular: normal heart rate, normal rhythm, no murmurs, no edema  Breast:: firm palpable nodule felt at 11 o'clock between axilla and areola in R breast.   GI: bowel sounds normal, soft, nontender, no distention, no organomegaly   Musculoskeletal: no point tenderness over bones or joints   Neurologic: alert & oriented x 3, no focal motor or sensory deficits  Psychiatric: mood stable    RESULTS  I have personally reviewed and interpreted the following:
+A55	SectionSkipType T5 physical_exam
+T6	SectionSkip 2607 3910;3913 4758	MEDICATIONS  Current Outpatient Prescriptions   Medication Sig Dispense Refill    acetaminophen (TYLENOL) 325 mg tablet Take 1 tablet (325 mg total) by mouth every 6 (six) hours as needed for Pain. Dose, strength, route or frequency not available. 180 tablet 3    alendronate (FOSAMAX) 70 mg tablet TAKE 1 TABLET BY MOUTH EVERY 7 DAYS 12 tablet 3    ascorbate calcium (VITAMIN C ORAL) Take by mouth.      baclofen (LIORESAL) 10 mg tablet Take 1 tablet (10 mg total) by mouth nightly as needed (Muscle pain, use at night only). 90 tablet 3    benzonatate (TESSALON) 100 mg capsule Take 1 capsule (100 mg total) by mouth 3 (three) times daily as needed for Cough. 90 capsule 3    clotrimazole (LOTRIMIN) 1 % cream APPLY EXTERNALLY TO THE AFFECTED AREA TWICE DAILY 60 g 0    cyanocobalamin, vitamin B-12, (VITAMIN B-12 ORAL) Take by mouth.      dextran 70-hypromellose (NATURAL BALANCE TEARS) 0.1-0.3 % DROPSOLN ophthalmic solution Place 2 drops into both eyes 2 (two) times daily. 30 mL 3    ergocalciferol, vitamin D2, (VITAMIN D ORAL) Take by mouth.      loratadine (CLARITIN) 10 mg tablet Take 1 tablet (10 mg total) by mouth Daily. 90 tablet 3    melatonin 3 mg TAB tablet Take 1 tablet (3 mg total) by mouth nightly at bedtime. 90 tablet 3    mometasone (NASONEX) 50 mcg/actuation spray 2 sprays by Nasal route Daily. 17 g 1    multivitamin tablet Take 1 tablet by mouth Daily.        omeprazole (PRILOSEC) 20 mg capsule TAKE 1 CAPSULE BY MOUTH DAILY 90 capsule 1    promethazine-dextromethorphan 6.25-15 mg/5 mL syrup Take 5 mLs by mouth 4 (four) times daily as needed for Cough. 473 mL 3    blood pressure monitor KIT Please check your blood pressure daily and record (Patient not taking: Reported on 01/24/2018) 1 kit 0    menthol (BENGAY COLD THERAPY) 5 % GEL Apply 1 Application topically 2 (two) times daily. (Patient not taking: Reported on 01/24/2018) 85 g prn    VENTOLIN HFA 90 mcg/actuation metered dose inhaler INHALE 1 PUFF INTO THE LUNGS EVERY 4 HOURS AS NEEDED FOR WHEEZING OR SHORTNESS OF BREATH (Patient not taking: Reported on 10/24/2017) 54 g 0     No current facility-administered medications for this visit.
+A57	SectionSkipType T6 medications
+T403	SectionSkip 8179 9748;9753 11689;11692 13629;13632 13652	PETCT Limited Whole Body Vertex to Mid Thigh 01/10/2018  COMPARISON (including at least the prior year or since last change in therapy):   08/18/2014    CLINICAL HISTORY:   71 years old Female with history of BRCA1 genetic carrier with a history of ovarian cancer and triple negative right breast IDC with new masses on mammogram 12/22/2017.    FINDINGS:  Lymph nodes: No hypermetabolic lymphadenopathy.  Lungs: No metastases.  Abdominal and pelvic organs: No metastases.  Bones: No metastases.  Other: Right lateral breast dumbbell shaped enhancing hypermetabolic mass measures 2.7 x 1.7 cm (SUV Max 10.5 for largest component).    Non-oncologic findings:  Brain:   Unremarkable, symmetric, FDG uptake is seen throughout the cortical gray matter, basal ganglia and the cerebellum.  No mass effect.  While these images appear within normal limits, MRI is recommended to rule out intracranial and/or skull base metastases if clinically indicated.  Neck:   Otherwise unremarkable.  Chest:   Unchanged right upper lobe pleural-based mass measuring 2.4 cm x 1.0 cm, dating back to 08/18/2014, without significant FDG avidity. Unchanged left upper and lower lobe pulmonary nodules measuring up to 6 mm in the left lower lobe (series 3, image 121 and image 32).  Abdomen/Pelvis:   Otherwise unremarkable.  Musculoskeletal:   Scattered bone islands in the pelvis are unchanged compared to 08/18/2014. Multilevel degenerative changes of the cervical and lumbar spine. Unchanged 3.4 cm lipomatous lesion in the right tensor fascia lata. Midline abdominal staples.    IMPRESSION: Hypermetabolic  (FDG avid) right lateral breast mass measures 2.7 x 1.7 cm compatible with recurrent disease. No evidence of hypermetabolic metastatic disease.     Right breast diagnostic mammography, Limited R breast US 12/22/2017  Comparison:  Prior examinations dated 10/11/2017, 10/11/2017, 10/04/2017 (MRI) and 01/23/2017 were reviewed for comparison.    Mammographic Findings:  There are scattered areas of fibroglandular density.  BB marker on the upper outer right breast indicating patient-palpated lump corresponds to two masses, both biopsy-proven IDC (ribbon clip and heart clip). The irregular mass containing the ribbon clip now measures approximately 14 mm, previously 11 mm, and the more posterior obscured mass containing the heart clip now measures approximately 15 mm, previously 9 mm.  BB marker on the lower central/slightly outer right breast indicates second patient-palpated lump, for which there is no mammographic correlate.  Ultrasound Findings:  There is no sonographic abnormality (no correlate) to patient-palpated lump in the lower central/slightly outer right breast, at approximately 7 o'clock, 4 cm from nipple.  Limited ultrasound of the right axilla demonstrates lymph nodes with normal cortical thickness and morphology.    IMPRESSION:   Right breast: Known biopsy proven malignancy (BI-RADS 6).    Recommendations:  1. Recommend continued surgical/oncologic management of two-site biopsy-proven right breast malignancy. Of note, right axillary lymph nodes appear sonographically normal at today's examination.    2. Recommend clinical follow up for patient-palpated lump in the lower central/slightly outer right breast, for which there is no mammographic nor sonographic correlate. If indicated, palpation-guided FNA could be pursued.    Bilateral MRI of Breasts 10/04/2017  Comparison:  Prior examinations dated 01/23/2017 (mammogram), 07/08/2016 and 11/10/2015 were reviewed for comparison.  MRI Findings:  This bilateral breast MRI exam demonstrates minimum background enhancement.  There are scattered areas of fibroglandular tissue.    RIGHT Breast:  There is a new 12 x 7 x 7 mm (ML x AP x CC) irregularly shaped mass with spiculated margins in the upper outer quadrant of the right breast. Signal intensity/time curve demonstrates rapid initial rise and washout enhancement kinetics.  This lesion is best seen on axial postcontrast image # 90 and sagittal reformation #341.  More posteriorly and laterally in the right breast, there is a second new 6 x 6 x 7 mm (ML x AP x CC) irregularly shaped mass with irregular margins. Signal intensity/time curve demonstrates rapid initial rise and washout enhancement kinetics.  This lesion is best seen on image # 90 and sagittal reformation #363.    LEFT Breast:  The previously described area of non-mass enhancement with linear distribution and clumped internal enhancement in the lower outer left breast is significantly less conspicuous than on MRI dated 07/08/2016, and can no longer be accurately measured. No new abnormal areas of enhancement or other MRI features of malignancy are identified.    IMPRESSION:   Right breast: Suspicious (BI-RADS 4).  Left breast: Benign (BI-RADS 2).    Recommendations:  1. Two new irregular masses demonstrating rapid enhancement with washout are noted in the upper outer quadrant of the right breast. Recommend diagnostic right breast mammogram with targeted ultrasound for further evaluation and biopsy planning, with possible stereotactic or ultrasound-guided biopsy to follow. If no correlate is identified by mammogram or ultrasound, then recommend MR-guided core biopsy.    2. Significant interval decrease in conspicuity of the previously described area of non-mass enhancement in the lower outer quadrant of the left breast, compatible with a benign etiology. Annual mammography in addition to MRI is recommended in patients undergoing high-risk screening.
+A58	SectionSkipType T403 radiology_report
+R27	BeginsOnOrAt Arg1:T394 Arg2:T397	
+R29	HappensAtOnDuring Arg1:T379 Arg2:T378	
+R30	HappensAtOnDuring Arg1:T363 Arg2:T362	
+R31	HappensAtOnDuring Arg1:T348 Arg2:T347	
+R32	HappensAtOnDuring Arg1:T165 Arg2:T390	
+R33	HappensAtOnDuring Arg1:T385 Arg2:T388	
+T396	Frequency 14060 14066	weekly
+R28	Temporal Arg1:T394 Arg2:T396	
+R34	TreatmentDesc Therapy:T394 Desc:T395	
+T402	MaritalStatus 6626 6632	Single
+T404	Tobacco 6761 6773	Never Smoker
+A56	NegationModalityVal T404 negated
+T405	Tobacco 6778 6807	Smokeless tobacco: Never Used
+A59	NegationModalityVal T405 negated
+T406	Alcohol 6812 6826	Alcohol use No
+A60	NegationModalityVal T406 negated
+T407	Drugs 6831 6843	Drug use: No
+A61	NegationModalityVal T407 negated
+T408	MaritalStatus 7003 7011	Divorced
+T409	LivingCondition 7015 7027	Living alone
+T410	SDoH 6950 6956	2 sons
+T411	Age 4 15	71 year old
+T412	ClinicalCondition 53 59	cancer
+A63	ChronicVal T412 non-chronic
+A64	ContinuityVal T412 new
+T413	Site 73 79	breast
+T414	Laterality 67 72	right
+R35	LateralityOfSite Arg1:T414 Arg2:T413	
+T415	Age 114 121	71 y.o.
+R36	ResultOfTest Desc:T356 Test:T348	
+R37	SiteOf Arg1:T361 Arg2:T359	
+T416	Radiology 482 492	Ultrasound
+A66	IntentVal T416 diagnosis
+T417	Site 475 481	Breast
+T418	Laterality 473 474	R
+R40	SiteOf Arg1:T417 Arg2:T416	
+R41	LateralityOfSite Arg1:T418 Arg2:T417	
+T419	Datetime 462 472	10/04/2017
+R42	HappensAtOnDuring Arg1:T419 Arg2:T416	
+T420	Site 497 528	10 o'clock 7 cm from the nipple
+T421	Size 531 549	0.7 x 0.9 x 0.9 cm
+T422	RadPathResult 550 554	mass
+A67	RadPathResultVal T422 InitialCancerDiagnosis
+R43	TestOrProcedureReveals Test:T416 Desc:T421	
+R44	NotUndergoneBecauseOf Arg1:T416 Reason:T422	
+R45	SiteOf Arg1:T420 Arg2:T422	
+T423	RadPathResult 558 562	mass
+A68	RadPathResultVal T423 InitialCancerDiagnosis
+T424	Site 579 611	10 o'clock 10 cm from the nipple
+T425	Size 622 638	1 x 0.5 x 0.6 cm
+A69	EpisodeDescription T425 FirstOccurrence
+R46	ResultOfTest Desc:T423 Test:T416	
+R47	SiteOf Arg1:T424 Arg2:T423	
+R48	TestOrProcedureReveals Test:T416 Desc:T425	
+T426	Site 824 855	10 o'clock 7 cm from the nipple
+T427	Size 856 861	0.9cm
+T428	Histology 865 868	IDC
+A70	HistoryVal T428 new
+A71	EpisodeDescription T428 FirstOccurrence
+T429	Grade 884 885	3
+A72	HistoryVal T429 new
+A73	EpisodeDescription T429 FirstOccurrence
+T430	BiomarkerName 886 888	ER
+A74	HistoryVal T430 new
+A75	EpisodeDescription T430 FirstOccurrence
+T431	BiomarkerResult 889 897	negative
+A76	EpisodeDescription T431 FirstOccurrence
+A77	BiomarkerResultVal T431 Negative
+R49	BiomarkerRel Arg1:T431 Arg2:T430	
+T432	BiomarkerName 898 900	PR
+A78	HistoryVal T432 new
+A79	EpisodeDescription T432 FirstOccurrence
+T433	BiomarkerResult 901 903	1%
+A80	EpisodeDescription T433 FirstOccurrence
+A81	BiomarkerResultVal T433 LowPositive
+R50	BiomarkerRel Arg1:T432 Arg2:T433	
+T434	BiomarkerName 904 908	Her2
+A82	HistoryVal T434 new
+A83	EpisodeDescription T434 FirstOccurrence
+T435	BiomarkerResult 909 910	0
+A84	EpisodeDescription T435 FirstOccurrence
+A85	BiomarkerResultVal T435 Negative
+R51	BiomarkerRel Arg1:T435 Arg2:T434	
+T436	Pathology 910 918	IHC/FISH
+A86	IntentVal T436 diagnosis
+R52	TestOrProcedureReveals Test:T436 Desc:T434	
+T437	BiomarkerResult 919 927	negative
+A87	EpisodeDescription T437 FirstOccurrence
+A88	BiomarkerResultVal T437 Negative
+R53	BiomarkerRel Arg1:T437 Arg2:T434	
+T438	Pathology 935 939	Ki67
+T439	RadPathResult 943 949	30-40%
+A89	NegationModalityVal T37 negated
+R54	TestOrProcedureReveals Test:T379 Desc:T37	
+T440	Symptom 1257 1262	fever
+A90	NegationModalityVal T440 negated
+A91	NegationModalityVal T39 negated
+A92	NegationModalityVal T40 negated
+A93	NegationModalityVal T41 negated
+A94	NegationModalityVal T42 negated
+A95	NegationModalityVal T43 negated
+A96	NegationModalityVal T44 affirmed
+A97	NegationModalityVal T45 negated
+A98	NegationModalityVal T46 negated
+A99	IsPresentOnFirstCancerDiagnosis T44 yes
+A100	IsCausedByDiagnosedCancer T44 no
+A101	ChronicVal T44 chronic
+T441	Symptom 1407 1417	congestion
+A102	NegationModalityVal T441 negated
+A103	NegationModalityVal T48 negated
+A104	NegationModalityVal T49 negated
+A105	NegationModalityVal T50 negated
+A106	NegationModalityVal T51 negated
+A107	NegationModalityVal T52 negated
+A108	NegationModalityVal T53 negated
+A109	NegationModalityVal T54 negated
+A110	NegationModalityVal T55 negated
+A111	NegationModalityVal T56 negated
+A112	NegationModalityVal T57 negated
+A113	NegationModalityVal T58 negated
+A114	NegationModalityVal T59 negated
+A115	NegationModalityVal T60 negated
+A116	NegationModalityVal T61 negated
+A117	NegationModalityVal T62 negated
+A118	NegationModalityVal T64 negated
+A119	NegationModalityVal T65 negated
+A120	NegationModalityVal T66 negated
+A121	NegationModalityVal T67 negated
+A122	NegationModalityVal T68 negated
+A123	NegationModalityVal T69 negated
+A124	NegationModalityVal T70 negated
+A125	NegationModalityVal T71 negated
+A126	NegationModalityVal T72 negated
+A127	NegationModalityVal T73 negated
+A128	NegationModalityVal T74 negated
+A129	NegationModalityVal T75 negated
+A130	NegationModalityVal T76 negated
+A131	NegationModalityVal T77 negated
+T442	Symptom 1953 1960;1963 1971	vaginal bleeding
+A132	NegationModalityVal T442 negated
+T443	Symptom 1975 1984	discharge
+A133	NegationModalityVal T443 negated
+A134	NegationModalityVal T80 negated
+A135	NegationModalityVal T81 negated
+A136	NegationModalityVal T82 negated
+A137	NegationModalityVal T83 negated
+A138	NegationModalityVal T85 negated
+A139	NegationModalityVal T86 negated
+T444	Site 2164 2170	Breast
+A140	NegationModalityVal T87 affirmed
+A141	ChronicVal T87 non-chronic
+A142	ContinuityVal T87 stable
+R55	SiteOf Arg1:T444 Arg2:T87	
+T445	Site 2211 2217	axilla
+R56	SiteOf Arg1:T445 Arg2:T87	
+A143	NegationModalityVal T88 negated
+A144	NegationModalityVal T89 negated
+A145	NegationModalityVal T90 negated
+A146	NegationModalityVal T91 negated
+A147	NegationModalityVal T92 negated
+A148	NegationModalityVal T93 negated
+A149	NegationModalityVal T94 negated
+A150	NegationModalityVal T95 negated
+A151	NegationModalityVal T96 negated
+A152	NegationModalityVal T97 negated
+A153	NegationModalityVal T98 negated
+A154	NegationModalityVal T99 negated
+A155	NegationModalityVal T100 negated
+A156	NegationModalityVal T101 negated
+A157	NegationModalityVal T102 negated
+A158	NegationModalityVal T103 affirmed
+A159	IsPresentOnFirstCancerDiagnosis T103 no
+A160	ChronicVal T103 non-chronic
+A161	ContinuityVal T103 stable
+A162	ChronicVal T157 chronic
+A163	ContinuityVal T157 stable
+T446	DiagnosticLabTest 5429 5435	CA-125
+T447	LabTestResult 5420 5428	Elevated
+A164	LabTestResultVal T447 abnormal
+R57	ResultOfTest Desc:T447 Test:T446	
+T448	ClinicalCondition 5441 5479	GERD (gastroesophageal reflux disease)
+A165	ChronicVal T448 chronic
+A166	ContinuityVal T448 stable
+T449	ClinicalCondition 5485 5498	Kidney stones
+A167	ChronicVal T449 chronic
+A168	ContinuityVal T449 stable
+T450	ClinicalCondition 5515 5534	papillary carcinoma
+A169	ChronicVal T450 chronic
+A170	ContinuityVal T450 stable
+T451	Metastasis 5504 5514	Metastatic
+A171	HistoryVal T451 history
+R58	TumorDesc TumorDetails:T450 Desc:T451	
+T452	Site 5538 5548	lymph node
+R59	SiteOf Arg1:T452 Arg2:T451	
+T453	Site 5568 5586	pelvic lymph nodes
+T454	Laterality 5563 5567	left
+R60	LateralityOfSite Arg1:T454 Arg2:T453	
+R61	SiteOf Arg1:T453 Arg2:T451	
+T455	ClinicalCondition 5591 5632	NSVD (normal spontaneous vaginal delivery
+A172	ChronicVal T455 non-chronic
+A173	ContinuityVal T455 stopped
+T456	TumorCharacteristics 5696 5722	platinum-sensitive disease
+T457	ClinicalCondition 5780 5786	Cancer
+A174	ExperiencerVal T457 family
+T458	Age 5794 5796	35
+T459	ClinicalCondition 5801 5814	breast cancer
+A176	ExperiencerVal T459 family
+T460	ClinicalCondition 5819 5831	Hypertension
+A177	ExperiencerVal T460 family
+T461	ClinicalCondition 5844 5850	Stroke
+A178	ExperiencerVal T461 family
+T462	Age 5858 5860	88
+T463	ClinicalCondition 5867 5875	Diabetes
+A180	ExperiencerVal T463 family
+T464	ClinicalCondition 5906 5918	liver cancer
+A181	ExperiencerVal T464 family
+T465	ClinicalCondition 5923 5931	Diabetes
+A182	ExperiencerVal T465 family
+T466	ClinicalCondition 5945 5957	Hypertension
+A183	ExperiencerVal T466 family
+T467	ClinicalCondition 5971 5979	Glaucoma
+A184	ExperiencerVal T467 family
+T468	ClinicalCondition 5993 6005	Hypertension
+A185	ExperiencerVal T468 family
+T469	ClinicalCondition 6018 6026	Diabetes
+A186	ExperiencerVal T469 family
+T470	ClinicalCondition 6039 6047	Glaucoma
+A187	ExperiencerVal T470 family
+T471	ClinicalCondition 6081 6094	Breast cancer
+A188	ExperiencerVal T471 family
+T472	Age 6074 6076	62
+T473	ClinicalCondition 6121 6130	Amblyopia
+A190	NegationModalityVal T473 negated
+A191	ExperiencerVal T473 family
+T474	ClinicalCondition 6143 6152	Blindness
+A192	NegationModalityVal T474 negated
+A193	ExperiencerVal T474 family
+T475	ClinicalCondition 6165 6174	Cataracts
+A194	NegationModalityVal T475 negated
+A195	ExperiencerVal T475 family
+T476	ClinicalCondition 6187 6198	Keratoconus
+A196	NegationModalityVal T476 negated
+A197	ExperiencerVal T476 family
+T477	ClinicalCondition 6211 6224	Macular degen
+A198	NegationModalityVal T477 negated
+A199	ExperiencerVal T477 family
+T478	ClinicalCondition 6237 6255	Retinal detachment
+A200	NegationModalityVal T478 negated
+A201	ExperiencerVal T478 family
+T479	ClinicalCondition 6268 6278	Strabismus
+A202	NegationModalityVal T479 negated
+A203	ExperiencerVal T479 family
+T480	ClinicalCondition 6291 6306	Anesth problems
+A204	NegationModalityVal T480 negated
+A205	ExperiencerVal T480 family
+A206	NegationModalityVal T191 negated
+A207	ExperiencerVal T191 family
+A208	NegationModalityVal T192 negated
+A209	ExperiencerVal T192 family
+A210	NegationModalityVal T193 negated
+A211	ExperiencerVal T193 family
+A212	NegationModalityVal T194 negated
+A213	ExperiencerVal T194 family
+A214	NegationModalityVal T195 negated
+A215	ExperiencerVal T195 family
+A216	NegationModalityVal T196 negated
+A217	ExperiencerVal T196 family
+A218	NegationModalityVal T197 negated
+A219	ExperiencerVal T197 family
+A220	NegationModalityVal T198 negated
+A221	ExperiencerVal T198 family
+A222	NegationModalityVal T199 negated
+A223	ExperiencerVal T199 family
+T481	Age 6957 6959	51
+T482	Age 6961 6963	46
+T483	Age 13702 13708	71 y.o
+T484	ClinicalCondition 13724 13737	breast cancer
+A227	ChronicVal T484 non-chronic
+A228	ContinuityVal T484 worsening
+A229	ExperiencerVal T484 patient
+T485	Laterality 13722 13723	R
+A230	ChronicVal T329 non-chronic
+A231	ContinuityVal T329 worsening
+T486	Radiology 13813 13818	PETCT
+A232	IntentVal T486 TreatmentAssessment
+T487	RadPathResult 13832 13838	growth
+A233	RadPathResultVal T487 Progression
+R62	ResultOfTest Desc:T487 Test:T486	
+T488	Size 13863 13888	1.2 x 0.7 to 2.7 x 1.7 cm
+A234	ExperiencerVal T488 patient
+A235	HistoryVal T488 new
+A236	EpisodeDescription T488 Progression
+R63	TestOrProcedureReveals Test:T486 Desc:T488	
+T489	Site 13844 13850	breast
+T490	Laterality 13842 13843	R
+R64	LateralityOfSite Arg1:T490 Arg2:T489	
+T491	TumorCharacteristics 13851 13857	lesion
+R65	SiteOf Arg1:T489 Arg2:T491	
+R66	TestOrProcedureReveals Test:T486 Desc:T491	
+R67	SiteOf Arg1:T413 Arg2:T412	
+R13	SiteOf Arg1:T361 Arg2:T360	
+T492	TreatmentType 14078 14083	chemo
+R38	BeginsOnOrAt Arg1:T492 Arg2:T397	
+R68	ResultOfTest Desc:T439 Test:T438	
+R69	TestOrProcedureReveals Test:T400 Desc:T429	
+R70	TestOrProcedureReveals Test:T400 Desc:T430	
+R71	TestOrProcedureReveals Test:T400 Desc:T432	
+R72	TestOrProcedureReveals Test:T400 Desc:T434	
+R73	TestOrProcedureReveals Test:T400 Desc:T427	
+R74	TestOrProcedureReveals Test:T363 Desc:T369	
+R75	TestOrProcedureReveals Test:T363 Desc:T371	
+R76	BiomarkerRel Arg1:T371 Arg2:T372	
+R77	TestOrProcedureReveals Test:T373 Desc:T371	
+R78	TestOrProcedureReveals Test:T363 Desc:T375	
+R79	SiteOf Arg1:T426 Arg2:T400	
+R80	TestOrProcedureReveals Test:T379 Desc:T383	
+A49	RadPathResultVal T380 Progression
+T493	Site 1076 1086	Whole Body
+R81	SiteOf Arg1:T493 Arg2:T379	
+A237	IntentVal T438 diagnosis
+A238	RadPathResultVal T439 Others
+R14	ResultOfTest Desc:T360 Test:T348	
+R39	TestOrProcedureReveals Test:T348 Desc:T359	
+A239	DiseaseStateVal T391 progression-recurrence
+A240	DiseaseStateVal T36 progression-recurrence
+R82	SizeOf Arg1:T351 Arg2:T352	
+R83	SizeOf Arg1:T358 Arg2:T356	
+R84	SizeOf Arg1:T359 Arg2:T360	
+R85	SizeOf Arg1:T421 Arg2:T422	
+R86	SizeOf Arg1:T425 Arg2:T423	
+R87	SizeOf Arg1:T365 Arg2:T375	
+R88	SizeOf Arg1:T427 Arg2:T428	
+R89	SizeOf Arg1:T383 Arg2:T380	
+R90	SizeOf Arg1:T488 Arg2:T491	
+T494	PatientCharacteristics 6973 6987	2 miscarriages
+T495	PatientCharacteristics 6989 6999	2 abortion
+T496	hpi_start 0 2	ID
+T497	hpi_end 1212 1219	disease
+T498	ap_start 13660 13670	ASSESSMENT
+T499	ap_end 14200 14203	12.
+A241	NegationModalityVal T492 hypothetical_in_future
+T500	Cycles 14184 14185	1
+T501	Cycles 14187 14188	2
+T502	Cycles 14190 14191	5
+T503	Cycles 14193 14194	8
+T504	Cycles 14200 14202	12

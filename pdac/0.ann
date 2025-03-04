@@ -1,0 +1,461 @@
+T1	SectionAnnotate 0 11	SUBJECTIVE:
+T2	SectionSkip 1923 1957	CURRENT MEDICATIONS:  See 
+ intake
+T3	SectionSkip 1961 1971	ALLERGIES:
+T4	SectionAnnotate 2032 2047	FAMILY HISTORY:
+T5	SectionAnnotate 2271 2286	SOCIAL HISTORY:
+T6	SectionSkip 2969 4392	LABORATORY RESULTS:  Results for orders placed or performed during the hospital encounter of 05/28/16   Complete Blood Count with 5-part Differential   Result Value Ref Range    WBC Count 6.7 3.4 - 10 x10E9/L    RBC Count 3.89 (L) 4.4 - 5.9 x10E12/L    Hemoglobin 11.1 (L) 13.6 - 17.5 g/dL    Hematocrit 33.5 (L) 41 - 53 %    MCV 86 80 - 100 fL    MCH 28.5 26 - 34 pg    MCHC 33.1 31 - 36 g/dL    Platelet Count 203 140 - 450 x10E9/L    Neutrophil Absolute Count 4.06 1.8 - 6.8 x10E9/L    Lymphocyte Abs Cnt 1.49 1.0 - 3.4 x10E9/L    Monocyte Abs Count 0.84 (H) 0.2 - 0.8 x10E9/L    Eosinophil Abs Ct 0.23 0.0 - 0.4 x10E9/L    Basophil Abs Count 0.02 0.0 - 0.1 x10E9/L    Imm Gran, Left Shift 0.02 <0.1 x10E9/L   Urea Nitrogen, Serum / Plasma   Result Value Ref Range    Urea Nitrogen, Serum / Plasma 13 6 - 22 mg/dL   Creatinine, Serum / Plasma   Result Value Ref Range    Creatinine 1.06 0.61 - 1.24 mg/dL    eGFR if non-African 
+ American 83 >60 mL/min    eGFR if African Amer 96 >60 mL/min   Aspartate Transaminase   Result Value Ref Range    Aspartate transaminase 20 17 - 42 U/L   Alanine Transaminase   Result Value Ref Range    Alanine transaminase 25 12 - 60 U/L   Bilirubin, Total   Result Value Ref Range    Bilirubin, Total 0.9 0.2 - 1.3 mg/dL   Alkaline Phosphatase   Result Value Ref Range    Alkaline Phosphatase 60 31 - 95 U/L   Cancer Antigen 19-9   Result Value Ref Range    Cancer Antigen 19-9 3 <36 U/mL
+T7	SectionSkip 4399 4535	IMAGING:  Ct Abdomen /pelvis With Contrast    Result Date: 06/10/2016  CT ABDOMEN/PELVIS WITH CONTRAST  *****/*****/***** *****:***** PM
+T8	SectionSkip 6036 7562	FINDINGS: Visualized lung bases:  For chest findings, please see the separately dictated report from the CT of the chest of the same date. Bones:  No suspicious lesions Liver:  6 mm hypervascular lesion in hepatic segment 8 which may reflect flash filling hemangioma or portosystemic shunt, unchanged from prior No significant intrahepatic biliary duct dilatation. Gallbladder:  Unremarkable Spleen:  Unremarkable Pancreas:  Redemonstration of ill-defined hypoattenuating mass centered in the pancreatic head, extending to the pancreatic tail, and involving the portosplenic confluence and superior mesenteric vein. Although difficult to measure this appears minimally increased in size and appears prior. Minimally decreased pancreatic duct dilatation to 7 mm in the pancreatic tail. The stent has been changed in courses from the common hepatic duct into the duodenum persistent pneumobilia suggests patency. Adrenal Glands:  Unremarkable Kidneys:  Unremarkable GI Tract:  No bowel obstruction. Pancreatic mass continues to abut the duodenum, unchanged from prior. Vasculature: No significant change in vascular involvement. Lymphadenopathy: Small mesenteric and retroperitoneal nodes, none of which are enlarged by size criteria. Ascites: Absent Bladder: Unremarkable Reproductive organs: Unremarkable Extraperitoneal soft tissues: Unremarkable     1.  Stable to minimally increased size of pancreatic mass compatible with known pancreatic adenocarcinoma. 2.  No evidence of metastatic disease in the abdomen/pelvis. END OF
+T9	SectionAnnotate 7563 7574	IMPRESSION:
+T10	SectionSkip 8948 9930	FINDINGS: LUNGS: Few new small nodules in the left lower lobe measuring up to 3 mm (series 2, images 121, 138, 166, 170) and a 7 mm new nodule in the lingula. Previously noted tiny nodule in the peripheral right upper lobe (prior study series 2, image 90) is not visualized on this exam. Right middle lobe nodule is unchanged (series 2, image 129). PLEURA: No pleural effusion. MEDIASTINUM: 8 mm lymph node adjacent to the inferior vena cava (previously 7 mm; series 2, image 179). No lymphadenopathy by size criteria. HEART/GREAT VESSELS: Normal heart size. No pericardial effusion. BONES/SOFT TISSUES: No suspicious lesions. VISIBLE ABDOMEN: Please see dedicated Abdomen and Pelvis CT report.     1.  5 new nodules measuring up to 7 mm in the lingula and left lower lobe. These are indeterminate 
+ but are suspicious for metastases in the setting of known pancreatic adenocarcinoma. Attention on follow-up. 2.  No other definite evidence of metastatic disease in the chest. END OF
+T11	SectionAnnotate 9949 9960	ASSESSMENT:
+T12	PROBLEM 98 145	locally advanced adenocarcinoma of the pancreas
+T13	PROBLEM 183 209	vague abdominal discomfort
+T14	PROBLEM 218 238	some gross hematuria
+T15	TEST 283 292	a CT scan
+T16	PROBLEM 317 334	a pancreatic mass
+T17	PROBLEM 336 349	His hematuria
+T18	PROBLEM 378 393	renal lithiasis
+T19	PROBLEM 442 461	biliary obstruction
+T20	TEST 476 483	an ERCP
+T21	TEST 489 495	an EUS
+T22	TREATMENT 520 535	A plastic stent
+T23	TEST 548 570	Fine-needle aspiration
+T24	PROBLEM 574 582	the mass
+T25	PROBLEM 592 606	adenocarcinoma
+T26	PROBLEM 674 687	a lot of pain
+T27	TREATMENT 709 720	gemcitabine
+T28	TREATMENT 725 733	Abraxane
+T29	TREATMENT 750 763	6 full cycles
+T30	TEST 789 800	his CT scan
+T31	PROBLEM 811 822	progression
+T32	PROBLEM 902 920	pseudo-progression
+T33	TREATMENT 925 948	His 5th cycle treatment
+T34	PROBLEM 976 1002	biliary ductal obstruction
+T35	TREATMENT 1011 1026	a plastic stent
+T36	TREATMENT 1045 1069	an uncovered metal stent
+T37	PROBLEM 1101 1117	pus and material
+T38	TREATMENT 1146 1160	that procedure
+T39	TREATMENT 1182 1184	IV
+T40	TREATMENT 1189 1205	oral antibiotics
+T41	TREATMENT 1213 1226	the procedure
+T42	PROBLEM 1239 1272	intermittent abdominal discomfort
+T43	TREATMENT 1302 1311	oxycodone
+T44	PROBLEM 1402 1441	some numbness and tingling in his hands
+T45	PROBLEM 1614 1625	his disease
+T46	ClinicalCondition 1775 1787	Hypertension
+T47	TREATMENT 1809 1848	his antihypertensive    PRIOR SURGERIES
+T48	TREATMENT 1851 1859	Drainage
+T49	PROBLEM 1863 1883	a perirectal abscess
+T50	TREATMENT 1985 2003	Allergen Reactions
+T51	TREATMENT 2008 2019	Penicillins
+T52	PROBLEM 2061 2067	cancer
+T53	PROBLEM 2150 2167	colorectal cancer
+T54	PROBLEM 2221 2238	colorectal cancer
+T55	TEST 2740 2746	Vitals
+T56	TEST 2748 2750	BP
+T57	TEST 2760 2765	Pulse
+T58	TEST 2771 2775	Temp
+T59	TEST 2781 2782	C
+T60	TEST 2802 2806	Resp
+T61	TEST 2812 2814	Ht
+T62	TEST 2858 2860	Wt
+T63	TEST 2880 2884	SpO2
+T64	TEST 2892 2895	BMI
+T65	PROBLEM 2956 2963	icterus
+T66	TEST 3073 3093	Complete Blood Count
+T67	TEST 3128 3133	Value
+T68	TEST 3138 3143	Range
+T69	TEST 3147 3150	WBC
+T70	TEST 3151 3156	Count
+T71	TEST 3170 3175	x10E9
+T72	TEST 3181 3190	RBC Count
+T73	TEST 3197 3198	L
+T74	TEST 3222 3232	Hemoglobin
+T75	TEST 3254 3258	g/dL
+T76	TEST 3262 3272	Hematocrit
+T77	TEST 3295 3298	MCV
+T78	TEST 3317 3320	MCH
+T79	TEST 3334 3336	pg
+T80	TEST 3340 3344	MCHC
+T81	TEST 3358 3362	g/dL
+T82	TEST 3366 3380	Platelet Count
+T83	TEST 3395 3400	x10E9
+T84	TEST 3406 3416	Neutrophil
+T85	TEST 3417 3425	Absolute
+T86	TEST 3426 3431	Count
+T87	TEST 3447 3452	x10E9
+T88	TEST 3458 3472	Lymphocyte Abs
+T89	TEST 3473 3476	Cnt
+T90	TEST 3492 3497	x10E9
+T91	TEST 3503 3515	Monocyte Abs
+T92	TEST 3516 3521	Count
+T93	TEST 3528 3529	H
+T94	TEST 3541 3546	x10E9
+T95	TEST 3552 3566	Eosinophil Abs
+T96	TEST 3567 3569	Ct
+T97	TEST 3585 3590	x10E9
+T98	TEST 3596 3608	Basophil Abs
+T99	TEST 3609 3614	Count
+T100	TEST 3645 3649	Gran
+T101	TEST 3651 3661	Left Shift
+T102	TEST 3682 3695	Urea Nitrogen
+T103	TEST 3697 3702	Serum
+T104	TEST 3705 3720	Plasma   Result
+T105	TEST 3721 3726	Value
+T106	TEST 3727 3730	Ref
+T107	TEST 3731 3736	Range
+T108	TEST 3740 3744	Urea
+T109	TEST 3745 3753	Nitrogen
+T110	TEST 3755 3760	Serum
+T111	TEST 3763 3769	Plasma
+T112	TEST 3788 3798	Creatinine
+T113	TEST 3800 3805	Serum
+T114	TEST 3824 3829	Value
+T115	TEST 3830 3833	Ref
+T116	TEST 3834 3839	Range
+T117	TEST 3843 3853	Creatinine
+T118	TEST 3880 3884	eGFR
+T119	TEST 3888 3910	non-African 
+ American
+T120	TEST 3928 3932	eGFR
+T121	TEST 3936 3943	African
+T122	TEST 3944 3948	Amer
+T123	TEST 3965 3987	Aspartate Transaminase
+T124	TEST 3997 4002	Value
+T125	TEST 4016 4025	Aspartate
+T126	TEST 4026 4038	transaminase
+T127	TEST 4050 4053	U/L
+T128	TEST 4056 4076	Alanine Transaminase
+T129	TEST 4086 4091	Value
+T130	TEST 4105 4125	Alanine transaminase
+T131	TEST 4137 4152	U/L   Bilirubin
+T132	TEST 4188 4197	Bilirubin
+T133	TEST 4199 4204	Total
+T134	TEST 4227 4247	Alkaline Phosphatase
+T135	TEST 4257 4262	Value
+T136	TEST 4276 4296	Alkaline Phosphatase
+T137	TEST 4308 4328	U/L   Cancer Antigen
+T138	TEST 4336 4348	Result Value
+T139	TEST 4362 4368	Cancer
+T140	TEST 4369 4376	Antigen
+T141	TEST 4388 4406	U/mL       IMAGING
+T142	TEST 4409 4441	Ct Abdomen /pelvis With Contrast
+T143	TEST 4470 4472	CT
+T144	TEST 4473 4501	ABDOMEN/PELVIS WITH CONTRAST
+T145	PROBLEM 4576 4593	pancreatic cancer
+T146	TEST 4618 4635	CT abdomen pelvis
+T147	TEST 4648 4650	CT
+T148	TEST 4744 4757	this CT study
+T149	TREATMENT 4781 4815	DLP (mGy-cm) radiation dose values
+T150	TEST 4886 4893	CTDIvol
+T151	TEST 4902 4905	DLP
+T152	TEST 4963 4970	CTDIvol
+T153	TEST 4979 4982	DLP
+T154	TEST 5093 5095	CT
+T155	TEST 5100 5141	the volume Computed Tomography Dose Index
+T156	TEST 5311 5345	the CT scanner acquisition factors
+T157	TREATMENT 5529 5543	radiation dose
+T158	TEST 5608 5626	Biomedical Imaging
+T159	TEST 5672 5695	Computed Tomography (CT
+T160	TEST 5820 5865	contiguous 1.25-mm collimation axial 
+ images
+T161	TEST 5958 5983	oral and rectal  contrast
+T162	TEST 5985 6015	Coronal and sagittal reformats
+T163	TEST 6074 6088	chest findings
+T164	TEST 6137 6156	the CT of the chest
+T165	PROBLEM 6186 6204	suspicious lesions
+T166	PROBLEM 6213 6259	6 mm hypervascular lesion in hepatic segment 8
+T167	PROBLEM 6278 6302	flash filling hemangioma
+T168	TREATMENT 6306 6325	portosystemic shunt
+T169	PROBLEM 6351 6399	significant intrahepatic biliary duct dilatation
+T170	PROBLEM 6480 6512	ill-defined hypoattenuating mass
+T171	PROBLEM 6695 6722	minimally increased in size
+T172	PROBLEM 6742 6788	Minimally decreased pancreatic duct dilatation
+T173	TREATMENT 6821 6830	The stent
+T174	PROBLEM 6906 6928	persistent pneumobilia
+T175	PROBLEM 7014 7031	bowel obstruction
+T176	PROBLEM 7033 7048	Pancreatic mass
+T177	PROBLEM 7119 7161	significant change in vascular involvement
+T178	PROBLEM 7163 7178	Lymphadenopathy
+T179	PROBLEM 7180 7222	Small mesenteric and retroperitoneal nodes
+T180	PROBLEM 7269 7276	Ascites
+T181	PROBLEM 7402 7445	minimally increased size of pancreatic mass
+T182	PROBLEM 7462 7493	known pancreatic adenocarcinoma
+T183	PROBLEM 7514 7554	metastatic disease in the abdomen/pelvis
+T184	TEST 7579 7587	Ct Chest
+T185	TEST 7630 7632	CT
+T186	PROBLEM 7672 7688	Panceatic cancer
+T187	TEST 7735 7780	Serial 1.25 mm axial images through the chest
+T188	TREATMENT 7825 7845	intravenous contrast
+T189	TEST 7940 7953	this CT study
+T190	TREATMENT 7977 8011	DLP (mGy-cm) radiation dose values
+T191	TEST 8082 8089	CTDIvol
+T192	TEST 8098 8101	DLP
+T193	TEST 8159 8166	CTDIvol
+T194	TEST 8175 8178	DLP
+T195	TEST 8289 8291	CT
+T196	TEST 8296 8337	the volume Computed Tomography Dose Index
+T197	TEST 8507 8541	the CT scanner acquisition factors
+T198	TREATMENT 8725 8739	radiation dose
+T199	TEST 8804 8822	Biomedical Imaging
+T200	TEST 8868 8891	Computed Tomography (CT
+T201	PROBLEM 8965 9009	Few new small nodules in the left lower lobe
+T202	TEST 9042 9048	images
+T203	PROBLEM 9073 9105	a 7 mm new nodule in the lingula
+T204	PROBLEM 9124 9170	tiny nodule in the peripheral right upper lobe
+T205	TEST 9172 9183	prior study
+T206	TEST 9225 9234	this exam
+T207	PROBLEM 9236 9260	Right middle lobe nodule
+T208	PROBLEM 9308 9324	pleural effusion
+T209	PROBLEM 9339 9354	8 mm lymph node
+T210	PROBLEM 9433 9448	lymphadenopathy
+T211	PROBLEM 9510 9530	pericardial effusion
+T212	PROBLEM 9555 9573	suspicious lesions
+T213	TEST 9603 9634	dedicated Abdomen and Pelvis CT
+T214	PROBLEM 9651 9664	5 new nodules
+T215	PROBLEM 9771 9781	metastases
+T216	PROBLEM 9800 9831	known pancreatic adenocarcinoma
+T217	PROBLEM 9891 9922	metastatic disease in the chest
+T218	PROBLEM 9965 10012	Locally advanced adenocarcinoma of the pancreas
+T219	PROBLEM 10028 10042	progression  2
+T220	ClinicalCondition 10044 10056	Hypertension
+T221	PROBLEM 10070 10092	cancer family syndrome
+T222	PROBLEM 10117 10137	The new lung nodules
+T223	TREATMENT 10226 10246	a chemotherapy break
+T224	TREATMENT 10323 10335	this regimen
+T225	PROBLEM 10356 10375	disease involvement
+T226	Symptom 10392 10400	symptoms
+T227	TEST 10441 10453	surveillance
+T228	TREATMENT 10627 10637	management
+T229	Age 39 41	47
+T230	Histology 115 129	adenocarcinoma
+T231	LocalInvasion 98 114	locally advanced
+T232	Site 137 145	pancreas
+R1	SiteOf Arg1:T232 Arg2:T230	
+T233	ClinicalCondition 115 145	adenocarcinoma of the pancreas
+A1	ChronicVal T233 chronic
+T234	Symptom 189 209	abdominal discomfort
+A2	IsPresentOnFirstCancerDiagnosis T234 yes
+A3	IsCausedByDiagnosedCancer T234 yes
+A4	ChronicVal T234 non-chronic
+A5	ContinuityVal T234 new
+T235	Symptom 223 238	gross hematuria
+A6	IsPresentOnFirstCancerDiagnosis T235 yes
+A7	IsCausedByDiagnosedCancer T235 no
+A8	ChronicVal T235 non-chronic
+A9	ContinuityVal T235 new
+T236	Datetime 242 251	September
+R2	HappensAtOnDuring Arg1:T236 Arg2:T235	
+R3	HappensAtOnDuring Arg1:T236 Arg2:T234	
+T237	Radiology 285 292	CT scan
+A10	IntentVal T237 diagnosis
+T238	RadPathResult 330 334	mass
+A11	RadPathResultVal T238 InitialCancerDiagnosis
+T239	Site 319 329	pancreatic
+R4	SiteOf Arg1:T239 Arg2:T238	
+R5	ResultOfTest Desc:T238 Test:T237	
+T240	Symptom 340 349	hematuria
+A12	IsPresentOnFirstCancerDiagnosis T240 yes
+A13	IsCausedByDiagnosedCancer T240 no
+A14	ChronicVal T240 non-chronic
+A15	ContinuityVal T240 new
+T241	ClinicalCondition 378 393	renal lithiasis
+A16	ChronicVal T241 non-chronic
+A17	ContinuityVal T241 stopped
+R6	ConditionOrTreatmentCausesProblem Treatment:T241 Prob:T240	
+T242	ClinicalCondition 442 461	biliary obstruction
+A18	ChronicVal T242 non-chronic
+A19	ContinuityVal T242 new
+T243	Radiology 479 483	ERCP
+A20	IntentVal T243 diagnosis
+T244	Radiology 492 495	EUS
+A21	IntentVal T244 diagnosis
+T245	Datetime 508 518	October 24
+R7	HappensAtOnDuring Arg1:T245 Arg2:T244	
+R8	HappensAtOnDuring Arg1:T245 Arg2:T243	
+R9	HappensBefore Arg1:T242 Arg2:T245	
+T246	ProcedureName 522 535	plastic stent
+A22	IntentVal T246 others
+R10	HappensAtOnDuring Arg1:T245 Arg2:T246	
+T247	ProcedureName 548 570	Fine-needle aspiration
+A23	IntentVal T247 diagnosis
+T248	RadPathResult 578 582	mass
+A24	RadPathResultVal T248 InitialCancerDiagnosis
+R11	ResultOfTest Desc:T248 Test:T244	
+T249	RadPathResult 592 606	adenocarcinoma
+A25	RadPathResultVal T249 InitialCancerDiagnosis
+R12	ResultOfTest Desc:T249 Test:T247	
+T250	Symptom 644 658	lost 43 pounds
+A26	IsPresentOnFirstCancerDiagnosis T250 yes
+A27	ChronicVal T250 non-chronic
+A28	ContinuityVal T250 unclear
+T251	Symptom 683 687	pain
+A29	IsPresentOnFirstCancerDiagnosis T251 yes
+A30	ChronicVal T251 non-chronic
+A31	ContinuityVal T251 unclear
+T252	MedicationRegimen 709 733	gemcitabine and Abraxane
+A32	IsPresentOnFirstCancerDiagnosis T252 yes
+A33	ChronicVal T252 non-chronic
+A34	ContinuityVal T252 unclear
+A35	TreatmentContinuityVal T252 started
+A36	TreatmentTypeVal T252 maintenance
+A37	TreatmentIntentVal T252 unclear
+T253	Cycles 750 751	6
+R13	TreatmentDesc Therapy:T253 Desc:T252	
+T254	Cycles 779 780	2
+R14	TreatmentDesc Therapy:T254 Desc:T252	
+T255	Radiology 793 800	CT scan
+A38	IntentVal T255 TreatmentAssessment
+T256	DiseaseState 811 822	progression
+A39	NegationModalityVal T256 uncertain_in_present
+R15	TestOrProcedureReveals Test:T255 Desc:T256	
+T257	DiseaseState 902 920	pseudo-progression
+A40	NegationModalityVal T257 uncertain_in_present
+T258	Cycles 929 932	5th
+T259	ClinicalCondition 976 1002	biliary ductal obstruction
+A41	ChronicVal T259 non-chronic
+A42	ContinuityVal T259 new
+T260	ProcedureName 1013 1039;1048 1069	plastic stent was replaced uncovered metal stent
+A43	IntentVal T260 others
+A44	TreatmentTypeVal T260 others
+A45	TreatmentCategory T260 Others
+R16	TestOrProcedureConductedForProblem Test:T260 Prob:T259	
+T261	Symptom 1101 1117	pus and material
+A46	IsPresentOnFirstCancerDiagnosis T261 no
+A47	IsCausedByDiagnosedCancer T261 no
+A48	ChronicVal T261 non-chronic
+A49	ContinuityVal T261 stopped
+R17	ConditionOrTreatmentCausesProblem Treatment:T260 Prob:T261	
+T262	TreatmentType 1182 1205	IV and oral antibiotics
+A50	TreatmentTypeVal T262 others
+A51	TreatmentIntentVal T262 others
+R18	TreatmentAdministeredForProblem Treatment:T262 Prob:T261	
+T265	Symptom 1252 1272	abdominal discomfort
+A58	IsPresentOnFirstCancerDiagnosis T265 no
+A59	IsCausedByDiagnosedCancer T265 no
+A60	ContinuityVal T265 new
+T266	MedicationName 1302 1311	oxycodone
+A61	TreatmentContinuityVal T266 continuing
+A62	TreatmentTypeVal T266 others
+A63	TreatmentIntentVal T266 others
+A64	TreatmentCategory T266 Supportive
+R20	TreatmentAdministeredForProblem Treatment:T266 Prob:T265	
+T267	Symptom 1335 1343	appetite
+A65	IsPresentOnFirstCancerDiagnosis T267 yes
+A66	IsCausedByDiagnosedCancer T267 yes
+A67	ChronicVal T267 non-chronic
+A68	ContinuityVal T267 improving
+T268	Symptom 1363 1378	gained kilogram
+A69	ContinuityVal T268 improving
+T269	Symptom 1407 1441	numbness and tingling in his hands
+A70	IsPresentOnFirstCancerDiagnosis T269 no
+A71	IsCausedByDiagnosedCancer T269 no
+A72	ChronicVal T269 non-chronic
+A73	ContinuityVal T269 new
+R21	ConditionOrTreatmentCausesProblem Treatment:T252 Prob:T269	
+T270	Symptom 1499 1522	regular bowel movements
+A74	NegationModalityVal T270 negated
+T271	Symptom 1591 1608	difficulty coping
+A75	IsPresentOnFirstCancerDiagnosis T271 no
+A76	IsCausedByDiagnosedCancer T271 yes
+A77	ChronicVal T271 non-chronic
+A78	ContinuityVal T271 new
+T272	SDoH 1640 1666	social and economic issues
+A79	IsStoppedOrContinuing T272 continuing
+T273	Datetime 1715 1723	April 27
+T274	SDoH 1702 1711	baby girl
+A80	ChronicVal T46 chronic
+A81	ContinuityVal T46 stable
+T275	TreatmentType 1813 1829	antihypertensive
+A82	TreatmentContinuityVal T275 discontinued_early
+A83	TreatmentTypeVal T275 others
+A84	TreatmentIntentVal T275 others
+R22	TreatmentAdministeredForProblem Treatment:T275 Prob:T46	
+T276	ProcedureName 1851 1859	Drainage
+A85	IntentVal T276 others
+A86	TreatmentTypeVal T276 others
+A87	TreatmentCategory T276 Others
+T277	ClinicalCondition 1876 1883	abscess
+A88	ChronicVal T277 non-chronic
+A89	ContinuityVal T277 stopped
+T278	Site 1865 1875	perirectal
+R23	SiteOf Arg1:T278 Arg2:T277	
+R24	TestOrProcedureConductedForProblem Test:T276 Prob:T277	
+T279	Age 1889 1891	17
+T280	SectionSkip 1923 1948;1951 1957	CURRENT MEDICATIONS:  See intake
+A90	SectionSkipType T280 medications
+T281	SectionSkip 1961 2025	ALLERGIES:  Allergies   Allergen Reactions    Penicillins Hives
+A91	SectionSkipType T281 allergies
+T282	ClinicalCondition 2061 2067	cancer
+A92	NegationModalityVal T282 negated
+A93	ExperiencerVal T282 family
+T283	PatientCharacteristics 2109 2119	2 siblings
+T284	ClinicalCondition 2150 2167	colorectal cancer
+A94	ChronicVal T284 chronic
+A95	ExperiencerVal T284 family
+T285	Age 2185 2187	55
+T286	ClinicalCondition 2221 2238	colorectal cancer
+A96	ExperiencerVal T286 family
+T287	SectionSkip 2723 2963	PE:    Vitals:   Vitals: BP 131/90 | Pulse 64 | Temp 36.9 C (98.5 F) (Oral)  | Resp 20 | Ht 182 cm (5' 11.65") Comment: October 2015 | Wt 94.3 kg (208 lb) | SpO2 100% | BMI 28.48 kg/m2   In general, he appears comfortable.  HEENT no icterus
+A97	SectionSkipType T287 physical_exam
+T288	SectionSkip 2969 3899;3902 4387	LABORATORY RESULTS:  Results for orders placed or performed during the hospital encounter of 05/28/16   Complete Blood Count with 5-part Differential   Result Value Ref Range    WBC Count 6.7 3.4 - 10 x10E9/L    RBC Count 3.89 (L) 4.4 - 5.9 x10E12/L    Hemoglobin 11.1 (L) 13.6 - 17.5 g/dL    Hematocrit 33.5 (L) 41 - 53 %    MCV 86 80 - 100 fL    MCH 28.5 26 - 34 pg    MCHC 33.1 31 - 36 g/dL    Platelet Count 203 140 - 450 x10E9/L    Neutrophil Absolute Count 4.06 1.8 - 6.8 x10E9/L    Lymphocyte Abs Cnt 1.49 1.0 - 3.4 x10E9/L    Monocyte Abs Count 0.84 (H) 0.2 - 0.8 x10E9/L    Eosinophil Abs Ct 0.23 0.0 - 0.4 x10E9/L    Basophil Abs Count 0.02 0.0 - 0.1 x10E9/L    Imm Gran, Left Shift 0.02 <0.1 x10E9/L   Urea Nitrogen, Serum / Plasma   Result Value Ref Range    Urea Nitrogen, Serum / Plasma 13 6 - 22 mg/dL   Creatinine, Serum / Plasma   Result Value Ref Range    Creatinine 1.06 0.61 - 1.24 mg/dL    eGFR if non-African American 83 >60 mL/min    eGFR if African Amer 96 >60 mL/min   Aspartate Transaminase   Result Value Ref Range    Aspartate transaminase 20 17 - 42 U/L   Alanine Transaminase   Result Value Ref Range    Alanine transaminase 25 12 - 60 U/L   Bilirubin, Total   Result Value Ref Range    Bilirubin, Total 0.9 0.2 - 1.3 mg/dL   Alkaline Phosphatase   Result Value Ref Range    Alkaline Phosphatase 60 31 - 95 U/L   Cancer Antigen 19-9   Result Value Ref Range    Cancer Antigen 19-9 3 <36
+A98	SectionSkipType T288 laboratory
+T289	SectionSkip 4388 5856;5859 7804;7807 9745;9748 9942	U/mL       IMAGING:  Ct Abdomen /pelvis With Contrast    Result Date: 06/10/2016  CT ABDOMEN/PELVIS WITH CONTRAST  *****/*****/***** *****:***** PM CLINICAL HISTORY: 48-year-old male with pancreatic cancer COMPARISON:  01/28/2016 CT abdomen pelvis, 03/18/2016 CT RADIATION DOSE INDICATORS: ***** ***** received 2 exposure event(s) (excluding scout) during this CT study. The CTDIvol (mGy) and DLP (mGy-cm) radiation dose values for each event are: Event: 1;  anatomic area: Chest;  phantom: body;  CTDIvol: 14.2;  DLP: 533.3 Event: 2;  anatomic area: Chest;  phantom: body;  CTDIvol: 18.8;  DLP: 888.6 The following accession numbers are related to this dose report [*****]: ***** The dose indicators for CT are the volume Computed Tomography Dose Index (CTDIvol) and the Dose Length Product (DLP), and are measured in units of mGy and mGy-cm, respectively. These indicators are not patient dose, but values generated from the CT scanner acquisition factors.  Individual patient doses calculated from these values will depend on patient size and can substantially underestimate or overestimate the actual dose. For additional information on radiation dose, safety, and protection in the UCSF Department of Radiology and Biomedical Imaging, please refer to one of our FAQ leaflets on "Computed Tomography (CT)" or go to *****://*****.*****.*****.*****/*****/*****. TECHNIQUE: Following the administration of 150 cc of Omnipaque 350, contiguous 1.25-mm collimation axial images were obtained through the abdomen and pelvis. The gastrointestinal tract was opacified with oral and rectal  contrast. Coronal and sagittal reformats were also obtained. FINDINGS: Visualized lung bases:  For chest findings, please see the separately dictated report from the CT of the chest of the same date. Bones:  No suspicious lesions Liver:  6 mm hypervascular lesion in hepatic segment 8 which may reflect flash filling hemangioma or portosystemic shunt, unchanged from prior No significant intrahepatic biliary duct dilatation. Gallbladder:  Unremarkable Spleen:  Unremarkable Pancreas:  Redemonstration of ill-defined hypoattenuating mass centered in the pancreatic head, extending to the pancreatic tail, and involving the portosplenic confluence and superior mesenteric vein. Although difficult to measure this appears minimally increased in size and appears prior. Minimally decreased pancreatic duct dilatation to 7 mm in the pancreatic tail. The stent has been changed in courses from the common hepatic duct into the duodenum persistent pneumobilia suggests patency. Adrenal Glands:  Unremarkable Kidneys:  Unremarkable GI Tract:  No bowel obstruction. Pancreatic mass continues to abut the duodenum, unchanged from prior. Vasculature: No significant change in vascular involvement. Lymphadenopathy: Small mesenteric and retroperitoneal nodes, none of which are enlarged by size criteria. Ascites: Absent Bladder: Unremarkable Reproductive organs: Unremarkable Extraperitoneal soft tissues: Unremarkable     1.  Stable to minimally increased size of pancreatic mass compatible with known pancreatic adenocarcinoma. 2.  No evidence of metastatic disease in the abdomen/pelvis. END OF IMPRESSION:     Ct Chest With Contrast    Result Date: 06/10/2016  CT CHEST WITH CONTRAST CLINICAL HISTORY:  Panceatic cancer COMPARISON: 03/18/2016 and earlier TECHNIQUE: Serial 1.25 mm axial images through the chest were obtained after the administration of intravenous contrast. RADIATION DOSE INDICATORS: ***** ***** received 2 exposure event(s) (excluding scout) during this CT study. The CTDIvol (mGy) and DLP (mGy-cm) radiation dose values for each event are: Event: 1;  anatomic area: Chest;  phantom: body;  CTDIvol: 14.2;  DLP: 533.3 Event: 2;  anatomic area: Chest;  phantom: body;  CTDIvol: 18.8;  DLP: 888.6 The following accession numbers are related to this dose report [*****]: ***** The dose indicators for CT are the volume Computed Tomography Dose Index (CTDIvol) and the Dose Length Product (DLP), and are measured in units of mGy and mGy-cm, respectively. These indicators are not patient dose, but values generated from the CT scanner acquisition factors.  Individual patient doses calculated from these values will depend on patient size and can substantially underestimate or overestimate the actual dose. For additional information on radiation dose, safety, and protection in the UCSF Department of Radiology and Biomedical Imaging, please refer to one of our FAQ leaflets on "Computed Tomography (CT)" or go to *****://*****.*****.*****.*****/*****/*****. FINDINGS: LUNGS: Few new small nodules in the left lower lobe measuring up to 3 mm (series 2, images 121, 138, 166, 170) and a 7 mm new nodule in the lingula. Previously noted tiny nodule in the peripheral right upper lobe (prior study series 2, image 90) is not visualized on this exam. Right middle lobe nodule is unchanged (series 2, image 129). PLEURA: No pleural effusion. MEDIASTINUM: 8 mm lymph node adjacent to the inferior vena cava (previously 7 mm; series 2, image 179). No lymphadenopathy by size criteria. HEART/GREAT VESSELS: Normal heart size. No pericardial effusion. BONES/SOFT TISSUES: No suspicious lesions. VISIBLE ABDOMEN: Please see dedicated Abdomen and Pelvis CT report.     1.  5 new nodules measuring up to 7 mm in the lingula and left lower lobe. These are indeterminate but are suspicious for metastases in the setting of known pancreatic adenocarcinoma. Attention on follow-up. 2.  No other definite evidence of metastatic disease in the chest. END OF IMPRESSION:
+A99	SectionSkipType T289 radiology_report
+T290	ConsumptionQuantity 2306 2317	half a pack
+T291	Tobacco 2321 2331	cigarettes
+A100	IsStoppedOrContinuing T291 stopped
+R25	ConsumptionQuantityRel Arg1:T290 Arg2:T291	
+T292	Duration 2350 2357	4 years
+R26	Temporal Arg1:T292 Arg2:T291	
+T293	Datetime 2371 2375	2006
+R27	EndsOnOrAt Arg1:T293 Arg2:T291	
+T294	Alcohol 2405 2418	alcohol abuse
+A101	IsStoppedOrContinuing T294 stopped
+T295	ConsumptionQuantity 2442 2461	pint of tequila day
+R28	ConsumptionQuantityRel Arg1:T295 Arg2:T294	
+T296	Alcohol 2479 2515	drinking only socially more recently
+A102	IsStoppedOrContinuing T296 continuing
+T297	Drugs 2542 2554	heroin abuse
+A103	IsStoppedOrContinuing T297 stopped
+T298	Duration 2577 2590	several years
+R29	HappensBefore Arg1:T298 Arg2:T297	
+T299	Histology 9982 9996	adenocarcinoma
+T301	LocalInvasion 9965 9981	Locally advanced
+A104	EpisodeDescription T301 FirstOccurrence
+T300	ClinicalCondition 9982 10012	adenocarcinoma of the pancreas
+A105	ChronicVal T300 chronic
+T302	DiseaseState 10028 10039	progression
+A106	NegationModalityVal T302 uncertain_in_present
+A107	ChronicVal T220 chronic
+A108	ContinuityVal T220 stable
+T303	ClinicalCondition 10070 10092	cancer family syndrome
+A109	ChronicVal T303 chronic
+A110	ContinuityVal T303 stable
+T304	Metastasis 10121 10137	new lung nodules
+A111	NegationModalityVal T304 uncertain_in_present
+A112	EpisodeDescription T304 Progression
+T305	TreatmentType 10228 10240	chemotherapy
+A113	TreatmentContinuityVal T305 discontinued_early
+A114	TreatmentTypeVal T305 maintenance
+A115	TreatmentIntentVal T305 palliative
+T306	TreatmentType 10328 10335	regimen
+A116	TreatmentContinuityVal T306 discontinued_early
+A117	TreatmentTypeVal T306 maintenance
+A118	TreatmentIntentVal T306 palliative
+A119	NegationModalityVal T226 negated
+R30	ConditionOrTreatmentCausesProblem Treatment:T260 Prob:T265	
+R19	BeginsOnOrAt Arg1:T273 Arg2:T274	
+R31	HappensAtOnDuring Arg1:T276 Arg2:T279	
+R32	BeginsOnOrAt Arg1:T284 Arg2:T285	
+A52	DiseaseStateVal T302 progression-others
+A53	DiseaseStateVal T257 progression-others
+A54	DiseaseStateVal T256 progression-others
+T263	ap_start 9949 9959	ASSESSMENT
+T264	ap_end 10491 10501	follow-up.
+T307	hpi_start 0 10	SUBJECTIVE
+T308	hpi_end 1715 1724	April 27.

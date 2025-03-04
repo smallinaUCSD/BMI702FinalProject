@@ -1,0 +1,1174 @@
+T1	SectionAnnotate 216 220	HPI:
+T2	SectionAnnotate 3490 3511	Past Medical History:
+T3	SectionAnnotate 3695 3709	Family History
+T4	SectionAnnotate 3918 3932	Social History
+T5	SectionAnnotate 4391 4415	Social History Narrative
+T6	SectionSkip 4552 5718	Outpatient Encounter Prescriptions as of 04/13/2017   Medication Sig Dispense Refill    buPROPion (WELLBUTRIN SR) 150 mg 12 hr tablet Take 150 mg by mouth 2 (two) times daily.      cetirizine (ZYRTEC) 10 mg tablet Take 1 tablet (10 mg total) by mouth Daily. 30 tablet 6    docusate sodium (COLACE) 250 mg capsule Take 1 capsule (250 mg total) by mouth 2 (two) times daily as needed for Constipation. 60 capsule 1    hydrOXYzine (ATARAX) 10 mg tablet Take 10 mg by mouth 3 (three) times daily as needed for Itching.      ibuprofen (ADVIL,MOTRIN) 600 mg tablet Take 1 tablet (600 mg total) by mouth every 6 (six) hours as needed for Pain. 60 tablet 1    iron 18 mg TAB tablet Take by mouth.      labetalol (NORMODYNE) 100 mg tablet Take 100 mg by mouth 2 (two) times daily.      PNV NO.122/IRON/FOLIC ACID (PRENATAL MULTI ORAL) Take by mouth.      triamcinolone (KENALOG) 0.1 % cream Apply topically 2 (two) times daily. Use as instructed      UNABLE TO FIND Med Name: Fluoxetine      zolpidem (AMBIEN) 5 mg tablet Take 5 mg by mouth nightly as needed for Sleep.       No facility-administered encounter medications on file as of 04/13/2017.        No Known
+T7	SectionAnnotate 5735 5753	Review of Systems:
+T12	SectionSkip 12891 14237	Findings:  This bilateral breast MRI exam demonstrates marked background enhancement.  The breasts are composed of heterogeneous fibroglandular tissue and fat.    RIGHT Breast:  Marked background enhancement is seen, with the most confluent area of enhancement occurring in the right upper outer breast, posterior depth (best seen on post-gadolinium axial image #101, sagittal image #363), measuring up to 3.5 cm in AP dimension. This is only slightly more prominent on the right compared with the left side, and appears to correspond with the area noted on recent PET CT.  A more superficial and smaller right axillary tail mass is seen measuring approximately 1.5 x 0.5 x 1.0 cm (best seen on post-gadolinium axial image #104, sagittal image #369), which 
+ demonstrates suggestion of susceptibility artifact on T1 imaging and may correspond to the area of calcifications seen on mammogram. This appears to enhance with slightly greater intensity than the breast tissue described above.    LEFT Breast:  Marked background enhancement is seen. No abnormal areas of enhancement or other MRI features of malignancy are identified.    OTHER:  Markedly enlarged right axillary lymph nodes are seen with cortical thickness measuring up to 1 cm. Left axillary lymph nodes are unremarkable. Visualized abdomen and remainder of the chest is unremarkable.
+T13	SectionSkip 15199 16370	FINDINGS:    Brain: Study limited by patient motion. Unremarkable, symmetric, FDG uptake is seen throughout the cortical gray matter, basal ganglia and the cerebellum. No mass effect. While these images appear within normal limits, MRI is recommended to rule out intracranial and/or skull base metastases if clinically indicated.    Neck: Multiple hypermetabolic right cervical lymph nodes measuring up to 
+ 2.2 x 1.8 cm in the jugular chain with SUV max of 6.0 (series 3 image 50). Additional 0.8 cm left Vb lymph node with SUV max of 2.4. Scattered non-FDG avid subcentimeter thyroid nodules.     Chest: Multiple hypermetabolic right axillary lymph nodes measuring up to 2.7 x 1.7 cm with SUV max of 4.5 (series 3 image 67). Previously biopsied 0.9 cm hypermetabolic right supraclavicular lymph node with SUV max of 3.5. Heterogeneous breast tissue noted bilaterally with heterogeneous FDG avidity, with an area of increased FDG avidity which appears slightly nodular in the upper outer right breast. Lungs are clear.     Abdomen/Pelvis: Unremarkable abdomino-pelvic organs. Normal appendix. No hypermetabolic lymphadenopathy.    Musculoskeletal: No metastatic disease.
+T14	SectionAnnotate 16947 16978	Assessment and Recommendations:
+T15	PROBLEM 78 82	a HR
+T16	PROBLEM 84 108	metastatic breast cancer
+T17	PROBLEM 119 130	lymph nodes
+T18	TREATMENT 172 189	treatment options
+T19	PROBLEM 297 326	a new right lateral neck lump
+T20	TEST 329 337	Her exam
+T21	PROBLEM 354 373	a hard, mobile mass
+T22	PROBLEM 511 526	the lymph nodes
+T23	PROBLEM 552 594	0.5 cm mobile mass in right anterior chain
+T24	PROBLEM 596 656	2 x 1 cm mass and subcentimeter masses of right lateral neck
+T25	TEST 687 692	a CBC
+T26	TEST 763 770	imaging
+T27	PROBLEM 849 853	sore
+T28	TEST 859 868	palpation
+T29	TEST 871 879	Her exam
+T30	PROBLEM 1101 1110	the nodes
+T31	PROBLEM 1168 1172	pain
+T32	TEST 1175 1183	Her exam
+T33	PROBLEM 1210 1218	fullness
+T34	PROBLEM 1297 1314	a firm round mass
+T35	TEST 1408 1415	Neck US
+T36	PROBLEM 1417 1493	diffuse bilateral submandibular, anterior, and posterior cervical adenopathy
+T37	TEST 1525 1550	R anterior cervical chain
+T38	TEST 1565 1584	L anterior cervical
+T39	TEST 1599 1634	L posterior lateral neck inferiorly
+T40	TEST 1650 1657	thyroid
+T41	TEST 1683 1685	US
+T42	TEST 1693 1724	right supraclavicular LN biopsy
+T43	PROBLEM 1726 1751	metastatic adenocarcinoma
+T44	PROBLEM 1757 1771	breast primary
+T45	TEST 1773 1776	CK7
+T46	TEST 1778 1783	GATA3
+T47	TEST 1785 1787	ER
+T48	TEST 1800 1804	CK20
+T49	TEST 1806 1810	TTF1
+T50	TEST 1812 1825	thyroglobulin
+T51	TEST 1827 1833	napsin
+T52	TEST 1835 1846	mammaglobin
+T53	TEST 1860 1862	ER
+T54	TEST 1872 1874	PR
+T55	TEST 1883 1887	HER2
+T56	TEST 1899 1902	IHC
+T57	TEST 1906 1910	FISH
+T58	TEST 1932 1964	bilateral diagnostic 
+ mammogram
+T59	PROBLEM 1966 1995	extremely dense breast tissue
+T60	PROBLEM 2012 2047	primary malignancy in either breast
+T61	PROBLEM 2049 2079	right axillary lymphadenopathy
+T62	PROBLEM 2090 2114	an enlarged calcified LN
+T63	TEST 2116 2139	right breast ultrasound
+T64	PROBLEM 2202 2228	enlarged right axillary LN
+T65	PROBLEM 2234 2248	calcifications
+T66	TEST 2261 2267	PET/CT
+T67	PROBLEM 2269 2304	multiple FDG-avid right cervical LN
+T68	TEST 2320 2323	SUV
+T69	TEST 2332 2345	jugular chain
+T70	TEST 2347 2357	left Vb LN
+T71	TEST 2367 2370	SUV
+T72	PROBLEM 2377 2416	scattered subcentimeter thyroid nodules
+T73	PROBLEM 2433 2468	multiple FDG-avid right axillary LN
+T74	TEST 2484 2487	SUV
+T75	TEST 2494 2518	right supraclavicular LN
+T76	TEST 2528 2531	SUV
+T77	PROBLEM 2538 2577	heterogeneous breast tissue bilaterally
+T78	PROBLEM 2583 2608	heterogeneous FDG-avidity
+T79	PROBLEM 2615 2674	slightly nodular area of uptake in upper outer right breast
+T80	TEST 2687 2697	MRI breast
+T81	PROBLEM 2699 2728	marked background enhancement
+T82	PROBLEM 2734 2772	the most confluent area of enhancement
+T83	PROBLEM 2882 2930	superficial and smaller right axillary tail mass
+T84	PROBLEM 2983 2997	calcifications
+T85	TEST 3006 3015	mammogram
+T86	PROBLEM 3017 3052	markedly enlarged right axillary LN
+T87	PROBLEM 3058 3076	cortical thickness
+T88	PROBLEM 3178 3196	a cancer diagnosis
+T89	PROBLEM 3317 3341	metastatic breast cancer
+T90	PROBLEM 3533 3542	Back pain
+T91	PROBLEM 3548 3561	Breast cancer
+T92	PROBLEM 3567 3577	Depression
+T93	PROBLEM 3583 3595	Hypertension
+T94	PROBLEM 3601 3608	Obesity
+T95	PROBLEM 3614 3632	Seasonal allergies
+T96	PROBLEM 3746 3763	Cerebral aneurysm
+T97	PROBLEM 3776 3784	Melanoma
+T98	PROBLEM 3797 3817	Basal cell carcinoma
+T99	PROBLEM 3830 3853	Squamous cell carcinoma
+T100	PROBLEM 3866 3874	Skin ca.
+T101	PROBLEM 3895 3901	Cancer
+T102	TREATMENT 4641 4666	buPROPion (WELLBUTRIN SR)
+T103	TREATMENT 4735 4754	cetirizine (ZYRTEC)
+T104	TREATMENT 4828 4852	docusate sodium (COLACE)
+T105	PROBLEM 4941 4953	Constipation
+T106	TREATMENT 4972 4992	hydrOXYzine (ATARAX)
+T107	PROBLEM 5062 5069	Itching
+T108	TREATMENT 5077 5101	ibuprofen (ADVIL,MOTRIN)
+T109	PROBLEM 5188 5192	Pain
+T110	TREATMENT 5210 5214	iron
+T111	TREATMENT 5253 5274	labetalol (NORMODYNE)
+T112	TREATMENT 5353 5385	FOLIC ACID (PRENATAL MULTI ORAL)
+T113	TREATMENT 5407 5430	triamcinolone (KENALOG)
+T114	TREATMENT 5529 5563	Fluoxetine      zolpidem (AMBIEN)
+T115	PROBLEM 5617 5622	Sleep
+T116	TREATMENT 5665 5676	medications
+T117	PROBLEM 5713 5728	Known Allergies
+T118	PROBLEM 5769 5776	fatigue
+T119	PROBLEM 5781 5792	weight loss
+T120	Symptom 5805 5819	vision changes
+T121	Symptom 5822 5826	HENT
+T122	Symptom 5832 5849	change in hearing
+T123	Symptom 5856 5871	nasal discharge
+T124	Symptom 5875 5891	sinus tenderness
+T125	Symptom 5896 5917	difficulty swallowing
+T126	Symptom 5922 5933	mouth sores
+T127	Symptom 5938 5949	sore throat
+T128	Symptom 5964 5975	breast pain
+T129	Symptom 5994 5999	cough
+T130	Symptom 6004 6011	dyspnea
+T131	Symptom 6016 6024	wheezing
+T132	Symptom 6047 6057	chest pain
+T133	Symptom 6062 6074	palpitations
+T134	Symptom 6079 6100	lower extremity edema
+T135	Symptom 6111 6120	heartburn
+T136	Symptom 6125 6131	nausea
+T137	Symptom 6136 6142	emesis
+T138	Symptom 6147 6161	abdominal pain
+T139	Symptom 6166 6174	diarrhea
+T140	Symptom 6179 6191	constipation
+T141	Symptom 6196 6202	melena
+T142	Symptom 6207 6219	hematochezia
+T143	Symptom 6230 6245	suprapubic pain
+T144	Symptom 6250 6257	dysuria
+T145	Symptom 6262 6278	vaginal bleeding
+T146	Symptom 6302 6313	joint aches
+T147	Symptom 6318 6333	joint stiffness
+T148	Symptom 6338 6349	muscle pain
+T149	Symptom 6354 6363	bone pain
+T150	PROBLEM 6381 6402	heat/cold intolerance
+T151	PROBLEM 6407 6418	hot flashes
+T152	PROBLEM 6433 6452	swollen lymph nodes
+T153	PROBLEM 6457 6470	easy bruising
+T154	PROBLEM 6471 6479	bleeding
+T155	PROBLEM 6484 6494	lymphedema
+T156	PROBLEM 6515 6524	headaches
+T157	PROBLEM 6529 6538	dizziness
+T158	PROBLEM 6543 6551	numbness
+T159	PROBLEM 6552 6560	tingling
+T160	PROBLEM 6565 6570	falls
+T161	PROBLEM 6592 6599	anxiety
+T162	PROBLEM 6604 6614	depression
+T163	PROBLEM 6627 6633	rashes
+T164	PROBLEM 6634 6641	lesions
+T165	PROBLEM 6646 6657	diaphoresis
+T166	TEST 6681 6685	ECOG
+T167	TEST 6690 6701	Vital Signs
+T168	TEST 6704 6706	BP
+T169	TEST 6716 6721	Pulse
+T170	TEST 6727 6731	Temp
+T171	TEST 6737 6738	C
+T172	TEST 6749 6754	Oral)
+T173	TEST 6758 6762	Resp
+T174	TEST 6768 6770	Ht
+T175	TEST 6793 6795	Wt
+T176	TEST 6822 6825	LMP
+T177	TEST 6852 6856	SpO2
+T178	TEST 6863 6866	BMI
+T179	PROBLEM 6904 6907	NAD
+T180	PROBLEM 6923 6932	anicteric
+T181	PROBLEM 6962 6971	nontender
+T182	PROBLEM 7010 7018	erythema
+T183	PROBLEM 7020 7030	stomatitis
+T184	PROBLEM 7035 7055	thrush   Lymph Nodes
+T185	TEST 7086 7096	percussion
+T186	TEST 7109 7112	CTA
+T187	PROBLEM 7129 7136	wheezes
+T188	PROBLEM 7138 7145	rhonchi
+T189	PROBLEM 7150 7158	crackles
+T190	PROBLEM 7214 7221	murmurs
+T191	PROBLEM 7226 7231	edema
+T192	PROBLEM 7245 7263	masses bilaterally
+T193	PROBLEM 7300 7310	tenderness
+T194	PROBLEM 7315 7325	distention
+T195	PROBLEM 7330 7333	HSM
+T196	PROBLEM 7356 7387	tenderness over bones or joints
+T197	PROBLEM 7508 7510	HI
+T198	PROBLEM 7512 7514	SI
+T199	PROBLEM 7516 7530	hallucinations
+T200	PROBLEM 7532 7540	paranoia
+T201	PROBLEM 7545 7554	delusions
+T202	PROBLEM 7576 7582	rashes
+T203	PROBLEM 7586 7593	lesions
+T204	TEST 7610 7624	Available labs
+T205	TEST 7626 7635	pathology
+T206	TEST 7641 7648	imaging
+T207	PROBLEM 8079 8111	Right supraclavicular lymph node
+T208	TEST 8113 8145	US guided fine needle aspiration
+T209	PROBLEM 8177 8209	Right supraclavicular lymph node
+T210	TEST 8211 8243	US guided fine needle aspiration
+T211	PROBLEM 8247 8273	Metastatic adenoccarcinoma
+T212	PROBLEM 8291 8305	breast primary
+T213	TEST 8338 8351	The aspirates
+T214	PROBLEM 8356 8375	moderately cellular
+T215	PROBLEM 8405 8440	crowded, malignant epithelial cells
+T216	PROBLEM 8519 8564	enlarged and angulated  hyperchromatic nuclei
+T217	PROBLEM 8570 8603	coarse chromatin, nuclear grooves
+T218	PROBLEM 8663 8675	eosinophilic
+T219	PROBLEM 8712 8747	A rare intranuclear pseudoinclusion
+T220	PROBLEM 8753 8778	scattered mitotic figures
+T221	TEST 8839 8865	immunohistochemical stains
+T222	TEST 8899 8913	the cell block
+T223	TEST 8950 8953	CK7
+T224	TEST 8967 8971	CK20
+T225	TEST 8985 8998	Thyroglobulin
+T226	TEST 9012 9016	TTF1
+T227	TEST 9030 9036	Napsin
+T228	TEST 9067 9070	p63
+T229	TEST 9084 9095	Mammaglobin
+T230	TEST 9109 9114	GATA3
+T231	TEST 9149 9153	PAX8
+T232	PROBLEM 9262 9300	metastatic carcinoma of breast primary
+T233	TEST 9319 9352	clinical  and radiologic findings
+T234	TEST 9503 9528	Immunohistochemical tests
+T235	TEST 9533 9541	estrogen
+T236	TEST 9546 9568	progesterone receptors
+T237	TEST 9570 9574	HER2
+T238	TEST 9580 9583	Ki-
+T239	TEST 9604 9622	manual morphometry
+T240	TREATMENT 9626 9640	the cell block
+T241	TEST 9645 9676	The test for estrogen receptors
+T242	TEST 9702 9719	nuclear  staining
+T243	PROBLEM 9731 9742	tumor cells
+T244	TREATMENT 9744 9771	Internal positive 
+ control
+T245	TEST 9834 9869	The test for progesterone receptors
+T246	PROBLEM 9892 9907	variable  (weak
+T247	TEST 9933 9949	nuclear staining
+T248	PROBLEM 9960 9971	tumor cells
+T249	TREATMENT 9973 9999	Internal  positive control
+T250	TEST 10072 10081	HER2 test
+T251	PROBLEM 10083 10097	This carcinoma
+T252	PROBLEM 10115 10148	HER2 oncoprotein  over-expression
+T253	PROBLEM 10176 10190	this carcinoma
+T254	TEST 10518 10523	CA125
+T255	PROBLEM 10525 10545	Weak patchy staining
+T256	TEST 10568 10571	RCC
+T257	TEST 10585 10595	Calcitonin
+T258	TEST 10609 10650	The additional immunohistochemical stains
+T259	TEST 10766 10770	Exam
+T260	TEST 10775 10807	Bilateral diagnostic mammography
+T261	TEST 10809 10832	right breast ultrasound
+T262	TEST 10880 10902	diagnostic mammography
+T263	PROBLEM 10919 10944	primary breast malignancy
+T264	TEST 10958 10988	recent cervical lymph node FNA
+T265	PROBLEM 11002 11023	breast adenocarcinoma
+T266	TEST 11025 11034	Receptors
+T267	TEST 11086 11104	prior examinations
+T268	PROBLEM 11174 11189	extremely dense
+T269	TEST 11223 11234	mammography
+T270	PROBLEM 11246 11276	right axillary lymphadenopathy
+T271	PROBLEM 11287 11319	an enlarged calcified lymph node
+T272	PROBLEM 11350 11396	primary malignancy in the right or left breast
+T273	PROBLEM 11433 11462	multiple axillary lymph nodes
+T274	PROBLEM 11522 11559	an enlarged right axillary lymph node
+T275	PROBLEM 11565 11579	calcifications
+T276	PROBLEM 11602 11650	the right axillary calcified enlarged lymph node
+T277	TEST 11654 11663	mammogram
+T278	PROBLEM 11697 11727	Known biopsy proven malignancy
+T279	TEST 11729 11736	BI-RADS
+T280	TEST 11765 11772	BI-RADS
+T281	TEST 11798 11808	Breast MRI
+T282	PROBLEM 11825 11861	underlying breast primary malignancy
+T283	TEST 11925 11931	PET/CT
+T284	PROBLEM 11977 11984	disease
+T285	TEST 12048 12056	the exam
+T286	TEST 12357 12359	MR
+T287	TEST 12437 12457	palpation-guided FNA
+T288	PROBLEM 12461 12480	cervical lymph node
+T289	PROBLEM 12495 12520	metastatic adenocarcinoma
+T290	PROBLEM 12537 12553	breast carcinoma
+T291	PROBLEM 12558 12588	definite primary breast lesion
+T292	TEST 12603 12612	mammogram
+T293	TEST 12617 12627	ultrasound
+T294	TEST 12634 12640	PET/CT
+T295	PROBLEM 12664 12711	increased FDG avidity in the outer right breast
+T296	TEST 12722 12732	evaluation
+T297	PROBLEM 12737 12760	a primary breast lesion
+T298	TEST 12778 12796	Prior examinations
+T299	TEST 12815 12825	ultrasound
+T300	TEST 12843 12852	mammogram
+T301	TEST 12887 12890	MRI
+T302	TEST 12902 12932	This bilateral breast MRI exam
+T303	PROBLEM 12946 12975	marked background enhancement
+T304	PROBLEM 13006 13041	heterogeneous fibroglandular tissue
+T305	PROBLEM 13069 13098	Marked background enhancement
+T306	TEST 13225 13252	post-gadolinium axial image
+T307	TEST 13259 13273	sagittal image
+T308	TEST 13449 13462	recent PET CT
+T309	PROBLEM 13465 13520	A more superficial and smaller right axillary tail mass
+T310	TEST 13586 13613	post-gadolinium axial image
+T311	TEST 13620 13634	sagittal image
+T312	PROBLEM 13677 13700	susceptibility artifact
+T313	TEST 13704 13714	T1 imaging
+T314	PROBLEM 13749 13763	calcifications
+T315	TEST 13772 13781	mammogram
+T316	PROBLEM 13812 13861	slightly greater intensity than the breast tissue
+T317	PROBLEM 13896 13925	Marked background enhancement
+T318	PROBLEM 13938 13967	abnormal areas of enhancement
+T319	PROBLEM 13993 14003	malignancy
+T320	PROBLEM 14031 14075	Markedly enlarged right axillary lymph nodes
+T321	TEST 14280 14287	BI-RADS
+T322	TEST 14316 14323	BI-RADS
+T323	TEST 14362 14384	second look ultrasound
+T324	PROBLEM 14422 14480	more confluent enhancement in the upper outer right breast
+T325	PROBLEM 14489 14517	the right axillary tail mass
+T326	PROBLEM 14542 14559	the calcification
+T327	PROBLEM 14571 14577	lesion
+T328	TEST 14581 14590	mammogram
+T329	TEST 14606 14635	ultrasound-guided core biopsy
+T330	TEST 14694 14697	MRI
+T331	TEST 14705 14711	biopsy
+T332	PROBLEM 14719 14765	Abnormally enlarged right axillary lymph nodes
+T333	PROBLEM 14798 14822	known metastatic disease
+T334	TEST 14960 14966	PET/CT
+T335	TREATMENT 14967 14996	Whole Body (vertex to thighs)
+T336	TEST 15068 15075	Staging
+T337	PROBLEM 15123 15165	newly diagnosed right supraclavicular node
+T338	PROBLEM 15179 15192	breast cancer
+T339	PROBLEM 15266 15287	symmetric, FDG uptake
+T340	PROBLEM 15370 15381	mass effect
+T341	TEST 15389 15401	these images
+T342	TEST 15431 15434	MRI
+T343	PROBLEM 15462 15503	intracranial and/or skull base metastases
+T344	PROBLEM 15538 15588	Multiple hypermetabolic right cervical lymph nodes
+T345	TEST 15646 15653	SUV max
+T346	PROBLEM 15682 15718	Additional 0.8 cm left Vb lymph node
+T347	TEST 15724 15731	SUV max
+T348	PROBLEM 15740 15792	Scattered non-FDG avid subcentimeter thyroid nodules
+T349	PROBLEM 15805 15855	Multiple hypermetabolic right axillary lymph nodes
+T350	TEST 15890 15897	SUV max
+T351	PROBLEM 15926 16000	Previously biopsied 0.9 cm hypermetabolic right supraclavicular lymph node
+T352	TEST 16006 16013	SUV max
+T353	PROBLEM 16022 16049	Heterogeneous breast tissue
+T354	PROBLEM 16073 16098	heterogeneous FDG avidity
+T355	PROBLEM 16116 16137	increased FDG avidity
+T356	PROBLEM 16152 16200	slightly nodular in the upper outer right breast
+T357	PROBLEM 16296 16326	hypermetabolic lymphadenopathy
+T358	PROBLEM 16351 16369	metastatic disease
+T359	PROBLEM 16393 16492	Hypermetabolic ,enlarged ,right supraclavicular, right axillary, and right cervical lymphadenopathy
+T360	PROBLEM 16509 16527	metastatic disease
+T361	PROBLEM 16535 16582	Mildly hypermetabolic left cervical lymph nodes
+T362	PROBLEM 16597 16618	additional metastases
+T363	PROBLEM 16660 16687	heterogeneous breast tissue
+T364	PROBLEM 16709 16730	increased FDG avidity
+T365	TEST 16779 16800	mammographic findings
+T366	TEST 16805 16815	This study
+T367	PROBLEM 17037 17039	HR
+T368	PROBLEM 17041 17054	breast cancer
+T369	PROBLEM 17071 17099	a supraclavicular lymph node
+T370	PROBLEM 17122 17136	cervical nodes
+T371	TREATMENT 17189 17223	complete treatment recommendations
+T372	PROBLEM 17304 17343	hormone receptor positive breast cancer
+T373	TEST 17386 17393	imaging
+T374	TEST 17407 17417	her workup
+T375	PROBLEM 17507 17530	a primary breast cancer
+T376	PROBLEM 17542 17609	metastasized to axillary, supraclavicular, and cervical lymph nodes
+T377	TEST 17661 17674	a core biopsy
+T378	PROBLEM 17678 17702	suspicious breast tissue
+T379	TEST 17728 17734	an FNA
+T380	PROBLEM 17738 17759	a cervical lymph node
+T381	PROBLEM 17791 17809	distant metastasis
+T382	PROBLEM 17861 17906	a second primary involving her cervical nodes
+T383	TEST 17966 17997	breast and cervical LN biopsies
+T384	TREATMENT 18038 18051	a de novo MBC
+T385	PROBLEM 18103 18106	MBC
+T386	PROBLEM 18137 18149	this disease
+T387	PROBLEM 18374 18383	a disease
+T388	TREATMENT 18488 18497	a therapy
+T389	TEST 18561 18565	HER2
+T390	TEST 18579 18582	IHC
+T391	PROBLEM 18649 18670	HER2 positive disease
+T392	TREATMENT 18697 18714	treatment options
+T393	TREATMENT 18736 18748	chemotherapy
+T394	PROBLEM 18789 18810	HER2 negative disease
+T395	TREATMENT 18835 18844	treatment
+T396	TREATMENT 18850 18870	antiestrogen therapy
+T397	TREATMENT 18876 18888	chemotherapy
+T398	TEST 18933 18951	additional testing
+T399	TEST 19014 19020	biopsy
+T400	PROBLEM 19024 19035	breast mass
+T401	PROBLEM 19046 19079	calcified nodule in axillary tail
+T402	TEST 19084 19099	cervical LN FNA
+T403	TEST 19142 19157	genetic testing
+T404	TREATMENT 19296 19314	the treatment plan
+T405	TREATMENT 19331 19347	medication risks
+T406	TREATMENT 19349 19371	lifestyle modification
+T407	TREATMENT 19399 19406	surgery
+T408	PROBLEM 19408 19416	symptoms
+T409	TREATMENT 19421 19440	therapeutic options
+T410	Age 21 23	33
+T411	ClinicalCondition 29 42	premenopausal
+A2	ChronicVal T411 chronic
+A3	ContinuityVal T411 stable
+A4	ExperiencerVal T411 patient
+T412	BiomarkerName 80 82	HR
+A5	HistoryVal T412 new
+A6	EpisodeDescription T412 FirstOccurrence
+T413	BiomarkerResult 82 83	+
+A7	EpisodeDescription T413 FirstOccurrence
+A8	BiomarkerResultVal T413 Positive
+R1	BiomarkerRel Arg1:T412 Arg2:T413	
+T414	Metastasis 84 94	metastatic
+A9	HistoryVal T414 new
+A10	EpisodeDescription T414 FirstOccurrence
+T415	LymphNodeInvolvement 119 130	lymph nodes
+A11	ExperiencerVal T415 patient
+A12	HistoryVal T415 new
+A13	EpisodeDescription T415 FirstOccurrence
+T416	Datetime 261 269	10/30/16
+T417	ProcedureName 237 246	evaluated
+A14	NegationModalityVal T417 affirmed
+A15	IntentVal T417 diagnosis
+R2	HappensAtOnDuring Arg1:T416 Arg2:T417	
+T418	Symptom 322 326	lump
+A16	IsPresentOnFirstCancerDiagnosis T418 yes
+A17	IsCausedByDiagnosedCancer T418 yes
+A18	ChronicVal T418 non-chronic
+A19	ContinuityVal T418 new
+T419	Site 309 321	lateral neck
+T420	Laterality 303 308	right
+R3	LateralityOfSite Arg1:T420 Arg2:T419	
+R4	SiteOf Arg1:T419 Arg2:T418	
+T421	ProcedureName 333 337	exam
+A20	IntentVal T421 diagnosis
+T422	TestResult 356 373	hard, mobile mass
+R5	ResultOfTest Desc:T422 Test:T421	
+T423	Size 375 379	1 cm
+A21	HistoryVal T423 new
+A22	EpisodeDescription T423 FirstOccurrence
+R6	TestOrProcedureReveals Test:T421 Desc:T423	
+T424	Site 394 406	lateral neck
+T425	Laterality 388 393	right
+R7	LateralityOfSite Arg1:T425 Arg2:T424	
+T426	Duration 442 449	2 weeks
+T427	Datetime 484 492	11/09/16
+T428	Site 515 526	lymph nodes
+T429	Size 552 558	0.5 cm
+A24	EpisodeDescription T429 FirstOccurrence
+T430	Site 580 594	anterior chain
+T431	Laterality 574 579	right
+R8	LateralityOfSite Arg1:T431 Arg2:T430	
+R9	SiteOf Arg1:T430 Arg2:T429	
+T432	Size 596 604	2 x 1 cm
+A25	EpisodeDescription T432 FirstOccurrence
+T433	Site 644 656	lateral neck
+T434	Laterality 638 643	right
+R10	LateralityOfSite Arg1:T434 Arg2:T433	
+R11	SiteOf Arg1:T433 Arg2:T432	
+T435	DiagnosticLabTest 689 692	CBC
+T436	Radiology 763 770	imaging
+A26	NegationModalityVal T436 hypothetical_in_future
+A27	IntentVal T436 diagnosis
+T437	Datetime 789 797	12/27/16
+T438	Site 829 831	LN
+T439	Symptom 849 853	sore
+A28	IsPresentOnFirstCancerDiagnosis T439 yes
+A29	IsCausedByDiagnosedCancer T439 yes
+A30	ChronicVal T439 non-chronic
+A31	ContinuityVal T439 worsening
+R12	SiteOf Arg1:T438 Arg2:T439	
+R13	HappensAtOnDuring Arg1:T437 Arg2:T439	
+T440	ProcedureName 875 879	exam
+A32	IntentVal T440 diagnosis
+T441	Size 923 929	0.5 cm
+A33	EpisodeDescription T441 FirstOccurrence
+T442	Site 959 977	mid-cervical chain
+T443	Laterality 953 958	right
+R14	LateralityOfSite Arg1:T443 Arg2:T442	
+T444	Datetime 1079 1087	03/26/17
+T445	Site 1105 1110	nodes
+T446	Symptom 1168 1172	pain
+A34	IsPresentOnFirstCancerDiagnosis T446 yes
+A35	IsCausedByDiagnosedCancer T446 yes
+A36	ChronicVal T446 non-chronic
+A37	ContinuityVal T446 worsening
+R15	SiteOf Arg1:T445 Arg2:T446	
+R16	HappensAtOnDuring Arg1:T444 Arg2:T446	
+T447	ProcedureName 1179 1183	exam
+A38	IntentVal T447 diagnosis
+A39	TreatmentTypeVal T447 others
+T448	TestResult 1210 1218	fullness
+R17	ResultOfTest Desc:T448 Test:T447	
+T449	Site 1249 1285	anterior and superior cervical chain
+T450	Laterality 1243 1248	right
+R18	LateralityOfSite Arg1:T450 Arg2:T449	
+R19	SiteOf Arg1:T449 Arg2:T448	
+T451	TestResult 1299 1314	firm round mass
+T452	Size 1316 1324	2 x 2 cm
+A40	EpisodeDescription T452 FirstOccurrence
+T453	Site 1339 1351	lateral neck
+T454	Laterality 1333 1338	right
+R20	LateralityOfSite Arg1:T454 Arg2:T453	
+R21	SiteOf Arg1:T453 Arg2:T451	
+R22	ResultOfTest Desc:T451 Test:T447	
+T455	Datetime 1399 1407	03/30/17
+T456	Radiology 1413 1415	US
+A41	IntentVal T456 diagnosis
+T457	Site 1408 1412	Neck
+R23	SiteOf Arg1:T457 Arg2:T456	
+R24	HappensAtOnDuring Arg1:T456 Arg2:T455	
+T458	LymphNodeInvolvement 1483 1493	adenopathy
+A42	HistoryVal T458 new
+A43	EpisodeDescription T458 FirstOccurrence
+T459	Site 1435 1482	submandibular, anterior, and posterior cervical
+T460	Laterality 1425 1434	bilateral
+R25	LateralityOfSite Arg1:T460 Arg2:T459	
+R26	SiteOf Arg1:T459 Arg2:T458	
+T461	Site 1497 1510	submandibular
+T462	Laterality 1495 1496	R
+R28	LateralityOfSite Arg1:T462 Arg2:T461	
+T463	Size 1511 1523	3.6 x 1.7 cm
+A44	EpisodeDescription T463 FirstOccurrence
+T464	Site 1527 1550	anterior cervical chain
+T465	Laterality 1525 1526	R
+R29	LateralityOfSite Arg1:T465 Arg2:T464	
+T466	Size 1551 1563	1.0 x 0.8 cm
+T467	Site 1567 1584	anterior cervical
+T468	Site 1601 1634	posterior lateral neck inferiorly
+T469	Site 1650 1657	thyroid
+T470	Site 1699 1717	supraclavicular LN
+T471	Site 1757 1763	breast
+T472	Laterality 1565 1566	L
+T473	Laterality 1599 1600	L
+T474	Laterality 1693 1698	right
+T475	Laterality 1932 1941	bilateral
+R27	LateralityOfSite Arg1:T472 Arg2:T467	
+R30	LateralityOfSite Arg1:T473 Arg2:T468	
+T476	Size 1585 1597	2.7 x 1.0 cm
+A45	HistoryVal T476 new
+A46	EpisodeDescription T476 FirstOccurrence
+T477	Size 1635 1647	0.9 x 0.7 cm
+A47	EpisodeDescription T477 FirstOccurrence
+T478	Datetime 1674 1682	04/03/17
+T479	ProcedureName 1718 1724	biopsy
+A48	IntentVal T479 diagnosis
+R31	SiteOf Arg1:T470 Arg2:T479	
+T480	Histology 1737 1751	adenocarcinoma
+A49	HistoryVal T480 new
+A50	EpisodeDescription T480 FirstOccurrence
+T481	Metastasis 1726 1736	metastatic
+A51	EpisodeDescription T481 FirstOccurrence
+T482	BiomarkerName 1773 1776	CK7
+A52	HistoryVal T482 new
+A53	EpisodeDescription T482 FirstOccurrence
+T483	BiomarkerName 1778 1783	GATA3
+A54	HistoryVal T483 new
+A55	EpisodeDescription T483 FirstOccurrence
+T484	BiomarkerName 1785 1787	ER
+A56	HistoryVal T484 new
+A57	EpisodeDescription T484 FirstOccurrence
+T485	BiomarkerName 1800 1804	CK20
+A58	HistoryVal T485 new
+A59	EpisodeDescription T485 FirstOccurrence
+T486	BiomarkerName 1806 1810	TTF1
+A60	HistoryVal T486 new
+A61	EpisodeDescription T486 FirstOccurrence
+T487	BiomarkerName 1812 1825	thyroglobulin
+A62	HistoryVal T487 new
+A63	EpisodeDescription T487 FirstOccurrence
+T488	BiomarkerName 1827 1833	napsin
+A64	HistoryVal T488 new
+A65	EpisodeDescription T488 FirstOccurrence
+T489	BiomarkerName 1835 1846	mammaglobin
+A66	HistoryVal T489 new
+A67	EpisodeDescription T489 FirstOccurrence
+T490	BiomarkerName 1860 1862	ER
+A68	HistoryVal T490 new
+A69	EpisodeDescription T490 FirstOccurrence
+T491	BiomarkerName 1872 1874	PR
+A70	HistoryVal T491 new
+A71	EpisodeDescription T491 FirstOccurrence
+T492	BiomarkerName 1883 1887	HER2
+A72	HistoryVal T492 new
+A73	EpisodeDescription T492 FirstOccurrence
+T493	BiomarkerResult 1790 1798	positive
+A74	EpisodeDescription T493 FirstOccurrence
+A75	BiomarkerResultVal T493 Positive
+R32	BiomarkerRel Arg1:T482 Arg2:T493	
+R33	BiomarkerRel Arg1:T483 Arg2:T493	
+R34	BiomarkerRel Arg1:T484 Arg2:T493	
+T494	BiomarkerResult 1849 1857	negative
+A76	EpisodeDescription T494 FirstOccurrence
+A77	BiomarkerResultVal T494 Negative
+R35	BiomarkerRel Arg1:T489 Arg2:T494	
+R36	BiomarkerRel Arg1:T488 Arg2:T494	
+R37	BiomarkerRel Arg1:T487 Arg2:T494	
+R38	BiomarkerRel Arg1:T486 Arg2:T494	
+R39	BiomarkerRel Arg1:T485 Arg2:T494	
+T495	BiomarkerResult 1862 1870	+ (>90%)
+A78	EpisodeDescription T495 FirstOccurrence
+A79	BiomarkerResultVal T495 Positive
+R40	BiomarkerRel Arg1:T490 Arg2:T495	
+T496	BiomarkerResult 1874 1881	+ (50%)
+A80	EpisodeDescription T496 FirstOccurrence
+A81	BiomarkerResultVal T496 Positive
+R41	BiomarkerRel Arg1:T491 Arg2:T496	
+T497	BiomarkerResult 1888 1897	equivocal
+A82	EpisodeDescription T497 FirstOccurrence
+A83	BiomarkerResultVal T497 Unclear
+R42	BiomarkerRel Arg1:T492 Arg2:T497	
+T498	Pathology 1899 1902	IHC
+A84	IntentVal T498 diagnosis
+T499	RadPathResult 1903 1904	2
+A85	RadPathResultVal T499 InitialCancerDiagnosis
+R43	ResultOfTest Desc:T499 Test:T498	
+T500	Pathology 1906 1910	FISH
+A86	IntentVal T500 diagnosis
+T501	Datetime 1923 1931	04/10/17
+T502	Radiology 1955 1964	mammogram
+A87	IntentVal T502 diagnosis
+R44	HappensAtOnDuring Arg1:T501 Arg2:T502	
+T503	Site 1982 1988	breast
+T504	Site 2041 2047	breast
+T505	Site 2055 2063	axillary
+T506	Site 2122 2128	breast
+T510	Site 2332 2345	jugular chain
+T511	Site 2401 2408	thyroid
+T514	Site 2552 2558	breast
+T515	Site 2668 2674	breast
+T516	Site 2650 2661	upper outer
+T517	Site 2691 2697	breast
+T518	Site 2791 2809	upper outer breast
+T519	Site 2912 2925	axillary tail
+T520	Site 3041 3052	axillary LN
+T521	Laterality 2049 2054	right
+T522	Laterality 2116 2121	right
+T523	Laterality 2211 2216	right
+T524	Laterality 2287 2292	right
+T525	Laterality 2347 2351	left
+T526	Laterality 2451 2456	right
+T527	Laterality 2494 2499	right
+T528	Laterality 2662 2667	right
+T529	Laterality 2785 2790	right
+T532	Laterality 2906 2911	right
+T533	Laterality 3035 3040	right
+T534	RadPathResult 2012 2030	primary malignancy
+A88	RadPathResultVal T534 NoDisease
+R45	ResultOfTest Desc:T534 Test:T502	
+T535	LymphNodeInvolvement 2064 2079	lymphadenopathy
+A89	EpisodeDescription T535 FirstOccurrence
+R46	TestOrProcedureReveals Test:T502 Desc:T535	
+T536	LymphNodeInvolvement 2093 2114	enlarged calcified LN
+A90	EpisodeDescription T536 FirstOccurrence
+R47	TestOrProcedureReveals Test:T502 Desc:T536	
+T537	Radiology 2129 2139	ultrasound
+A91	IntentVal T537 staging
+R48	SiteOf Arg1:T506 Arg2:T537	
+R49	LateralityOfSite Arg1:T522 Arg2:T506	
+R50	LateralityOfSite Arg1:T521 Arg2:T505	
+R51	SiteOf Arg1:T505 Arg2:T535	
+R52	SiteOf Arg1:T505 Arg2:T536	
+T539	LymphNodeInvolvement 2202 2210	enlarged
+A92	HistoryVal T539 new
+A93	EpisodeDescription T539 FirstOccurrence
+T540	Site 2217 2228	axillary LN
+R54	LateralityOfSite Arg1:T523 Arg2:T540	
+R55	TestOrProcedureReveals Test:T537 Desc:T539	
+T541	Datetime 2252 2260	04/11/17
+T542	Radiology 2261 2267	PET/CT
+A94	IntentVal T542 staging
+R56	HappensAtOnDuring Arg1:T541 Arg2:T542	
+T509	Site 2293 2304	cervical LN
+R57	LateralityOfSite Arg1:T524 Arg2:T509	
+T543	RadPathResult 2269 2286	multiple FDG-avid
+A95	RadPathResultVal T543 InitialCancerDiagnosis
+R58	SiteOf Arg1:T509 Arg2:T543	
+R59	ResultOfTest Desc:T543 Test:T542	
+T544	Size 2306 2318	2.2 x 1.8 cm
+A96	EpisodeDescription T544 FirstOccurrence
+T545	RadPathResult 2320 2327	SUV 6.0
+A97	RadPathResultVal T545 InitialCancerDiagnosis
+R60	TestOrProcedureReveals Test:T542 Desc:T544	
+R62	SiteOf Arg1:T510 Arg2:T543	
+T546	Site 2352 2357	Vb LN
+R63	LateralityOfSite Arg1:T525 Arg2:T546	
+T547	Size 2359 2365	0.8 cm
+A98	HistoryVal T547 new
+A99	EpisodeDescription T547 FirstOccurrence
+T548	RadPathResult 2367 2374	SUV 2.4
+A100	RadPathResultVal T548 InitialCancerDiagnosis
+R64	TestOrProcedureReveals Test:T542 Desc:T547	
+R65	NotUndergoneBecauseOf Arg1:T542 Reason:T548	
+T512	Site 2457 2468	axillary LN
+R66	LateralityOfSite Arg1:T526 Arg2:T512	
+T549	RadPathResult 2433 2450	multiple FDG-avid
+A101	RadPathResultVal T549 InitialCancerDiagnosis
+R67	SiteOf Arg1:T512 Arg2:T549	
+R68	ResultOfTest Desc:T549 Test:T542	
+T550	RadPathResult 2409 2416	nodules
+A102	RadPathResultVal T550 Others
+R69	SiteOf Arg1:T511 Arg2:T550	
+R70	NotUndergoneBecauseOf Arg1:T542 Reason:T550	
+T551	RadPathResult 2418 2430	non-FDG avid
+A103	RadPathResultVal T551 Others
+R71	SiteOf Arg1:T511 Arg2:T551	
+R72	ResultOfTest Desc:T551 Test:T542	
+T552	Size 2470 2482	2.7 x 1.7 cm
+A104	HistoryVal T552 new
+A105	EpisodeDescription T552 FirstOccurrence
+T553	RadPathResult 2484 2491	SUV 4.5
+A106	RadPathResultVal T553 InitialCancerDiagnosis
+R61	ResultOfTest Desc:T545 Test:T542	
+R74	ResultOfTest Desc:T553 Test:T542	
+T513	Site 2500 2518	supraclavicular LN
+R75	LateralityOfSite Arg1:T527 Arg2:T513	
+T554	Size 2520 2526	0.9 cm
+A107	HistoryVal T554 new
+A108	EpisodeDescription T554 FirstOccurrence
+T555	Size 2932 2950	1.5 x 0.5 x 1.0 cm
+A109	HistoryVal T555 new
+A110	EpisodeDescription T555 FirstOccurrence
+T556	Size 3084 3088	1 cm
+A111	HistoryVal T556 new
+A112	EpisodeDescription T556 FirstOccurrence
+T557	RadPathResult 2528 2535	SUV 3.5
+A113	RadPathResultVal T557 InitialCancerDiagnosis
+T558	RadPathResult 2583 2608	heterogeneous FDG-avidity
+A114	RadPathResultVal T558 InitialCancerDiagnosis
+T559	RadPathResult 3017 3034	markedly enlarged
+A115	RadPathResultVal T559 InitialCancerDiagnosis
+T560	RadPathResult 2926 2930	mass
+A116	RadPathResultVal T560 InitialCancerDiagnosis
+T561	RadPathResult 2699 2728	marked background enhancement
+A117	RadPathResultVal T561 InitialCancerDiagnosis
+T562	RadPathResult 2640 2646	uptake
+A118	RadPathResultVal T562 Others
+R77	ResultOfTest Desc:T557 Test:T542	
+R78	SiteOf Arg1:T514 Arg2:T558	
+R79	ResultOfTest Desc:T558 Test:T542	
+R80	ResultOfTest Desc:T562 Test:T542	
+R81	LateralityOfSite Arg1:T528 Arg2:T516	
+R82	LateralityOfSite Arg1:T528 Arg2:T515	
+T563	Datetime 2678 2686	04/12/17
+T564	Radiology 2687 2690	MRI
+A119	IntentVal T564 staging
+R83	SiteOf Arg1:T517 Arg2:T564	
+R84	HappensAtOnDuring Arg1:T563 Arg2:T564	
+R85	ResultOfTest Desc:T561 Test:T564	
+R86	LateralityOfSite Arg1:T529 Arg2:T518	
+R87	LateralityOfSite Arg1:T532 Arg2:T519	
+R88	ResultOfTest Desc:T560 Test:T564	
+R90	ResultOfTest Desc:T559 Test:T564	
+R91	LateralityOfSite Arg1:T533 Arg2:T520	
+R92	SiteOf Arg1:T520 Arg2:T559	
+T530	ClinicalCondition 3335 3341	cancer
+A120	ChronicVal T530 non-chronic
+A121	ContinuityVal T530 new
+T531	Metastasis 3317 3327	metastatic
+A122	HistoryVal T531 new
+A123	EpisodeDescription T531 FirstOccurrence
+T565	ClinicalCondition 3366 3374	menarche
+A124	ChronicVal T565 non-chronic
+A125	ContinuityVal T565 stopped
+A126	ExperiencerVal T565 patient
+T566	Age 3378 3380	10
+R94	BeginsOnOrAt Arg1:T565 Arg2:T566	
+T567	TreatmentType 3405 3408	OCP
+A128	TreatmentContinuityVal T567 finished
+A129	TreatmentTypeVal T567 others
+T568	Duration 3413 3420	4 years
+T569	ClinicalCondition 3430 3434	G1P1
+A131	ContinuityVal T569 stable
+T570	Age 3464 3466	31
+T571	ClinicalCondition 3447 3456	pregnancy
+A133	ChronicVal T571 non-chronic
+A134	ContinuityVal T571 stopped
+T572	ClinicalCondition 3533 3542	Back pain
+A135	ChronicVal T572 chronic
+A136	ContinuityVal T572 stable
+A137	ExperiencerVal T572 patient
+T573	ClinicalCondition 3567 3577	Depression
+A138	ChronicVal T573 chronic
+A139	ContinuityVal T573 stable
+A140	ExperiencerVal T573 patient
+T574	ClinicalCondition 3583 3595	Hypertension
+A141	ChronicVal T574 chronic
+A142	ContinuityVal T574 stable
+A143	ExperiencerVal T574 patient
+T575	ClinicalCondition 3601 3608	Obesity
+A144	ChronicVal T575 chronic
+A145	ContinuityVal T575 stable
+A146	ExperiencerVal T575 patient
+T576	ClinicalCondition 3548 3561	Breast cancer
+A147	ChronicVal T576 non-chronic
+A148	ContinuityVal T576 new
+A149	ExperiencerVal T576 patient
+T577	ClinicalCondition 3614 3632	Seasonal allergies
+A150	ChronicVal T577 chronic
+A151	ContinuityVal T577 stable
+T578	ClinicalCondition 3746 3763	Cerebral aneurysm
+A152	ExperiencerVal T578 family
+T579	ClinicalCondition 3776 3784	Melanoma
+A153	ExperiencerVal T579 family
+A154	NegationModalityVal T579 negated
+T580	ClinicalCondition 3797 3817	Basal cell carcinoma
+A155	NegationModalityVal T580 negated
+A156	ExperiencerVal T580 family
+T581	ClinicalCondition 3830 3853	Squamous cell carcinoma
+A157	NegationModalityVal T581 negated
+A158	ExperiencerVal T581 family
+T582	ClinicalCondition 3866 3873	Skin ca
+A159	NegationModalityVal T582 negated
+A160	ExperiencerVal T582 family
+T583	ClinicalCondition 3895 3901	Cancer
+A161	NegationModalityVal T583 negated
+A162	ExperiencerVal T583 family
+T584	MaritalStatus 3972 3978	Single
+A163	IsStoppedOrContinuing T584 continuing
+A164	ExperiencerVal T584 patient
+T585	Tobacco 4149 4161	Never Smoker
+A165	NegationModalityVal T585 negated
+T586	Symptom 5769 5776	fatigue
+A166	NegationModalityVal T586 negated
+T587	Symptom 5781 5792	weight loss
+A167	NegationModalityVal T587 negated
+A168	NegationModalityVal T120 negated
+A169	NegationModalityVal T121 negated
+A170	NegationModalityVal T122 negated
+A171	NegationModalityVal T123 negated
+A172	NegationModalityVal T124 negated
+A173	NegationModalityVal T125 negated
+A174	NegationModalityVal T126 negated
+A175	NegationModalityVal T127 negated
+A176	NegationModalityVal T128 negated
+A177	NegationModalityVal T129 negated
+A178	NegationModalityVal T130 negated
+A179	NegationModalityVal T131 negated
+A180	NegationModalityVal T132 negated
+A181	NegationModalityVal T133 negated
+A182	NegationModalityVal T134 negated
+A183	NegationModalityVal T135 negated
+A184	NegationModalityVal T136 negated
+A185	NegationModalityVal T137 negated
+A186	NegationModalityVal T138 negated
+A187	NegationModalityVal T139 negated
+A188	NegationModalityVal T140 negated
+A189	NegationModalityVal T141 negated
+A190	NegationModalityVal T142 negated
+A191	NegationModalityVal T143 negated
+A192	NegationModalityVal T144 negated
+A193	NegationModalityVal T145 negated
+A194	NegationModalityVal T146 negated
+A195	NegationModalityVal T147 negated
+A196	NegationModalityVal T148 negated
+A197	NegationModalityVal T149 negated
+T588	Symptom 6381 6402	heat/cold intolerance
+A198	NegationModalityVal T588 negated
+T589	Symptom 6407 6418	hot flashes
+A199	NegationModalityVal T589 negated
+T590	Symptom 6457 6479	easy bruising/bleeding
+A200	NegationModalityVal T590 negated
+T591	Symptom 6484 6494	lymphedema
+A201	NegationModalityVal T591 negated
+T592	Symptom 6515 6524	headaches
+A202	NegationModalityVal T592 negated
+T593	Symptom 6529 6538	dizziness
+A203	NegationModalityVal T593 negated
+T594	Symptom 6543 6560	numbness/tingling
+A204	NegationModalityVal T594 negated
+T595	Symptom 6565 6570	falls
+A205	NegationModalityVal T595 negated
+T596	Symptom 6592 6599	anxiety
+A206	NegationModalityVal T596 negated
+T597	Symptom 6604 6614	depression
+A207	NegationModalityVal T597 negated
+T598	Symptom 6627 6633	rashes
+A208	NegationModalityVal T598 negated
+T599	Symptom 6634 6641	lesions
+A209	NegationModalityVal T599 negated
+T600	Symptom 6646 6657	diaphoresis
+A210	NegationModalityVal T600 negated
+T601	Symptom 6433 6452	swollen lymph nodes
+A211	NegationModalityVal T601 affirmed
+A212	IsPresentOnFirstCancerDiagnosis T601 yes
+A213	IsCausedByDiagnosedCancer T601 yes
+A214	ChronicVal T601 non-chronic
+A215	ContinuityVal T601 new
+T602	Age 16980 16982	33
+T603	ClinicalCondition 16988 17001	premenopausal
+A217	ChronicVal T603 chronic
+A218	ContinuityVal T603 stable
+A219	ExperiencerVal T603 patient
+T604	BiomarkerName 17037 17039	HR
+A220	HistoryVal T604 new
+A221	EpisodeDescription T604 FirstOccurrence
+T605	BiomarkerResult 17039 17040	+
+A222	BiomarkerResultVal T605 Positive
+R95	BiomarkerRel Arg1:T604 Arg2:T605	
+T606	ClinicalCondition 17048 17054	cancer
+A223	ChronicVal T606 non-chronic
+A224	ContinuityVal T606 new
+A225	ExperiencerVal T606 patient
+T607	Metastasis 17055 17067	metastasized
+A226	EpisodeDescription T607 FirstOccurrence
+T608	LymphNodeInvolvement 17089 17099	lymph node
+A227	HistoryVal T608 new
+A228	EpisodeDescription T608 FirstOccurrence
+T609	Site 17073 17088	supraclavicular
+R96	SiteOf Arg1:T609 Arg2:T608	
+T610	Site 17122 17130	cervical
+T611	LymphNodeInvolvement 17131 17136	nodes
+A229	EpisodeDescription T611 FirstOccurrence
+R97	SiteOf Arg1:T610 Arg2:T611	
+T612	BiomarkerName 17304 17320	hormone receptor
+A230	EpisodeDescription T612 FirstOccurrence
+T613	BiomarkerResult 17321 17329	positive
+A231	EpisodeDescription T613 FirstOccurrence
+A232	BiomarkerResultVal T613 Positive
+R98	BiomarkerRel Arg1:T612 Arg2:T613	
+T614	ClinicalCondition 17337 17343	cancer
+A233	ChronicVal T614 non-chronic
+A234	ContinuityVal T614 new
+A235	ExperiencerVal T614 patient
+T615	ClinicalCondition 17524 17530	cancer
+A236	ChronicVal T615 non-chronic
+A237	ContinuityVal T615 new
+A238	ExperiencerVal T615 patient
+T616	Metastasis 17542 17554	metastasized
+A239	HistoryVal T616 new
+A240	EpisodeDescription T616 FirstOccurrence
+T617	Site 17558 17566	axillary
+T618	Site 17568 17583	supraclavicular
+T619	Site 17589 17597	cervical
+T620	LymphNodeInvolvement 17598 17609	lymph nodes
+A241	HistoryVal T620 new
+A242	EpisodeDescription T620 FirstOccurrence
+R99	SiteOf Arg1:T617 Arg2:T616	
+R100	SiteOf Arg1:T618 Arg2:T616	
+R101	SiteOf Arg1:T619 Arg2:T616	
+R102	SiteOf Arg1:T619 Arg2:T620	
+R103	SiteOf Arg1:T618 Arg2:T620	
+R104	SiteOf Arg1:T617 Arg2:T620	
+T621	ProcedureName 17663 17674	core biopsy
+A243	NegationModalityVal T621 hypothetical_in_future
+A244	IntentVal T621 diagnosis
+T622	Site 17689 17695	breast
+R105	SiteOf Arg1:T622 Arg2:T621	
+T623	ProcedureName 17731 17734	FNA
+A245	NegationModalityVal T623 hypothetical_in_future
+A246	IntentVal T623 diagnosis
+T624	Site 17749 17759	lymph node
+R106	SiteOf Arg1:T624 Arg2:T623	
+T625	Metastasis 17799 17809	metastasis
+A247	NegationModalityVal T625 negated
+T626	Site 17892 17906	cervical nodes
+T627	ProcedureName 17989 17997	biopsies
+A248	NegationModalityVal T627 hypothetical_in_future
+A249	IntentVal T627 diagnosis
+T628	Site 17977 17988	cervical LN
+T629	Site 17966 17972	breast
+R107	SiteOf Arg1:T628 Arg2:T627	
+R108	SiteOf Arg1:T629 Arg2:T627	
+T630	ClinicalCondition 18040 18051	de novo MBC
+A250	NegationModalityVal T630 hypothetical_in_future
+A251	ChronicVal T630 non-chronic
+A252	ContinuityVal T630 new
+T631	ClinicalCondition 18103 18106	MBC
+A253	NegationModalityVal T631 hypothetical_in_future
+A254	ChronicVal T631 non-chronic
+A255	ContinuityVal T631 new
+T633	BiomarkerName 18561 18565	HER2
+A256	EpisodeDescription T633 FirstOccurrence
+T634	BiomarkerResult 18566 18575	equivocal
+A257	BiomarkerResultVal T634 Unclear
+R109	BiomarkerRel Arg1:T633 Arg2:T634	
+T635	Pathology 18579 18582	IHC
+T636	Pathology 18591 18595	FISH
+T637	BiomarkerName 18649 18653	HER2
+A258	HistoryVal T637 new
+A259	EpisodeDescription T637 FirstOccurrence
+T638	BiomarkerName 18789 18793	HER2
+A260	HistoryVal T638 new
+A261	EpisodeDescription T638 FirstOccurrence
+T639	BiomarkerResult 18654 18662	positive
+A262	BiomarkerResultVal T639 Positive
+T640	BiomarkerResult 18794 18802	negative
+A263	BiomarkerResultVal T640 Negative
+R111	BiomarkerRel Arg1:T638 Arg2:T640	
+A264	NegationModalityVal T637 hypothetical_in_future
+A265	NegationModalityVal T638 hypothetical_in_future
+R110	BiomarkerRel Arg1:T637 Arg2:T639	
+T641	TreatmentType 18736 18748	chemotherapy
+A266	NegationModalityVal T641 hypothetical_in_future
+A267	TreatmentTypeVal T641 others
+A268	TreatmentIntentVal T641 palliative
+T642	TreatmentType 18850 18870	antiestrogen therapy
+A269	NegationModalityVal T642 hypothetical_in_future
+A270	TreatmentIntentVal T642 palliative
+T643	TreatmentType 18876 18888	chemotherapy
+A271	NegationModalityVal T643 hypothetical_in_future
+A272	TreatmentIntentVal T643 palliative
+T644	ProcedureName 19004 19020	US-guided biopsy
+A273	NegationModalityVal T644 planned_in_future
+A274	IntentVal T644 diagnosis
+T645	Site 19024 19035	breast mass
+T646	Site 19056 19079	nodule in axillary tail
+R112	SiteOf Arg1:T645 Arg2:T644	
+R113	SiteOf Arg1:T646 Arg2:T644	
+T647	ProcedureName 19096 19099	FNA
+A275	NegationModalityVal T647 planned_in_future
+A276	IntentVal T647 diagnosis
+T648	Site 19084 19095	cervical LN
+R114	SiteOf Arg1:T648 Arg2:T647	
+T649	BiomarkerName 19122 19126	HER2
+A277	NegationModalityVal T649 planned_in_future
+T650	Pathology 19127 19131	FISH
+A278	NegationModalityVal T650 planned_in_future
+A279	IntentVal T650 diagnosis
+T651	GenomicTest 19142 19157	genetic testing
+A280	NegationModalityVal T651 planned_in_future
+A281	GenomicTestType T651 Unclear
+T652	Symptom 532 550	increasing in size
+A282	IsPresentOnFirstCancerDiagnosis T652 yes
+A283	IsCausedByDiagnosedCancer T652 yes
+R115	SiteOf Arg1:T428 Arg2:T652	
+R116	HappensAtOnDuring Arg1:T427 Arg2:T652	
+T8	SectionSkip 6664 7723	Physical Exam:   ECOG 0   Vital Signs - BP 134/82 | Pulse 69 | Temp 35.7 C (96.2 F) (Oral)  | Resp 18 | Ht 157.5 cm (5' 2.01") | Wt 80.8 kg (178 lb 3.2 oz) | LMP 09/03/2015 (Exact Date) | SpO2 98% | BMI 32.58 kg/m2   Constitutional - WDWN, NAD  Eyes - sclera anicteric, PERRL, EOMI  HENT - sinuses nontender, nasal mucosa intact, pharynx without erythema, stomatitis, or thrush   Lymph Nodes -   Respiratory - resonant to percussion throughout, CTA bilaterally; no wheezes, rhonchi, or crackles  Cardiovascular - Normal heart rate, normal rhythm, no murmurs, no edema  Breast - no masses bilaterally  GI - Bowel sounds normal, soft; no tenderness, no distention, no HSM  Musculoskeletal - No tenderness over bones or joints.   Neurologic - Alert & oriented x 3, ambulates w/o difficulty, good strength throughout  Psychiatric - Mood stable; no HI, SI, hallucinations, paranoia, or delusions  Skin - warm without rashes or lesions       Studies:  Available labs, pathology, and imaging were reviewed and independently interpreted, as described above in the HPI
+A284	SectionSkipType T8 physical_exam
+T9	SectionSkip 7728 7808;7811 9761;9764 10738	04/03/17 CYTOPATHOLOGY REPORT  ***** WITH ADDENDUM *****    Patient Name: *****, *****  Med. Rec.#: *****  DOB: 08/20/1983 (Age: 33)  Sex: Female  Accession #: *****-*****  Visit #: *****  Service Date: 04/03/2017  Received: 04/03/2017  Location: *****  Client: *****   Physician(s): ***** *****. ***** ((*****) *****-*****)    Source of Specimen:  Right supraclavicular lymph node, US guided fine needle aspiration    FINAL CYTOLOGIC DIAGNOSIS:  Right supraclavicular lymph node, US guided fine needle aspiration:   Metastatic adenoccarcinoma, consistent with breast primary; see comment.       COMMENTS:   The aspirates are moderately cellular and demonstrate clusters of  crowded, malignant epithelial cells arranged in cohesive aggregates and  papillary-like groups. The cells contain enlarged and angulated  hyperchromatic nuclei with coarse chromatin, nuclear grooves, and one to  multiple nucleoli. The cytoplasm is dense and eosinophilic, imparting  and apocrine appearnce. A rare intranuclear pseudoinclusion and  scattered mitotic figures are identified.    To further evaluate the neoplastic cells immunohistochemical stains were  performed and evaluated on the cell block and show the following  results:  - CK7: Positive  - CK20: Negative  - Thyroglobulin: Negative  - TTF1: Negative  - Napsin: Negative  - p40: Negative  - p63: Negative  - Mammaglobin: Negative  - GATA3: Positive  - GCDFP15: Negative  - PAX8: Negative  - ER: Positive     The cytopathologic and immunohistochemical findings are most compatible  with metastatic carcinoma of breast primary. Correlation with clinical  and radiologic findings is recommended.    ***** *****, NP, at ***** ***** was contacted with the diagnosis on  04/06/2017. She relayed an understanding of the diagnosis.    Immunohistochemical tests for estrogen and progesterone receptors, HER2  and Ki-67 were performed by manual morphometry on the cell block.    The test for estrogen receptors is positive. There is 3+ nuclear  staining in >90% of tumor cells. Internal positive control is present,  and external positive control is appropriate.    The test for progesterone receptors is positive. There is variable  (weak to strong, November 28+) nuclear staining in 50% of tumor cells. Internal  positive control is present, and external positive control is  appropriate.    Result of HER2 test: This carcinoma is equivocal for HER2 oncoprotein  over-expression. The staining intensity of this carcinoma was 2 on a  scale of 0-3.     ***** *****/Pathology Resident   ***** ***** *****/Pathologist  Electronically signed out on *****/*****/***** *****:*****:19    Addendum   Date Ordered:   04/06/2017   Status:  Signed Out    Date Complete:   04/10/2017   By: ***** *****    Date Reported:   04/10/2017     Addendum Diagnosis    - CA125: Weak patchy staining  - CAIX: Negative   - RCC: Negative  - Calcitonin: Negative    The additional immunohistochemical stains support the morphologic  findings. The previously reported diagnosis remains unchanged.
+A285	SectionSkipType T9 pathology_report
+T10	SectionSkip 10743 11694;11697 13647;13650 15604;15607 16943	Exam Date: 04/10/2017  Exam(s): Bilateral diagnostic mammography, right breast ultrasound    Clinical History:  33-year-old woman having diagnostic mammography to evaluate for primary breast malignancy. Patient had recent cervical lymph node FNA positive for breast adenocarcinoma. Receptors are pending per APEX.    Comparison:  There are no prior examinations available for comparison.    Mammographic Findings:  The breasts are extremely dense, which lowers the sensitivity of mammography.  There is right axillary lymphadenopathy including an enlarged calcified lymph node.  No mammographic features of primary malignancy in the right or left breast.    Ultrasound Findings:  There are multiple axillary lymph nodes with the cortex measuring up to 8mm. Additionally there is an enlarged right axillary lymph node with calcifications, which corresponds to the right axillary calcified enlarged lymph node on mammogram.    IMPRESSION:  Right breast: Known biopsy proven malignancy (BI-RADS 6).  Left breast: Negative (BI-RADS 1).    Recommendations:  Breast MRI to evaluate for underlying breast primary malignancy which is scheduled for 04/12/17. Patient is also scheduled for PET/CT tomorrow to evaluate for additional sites of disease.    Findings and management plan discussed with patient during the exam by Dr. *****.    A letter explaining this interpretation in lay language has been sent to the patient.    Radiologist  ***** *****. *****, M.D., Ph.D.    <This report was electronically signed by ***** *****. *****, M.D., Ph.D. at *****/*****/***** *****:23:13 AM>    Exam Date: 04/12/2017  Exam(s): MR breast bilateral en + un    Clinical History:  33-year-old woman status post palpation-guided FNA of cervical lymph node demonstrating metastatic adenocarcinoma consistent with breast carcinoma, no definite primary breast lesion identified on mammogram and ultrasound, with PET/CT demonstrating possible increased FDG avidity in the outer right breast, here for evaluation for a primary breast lesion.    Comparison:  Prior examinations dated 04/10/2017 (ultrasound) and 04/10/2017 (mammogram) were reviewed for comparison.    MRI Findings:  This bilateral breast MRI exam demonstrates marked background enhancement.  The breasts are composed of heterogeneous fibroglandular tissue and fat.    RIGHT Breast:  Marked background enhancement is seen, with the most confluent area of enhancement occurring in the right upper outer breast, posterior depth (best seen on post-gadolinium axial image #101, sagittal image #363), measuring up to 3.5 cm in AP dimension. This is only slightly more prominent on the right compared with the left side, and appears to correspond with the area noted on recent PET CT.  A more superficial and smaller right axillary tail mass is seen measuring approximately 1.5 x 0.5 x 1.0 cm (best seen on post-gadolinium axial image #104, sagittal image #369), which demonstrates suggestion of susceptibility artifact on T1 imaging and may correspond to the area of calcifications seen on mammogram. This appears to enhance with slightly greater intensity than the breast tissue described above.    LEFT Breast:  Marked background enhancement is seen. No abnormal areas of enhancement or other MRI features of malignancy are identified.    OTHER:  Markedly enlarged right axillary lymph nodes are seen with cortical thickness measuring up to 1 cm. Left axillary lymph nodes are unremarkable. Visualized abdomen and remainder of the chest is unremarkable.    IMPRESSION:  Right breast: Suspicious (BI-RADS 4).  Left breast: Negative (BI-RADS 1).    Recommendations:  1. Recommend second look ultrasound to evaluate 2 areas: (1) the area of more confluent enhancement in the upper outer right breast and (2) the right axillary tail mass which may correspond to the calcification-containing lesion on mammogram, with plan for ultrasound-guided core biopsy of these areas if correlates can be found, else recommend MRI-guided biopsy.    2. Abnormally enlarged right axillary lymph nodes are again seen, compatible with known metastatic disease.    Radiologist  ***** *****, MD    <This report was electronically signed by ***** *****, MD at *****/*****/***** *****:*****:17 PM>    PET/CT Whole Body (vertex to thighs) *****/*****/***** 9:49 AM    COMPARISON: None    REASON FOR THE STUDY: Staging.    CLINICAL HISTORY: 33 years old Female with newly diagnosed right supraclavicular node positive for breast cancer.      FINDINGS:    Brain: Study limited by patient motion. Unremarkable, symmetric, FDG uptake is seen throughout the cortical gray matter, basal ganglia and the cerebellum. No mass effect. While these images appear within normal limits, MRI is recommended to rule out intracranial and/or skull base metastases if clinically indicated.    Neck: Multiple hypermetabolic right cervical lymph nodes measuring up to 2.2 x 1.8 cm in the jugular chain with SUV max of 6.0 (series 3 image 50). Additional 0.8 cm left Vb lymph node with SUV max of 2.4. Scattered non-FDG avid subcentimeter thyroid nodules.     Chest: Multiple hypermetabolic right axillary lymph nodes measuring up to 2.7 x 1.7 cm with SUV max of 4.5 (series 3 image 67). Previously biopsied 0.9 cm hypermetabolic right supraclavicular lymph node with SUV max of 3.5. Heterogeneous breast tissue noted bilaterally with heterogeneous FDG avidity, with an area of increased FDG avidity which appears slightly nodular in the upper outer right breast. Lungs are clear.     Abdomen/Pelvis: Unremarkable abdomino-pelvic organs. Normal appendix. No hypermetabolic lymphadenopathy.    Musculoskeletal: No metastatic disease.    IMPRESSION:     1. Hypermetabolic ,enlarged ,right supraclavicular, right axillary, and right cervical lymphadenopathy compatible with metastatic disease.    2. Mildly hypermetabolic left cervical lymph nodes may represent additional metastases.    3. No definite primary seen, however heterogeneous breast tissue with nodular area of increased FDG avidity noted in the outer right breast. Correlate with mammographic findings.    This study was reviewed by attendings Dr. ***** ***** from ***** ***** and Dr. ***** ***** ***** of Nuclear Medicine.    END OF IMPRESSION
+A286	SectionSkipType T10 radiology_report
+T11	ClinicalCondition 102 108	cancer
+T653	Site 95 101	breast
+R117	SiteOf Arg1:T653 Arg2:T11	
+R118	TumorDesc TumorDetails:T11 Desc:T414	
+R119	TumorDesc TumorDetails:T11 Desc:T412	
+R120	TumorDesc TumorDetails:T11 Desc:T415	
+R121	SiteOf Arg1:T442 Arg2:T441	
+R122	TestOrProcedureReveals Test:T447 Desc:T452	
+R123	TestOrProcedureReveals Test:T456 Desc:T458	
+R124	TestOrProcedureReveals Test:T456 Desc:T463	
+R125	SiteOf Arg1:T461 Arg2:T458	
+R126	SiteOf Arg1:T464 Arg2:T458	
+R127	TestOrProcedureReveals Test:T456 Desc:T466	
+R128	TestOrProcedureReveals Test:T456 Desc:T476	
+R129	SiteOf Arg1:T467 Arg2:T476	
+R130	SiteOf Arg1:T464 Arg2:T466	
+R131	SiteOf Arg1:T461 Arg2:T463	
+R132	SiteOf Arg1:T468 Arg2:T477	
+R133	TestOrProcedureReveals Test:T456 Desc:T477	
+T654	RadPathResult 1658 1670	unremarkable
+R134	ResultOfTest Desc:T654 Test:T456	
+R135	TestOrProcedureReveals Test:T498 Desc:T492	
+R136	TestOrProcedureReveals Test:T479 Desc:T481	
+R137	TestOrProcedureReveals Test:T479 Desc:T480	
+R138	TestOrProcedureReveals Test:T479 Desc:T482	
+R139	TestOrProcedureReveals Test:T479 Desc:T483	
+R140	TestOrProcedureReveals Test:T479 Desc:T484	
+R141	TestOrProcedureReveals Test:T479 Desc:T485	
+R142	TestOrProcedureReveals Test:T479 Desc:T486	
+R144	TestOrProcedureReveals Test:T479 Desc:T487	
+R143	TestOrProcedureReveals Test:T479 Desc:T488	
+R145	TestOrProcedureReveals Test:T479 Desc:T489	
+R146	TestOrProcedureReveals Test:T479 Desc:T490	
+R147	TestOrProcedureReveals Test:T479 Desc:T491	
+R148	TestOrProcedureReveals Test:T479 Desc:T492	
+R149	LateralityOfSite Arg1:T475 Arg2:T503	
+R150	SiteOf Arg1:T503 Arg2:T502	
+R53	SiteOf Arg1:T540 Arg2:T539	
+R151	TestOrProcedureReveals Test:T542 Desc:T552	
+R152	TestOrProcedureReveals Test:T542 Desc:T554	
+T508	Laterality 2566 2577	bilaterally
+R153	LateralityOfSite Arg1:T508 Arg2:T514	
+R154	TestOrProcedureReveals Test:T542 Desc:T556	
+T538	Site 3328 3334	breast
+R155	SiteOf Arg1:T538 Arg2:T530	
+R156	TestOrProcedureReveals Test:T650 Desc:T649	
+R157	TreatmentAdministeredForProblem Treatment:T642 Prob:T638	
+R158	NotUndergoneBecauseOf Arg1:T643 Reason:T638	
+R159	TreatmentAdministeredForProblem Treatment:T641 Prob:T637	
+R160	TestOrProcedureReveals Test:T635 Desc:T633	
+A287	NegationModalityVal T636 planned_in_future
+T632	Site 17517 17523	breast
+R161	SiteOf Arg1:T632 Arg2:T615	
+T655	Site 17791 17798	distant
+R162	SiteOf Arg1:T655 Arg2:T625	
+T656	Site 17330 17336	breast
+R163	SiteOf Arg1:T656 Arg2:T614	
+R164	TumorDesc TumorDetails:T612 Desc:T614	
+T657	Site 17041 17047	breast
+R165	SiteOf Arg1:T657 Arg2:T606	
+R166	TumorDesc TumorDetails:T604 Desc:T606	
+R167	TumorDesc TumorDetails:T607 Desc:T606	
+R168	SiteOf Arg1:T609 Arg2:T607	
+R169	SiteOf Arg1:T610 Arg2:T607	
+T658	SDoH 4498 4504	mother
+T659	MaritalStatus 4491 4497	single
+T660	ConsumptionQuantity 4213 4224	0.6 oz/week
+T661	Drugs 4310 4312	No
+A288	NegationModalityVal T661 negated
+T662	Alcohol 4284 4295	1 per month
+T663	ConsumptionQuantity 4229 4269	1 Standard drinks or equivalent per week
+R170	ConsumptionQuantityRel Arg1:T662 Arg2:T663	
+R171	ConsumptionQuantityRel Arg1:T662 Arg2:T660	
+R172	HappensAtOnDuring Arg1:T571 Arg2:T570	
+R173	HappensAtOnDuring Arg1:T567 Arg2:T568	
+R174	TumorDesc TumorDetails:T530 Desc:T531	
+R176	SiteOf Arg1:T518 Arg2:T561	
+R177	SiteOf Arg1:T519 Arg2:T560	
+R179	SizeOf Arg1:T423 Arg2:T422	
+R180	SizeOf Arg1:T452 Arg2:T451	
+T664	LymphNodeInvolvement 515 526	lymph nodes
+A289	NegationModalityVal T664 uncertain_in_present
+T665	Symptom 559 570	mobile mass
+A290	IsPresentOnFirstCancerDiagnosis T665 yes
+A291	IsCausedByDiagnosedCancer T665 yes
+A292	ContinuityVal T665 new
+R181	SizeOf Arg1:T429 Arg2:T665	
+T666	Symptom 605 609	mass
+A293	IsPresentOnFirstCancerDiagnosis T666 yes
+A294	IsCausedByDiagnosedCancer T666 yes
+A295	ChronicVal T666 non-chronic
+A296	ContinuityVal T666 new
+R182	SizeOf Arg1:T432 Arg2:T666	
+R183	SizeOf Arg1:T463 Arg2:T458	
+R184	SizeOf Arg1:T466 Arg2:T458	
+R185	SizeOf Arg1:T476 Arg2:T458	
+T667	LymphNodeInvolvement 943 945	LN
+A297	NegationModalityVal T667 uncertain_in_present
+R186	SizeOf Arg1:T441 Arg2:T667	
+R187	HappensAtOnDuring Arg1:T478 Arg2:T479	
+R188	SizeOf Arg1:T477 Arg2:T458	
+T668	Size 2179 2185	0.8 cm
+T669	LymphNodeInvolvement 2159 2161	LN
+A298	EpisodeDescription T669 FirstOccurrence
+R189	SizeOf Arg1:T668 Arg2:T669	
+T670	Site 2150 2158	axillary
+R190	SiteOf Arg1:T670 Arg2:T669	
+R191	TestOrProcedureReveals Test:T537 Desc:T669	
+T507	LymphNodeInvolvement 2302 2304	LN
+A299	EpisodeDescription T507 FirstOccurrence
+R192	SizeOf Arg1:T544 Arg2:T507	
+T671	LymphNodeInvolvement 2355 2357	LN
+A300	EpisodeDescription T671 FirstOccurrence
+T672	LymphNodeInvolvement 2466 2468	LN
+A301	EpisodeDescription T672 FirstOccurrence
+T673	LymphNodeInvolvement 2516 2518	LN
+A302	EpisodeDescription T673 FirstOccurrence
+R193	SizeOf Arg1:T547 Arg2:T671	
+R194	SizeOf Arg1:T552 Arg2:T672	
+R73	SizeOf Arg1:T554 Arg2:T673	
+T674	Size 2774 2780	3.5 cm
+A303	EpisodeDescription T674 FirstOccurrence
+R76	SizeOf Arg1:T674 Arg2:T561	
+R175	ResultOfTest Desc:T560 Test:T564	
+T675	LymphNodeInvolvement 3050 3052	LN
+A304	EpisodeDescription T675 FirstOccurrence
+R93	SizeOf Arg1:T556 Arg2:T675	
+T676	hpi_start 0 2	ID
+T677	hpi_end 3479 3480	.
+T678	ap_start 16947 16957	Assessment
+T679	ap_end 19150 19157	testing
+R89	SizeOf Arg1:T555 Arg2:T560	

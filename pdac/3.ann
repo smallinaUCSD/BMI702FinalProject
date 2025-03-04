@@ -1,0 +1,378 @@
+T1	SectionAnnotate 0 11	SUBJECTIVE:
+T2	SectionSkip 1606 2447	Medications the patient states to be taking prior to today's encounter.   Medication Sig    buPROPion (WELLBUTRIN SR) 100 mg 12 hr tablet Take 100 mg by mouth daily    estradiol twice weekly patch 0.05 mg/24 hr estradiol 0.05 mg/24 hr semiweekly transdermal patch    LORazepam (ATIVAN) 1 mg tablet Take 1 mg by mouth every 8 (eight) hours 
+ as needed for Anxiety (nausea and vomiting)    ondansetron (ZOFRAN) 8 mg tablet Take 1 tablet three times a day as needed for nausea and vomiting. Start 2 days after last dose of palonosetron (Aloxi) is given.    pantoprazole (PROTONIX) 40 mg EC tablet Take 1 tablet (40 mg total) by mouth daily Take 30 minutes before breakfast    PRISTIQ 100 mg 24 hr tablet Take 100 mg by mouth daily       progesterone (PROMETRIUM) 100 mg capsule TAKE 1 CAPSULE BY MOUTH DAILY AT BEDTIME         OBJECTIVE:
+T3	SectionSkip 2526 2664	Imaging:    CT Abdomen /Pelvis with Contrast    Result Date: 06/18/2021  CT ABDOMEN/PELVIS WITH CONTRAST  *****/*****/***** *****:***** PM
+T4	SectionSkip 2865 2964	MEDICATIONS: Omnipaque - 500 mL - Oral Omnipaque - 500 mL - Oral Iohexol 350 - 150 mL - Intravenous
+T5	SectionSkip 2965 4653	FINDINGS: Visualized lung bases:  Please to same-day CT chest for pulmonary findings. Liver:  Similar pneumobilia when compared to 04/15/2021. Known hemangiomas in segment 3 and 7. No suspicious lesions. Gallbladder: Cholelithiasis. Metallic stent in the CBD with debris within the lumen similar to recent study. Spleen:  Similar splenomegaly. Pancreas:  Similar ill-defined pancreatic head mass which is difficult to accurately measure and appears relatively similar in size when compared to recent MRI measuring 4.2 x 3.6 cm. The cystic component is also unchanged. Similar ductal dilatation of the main pancreatic duct. Adrenal Glands:  Unremarkable Kidneys:  Unremarkable GI Tract:  Unremarkable Vasculature:  Similar fat stranding surrounding the SMA and encasement of the common hepatic artery as well as severe narrowing of the portal vein/SMV confluence. Lymphadenopathy: Similar porta hepatis lymphadenopathy measuring up to 1.3 
+ cm. Peritoneum: No ascites Bladder: Unremarkable Reproductive organs: Unremarkable Bones:  Unchanged postsurgical changes of the lumbar spine. Extraperitoneal soft tissues: Unremarkable Lines/drains/medical devices: None RADIATION DOSE INDICATORS: Exposure Events: 3 , CTDIvol Min: 16.9 mGy, CTDIvol Max: 16.9 mGy, DLP: 1100.1 mGy.cm. The following accession numbers are related to this dose report *****,*****     Compared to recent MRI dated 04/23/2021, no significant change in size of ill-defined pancreatic head/neck mass. No evidence of metastasis. Report dictated by: ***** *****, DO, signed by: ***** ***** *****, MD Department of Radiology and Biomedical Imaging    CT Chest with Contrast    Result Date: 06/18/2021  CT CHEST WITH CONTRAST
+T6	SectionSkip 5234 6202	FINDINGS: Support device(s): Right chest port catheter terminates at the superior cavoatrial junction. LUNGS: No new suspicious nodule. A few tiny groundglass nodules in the upper lobes are unchanged. For reference, there is a 3 mm right apical groundglass nodule is unchanged (series 4, image 64). PLEURA: No pleural effusion. MEDIASTINUM: No adenopathy. HEART/GREAT VESSELS: The heart and major thoracic vascular structures are normal in size. No pericardial effusion. BONES/SOFT TISSUES: No suspicious lesion. VISIBLE ABDOMEN: Please see dedicated abdomen and pelvis CT report. 
+     Unchanged tiny groundglass nodules in the apices, most likely inflammation or scar. However, attention on follow-up is advised. Report dictated by: ***** *****, MD, signed by: ***** *****, MD Department of Radiology and Biomedical Imaging    XR ERCP Cholangiogram Pancreatography    Result Date: 06/25/2021  FL ERCP CHOLANGIOGRAM PANCREATOGRAPHY:   *****/*****/***** *****:***** PM
+T7	SectionAnnotate 7283 7294	ASSESSMENT:
+T8	PROBLEM 77 107	adenocarcinoma of the pancreas
+T9	PROBLEM 119 126	disease
+T10	PROBLEM 189 213	locally advanced disease
+T11	TREATMENT 229 238	treatment
+T12	TREATMENT 244 254	FOLFIRINOX
+T13	TREATMENT 277 284	therapy
+T14	TEST 286 297	her CT scan
+T15	PROBLEM 305 323	a new liver lesion
+T16	TEST 349 352	MRI
+T17	PROBLEM 371 381	metastasis
+T18	TEST 386 408	subsequent PET/CT scan
+T19	PROBLEM 427 444	the liver lesions
+T20	TREATMENT 502 513	gemcitabine
+T21	TREATMENT 518 526	Abraxane
+T22	TEST 578 590	surveillance
+T23	PROBLEM 693 710	her liver lesions
+T24	PROBLEM 716 727	hemangiomas
+T25	PROBLEM 738 759	a lesion in segment 7
+T26	PROBLEM 785 803	a liver metastasis
+T27	TEST 835 841	an EGD
+T28	TEST 846 850	ERCP
+T29	PROBLEM 875 892	persistent nausea
+T30	PROBLEM 916 930	tumor ingrowth
+T31	TREATMENT 935 944	her stent
+T32	PROBLEM 956 971	a biliary stone
+T33	PROBLEM 976 987	blood clots
+T34	TREATMENT 1012 1033	a covered metal stent
+T35	TREATMENT 1054 1072	the existing stent
+T36	TEST 1098 1100	CA
+T37	TREATMENT 1138 1156	the stent revision
+T38	PROBLEM 1242 1251	brain fog
+T39	TREATMENT 1276 1292	her chemotherapy
+T40	PROBLEM 1294 1344	The numbness and tingling in her fingers and hands
+T41	PROBLEM 1374 1412	some numbness and tingling in her feet
+T42	TEST 1479 1487	the ERCP
+T43	TREATMENT 1560 1567	MiraLAX
+T44	TREATMENT 1606 1617	Medications
+T45	TREATMENT 1680 1690	Medication
+T46	TREATMENT 1699 1724	buPROPion (WELLBUTRIN SR)
+T47	TREATMENT 1776 1785	estradiol
+T48	TREATMENT 1819 1828	estradiol
+T49	TREATMENT 1876 1894	LORazepam (ATIVAN)
+T50	PROBLEM 1964 1971	Anxiety
+T51	PROBLEM 1973 1979	nausea
+T52	PROBLEM 1984 1992	vomiting
+T53	TREATMENT 1998 2018	ondansetron (ZOFRAN)
+T54	PROBLEM 2077 2083	nausea
+T55	PROBLEM 2088 2096	vomiting
+T56	TREATMENT 2130 2150	palonosetron (Aloxi)
+T57	TREATMENT 2165 2188	pantoprazole (PROTONIX)
+T58	TREATMENT 2285 2292	PRISTIQ
+T59	TREATMENT 2347 2372	progesterone (PROMETRIUM)
+T60	TEST 2451 2462	Vital signs
+T61	TEST 2526 2533	Imaging
+T62	TEST 2538 2570	CT Abdomen /Pelvis with Contrast
+T63	TEST 2599 2601	CT
+T64	TEST 2602 2630	ABDOMEN/PELVIS WITH CONTRAST
+T65	TEST 2683 2697	restaging scan
+T66	PROBLEM 2699 2716	Pancreatic cancer
+T67	TREATMENT 2747 2760	chemo holiday
+T68	TEST 2775 2792	CT abdomen pelvis
+T69	TEST 2821 2849	CT of the abdomen and pelvis
+T70	TREATMENT 2878 2887	Omnipaque
+T71	TREATMENT 2899 2913	Oral Omnipaque
+T72	TREATMENT 2925 2937	Oral Iohexol
+T73	TEST 3018 3026	CT chest
+T74	PROBLEM 3031 3049	pulmonary findings
+T75	PROBLEM 3059 3078	Similar pneumobilia
+T76	PROBLEM 3108 3138	Known hemangiomas in segment 3
+T77	PROBLEM 3149 3167	suspicious lesions
+T78	PROBLEM 3182 3196	Cholelithiasis
+T79	TREATMENT 3198 3223	Metallic stent in the CBD
+T80	PROBLEM 3229 3252	debris within the lumen
+T81	TEST 3264 3276	recent study
+T82	PROBLEM 3287 3307	Similar splenomegaly
+T83	PROBLEM 3320 3360	Similar ill-defined pancreatic head mass
+T84	TEST 3458 3468	recent MRI
+T85	PROBLEM 3533 3586	Similar ductal dilatation of the main pancreatic duct
+T86	PROBLEM 3679 3700	Similar fat stranding
+T87	PROBLEM 3776 3826	severe narrowing of the portal vein/SMV confluence
+T88	PROBLEM 3828 3843	Lymphadenopathy
+T89	PROBLEM 3845 3882	Similar porta hepatis lymphadenopathy
+T90	PROBLEM 3924 3931	ascites
+T91	PROBLEM 3996 4046	Unchanged postsurgical changes of the lumbar spine
+T92	TREATMENT 4091 4103	Lines/drains
+T93	TEST 4197 4208	CTDIvol Max
+T94	TEST 4220 4223	DLP
+T95	TEST 4332 4342	recent MRI
+T96	PROBLEM 4364 4382	significant change
+T97	PROBLEM 4394 4431	ill-defined pancreatic head/neck mass
+T98	PROBLEM 4448 4458	metastasis
+T99	TEST 4558 4588	Biomedical Imaging    CT Chest
+T100	TEST 4631 4633	CT
+T101	PROBLEM 4673 4690	Pancreatic cancer
+T102	TEST 4692 4714	primary restaging scan
+T103	PROBLEM 4716 4733	Pancreatic cancer
+T104	TREATMENT 4764 4777	chemo holiday
+T105	PROBLEM 4799 4833	Mucinous pancreatic adenocarcinoma
+T106	TEST 4847 4858	Thoracic CT
+T107	TEST 4899 4922	concurrent abdominal CT
+T108	TEST 4934 4979	Serial 1.25 mm axial images through the chest
+T109	TREATMENT 5022 5042	intravenous contrast
+T110	TEST 5115 5126	CTDIvol Max
+T111	TEST 5138 5141	DLP
+T112	TREATMENT 5244 5261	Support device(s)
+T113	TREATMENT 5263 5288	Right chest port catheter
+T114	PROBLEM 5347 5368	new suspicious nodule
+T115	PROBLEM 5370 5419	A few tiny groundglass nodules in the upper lobes
+T116	PROBLEM 5459 5497	a 3 mm right apical groundglass nodule
+T117	PROBLEM 5544 5560	pleural effusion
+T118	PROBLEM 5578 5588	adenopathy
+T119	PROBLEM 5683 5703	pericardial effusion
+T120	PROBLEM 5728 5745	suspicious lesion
+T121	TEST 5775 5806	dedicated abdomen and pelvis CT
+T122	PROBLEM 5821 5869	Unchanged tiny groundglass nodules in the apices
+T123	PROBLEM 5883 5895	inflammation
+T124	PROBLEM 5899 5903	scar
+T125	TEST 6041 6059	Biomedical Imaging
+T126	TEST 6066 6070	ERCP
+T127	TEST 6071 6084	Cholangiogram
+T128	TEST 6085 6100	Pancreatography
+T129	TEST 6137 6150	CHOLANGIOGRAM
+T130	TEST 6151 6166	PANCREATOGRAPHY
+T131	PROBLEM 6221 6238	pancreatic cancer
+T132	TEST 6251 6268	CT abdomen/pelvis
+T133	TEST 6303 6310	an ERCP
+T134	TEST 6330 6340	evaluation
+T135	TREATMENT 6346 6355	Endoscope
+T136	TREATMENT 6386 6415	subsequent wire cannulization
+T137	TREATMENT 6419 6454	the metallic common bile duct stent
+T138	TREATMENT 6456 6460	Wire
+T139	TEST 6527 6551	subsequent cholangiogram
+T140	PROBLEM 6566 6621	irregular moderate intrahepatic biliary ductal dilation
+T141	PROBLEM 6627 6642	filling defects
+T142	PROBLEM 6654 6660	sludge
+T143	PROBLEM 6664 6670	stones
+T144	PROBLEM 6672 6715	Irregular narrowing of the common bile duct
+T145	TREATMENT 6733 6742	the stent
+T146	TREATMENT 6748 6775	subsequent balloon sweeping
+T147	PROBLEM 6804 6821	pancreatic cancer
+T148	TREATMENT 6888 6915	A likely second metal stent
+T149	TREATMENT 6936 6980	the existing metallic common bile duct stent
+T150	TREATMENT 7047 7060	the procedure
+T151	TREATMENT 7082 7094	Lines/drains
+T152	TREATMENT 7112 7144	Metallic common bile duct stents
+T153	PROBLEM 7301 7342	Metastatic adenocarcinoma of the pancreas
+T154	TEST 7492 7511	a follow-up CT scan
+T155	TREATMENT 7542 7574	future investigational therapies
+T156	TEST 7727 7742	this evaluation
+T157	TEST 7920 7935	this evaluation
+T158	TEST 7942 7958	telehealth tools
+T159	TREATMENT 7997 8016	this patient's care
+T160	TREATMENT 8075 8096	any billed procedures
+T161	TEST 8234 8239	tests
+T162	Age 39 41	64
+T163	ClinicalCondition 77 107	adenocarcinoma of the pancreas
+A1	ChronicVal T163 chronic
+A2	ContinuityVal T163 stable
+T164	Histology 77 91	adenocarcinoma
+R1	TumorDesc TumorDetails:T164 Desc:T163	
+T165	Stage 189 205	locally advanced
+A3	EpisodeDescription T165 FirstOccurrence
+T166	Datetime 155 164	June 2020
+R2	BeginsOnOrAt Arg1:T166 Arg2:T165	
+T167	Stage 109 136	extent of disease uncertain
+A4	EpisodeDescription T167 Progression
+R3	TumorDesc TumorDetails:T167 Desc:T163	
+T168	MedicationName 244 254	FOLFIRINOX
+A5	TreatmentTypeVal T168 neoadjuvant
+T169	Cycles 265 273	4 cycles
+R4	TreatmentDesc Therapy:T168 Desc:T169	
+T170	Radiology 290 297	CT scan
+A6	IntentVal T170 TreatmentAssessment
+T171	RadPathResult 305 310;317 323	a new lesion
+A7	RadPathResultVal T171 Progression
+T172	Site 311 316	liver
+R5	SiteOf Arg1:T172 Arg2:T171	
+T173	Radiology 349 352	MRI
+A8	IntentVal T173 TreatmentAssessment
+T174	RadPathResult 334 343;371 381	confirmed metastasis
+A9	RadPathResultVal T174 Progression
+R6	ResultOfTest Desc:T174 Test:T173	
+R7	ResultOfTest Desc:T171 Test:T170	
+T175	Radiology 397 408	PET/CT scan
+A10	IntentVal T175 TreatmentAssessment
+T176	RadPathResult 409 421;437 458	did not show lesions were PET avid
+A11	RadPathResultVal T176 NoDisease
+T177	Site 431 436	liver
+R8	SiteOf Arg1:T177 Arg2:T176	
+R9	ResultOfTest Desc:T176 Test:T175	
+T178	MedicationRegimen 502 526	gemcitabine and Abraxane
+A12	TreatmentContinuityVal T178 finished
+A13	TreatmentTypeVal T178 maintenance
+T179	Datetime 481 488	October
+R10	BeginsOnOrAt Arg1:T179 Arg2:T178	
+R11	TreatmentAdministeredForProblem Treatment:T178 Prob:T174	
+R12	TreatmentAdministeredForProblem Treatment:T178 Prob:T171	
+T180	ClinicalCondition 206 213	disease
+A14	ContinuityVal T180 new
+R13	TumorDesc TumorDetails:T165 Desc:T180	
+R14	TreatmentAdministeredForProblem Treatment:T168 Prob:T180	
+A15	TreatmentContinuityVal T168 discontinued_early
+T181	Cycles 550 553	six
+R15	TreatmentDesc Therapy:T181 Desc:T178	
+T182	Frequency 554 560	28 day
+R17	Temporal Arg1:T182 Arg2:T181	
+R16	TreatmentDesc Therapy:T181 Desc:T178	
+R18	TreatmentDiscontinuedBecauseOf Therapy:T168 Reason:T171	
+R19	TreatmentDiscontinuedBecauseOf Therapy:T168 Reason:T174	
+T183	DiseaseState 578 590	surveillance
+A16	DiseaseStateVal T183 stability
+T184	ProcedureName 838 841	EGD
+A17	IntentVal T184 others
+A18	TreatmentTypeVal T184 others
+A19	TreatmentCategory T184 Supportive
+T185	ProcedureName 846 850	ERCP
+A20	IntentVal T185 treatment-others
+A21	TreatmentTypeVal T185 others
+A22	TreatmentCategory T185 Others
+T186	Symptom 875 892	persistent nausea
+A23	IsPresentOnFirstCancerDiagnosis T186 no
+A24	IsCausedByDiagnosedCancer T186 yes
+A25	ChronicVal T186 non-chronic
+R20	TestOrProcedureConductedForProblem Test:T185 Prob:T186	
+R21	TestOrProcedureConductedForProblem Test:T184 Prob:T186	
+T188	BiomarkerName 1098 1105	CA-19-9
+A27	EpisodeDescription T188 Progression
+T189	BiomarkerResult 1081 1097	does not express
+A28	BiomarkerResultVal T189 Negative
+R23	BiomarkerRel Arg1:T189 Arg2:T188	
+T190	Datetime 816 825	this week
+R24	HappensAtOnDuring Arg1:T184 Arg2:T190	
+R25	HappensAtOnDuring Arg1:T185 Arg2:T190	
+T191	PhysicalActivity 1168 1185	good energy level
+T192	Symptom 1242 1251	brain fog
+A29	IsPresentOnFirstCancerDiagnosis T192 no
+A30	IsCausedByDiagnosedCancer T192 no
+A31	ChronicVal T192 non-chronic
+T193	TreatmentType 1280 1292	chemotherapy
+A32	TreatmentContinuityVal T193 finished
+R26	ConditionOrTreatmentCausesProblem Treatment:T193 Prob:T192	
+T194	Symptom 1298 1319	numbness and tingling
+A34	NegationModalityVal T194 negated
+A35	IsPresentOnFirstCancerDiagnosis T194 no
+A36	IsCausedByDiagnosedCancer T194 no
+A37	ChronicVal T194 non-chronic
+T195	Symptom 1374 1400	some numbness and tingling
+A38	IsPresentOnFirstCancerDiagnosis T195 no
+A39	IsCausedByDiagnosedCancer T195 no
+A40	ChronicVal T195 non-chronic
+T196	Site 1408 1412	feet
+R27	SiteOf Arg1:T196 Arg2:T195	
+T197	Site 1327 1334	fingers
+R28	SiteOf Arg1:T197 Arg2:T194	
+T198	Symptom 1447 1468	appetite is improving
+A41	NegationModalityVal T198 negated
+A42	NegationModalityVal T191 affirmed
+T199	Symptom 1499 1513	bowel movement
+A43	NegationModalityVal T199 affirmed
+T200	Frequency 1514 1526	every 3 days
+R29	Temporal Arg1:T200 Arg2:T199	
+T201	MedicationName 1550 1555	fiber
+A44	TreatmentContinuityVal T201 continuing
+A45	TreatmentTypeVal T201 others
+T202	MedicationName 1560 1567	MiraLAX
+A46	TreatmentContinuityVal T202 continuing
+A47	TreatmentTypeVal T202 others
+A33	TreatmentIntentVal T193 palliative
+R30	TreatmentAdministeredForProblem Treatment:T201 Prob:T199	
+R31	TreatmentAdministeredForProblem Treatment:T202 Prob:T199	
+A48	IsPresentOnFirstCancerDiagnosis T199 no
+A49	IsCausedByDiagnosedCancer T199 yes
+A50	ChronicVal T199 chronic
+T203	PhysicalActivity 1195 1213	walk up to 4 miles
+T204	Frequency 1214 1219	a day
+R32	Temporal Arg1:T204 Arg2:T203	
+T205	Symptom 1573 1593	hair is growing back
+A51	NegationModalityVal T205 negated
+T206	SectionSkip 2526 3902;3905 5814;5821 7279	Imaging:    CT Abdomen /Pelvis with Contrast    Result Date: 06/18/2021  CT ABDOMEN/PELVIS WITH CONTRAST  *****/*****/***** *****:***** PM CLINICAL HISTORY: restaging scan. Pancreatic cancer unresectable. Pt currently on chemo holiday. COMPARISON:  CT abdomen pelvis dated 04/15/2021 TECHNIQUE: CT of the abdomen and pelvis was performed. MEDICATIONS: Omnipaque - 500 mL - Oral Omnipaque - 500 mL - Oral Iohexol 350 - 150 mL - Intravenous FINDINGS: Visualized lung bases:  Please to same-day CT chest for pulmonary findings. Liver:  Similar pneumobilia when compared to 04/15/2021. Known hemangiomas in segment 3 and 7. No suspicious lesions. Gallbladder: Cholelithiasis. Metallic stent in the CBD with debris within the lumen similar to recent study. Spleen:  Similar splenomegaly. Pancreas:  Similar ill-defined pancreatic head mass which is difficult to accurately measure and appears relatively similar in size when compared to recent MRI measuring 4.2 x 3.6 cm. The cystic component is also unchanged. Similar ductal dilatation of the main pancreatic duct. Adrenal Glands:  Unremarkable Kidneys:  Unremarkable GI Tract:  Unremarkable Vasculature:  Similar fat stranding surrounding the SMA and encasement of the common hepatic artery as well as severe narrowing of the portal vein/SMV confluence. Lymphadenopathy: Similar porta hepatis lymphadenopathy measuring up to 1.3 cm. Peritoneum: No ascites Bladder: Unremarkable Reproductive organs: Unremarkable Bones:  Unchanged postsurgical changes of the lumbar spine. Extraperitoneal soft tissues: Unremarkable Lines/drains/medical devices: None RADIATION DOSE INDICATORS: Exposure Events: 3 , CTDIvol Min: 16.9 mGy, CTDIvol Max: 16.9 mGy, DLP: 1100.1 mGy.cm. The following accession numbers are related to this dose report *****,*****     Compared to recent MRI dated 04/23/2021, no significant change in size of ill-defined pancreatic head/neck mass. No evidence of metastasis. Report dictated by: ***** *****, DO, signed by: ***** ***** *****, MD Department of Radiology and Biomedical Imaging    CT Chest with Contrast    Result Date: 06/18/2021  CT CHEST WITH CONTRAST CLINICAL HISTORY:  Pancreatic cancer, primary restaging scan. Pancreatic cancer unresectable. Pt currently on chemo holiday. Additional history: Mucinous pancreatic adenocarcinoma. COMPARISON: Thoracic CT from 04/15/2021 and more remote priors, concurrent abdominal CT TECHNIQUE: Serial 1.25 mm axial images through the chest were obtained after the administration of intravenous contrast. RADIATION DOSE INDICATORS: Exposure Events: 3 , CTDIvol Min: 16.9 mGy, CTDIvol Max: 16.9 mGy, DLP: 1100.1 mGy.cm. The following accession numbers are related to this dose report *****,***** FINDINGS: Support device(s): Right chest port catheter terminates at the superior cavoatrial junction. LUNGS: No new suspicious nodule. A few tiny groundglass nodules in the upper lobes are unchanged. For reference, there is a 3 mm right apical groundglass nodule is unchanged (series 4, image 64). PLEURA: No pleural effusion. MEDIASTINUM: No adenopathy. HEART/GREAT VESSELS: The heart and major thoracic vascular structures are normal in size. No pericardial effusion. BONES/SOFT TISSUES: No suspicious lesion. VISIBLE ABDOMEN: Please see dedicated abdomen and pelvis CT report. Unchanged tiny groundglass nodules in the apices, most likely inflammation or scar. However, attention on follow-up is advised. Report dictated by: ***** *****, MD, signed by: ***** *****, MD Department of Radiology and Biomedical Imaging    XR ERCP Cholangiogram Pancreatography    Result Date: 06/25/2021  FL ERCP CHOLANGIOGRAM PANCREATOGRAPHY:   *****/*****/***** *****:***** PM CLINICAL HISTORY: pancreatic cancer COMPARISON: CT abdomen/pelvis 06/18/2021 TECHNIQUE: Image(s) of an ERCP were submitted for evaluation.     Endoscope advanced to the duodenum with subsequent wire cannulization of the metallic common bile duct stent. Wire was passed beyond the stent into the intrahepatic bile ducts with subsequent cholangiogram demonstrating irregular moderate intrahepatic biliary ductal dilation with filling defects related to sludge or stones. Irregular narrowing of the common bile duct in the region of the stent with subsequent balloon sweeping related to known history of pancreatic cancer. Sweeping of the right intrahepatic bile duct was also performed. A likely second metal stent was deployed within the existing metallic common bile duct stent. Please refer to a separate report by the physician who performed the procedure for further details. Lines/drains/medical devices: Metallic common bile duct stents Report dictated by: ***** *****-***** *****, MD, signed by: ***** *****-***** *****, MD Department of Radiology and Biomedical Imaging
+A52	SectionSkipType T206 radiology_report
+T207	Metastasis 7301 7311	Metastatic
+A53	EpisodeDescription T207 Others
+T208	Histology 7312 7326	adenocarcinoma
+A54	EpisodeDescription T208 Others
+T209	ClinicalCondition 7301 7342	Metastatic adenocarcinoma of the pancreas
+R33	TumorDesc TumorDetails:T208 Desc:T209	
+R34	TumorDesc TumorDetails:T207 Desc:T209	
+T210	DiseaseState 7358 7394	good disease control on surveillance
+A55	DiseaseStateVal T210 stability
+T211	PerformanceStatus 7404 7405	1
+A56	PerformanceStatusType T211 ECOG
+T212	Radiology 7504 7511	CT scan
+A57	NegationModalityVal T212 planned_in_future
+T213	TreatmentType 7437 7449	surveillance
+A58	NegationModalityVal T213 affirmed
+A59	TreatmentContinuityVal T213 continuing
+A60	TreatmentTypeVal T213 others
+T214	Datetime 7478 7486	2 months
+R36	HappensAfter Arg1:T212 Arg2:T214	
+T215	SectionSkip 2437 2522	OBJECTIVE:    Vital signs were not obtained for this visit.  She appears comfortable.
+A61	SectionSkipType T215 physical_exam
+T216	SectionSkip 1600 1676;1680 1947;1950 2428	MED:  Medications the patient states to be taking prior to today's encounter Medication Sig    buPROPion (WELLBUTRIN SR) 100 mg 12 hr tablet Take 100 mg by mouth daily    estradiol twice weekly patch 0.05 mg/24 hr estradiol 0.05 mg/24 hr semiweekly transdermal patch    LORazepam (ATIVAN) 1 mg tablet Take 1 mg by mouth every 8 (eight) hours as needed for Anxiety (nausea and vomiting)    ondansetron (ZOFRAN) 8 mg tablet Take 1 tablet three times a day as needed for nausea and vomiting. Start 2 days after last dose of palonosetron (Aloxi) is given.    pantoprazole (PROTONIX) 40 mg EC tablet Take 1 tablet (40 mg total) by mouth daily Take 30 minutes before breakfast    PRISTIQ 100 mg 24 hr tablet Take 100 mg by mouth daily       progesterone (PROMETRIUM) 100 mg capsule TAKE 1 CAPSULE BY MOUTH DAILY AT BEDTIME
+A62	SectionSkipType T216 medications
+A63	NegationModalityVal T167 uncertain_in_present
+T218	Metastasis 371 381	metastasis
+A65	EpisodeDescription T218 Progression
+R38	TestOrProcedureReveals Test:T173 Desc:T218	
+A67	NegationModalityVal T218 uncertain_in_present
+T219	Metastasis 437 444	lesions
+A68	NegationModalityVal T219 negated
+T220	Metastasis 793 803	metastasis
+A69	NegationModalityVal T220 uncertain_in_present
+A70	EpisodeDescription T220 Progression
+T221	Site 750 759;787 792	segment 7 liver
+R39	SiteOf Arg1:T221 Arg2:T220	
+T222	RadPathResult 740 746	lesion
+A71	RadPathResultVal T222 Progression
+R40	SiteOf Arg1:T221 Arg2:T222	
+R41	ResultOfTest Desc:T222 Test:T173	
+T223	ClinicalCondition 716 727	hemangiomas
+A72	ContinuityVal T223 stable
+R42	TestOrProcedureReveals Test:T175 Desc:T223	
+T224	Site 697 702	liver
+T225	RadPathResult 703 710	lesions
+R43	SiteOf Arg1:T224 Arg2:T225	
+R44	ResultOfTest Desc:T225 Test:T173	
+T187	DiseaseState 916 930	tumor ingrowth
+A26	DiseaseStateVal T187 progression-others
+T226	LocalInvasion 916 930	tumor ingrowth
+A73	EpisodeDescription T226 Progression
+R22	TestOrProcedureReveals Test:T184 Desc:T226	
+R45	TestOrProcedureReveals Test:T184 Desc:T187	
+T227	RadPathResult 958 971	biliary stone
+T228	RadPathResult 976 987	blood clots
+R46	ResultOfTest Desc:T227 Test:T184	
+R47	ResultOfTest Desc:T228 Test:T184	
+T229	Site 935 944	her stent
+R48	SiteOf Arg1:T229 Arg2:T226	
+R49	SiteOf Arg1:T229 Arg2:T226	
+T230	ProcedureName 1022 1046	metal stent was deployed
+A74	TreatmentTypeVal T230 others
+A75	TreatmentCategory T230 Others
+T231	Site 1047 1072	within the existing stent
+R50	SiteOf Arg1:T231 Arg2:T230	
+T232	Symptom 1114 1131	feels much better
+A76	IsPresentOnFirstCancerDiagnosis T232 no
+A77	IsCausedByDiagnosedCancer T232 yes
+A78	ChronicVal T232 non-chronic
+A79	ContinuityVal T232 improving
+T233	ProcedureName 1142 1156	stent revision
+A80	IntentVal T233 others
+A81	TreatmentTypeVal T233 others
+A82	TreatmentCategory T233 Others
+R51	TestOrProcedureConductedForProblem Test:T233 Prob:T232	
+R52	ConditionOrTreatmentCausesProblem Treatment:T193 Prob:T194	
+R53	ConditionOrTreatmentCausesProblem Treatment:T178 Prob:T194	
+R54	ConditionOrTreatmentCausesProblem Treatment:T178 Prob:T195	
+T234	ProcedureName 1483 1487	ERCP
+A83	IntentVal T234 others
+A84	TreatmentTypeVal T234 others
+A85	TreatmentCategory T234 Others
+T235	ClinicalTrial 7542 7574	future investigational therapies
+A86	NegationModalityVal T235 hypothetical_in_future
+R37	SiteOf Arg1:T172 Arg2:T218	
+T217	hpi_start 0 10	SUBJECTIVE
+T236	hpi_end 1589 1594	back.
+T237	ap_start 7283 7293	ASSESSMENT
+T238	ap_end 7704 7711	arises.

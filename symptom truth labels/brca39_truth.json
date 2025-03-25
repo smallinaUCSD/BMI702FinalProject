@@ -1,0 +1,27 @@
+[
+    {
+        "SYMPTOM": "lump",
+        "LOCATION": "right breast"
+    },
+    {
+        "SYMPTOM": "nipple discharge",
+        "FREQUENCY": "two episodes"
+    },
+    {
+        "SYMPTOM": "redness",
+        "NEGATION": "no"
+    },
+    {
+        "SYMPTOM": ["malaise", "fatigue", "weight loss", "chills", "fever", "blurred vision", "double vision", "cough", "chest pain", "palpitations", "constipation", "diarrhea", "nausea", "dysuria", "myalgias", "weakness", "rash", "dizziness", "headaches", "environmental allergies"],
+        "NEGATION": "Negative"
+    },
+    {
+        "SYMPTOM": ["bruise", "bleed"],
+        "DESCRIPTION": "easily",
+        "NEGATION": "Negative"
+    },
+    {
+        "SYMPTOM": ["depression", "suicidal ideas"],
+        "NEGATION": "Negative"
+    }
+]

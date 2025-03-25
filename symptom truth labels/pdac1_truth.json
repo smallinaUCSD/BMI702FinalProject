@@ -1,0 +1,57 @@
+[
+{
+"SYMPTOM": "discomfort",
+"LOCATION": "abdominal"
+},
+{
+"SYMPTOM": "biliary ductal obstruction"
+},
+{
+"SYMPTOM": "bleeding",
+"LOCATION": "internal",
+"TRIGGER": "postoperative"
+},
+{
+"SYMPTOM": "small bowel obstruction",
+"RELIEVING_FACTOR": "nasogastric suction"  
+},
+{
+"SYMPTOM": "sepsis",
+"DESCRIPTION": "klebsiella",
+"RELIEVING_FACTOR": "cipro"
+},
+{
+"SYMPTOM": "fever",
+"FREQUENCY": "intermittent",
+"TRIGGER": "treatment"
+},
+{
+"SYMPTOM": "numbness",
+"SEVERITY": "less intense",
+"LOCATION": "hands"
+},
+{
+"SYMPTOM": "numbness",
+"LOCATION": ["palms of hands", "soles of bilateral feet"],
+"DESCRIPTION": "spread",
+"Trend": "more"
+},
+{
+"SYMPTOM": "Use",
+"LOCATION": "hands",
+"NEGATION": "Denies"
+},
+{
+"SYMPTOM": "Unsteady",
+"LOCATION": "feet",
+"NEGATION": "Denies"
+},
+{
+"SYMPTOM": "fatigue",
+"TREND": "more"
+},
+{
+"SYMPTOM": "Nausea/vomiting",
+"TREND": "improved"    
+}
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "SYMPTOM": "mass",
+        "LOCATION": "right breast",
+        "DESCRIPTION": "painful",
+        "DATE": "August 2016"
+    },
+    {
+        "SYMPTOM": "dyspnea",
+        "TIME_OF_DAY": "evening",
+        "RELIEVING_FACTOR": "Lasix",
+        "DATE": "11/20/16"
+    },
+    {
+        "SYMPTOM": "Energy",
+        "DESCRIPTION": "back to baseline",
+        "TREND": "better",
+        "DATE": "Today"
+    },
+    {
+        "SYMPTOM": "dyspnea",
+        "DESCRIPTION": "back to baseline",
+        "TREND": "better",
+        "DATE": "Today"
+    },
+    {
+        "SYMPTOM": "pain",
+        "LOCATION": "site of her breast surgery",
+        "NEGATION": "No"
+    },
+    {
+        "SYMPTOM": "fatigue",
+        "DATE": "at baseline"
+    },
+    {
+        "SYMPTOM": "weight",
+        "TREND": "stable"
+    },
+    {
+        "SYMPTOM": "vision changes",
+        "NEGATION": "no"
+    },
+    {
+        "SYMPTOM": "hearing",
+        "TREND": "stable"
+    },
+    {
+        "SYMPTOM": "nasal discharge",
+        "NEGATION": "no"
+    },
+    {
+        "SYMPTOM": "tenderness",
+        "LOCATION": "sinus",
+        "NEGATION": "no"
+    },
+    {
+        "SYMPTOM": "difficulty swallowing", 
+        "NEGATION": "no"
+    },
+    {
+        "SYMPTOM": "sores",
+        "LOCATION": "mouth",
+        "NEGATION": "no"
+    },
+    {
+        "SYMPTOM": "sore",
+        "LOCATION": "throat",
+        "NEGATION": "no"
+    },
+    {
+        "SYMPTOM": "pain",
+        "LOCATION": "breast",
+        "NEGATION": "no"
+    },
+    {
+        "SYMPTOM": "dyspnea",
+        "DATE": "at baseline"
+    },
+    {
+        "SYMPTOM": ["cough", "wheezing"],
+        "NEGATION": "no"
+    },
+    {
+        "SYMPTOM": "pain",
+        "LOCATION": "chest",
+        "NEGATION": "no"
+    },
+    {
+        "SYMPTOM": "palpitations",
+        "LOCATION": "breast",
+        "NEGATION": "no"
+    },
+    {
+        "SYMPTOM": "edema",
+        "LOCATION": "lower extremity",
+        "NEGATION": "no"
+    },
+    {
+        "SYMPTOM": "constipation"
+    },
+    {
+        "SYMPTOM": ["heartburn", "nausea" , "emesis"], 
+        "NEGATION":"no"
+    },
+    {
+        "SYMPTOM": "pain",
+        "LOCATION": "abdominal",
+        "NEGATION": "no"
+    },
+    {
+        "SYMPTOM": ["diarrhea", "melena", "hematochezia"],
+        "NEGATION": "no"
+    },
+    {
+        "SYMPTOM": "pain",
+        "LOCATION": "suprapubic",
+        "NEGATION": "no"
+    },
+    {
+        "SYMPTOM": "dysuria",
+        "NEGATION": "no"
+    },
+    {
+        "SYMPTOM": "bleeding",
+        "LOCATION": "vaginal",
+        "NEGATION": "no"
+    },
+    {
+        "SYMPTOM": "joint stiffness"
+    },
+    {
+        "SYMPTOM": "pain",
+        "LOCATION": ["muscle", "bone"],
+        "NEGATION": "no"
+    },
+    {
+        "SYMPTOM": ["heat/cold intolerance", "hot flashes"],
+        "NEGATION": "no"
+    },
+    {
+        "SYMPTOM": ["brusing", "bleeding"],
+        "SEVERITY": "easy",
+        "NEGATION": "no"
+    },
+    {
+        "SYMPTOM": ["lymphedema", "headaches", "dizziness", "numbness", "tingling", "falls"],
+        "NEGATION": "no"
+    },
+    {
+        "SYMPTOM": "anxious"
+    },
+    {
+        "SYMPTOM": ["depression", "rashes", "lesions", "diaphoresis"],
+        "NEGATION": "no"
+    }
+]

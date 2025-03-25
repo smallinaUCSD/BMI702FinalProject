@@ -1,0 +1,73 @@
+[
+    {
+        "SYMPTOM": "discomfort",
+        "FREQUENCY": "intermittent", 
+        "LOCATION": ["mid abdominal", "LUQ abdominal"],
+        "TREND": "increased in frequency following diagnostic tests over succeeding months",
+        "TRIGGER": "returning from travel"
+    },
+    {
+        "SYMPTOM": "bloating",
+        "TREND": "increased in frequency following diagnostic tests over succeeding months",
+        "TRIGGER": "returning from travel"
+    },
+    {
+        "SYMPTOM": "gassiness",
+        "TREND": "increased in frequency following diagnostic tests over succeeding months",
+        "TRIGGER": "returning from travel"
+    },
+    {
+        "SYMPTOM": "Appetite",
+        "DESCRIPTION": "fair"
+    },
+    {
+        "SYMPTOM": "satiety",
+        "DESCRIPTION": "early"
+    },
+    {
+        "SYMPTOM": ["distention", "discomfort"],
+        "TRIGGER": "postprandial"
+    },
+    {
+        "SYMPTOM": "weight loss",
+        "DESCRIPTION": "8 lb"
+    },
+    {
+        "SYMPTOM": "discomfort",
+        "LOCATION": "abdominal",
+        "RELIEVING_FACTOR": ["Tylenol", "Percocet"]
+    },
+    {
+        "SYMPTOM": "BMs",
+        "DESCRIPTION": "Semi-regular"
+    },
+    {
+        "SYMPTOM": "bleeding",
+        "NEGATION": "No"
+    },
+    {
+        "SYMPTOM": ["fevers", "chills", "night sweats"],
+        "NEGATION": "Denies"
+    },
+    {
+        "SYMPTOM": "peripheral sensory neuropathy",
+        "DURATION": "pre-existing",
+        "NEGATION": "Denies"
+    },
+    {
+        "SYMPTOM": ["SOB", "cough", "respiratory"],
+        "NEGATION": "No"
+    },
+    {
+        "SYMPTOM": "jaundice",
+        "NEGATION": "No"
+    },
+    {
+        "SYMPTOM": "anxiety",
+        "SEVERITY": "modest"
+    },
+    {
+        "SYMPTOM": "allergies",
+        "DESCRIPTION": "Environmental"
+    }
+]

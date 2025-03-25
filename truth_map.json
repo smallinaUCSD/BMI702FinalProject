@@ -1,0 +1,15 @@
+[
+{
+"SYMPTOM": "The symptom itself (i.e. headache, nausea)"
+"SEVERITY": "How bad is it (i.e. mild, severe)"
+"DURATION": "How long has it lasted (i.e. since last week, chronic)"
+"FREQUENCY": "How often does it occur (i.e. intermittent, daily)"
+"TIME_OF_DAY": "What time of day does it occur (i.e. morning, night)"
+"LOCATION": "What part of the body does the symptom occur (i.e. right upper quadrant, behind the eyes)"
+"DESCRIPTION": "Adjectives of the symptom (i.e. burning, sharp, dull)"
+"TREND": "Is the symptom severity changing? (i.e. worsening, improving)"
+"TRIGGER": "What causes it or worsens it (i.e. after eating, stress, during exercise)"
+"RELIEVING_FACTOR": "What improves the symptom (i.e. sleep, medication, sitting)"
+"NEGATION": "If the patient denies having a symptom"
+}
+]

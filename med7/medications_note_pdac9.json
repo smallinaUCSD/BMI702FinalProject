@@ -1,0 +1,588 @@
+[
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "5FU",
+    "STRENGTH": "2400mg/m2",
+    "DURATION": "over 48 hours"
+  },
+  {
+    "DRUG": "oxaliplatin",
+    "STRENGTH": "85 mg/m2"
+  },
+  {
+    "DRUG": "irinotecan",
+    "STRENGTH": "180 mg/m2"
+  },
+  {
+    "DRUG": "Fulphila"
+  },
+  {
+    "DRUG": "IVF"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "Zofran"
+  },
+  {
+    "DRUG": "imodium",
+    "STRENGTH": "60 mEQ"
+  },
+  {
+    "DRUG": "potassium"
+  },
+  {
+    "DRUG": "IVF",
+    "STRENGTH": [
+      "1g",
+      "20mEq"
+    ],
+    "ROUTE": "PO"
+  },
+  {
+    "DRUG": "potassium"
+  },
+  {
+    "DRUG": "loperamide",
+    "STRENGTH": "60mEq",
+    "ROUTE": "IV"
+  },
+  {
+    "DRUG": "KCL",
+    "STRENGTH": "1g"
+  },
+  {
+    "DRUG": "Magnesium",
+    "DOSAGE": "1L"
+  },
+  {
+    "DRUG": "NS"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "irinotecan"
+  },
+  {
+    "DRUG": "irinotecan"
+  },
+  {
+    "DRUG": "irinotecan"
+  },
+  {
+    "DRUG": "Klor Con",
+    "FORM": "pills"
+  },
+  {
+    "DRUG": "diphenoxylate-atropine"
+  },
+  {
+    "DRUG": "LOMOTIL",
+    "STRENGTH": [
+      "2.5-0.025 mg",
+      "60"
+    ],
+    "FORM": [
+      "tablet",
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": [
+      "1",
+      "1"
+    ],
+    "ROUTE": [
+      "by mouth",
+      "by mouth"
+    ],
+    "FREQUENCY": "4 (four) times daily as needed"
+  },
+  {
+    "DRUG": "gabapentin"
+  },
+  {
+    "DRUG": "NEURONTIN",
+    "STRENGTH": "300 mg",
+    "FORM": [
+      "capsule",
+      "capsule",
+      "capsule"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "3 (three) times daily"
+  },
+  {
+    "DRUG": "glucosam/chond/collagen/hyalur",
+    "ROUTE": [
+      "by mouth",
+      "by mouth"
+    ]
+  },
+  {
+    "DRUG": "loperamide"
+  },
+  {
+    "DRUG": "IMODIUM",
+    "STRENGTH": "2 mg",
+    "FORM": [
+      "capsule",
+      "capsules",
+      "capsule",
+      "capsule"
+    ],
+    "DOSAGE": [
+      "two",
+      "one"
+    ],
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 2 hours",
+    "DURATION": "for 12 hours"
+  },
+  {
+    "DRUG": "LORazepam"
+  },
+  {
+    "DRUG": "ATIVAN",
+    "STRENGTH": [
+      "0.5 mg",
+      "0.5 mg"
+    ],
+    "FORM": [
+      "tablet",
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 8 (eight) hours as needed"
+  },
+  {
+    "DRUG": "multivitamin",
+    "FORM": [
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "daily"
+  },
+  {
+    "DRUG": "ZOFRAN",
+    "STRENGTH": "8 mg",
+    "FORM": [
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "FREQUENCY": "three times a day as needed"
+  },
+  {
+    "DRUG": "palonosetron"
+  },
+  {
+    "DRUG": "Aloxi",
+    "FORM": "tablet"
+  },
+  {
+    "DRUG": "prochlorperazine"
+  },
+  {
+    "DRUG": "COMPAZINE",
+    "STRENGTH": [
+      "10 mg",
+      "10 mg"
+    ],
+    "FORM": [
+      "tablet",
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 6 (six) hours as needed"
+  },
+  {
+    "DRUG": "acetaminophen"
+  },
+  {
+    "DRUG": "TYLENOL",
+    "STRENGTH": [
+      "500 mg",
+      "500 mg"
+    ],
+    "FORM": "tablet",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 6 (six) hours as needed"
+  },
+  {
+    "DRUG": "lidocaine-prilocaine",
+    "STRENGTH": [
+      "2.5-2.5",
+      "30 g",
+      "5 mg",
+      "5 mg",
+      "20 tablet"
+    ],
+    "FORM": [
+      "cream",
+      "cream",
+      "tablet",
+      "tablet"
+    ],
+    "FREQUENCY": [
+      "one hour before port access as needed",
+      "every 8 (eight) hours as needed"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth"
+  },
+  {
+    "DRUG": "potassium chloride"
+  },
+  {
+    "DRUG": "KLOR-CON",
+    "STRENGTH": [
+      "10",
+      "10 mEq",
+      "20 mEq",
+      "60"
+    ],
+    "FORM": [
+      "ER",
+      "tablet",
+      "tablets",
+      "tablet"
+    ],
+    "DOSAGE": "2",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "daily"
+  },
+  {
+    "DRUG": "sodium chloride",
+    "FORM": "infusion",
+    "DOSAGE": "10-30 mL/hr",
+    "ROUTE": "Intravenous"
+  },
+  {
+    "DRUG": "albuterol"
+  },
+  {
+    "DRUG": "PROVENTIL",
+    "FORM": [
+      "HFA",
+      "inhaler",
+      "puff",
+      "puff"
+    ],
+    "STRENGTH": "90 mcg/actuation",
+    "DOSAGE": [
+      "2",
+      "2"
+    ],
+    "ROUTE": "Inhalation",
+    "FREQUENCY": "Once PRN"
+  },
+  {
+    "DRUG": "dextrose",
+    "STRENGTH": "5%",
+    "FORM": "infusion",
+    "DOSAGE": "10-30 mL/hr",
+    "ROUTE": "Intravenous"
+  },
+  {
+    "DRUG": "diphenhydrAMINE"
+  },
+  {
+    "DRUG": "BENADRYL",
+    "FORM": "injection",
+    "STRENGTH": [
+      "50 mg",
+      "50 mg"
+    ],
+    "ROUTE": "Intravenous",
+    "FREQUENCY": "Once PRN"
+  },
+  {
+    "DRUG": "EPINEPHrine"
+  },
+  {
+    "DRUG": "EPIPEN",
+    "FORM": "injection",
+    "STRENGTH": [
+      "0.3 mg",
+      "0.3 mg"
+    ],
+    "ROUTE": "Intramuscular",
+    "FREQUENCY": "Once PRN"
+  },
+  {
+    "DRUG": "fluorouraciL"
+  },
+  {
+    "DRUG": "ADRUCIL",
+    "STRENGTH": [
+      "4,032 mg",
+      "0.9"
+    ],
+    "DOSAGE": "92 mL"
+  },
+  {
+    "DRUG": "chemo",
+    "FORM": "infusion",
+    "STRENGTH": "2,400 mg/m2",
+    "ROUTE": "Intravenous"
+  },
+  {
+    "DRUG": "heparin",
+    "STRENGTH": "100 unit/mL",
+    "FORM": "injection syringe",
+    "DOSAGE": [
+      "300 Units",
+      "300 Units"
+    ],
+    "ROUTE": "Intravenous",
+    "FREQUENCY": "PRN"
+  },
+  {
+    "DRUG": "heparin",
+    "FORM": "injection syringe",
+    "DOSAGE": [
+      "500 Units",
+      "500 Units"
+    ],
+    "ROUTE": "Intravenous",
+    "FREQUENCY": "PRN"
+  },
+  {
+    "DRUG": "heparin",
+    "STRENGTH": [
+      "100 unit/mL",
+      "500 Units"
+    ],
+    "FORM": "injection syringe",
+    "DOSAGE": "500 Units",
+    "ROUTE": "Intravenous",
+    "FREQUENCY": "PRN"
+  },
+  {
+    "DRUG": "hydrocortisone sodium succinate"
+  },
+  {
+    "DRUG": "SOLU-CORTEF",
+    "STRENGTH": [
+      "100 mg/2 mL",
+      "100 mg",
+      "100 mg"
+    ],
+    "FORM": "injection",
+    "ROUTE": "Intravenous",
+    "FREQUENCY": "Once PRN"
+  },
+  {
+    "DRUG": "leucovorin"
+  },
+  {
+    "DRUG": "WELLCOVORIN",
+    "STRENGTH": [
+      "672 mg",
+      "5%",
+      "400 mg/m2"
+    ],
+    "DOSAGE": "308 mL",
+    "FORM": "infusion",
+    "ROUTE": "Intravenous",
+    "FREQUENCY": "Once"
+  },
+  {
+    "DRUG": "LORazepam"
+  },
+  {
+    "DRUG": "ATIVAN",
+    "FORM": "tablet",
+    "STRENGTH": [
+      "1 mg",
+      "1 mg"
+    ],
+    "ROUTE": "Oral",
+    "FREQUENCY": "Once PRN"
+  },
+  {
+    "DRUG": "oxaliplatin"
+  },
+  {
+    "DRUG": "ELOXATIN",
+    "STRENGTH": [
+      "142.8 mg",
+      "5%"
+    ]
+  },
+  {
+    "DRUG": "chemo",
+    "FORM": "infusion",
+    "STRENGTH": "85 mg/m2",
+    "ROUTE": "Intravenous",
+    "FREQUENCY": "Once"
+  },
+  {
+    "DRUG": "CONTRAST"
+  },
+  {
+    "DRUG": "Omnipaque",
+    "STRENGTH": "350"
+  },
+  {
+    "DRUG": "CONTRAST",
+    "ROUTE": [
+      "Intravenous",
+      "oral"
+    ]
+  },
+  {
+    "DRUG": "iodinated contrasts"
+  },
+  {
+    "DRUG": "iodinated contrast",
+    "ROUTE": "intravenous"
+  },
+  {
+    "DRUG": "contrast"
+  },
+  {
+    "DRUG": "mFOLFIRINOX"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "capecitabine"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "mFOLFIRINOX",
+    "DOSAGE": "2x"
+  },
+  {
+    "DRUG": "IVF",
+    "FORM": "infusion",
+    "ROUTE": "IV"
+  },
+  {
+    "DRUG": "potassium"
+  },
+  {
+    "DRUG": "irinotecan",
+    "STRENGTH": "120mg/m2"
+  },
+  {
+    "DRUG": "Fulphila"
+  },
+  {
+    "DRUG": "irinotecan"
+  },
+  {
+    "DRUG": "FOLFOX"
+  },
+  {
+    "DRUG": "irinotecan"
+  },
+  {
+    "DRUG": "FOLFOX"
+  },
+  {
+    "DRUG": "-oxaliplatin",
+    "STRENGTH": "85mg/m2"
+  },
+  {
+    "DRUG": "5FU",
+    "STRENGTH": "2400mg/m2",
+    "DURATION": "over 46h"
+  },
+  {
+    "DRUG": "-Aloxi"
+  },
+  {
+    "DRUG": "aprepitant"
+  },
+  {
+    "DRUG": "dexamethasone",
+    "FREQUENCY": "prn"
+  },
+  {
+    "DRUG": "ativan"
+  },
+  {
+    "DRUG": "NS",
+    "STRENGTH": "12mg",
+    "ROUTE": "PO"
+  },
+  {
+    "DRUG": "dexamethasone",
+    "FREQUENCY": "prn"
+  },
+  {
+    "DRUG": "Zofran"
+  },
+  {
+    "DRUG": "ativan"
+  },
+  {
+    "DRUG": "Fulphila"
+  },
+  {
+    "DRUG": "irinotecan",
+    "FREQUENCY": "prn"
+  },
+  {
+    "DRUG": "loperamide",
+    "STRENGTH": "20mEq",
+    "ROUTE": [
+      "IV",
+      "PO"
+    ]
+  },
+  {
+    "DRUG": "Klor Con",
+    "STRENGTH": [
+      "10 mEq",
+      "20mEq",
+      "+40mEq"
+    ],
+    "FORM": "pills",
+    "ROUTE": [
+      "IV",
+      "PO"
+    ]
+  },
+  {
+    "DRUG": "Klor Con",
+    "STRENGTH": [
+      "10 mEq",
+      "1g"
+    ],
+    "FORM": "pills"
+  },
+  {
+    "DRUG": "Klor Con",
+    "STRENGTH": "20 mEq",
+    "FREQUENCY": "daily"
+  }
+]

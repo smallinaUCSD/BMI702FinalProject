@@ -1,0 +1,181 @@
+[
+  {
+    "DRUG": "PPI"
+  },
+  {
+    "DRUG": "oral contraceptives",
+    "DURATION": "for 6 months"
+  },
+  {
+    "DRUG": "acetaminophen"
+  },
+  {
+    "DRUG": "TYLENOL",
+    "STRENGTH": [
+      "325 mg",
+      "650 mg"
+    ],
+    "FORM": [
+      "tablet",
+      "tablets",
+      "tablet"
+    ],
+    "DOSAGE": "2",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 4 (four) hours as needed"
+  },
+  {
+    "DRUG": "TYLENOL",
+    "STRENGTH": "500 mg",
+    "FORM": [
+      "tablet",
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 6 (six) hours as needed"
+  },
+  {
+    "DRUG": "ascorbic acid",
+    "STRENGTH": [
+      "500 mg",
+      "500 mg"
+    ],
+    "FORM": "tablet",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every other day"
+  },
+  {
+    "DRUG": "atenolol"
+  },
+  {
+    "DRUG": "TENORMIN",
+    "STRENGTH": [
+      "25 mg",
+      "25 mg"
+    ],
+    "FORM": "tablet",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every morning"
+  },
+  {
+    "DRUG": "docusate sodium"
+  },
+  {
+    "DRUG": "COLACE",
+    "STRENGTH": [
+      "100 mg",
+      "300 mg"
+    ],
+    "FORM": [
+      "capsule",
+      "capsule",
+      "capsule",
+      "capsule",
+      "capsule",
+      "capsule"
+    ],
+    "DOSAGE": [
+      "1",
+      "1"
+    ],
+    "ROUTE": [
+      "by mouth",
+      "by mouth"
+    ],
+    "FREQUENCY": "3 (three) times daily"
+  },
+  {
+    "DRUG": "ibuprofen",
+    "STRENGTH": [
+      "600 mg",
+      "600 mg"
+    ],
+    "FORM": [
+      "tablet",
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 6 (six) hours as needed"
+  },
+  {
+    "DRUG": "multivitamin",
+    "FORM": [
+      "tablet",
+      "tablet",
+      "packet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": [
+      "Daily",
+      "Daily"
+    ]
+  },
+  {
+    "DRUG": "omeprazole"
+  },
+  {
+    "DRUG": "PRILOSEC",
+    "STRENGTH": [
+      "20 mg",
+      "20 mg",
+      "20 mg",
+      "20 mg"
+    ],
+    "FORM": [
+      "capsule",
+      "tablet"
+    ],
+    "ROUTE": [
+      "by mouth",
+      "by mouth"
+    ],
+    "FREQUENCY": [
+      "every morning",
+      "nightly at bedtime"
+    ]
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "aromatase inhibitor"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "paclitaxel"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "anthracycline"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "AC"
+  },
+  {
+    "DRUG": "paclitaxel"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  }
+]

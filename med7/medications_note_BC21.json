@@ -1,0 +1,52 @@
+[
+  {
+    "DRUG": "tamoxifen"
+  },
+  {
+    "DRUG": "CoQ10"
+  },
+  {
+    "DRUG": "oral contraceptives",
+    "DURATION": "for six years"
+  },
+  {
+    "DRUG": "hormone replacement therapy",
+    "DURATION": "for 24 months"
+  },
+  {
+    "DRUG": "tamoxifen"
+  },
+  {
+    "DRUG": "letrozole"
+  },
+  {
+    "DRUG": "alendronate"
+  },
+  {
+    "DRUG": "zoledronic acid"
+  },
+  {
+    "DRUG": "aromatase inhibitor"
+  },
+  {
+    "DRUG": "letrozole"
+  },
+  {
+    "DRUG": "bevacizumab"
+  },
+  {
+    "DRUG": "placebo"
+  },
+  {
+    "DRUG": "zoledronic acid"
+  },
+  {
+    "DRUG": "aromatase inhibitor"
+  },
+  {
+    "DRUG": "placebo"
+  },
+  {
+    "DRUG": "bevacizumab"
+  }
+]

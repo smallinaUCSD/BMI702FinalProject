@@ -1,0 +1,182 @@
+[
+  {
+    "DRUG": "tamoxifen"
+  },
+  {
+    "DRUG": "letrozole"
+  },
+  {
+    "DRUG": "exemestane"
+  },
+  {
+    "DRUG": "letrozole"
+  },
+  {
+    "DRUG": "exemestane"
+  },
+  {
+    "DRUG": "exemestane"
+  },
+  {
+    "DRUG": "tamoxifen"
+  },
+  {
+    "DRUG": "zoladex",
+    "FORM": "injection"
+  },
+  {
+    "DRUG": "tamoxifen"
+  },
+  {
+    "DRUG": "letrozole"
+  },
+  {
+    "DRUG": "letrozole"
+  },
+  {
+    "DRUG": "tamoxifen"
+  },
+  {
+    "DRUG": "tamoxifen",
+    "ROUTE": "OS"
+  },
+  {
+    "DRUG": "letrozole"
+  },
+  {
+    "DRUG": "letrozle"
+  },
+  {
+    "DRUG": "exemestane"
+  },
+  {
+    "DRUG": "zoladex",
+    "FREQUENCY": "locally monthly"
+  },
+  {
+    "DRUG": "amoxicillin"
+  },
+  {
+    "DRUG": "AMOXIL",
+    "STRENGTH": "875 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "ROUTE": "BY MOUTH"
+  },
+  {
+    "DRUG": "amoxicillin-clavulanate"
+  },
+  {
+    "DRUG": "AUGMENTIN",
+    "STRENGTH": "875-125 mg",
+    "FORM": "tablet",
+    "ROUTE": "by mouth"
+  },
+  {
+    "DRUG": "benzonatate"
+  },
+  {
+    "DRUG": "TESSALON",
+    "STRENGTH": "200 mg",
+    "FORM": "capsule",
+    "ROUTE": "by mouth"
+  },
+  {
+    "DRUG": "buPROPion",
+    "STRENGTH": "150 mg",
+    "FORM": "24 hr",
+    "ROUTE": "by mouth"
+  },
+  {
+    "DRUG": "doxycycline",
+    "STRENGTH": "100 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "ROUTE": "BY MOUTH",
+    "DURATION": "FOR 10 DAYS"
+  },
+  {
+    "DRUG": "exemestane"
+  },
+  {
+    "DRUG": "AROMASIN",
+    "STRENGTH": "25 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "ROUTE": "BY MOUTH",
+    "FREQUENCY": "EVERY DAY",
+    "DURATION": "FOR 30 DAYS"
+  },
+  {
+    "DRUG": "HYDROcodone-acetaminophen"
+  },
+  {
+    "DRUG": "NORCO",
+    "STRENGTH": "5-325 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1 TO 2",
+    "ROUTE": "BY MOUTH",
+    "FREQUENCY": "EVERY 6 HOURS AS NEEDED"
+  },
+  {
+    "DRUG": "IBU",
+    "STRENGTH": "800 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "ROUTE": "BY MOUTH",
+    "FREQUENCY": "EVERY 8 HOURS AS NEEDED"
+  },
+  {
+    "DRUG": "metroNIDAZOLE"
+  },
+  {
+    "DRUG": "METROGEL",
+    "STRENGTH": "0.75",
+    "FORM": "gel",
+    "ROUTE": "thin film"
+  },
+  {
+    "DRUG": "ondansetron",
+    "STRENGTH": "4 mg",
+    "FORM": "rapid dissolve",
+    "DOSAGE": "1",
+    "ROUTE": "ON THE TONGUE",
+    "FREQUENCY": "EVERY 6 HOURS AS NEEDED"
+  },
+  {
+    "DRUG": "Penicillins"
+  },
+  {
+    "DRUG": "Codeine"
+  },
+  {
+    "DRUG": "tamoxifen"
+  },
+  {
+    "DRUG": "tamoxifen",
+    "ROUTE": "OS"
+  },
+  {
+    "DRUG": "letrozole"
+  },
+  {
+    "DRUG": "letrozole"
+  },
+  {
+    "DRUG": "exemestane"
+  },
+  {
+    "DRUG": "exemestane",
+    "STRENGTH": "25mg",
+    "FREQUENCY": "daily"
+  },
+  {
+    "DRUG": "bisphosphonate"
+  },
+  {
+    "DRUG": "bisphosphonate"
+  },
+  {
+    "DRUG": "bisphosphonate"
+  }
+]

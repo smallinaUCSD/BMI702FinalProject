@@ -1,0 +1,99 @@
+[
+  {
+    "DRUG": "Clomid"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "simvastatin"
+  },
+  {
+    "DRUG": "ZOCOR",
+    "STRENGTH": "20 mg",
+    "FORM": "tablet"
+  },
+  {
+    "DRUG": "LORazepam"
+  },
+  {
+    "DRUG": "ATIVAN",
+    "STRENGTH": "1 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "ROUTE": "po/sl"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy",
+    "DURATION": "4 cycles"
+  },
+  {
+    "DRUG": "doxorubicin"
+  },
+  {
+    "DRUG": "cyclophosphamide",
+    "FREQUENCY": "every 2 weeks",
+    "DURATION": "12 cycles"
+  },
+  {
+    "DRUG": "paclitaxel"
+  },
+  {
+    "DRUG": "docetaxel"
+  },
+  {
+    "DRUG": "cyclophosphamide",
+    "FREQUENCY": "every 3 weeks",
+    "DURATION": "for 4 to 6 cycles"
+  },
+  {
+    "DRUG": "Anthracyclines"
+  },
+  {
+    "DRUG": "taxane"
+  },
+  {
+    "DRUG": "anthracyline",
+    "DURATION": "6 cycles"
+  },
+  {
+    "DRUG": "TC"
+  },
+  {
+    "DRUG": "TC"
+  },
+  {
+    "DRUG": "TC"
+  },
+  {
+    "DRUG": "anthracycline"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemo"
+  },
+  {
+    "DRUG": "chemotherapy",
+    "ROUTE": "AC/T."
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemo"
+  }
+]

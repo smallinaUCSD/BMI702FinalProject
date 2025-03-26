@@ -1,0 +1,22 @@
+[
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "CONTRAST"
+  },
+  {
+    "DRUG": "Omnipaque",
+    "STRENGTH": "350"
+  },
+  {
+    "DRUG": "CONTRAST",
+    "ROUTE": "intravenous"
+  },
+  {
+    "DRUG": "contrast"
+  },
+  {
+    "DRUG": "chemotherapy"
+  }
+]

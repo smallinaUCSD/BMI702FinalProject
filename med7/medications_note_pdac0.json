@@ -1,0 +1,38 @@
+[
+  {
+    "DRUG": "gemcitabine"
+  },
+  {
+    "DRUG": "Abraxane",
+    "ROUTE": [
+      "IV",
+      "oral"
+    ]
+  },
+  {
+    "DRUG": "antibiotics"
+  },
+  {
+    "DRUG": "oxycodone"
+  },
+  {
+    "DRUG": "antihypertensive"
+  },
+  {
+    "DRUG": "Penicillins"
+  },
+  {
+    "DRUG": "CONTRAST"
+  },
+  {
+    "DRUG": "Omnipaque",
+    "STRENGTH": "350",
+    "ROUTE": "intravenous"
+  },
+  {
+    "DRUG": "contrast"
+  },
+  {
+    "DRUG": "chemotherapy"
+  }
+]

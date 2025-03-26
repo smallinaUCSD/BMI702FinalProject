@@ -1,0 +1,189 @@
+[
+  {
+    "DURATION": "1 cycle"
+  },
+  {
+    "DRUG": "FOLFOX chemotherapy"
+  },
+  {
+    "DRUG": "irinotecan"
+  },
+  {
+    "DRUG": "FOLFIRINOX",
+    "DURATION": "11 cycles"
+  },
+  {
+    "DRUG": "gemcitabine"
+  },
+  {
+    "DRUG": "nab-paclitaxel",
+    "FREQUENCY": [
+      "every other week",
+      "once-daily"
+    ],
+    "FORM": "long-acting"
+  },
+  {
+    "DRUG": "morphine"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "Erythromycin"
+  },
+  {
+    "DRUG": "acetaminophen"
+  },
+  {
+    "DRUG": "TYLENOL",
+    "ROUTE": [
+      "PO",
+      "by mouth",
+      "by mouth",
+      "by mouth"
+    ],
+    "FREQUENCY": [
+      "every day",
+      "3 times a day with meals",
+      "2 times a day"
+    ],
+    "STRENGTH": [
+      "120,000-24,000-76,000",
+      "270"
+    ],
+    "FORM": [
+      "delayed release",
+      "capsule",
+      "Caps",
+      "Caps",
+      "Cap"
+    ],
+    "DOSAGE": [
+      "2",
+      "2"
+    ]
+  },
+  {
+    "DRUG": "cholecalciferol (vitamin D3) (VITAMIN D3",
+    "ROUTE": [
+      "PO",
+      "by mouth"
+    ],
+    "FREQUENCY": "every day"
+  },
+  {
+    "DRUG": "morphine"
+  },
+  {
+    "DRUG": "MS Contin",
+    "STRENGTH": [
+      "15 mg",
+      "15 mg"
+    ],
+    "FORM": [
+      "controlled release",
+      "tablet",
+      "Tablet",
+      "Tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "daily"
+  },
+  {
+    "DRUG": "polyethylene glycol"
+  },
+  {
+    "DRUG": "MIRAlax",
+    "STRENGTH": [
+      "17 gram",
+      "17 g"
+    ],
+    "FORM": "packet",
+    "ROUTE": "by mouth"
+  },
+  {
+    "DRUG": "potassium chloride"
+  },
+  {
+    "DRUG": "Klor-Con",
+    "STRENGTH": [
+      "20 mEq",
+      "20 mEq"
+    ],
+    "FORM": [
+      "sustained release",
+      "tablet",
+      "Tabs"
+    ],
+    "DOSAGE": "2",
+    "ROUTE": [
+      "by mouth",
+      "by mouth"
+    ],
+    "FREQUENCY": [
+      "2 times a day",
+      "every morning"
+    ]
+  },
+  {
+    "DRUG": "chemotherapy",
+    "DURATION": "1 cycle"
+  },
+  {
+    "DRUG": "FOLFOX",
+    "DURATION": "11 cycles"
+  },
+  {
+    "DRUG": "FOLFIRINOX",
+    "DURATION": "3 cycles"
+  },
+  {
+    "DRUG": "paclitaxel"
+  },
+  {
+    "DRUG": "paclitaxel",
+    "FREQUENCY": "every other week"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "5-FU/LV",
+    "FORM": "nanoliposomal"
+  },
+  {
+    "DRUG": "irinotecan"
+  },
+  {
+    "DRUG": "Onivyde"
+  },
+  {
+    "DRUG": "nab-paclitaxel"
+  },
+  {
+    "DRUG": "glucocorticoid receptor antagonist"
+  },
+  {
+    "DRUG": "relacorilant"
+  },
+  {
+    "DRUG": "pembrolizumab"
+  },
+  {
+    "DRUG": "lenvantinib"
+  },
+  {
+    "DRUG": "HIF2a inhibitor"
+  },
+  {
+    "DRUG": "RAD51 inhibitor"
+  },
+  {
+    "DRUG": "ATR inhibitor"
+  }
+]

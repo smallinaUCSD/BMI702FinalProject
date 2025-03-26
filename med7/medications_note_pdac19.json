@@ -1,0 +1,112 @@
+[
+  {
+    "DRUG": "metronidazole"
+  },
+  {
+    "DRUG": "rifaximin"
+  },
+  {
+    "DRUG": "probiotics"
+  },
+  {
+    "DRUG": "Tylenol"
+  },
+  {
+    "DRUG": "Percocet"
+  },
+  {
+    "DRUG": "oxyCODONE-acetaminophen"
+  },
+  {
+    "DRUG": "Percocet",
+    "STRENGTH": "5-325 mg",
+    "FORM": [
+      "tablet",
+      "tablets",
+      "tablet"
+    ],
+    "DOSAGE": [
+      "2",
+      "30"
+    ],
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 6 (six) hours if needed",
+    "DURATION": "for up to 10 days"
+  },
+  {
+    "DRUG": "valACYclovir"
+  },
+  {
+    "DRUG": "Valtrex",
+    "STRENGTH": "1 gram",
+    "FORM": "tablet",
+    "FREQUENCY": "prn"
+  },
+  {
+    "DRUG": "Lorazepam",
+    "FREQUENCY": "PRN"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "FOLFIRINOX",
+    "FREQUENCY": "biweekly",
+    "ROUTE": "infusional"
+  },
+  {
+    "DRUG": "5-FU"
+  },
+  {
+    "DRUG": "leucovorin"
+  },
+  {
+    "DRUG": "irinotecan"
+  },
+  {
+    "DRUG": "oxaliplatin"
+  },
+  {
+    "DRUG": "gemcitabine"
+  },
+  {
+    "DRUG": "nab-paclitaxel"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "paclitaxel"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "paclitaxel"
+  },
+  {
+    "DRUG": "pamrevlumab"
+  },
+  {
+    "DRUG": "anti-CTGF (connective tissue growth factor)"
+  },
+  {
+    "DRUG": "chemotherapy/immunotherapy combinations"
+  },
+  {
+    "DRUG": "paclitaxel"
+  },
+  {
+    "DRUG": "hydroxychloroquine"
+  },
+  {
+    "DRUG": "anti-autophagy agent",
+    "DOSAGE": "low-dose"
+  },
+  {
+    "DRUG": "ipilimumab"
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "DRUG": "Sulfa"
+  },
+  {
+    "DRUG": "Sulfonamide Antibiotics)",
+    "STRENGTH": "0.25 mg",
+    "FORM": "tablet"
+  },
+  {
+    "DRUG": "ibuprofen"
+  },
+  {
+    "DRUG": "ADVIL",
+    "STRENGTH": "200 mg",
+    "FORM": "tablet",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 6 (six) hours"
+  },
+  {
+    "DRUG": "trazodone HCl"
+  },
+  {
+    "DRUG": "TRAZODONE",
+    "ROUTE": "oral",
+    "DOSAGE": "0.5",
+    "FORM": "tablets"
+  },
+  {
+    "DRUG": "Depo-Provera"
+  },
+  {
+    "DRUG": "oral contraceptives"
+  },
+  {
+    "DRUG": "Gadolinium based contrast",
+    "ROUTE": "injected",
+    "STRENGTH": "0.1 millimole"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "Taxotere"
+  },
+  {
+    "DRUG": "Cytoxan"
+  },
+  {
+    "DRUG": "AC-Taxol"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapies"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "aromatase inhibitor"
+  },
+  {
+    "DRUG": "tamoxifen"
+  },
+  {
+    "DRUG": "tamoxifen"
+  },
+  {
+    "DRUG": "tamoxifen"
+  },
+  {
+    "DRUG": "exemestane"
+  },
+  {
+    "DRUG": "tamoxifen"
+  },
+  {
+    "DRUG": "tamoxifen"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "exemestane"
+  },
+  {
+    "DRUG": "tamoxifen"
+  }
+]

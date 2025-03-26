@@ -1,0 +1,260 @@
+[
+  {
+    "DRUG": "FOLFIRINOX",
+    "DURATION": "12 cycles"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "5FU"
+  },
+  {
+    "DRUG": "irinotecan",
+    "DURATION": "12 cycles"
+  },
+  {
+    "DRUG": "5FU"
+  },
+  {
+    "DRUG": "irinotecan"
+  },
+  {
+    "DRUG": "5FU"
+  },
+  {
+    "DRUG": "irinotecan"
+  },
+  {
+    "DRUG": "5FU"
+  },
+  {
+    "DRUG": "irinotecan"
+  },
+  {
+    "DRUG": "5FU"
+  },
+  {
+    "DRUG": "5FU"
+  },
+  {
+    "DRUG": "irinotecan"
+  },
+  {
+    "DRUG": "5FU"
+  },
+  {
+    "DRUG": "irinotecan",
+    "ROUTE": "liposomal"
+  },
+  {
+    "DRUG": "irinotecan",
+    "ROUTE": "liposomal"
+  },
+  {
+    "DRUG": "irinotecan",
+    "ROUTE": "Liposomal"
+  },
+  {
+    "DRUG": "irinotecan"
+  },
+  {
+    "DRUG": "nab-paclitaxel"
+  },
+  {
+    "DRUG": "CORT125134"
+  },
+  {
+    "DRUG": "Gemcitabine"
+  },
+  {
+    "DRUG": "Abraxane"
+  },
+  {
+    "DRUG": "Gemcitabine"
+  },
+  {
+    "DRUG": "Abraxane"
+  },
+  {
+    "DRUG": "Gemcitabine"
+  },
+  {
+    "DRUG": "Abraxane"
+  },
+  {
+    "DRUG": "Gemcitabine"
+  },
+  {
+    "DRUG": "Abraxane"
+  },
+  {
+    "DRUG": "Gemcitabine"
+  },
+  {
+    "DRUG": "Abraxane"
+  },
+  {
+    "DRUG": "Gemcitabine"
+  },
+  {
+    "DRUG": "Abraxane"
+  },
+  {
+    "DRUG": "Gemcitabine"
+  },
+  {
+    "DRUG": "Abraxane"
+  },
+  {
+    "DRUG": "albuterol",
+    "STRENGTH": "90 mcg/actuation",
+    "FORM": "metered dose inhaler",
+    "DOSAGE": "1-2",
+    "ROUTE": "into the lungs",
+    "FREQUENCY": "every 6 (six) hours as needed"
+  },
+  {
+    "DRUG": "cetirizine"
+  },
+  {
+    "DRUG": "ZYRTEC",
+    "STRENGTH": "10 mg",
+    "FORM": "tablet",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "daily as needed"
+  },
+  {
+    "DRUG": "diphenoxylate-atropine"
+  },
+  {
+    "DRUG": "LOMOTIL",
+    "STRENGTH": "2.5-0.025 mg",
+    "FORM": "tabs",
+    "DOSAGE": "2"
+  },
+  {
+    "DRUG": "fluticasone propion-salmeterol",
+    "STRENGTH": "100-50 mcg/dose",
+    "FORM": "diskus inhaler",
+    "ROUTE": "inhale",
+    "DOSAGE": "1",
+    "FREQUENCY": "Twice a day"
+  },
+  {
+    "DRUG": "CAPDREC",
+    "FORM": "caps"
+  },
+  {
+    "DRUG": "LORazepam"
+  },
+  {
+    "DRUG": "ATIVAN",
+    "STRENGTH": "1 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 8 (eight) hours as needed"
+  },
+  {
+    "DRUG": "metoclopramide HCl"
+  },
+  {
+    "DRUG": "REGLAN",
+    "STRENGTH": "10 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "FREQUENCY": "30 minutes prior to every meal"
+  },
+  {
+    "DRUG": "mirtazapine"
+  },
+  {
+    "DRUG": "REMERON",
+    "STRENGTH": "15 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "nightly at bedtime"
+  },
+  {
+    "DRUG": "OLANZapine (ZYPREXA)",
+    "STRENGTH": "5 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1 or 2"
+  },
+  {
+    "DRUG": "chemotherapy",
+    "DOSAGE": "1 or 2",
+    "FORM": "tabs",
+    "FREQUENCY": "once daily",
+    "DURATION": "for 3 days"
+  },
+  {
+    "DRUG": "chemotherapy",
+    "FORM": "infusion"
+  },
+  {
+    "DRUG": "olopatadine"
+  },
+  {
+    "DRUG": "PATANOL",
+    "STRENGTH": "0.1 %",
+    "ROUTE": "ophthalmic",
+    "FORM": "solution",
+    "DOSAGE": "1"
+  },
+  {
+    "DRUG": "oxyCODONE"
+  },
+  {
+    "DRUG": "ROXICODONE",
+    "STRENGTH": "5 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1-2",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 4 (four) hours as needed"
+  },
+  {
+    "DRUG": "ranitidine"
+  },
+  {
+    "DRUG": "ZANTAC",
+    "STRENGTH": "150 mg",
+    "FORM": "tablet",
+    "ROUTE": "by mouth"
+  },
+  {
+    "DRUG": "TRIAMCINOLONE ACETONIDE",
+    "ROUTE": "nasal",
+    "FREQUENCY": "daily as needed"
+  },
+  {
+    "DRUG": "heparin",
+    "STRENGTH": "100 unit/mL",
+    "FORM": "injection syringe",
+    "DOSAGE": "500 units",
+    "ROUTE": "into the vein"
+  },
+  {
+    "DRUG": "Levofloxacin"
+  },
+  {
+    "DRUG": "Alendronate Sodium"
+  },
+  {
+    "DRUG": "Anastrozole"
+  },
+  {
+    "DRUG": "Terbinafine"
+  },
+  {
+    "DRUG": "gem abraxane"
+  },
+  {
+    "DRUG": "abraxane"
+  },
+  {
+    "DRUG": "remeron"
+  }
+]

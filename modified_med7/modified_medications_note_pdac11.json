@@ -1,0 +1,169 @@
+[
+  {
+    "DRUG": "gemcitabine"
+  },
+  {
+    "DRUG": "nab-paclitaxel"
+  },
+  {
+    "DRUG": "mFOLFIRINOX"
+  },
+  {
+    "DRUG": "mFOLFIRINOX"
+  },
+  {
+    "DRUG": "irinotecan"
+  },
+  {
+    "DRUG": "irinotecan"
+  },
+  {
+    "DRUG": "mFOLFIRINOX",
+    "STRENGTH": "0.9 %"
+  },
+  {
+    "DRUG": "sodium chloride",
+    "FORM": "injection",
+    "DOSAGE": "3 mL",
+    "ROUTE": "Intravenous",
+    "FREQUENCY": "Q8H"
+  },
+  {
+    "DRUG": "sodium chloride",
+    "FORM": "flush",
+    "ROUTE": "Intravenous",
+    "FREQUENCY": "PRN"
+  },
+  {
+    "DRUG": "sodium chloride",
+    "FORM": "infusion",
+    "ROUTE": "Intravenous"
+  },
+  {
+    "DRUG": "baclofen",
+    "FORM": "tablet",
+    "STRENGTH": "5 mg",
+    "ROUTE": "Oral",
+    "FREQUENCY": "TID"
+  },
+  {
+    "DRUG": "carvedilol",
+    "FORM": "tablet",
+    "STRENGTH": "12.5 mg",
+    "ROUTE": "Oral"
+  },
+  {
+    "DRUG": "diltiazem",
+    "FORM": "24 hr",
+    "STRENGTH": "120 mg",
+    "ROUTE": "Oral",
+    "FREQUENCY": "Daily (AM)"
+  },
+  {
+    "DRUG": "diphenhydrAMINE"
+  },
+  {
+    "DRUG": "BENADRYL",
+    "FORM": "injection",
+    "STRENGTH": "12.5 mg",
+    "ROUTE": "Intravenous",
+    "FREQUENCY": "Bedtime"
+  },
+  {
+    "DRUG": "lidocaine ("
+  },
+  {
+    "DRUG": "XYLOCAINE",
+    "STRENGTH": "2 %",
+    "FORM": "viscous solution",
+    "DOSAGE": "5 mL",
+    "ROUTE": "Mouth/Throat",
+    "FREQUENCY": "Q3H"
+  },
+  {
+    "DRUG": "methyl salicylate-menthol",
+    "FORM": "ointment",
+    "ROUTE": "Topical",
+    "FREQUENCY": "PRN"
+  },
+  {
+    "DRUG": "ondansetron"
+  },
+  {
+    "DRUG": "ZOFRAN",
+    "FORM": "injection",
+    "STRENGTH": "4 mg",
+    "ROUTE": "Intravenous"
+  },
+  {
+    "DRUG": "phenol"
+  },
+  {
+    "DRUG": "PHENASEPTIC",
+    "STRENGTH": "1.4",
+    "FORM": "spray",
+    "DOSAGE": "1-3",
+    "ROUTE": "Mouth/Throat",
+    "FREQUENCY": "Q2H PRN"
+  },
+  {
+    "DRUG": "traMADol"
+  },
+  {
+    "DRUG": "ULTRAM",
+    "FORM": "tablet",
+    "STRENGTH": "50 mg",
+    "ROUTE": "Oral",
+    "FREQUENCY": "Q6H"
+  },
+  {
+    "DRUG": "warfarin"
+  },
+  {
+    "DRUG": "COUMADIN",
+    "FORM": "tablet",
+    "STRENGTH": "3 mg",
+    "ROUTE": "Oral",
+    "FREQUENCY": "Q PM"
+  },
+  {
+    "DRUG": "CONTRAST"
+  },
+  {
+    "DRUG": "CONTRAST",
+    "ROUTE": "IV"
+  },
+  {
+    "DRUG": "contrast"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "mFOLFIRINOX"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "Ipilimumab"
+  },
+  {
+    "DRUG": "GM-CSF"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "DRUG": "ddAC"
+  },
+  {
+    "DRUG": "leuprolide"
+  },
+  {
+    "DRUG": "exemestane"
+  },
+  {
+    "DRUG": "leuprolide"
+  },
+  {
+    "DRUG": "tamoxifen"
+  },
+  {
+    "DRUG": "Adriamycin"
+  },
+  {
+    "DRUG": "cytoxan",
+    "DURATION": "3 cycles"
+  },
+  {
+    "DRUG": "Lupron",
+    "DURATION": "1-2 years"
+  },
+  {
+    "DRUG": "exemestane"
+  },
+  {
+    "DRUG": "tamoxifen"
+  },
+  {
+    "DRUG": "OCP"
+  },
+  {
+    "DRUG": "gapabentin"
+  },
+  {
+    "DRUG": "Lupron",
+    "ROUTE": "injections"
+  },
+  {
+    "DRUG": "Lupron",
+    "ROUTE": "injections"
+  },
+  {
+    "DRUG": "tamoxifen"
+  },
+  {
+    "DRUG": "exemestane"
+  },
+  {
+    "DRUG": "gabapentin"
+  },
+  {
+    "DRUG": "NEURONTIN",
+    "STRENGTH": "300 mg",
+    "FORM": "capsule"
+  },
+  {
+    "DRUG": "HYDRODIURIL",
+    "STRENGTH": "25 mg",
+    "FORM": "tablet",
+    "ROUTE": "by mouth"
+  },
+  {
+    "DRUG": "polymyxin b-trimethoprim"
+  },
+  {
+    "DRUG": "POLYTRIM",
+    "ROUTE": "ophthalmic",
+    "FORM": "solution",
+    "DURATION": "for 5 days",
+    "DOSAGE": "10 mL"
+  },
+  {
+    "DRUG": "iohexol",
+    "STRENGTH": "350 mg iodine/mL",
+    "FORM": "solution",
+    "DOSAGE": "150 mL"
+  },
+  {
+    "DRUG": "Ibuprofen"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "aromatase inhibitor"
+  },
+  {
+    "DRUG": "CDK 4/6 inhibitor"
+  },
+  {
+    "DRUG": "goserelin"
+  }
+]

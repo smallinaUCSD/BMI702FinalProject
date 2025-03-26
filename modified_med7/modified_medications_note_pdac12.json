@@ -1,0 +1,253 @@
+[
+  {
+    "DRUG": "vori"
+  },
+  {
+    "DRUG": "iron"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "Vanco"
+  },
+  {
+    "DRUG": "FOLFIRINOX",
+    "DOSAGE": "1 unit"
+  },
+  {
+    "DRUG": "PRBC"
+  },
+  {
+    "DRUG": "Gemcitabine"
+  },
+  {
+    "DRUG": "Capecitabine",
+    "DOSAGE": "1 unit"
+  },
+  {
+    "DRUG": "PRBC"
+  },
+  {
+    "DRUG": "capecitabine"
+  },
+  {
+    "DRUG": "Abx"
+  },
+  {
+    "DRUG": "abx"
+  },
+  {
+    "DRUG": "acetaminophen"
+  },
+  {
+    "DRUG": "TYLENOL",
+    "STRENGTH": "325 mg",
+    "ROUTE": "Oral"
+  },
+  {
+    "DRUG": "bisacodyL"
+  },
+  {
+    "DRUG": "DULCOLAX",
+    "STRENGTH": "5 mg",
+    "ROUTE": "Oral"
+  },
+  {
+    "DRUG": "budesonide-glycopyr-formoterol",
+    "STRENGTH": "160-9-4.8 mcg/actuation",
+    "ROUTE": "inh",
+    "DOSAGE": "2",
+    "FORM": "puffs",
+    "FREQUENCY": "2 times daily"
+  },
+  {
+    "DRUG": "calcium carbonate-vitamin D",
+    "STRENGTH": "1,250 mg",
+    "FORM": "unit",
+    "DOSAGE": "1",
+    "ROUTE": "Oral",
+    "FREQUENCY": "Every 4 Hours PRN"
+  },
+  {
+    "DRUG": "CALCIUM CITRATE",
+    "ROUTE": "oral",
+    "DOSAGE": "1",
+    "FORM": "tablet",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "capecitabine"
+  },
+  {
+    "DRUG": "XELODA",
+    "STRENGTH": "500 mg",
+    "FORM": "tabs",
+    "DOSAGE": "3",
+    "FREQUENCY": "in the morning with food",
+    "DURATION": "for 7 days"
+  },
+  {
+    "DRUG": "CREON",
+    "STRENGTH": "6,000-19,000 -30,000 unit",
+    "FORM": "capsule",
+    "DOSAGE": "1",
+    "ROUTE": "BY MOUTH",
+    "FREQUENCY": "3 TIMES DAILY WITH MEALS"
+  },
+  {
+    "DRUG": "denosumab"
+  },
+  {
+    "DRUG": "PROLIA",
+    "STRENGTH": "60 mg",
+    "ROUTE": "subcutaneous",
+    "FORM": "Inject",
+    "FREQUENCY": "every 6 mos"
+  },
+  {
+    "DRUG": "dronabinoL"
+  },
+  {
+    "DRUG": "MARINOL",
+    "STRENGTH": "2.5 mg",
+    "ROUTE": "Oral",
+    "FREQUENCY": "2 Times Daily Before Meals"
+  },
+  {
+    "DRUG": "famotidine",
+    "ROUTE": "Oral"
+  },
+  {
+    "DRUG": "GLIMEPIRIDE",
+    "FORM": "capsule",
+    "STRENGTH": "5 mg",
+    "ROUTE": "oral",
+    "FREQUENCY": "daily at bedtime scheduled",
+    "DOSAGE": "1"
+  },
+  {
+    "DRUG": "melatonin",
+    "STRENGTH": "1 mg",
+    "FORM": "tablet",
+    "ROUTE": "oral",
+    "FREQUENCY": "daily at bedtime scheduled     mirtazapine (remeron)",
+    "DOSAGE": "1"
+  },
+  {
+    "DRUG": "multivitamin",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "ROUTE": "Oral",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "ondansetron"
+  },
+  {
+    "DRUG": "ZOFRAN",
+    "STRENGTH": "8 mg",
+    "ROUTE": "Oral",
+    "FREQUENCY": "Every 8 Hours PRN"
+  },
+  {
+    "DRUG": "PROTONIX",
+    "STRENGTH": "40 mg",
+    "FORM": "ec"
+  },
+  {
+    "DRUG": "Pantoprazole",
+    "STRENGTH": "40 *",
+    "FORM": "tablets",
+    "FREQUENCY": "twice daily"
+  },
+  {
+    "DRUG": "Pantoprazole",
+    "STRENGTH": "40 mg",
+    "FORM": "tablet"
+  },
+  {
+    "DRUG": "PROTONIX",
+    "STRENGTH": "40 mg",
+    "ROUTE": "Oral",
+    "FREQUENCY": "2 times daily"
+  },
+  {
+    "DRUG": "MIRALAX",
+    "STRENGTH": "17 g",
+    "ROUTE": "Oral",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "prochlorperazine"
+  },
+  {
+    "DRUG": "COMPAZINE",
+    "STRENGTH": "10 mg",
+    "ROUTE": "Oral",
+    "FREQUENCY": "Every 6 Hours PRN"
+  },
+  {
+    "DRUG": "senna"
+  },
+  {
+    "DRUG": "SENOKOT",
+    "STRENGTH": "17.2 mg",
+    "ROUTE": "Oral",
+    "FREQUENCY": "Daily At Bedtime Scheduled"
+  },
+  {
+    "DRUG": "sucralfate"
+  },
+  {
+    "DRUG": "CARAFATE",
+    "STRENGTH": "1 g",
+    "ROUTE": "Oral",
+    "FREQUENCY": "4 Times Daily Before Meals"
+  },
+  {
+    "DRUG": "CONTRAST"
+  },
+  {
+    "DRUG": "Iohexol",
+    "DOSAGE": "350 - 100 mL",
+    "ROUTE": "intravenous"
+  },
+  {
+    "DRUG": "contrast"
+  },
+  {
+    "DRUG": "Iohexol",
+    "DOSAGE": "350 - 100 mL",
+    "ROUTE": "intravenous"
+  },
+  {
+    "DRUG": "contrast"
+  },
+  {
+    "DRUG": "Iohexol",
+    "DOSAGE": "350 - 100 mL",
+    "ROUTE": "Intravenous",
+    "DURATION": "6 cycles"
+  },
+  {
+    "DRUG": "Gem Cape"
+  },
+  {
+    "DRUG": "PRBCs",
+    "FREQUENCY": "PRN"
+  },
+  {
+    "DRUG": "Creon"
+  },
+  {
+    "DRUG": "Norco",
+    "FREQUENCY": "PRN"
+  },
+  {
+    "DRUG": "Remeron"
+  },
+  {
+    "DRUG": "melatonin"
+  }
+]

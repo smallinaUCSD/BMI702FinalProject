@@ -1,0 +1,252 @@
+[
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "gemcitabine"
+  },
+  {
+    "DRUG": "Abraxane",
+    "FREQUENCY": "alternate week"
+  },
+  {
+    "DRUG": "oxycodone"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "bisacodyL"
+  },
+  {
+    "DRUG": "DULCOLAX",
+    "STRENGTH": [
+      "5 mg",
+      "5 mg"
+    ],
+    "FORM": [
+      "EC",
+      "tablet"
+    ],
+    "ROUTE": "by mouth",
+    "FREQUENCY": "daily as needed"
+  },
+  {
+    "DRUG": "cholecalciferol"
+  },
+  {
+    "DRUG": "vitamin D3",
+    "STRENGTH": "1000 UNITS",
+    "FORM": "tablet",
+    "DOSAGE": "1,000 Units",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "daily"
+  },
+  {
+    "DRUG": "cloNIDine"
+  },
+  {
+    "DRUG": "CATAPRES",
+    "STRENGTH": "0.1 mg/24 hr",
+    "FORM": [
+      "patch",
+      "patch"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "onto the skin",
+    "FREQUENCY": "every 7 (seven) days"
+  },
+  {
+    "DRUG": "cyanocobalamin"
+  },
+  {
+    "DRUG": "Vitamin B12",
+    "STRENGTH": [
+      "500 mcg",
+      "500 mcg"
+    ],
+    "FORM": "tablet",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "daily"
+  },
+  {
+    "DRUG": "diclofenac"
+  },
+  {
+    "DRUG": "VOLTAREN",
+    "STRENGTH": "1 %",
+    "FORM": "gel",
+    "ROUTE": "topically",
+    "FREQUENCY": "4 (four) times daily"
+  },
+  {
+    "DRUG": "docusate sodium"
+  },
+  {
+    "DRUG": "COLACE",
+    "STRENGTH": [
+      "100 mg",
+      "100 mg"
+    ],
+    "FORM": "capsule",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every morning"
+  },
+  {
+    "DRUG": "fexofenadine"
+  },
+  {
+    "DRUG": "ALLEGRA",
+    "STRENGTH": [
+      "60 mg",
+      "60 mg"
+    ],
+    "FORM": "tablet",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every morning"
+  },
+  {
+    "DRUG": "fluocinonide"
+  },
+  {
+    "DRUG": "LIDEX",
+    "STRENGTH": "0.05 %",
+    "FORM": "ointment",
+    "ROUTE": "topically",
+    "FREQUENCY": "Twice a day"
+  },
+  {
+    "DRUG": "LORazepam"
+  },
+  {
+    "DRUG": "ATIVAN",
+    "STRENGTH": [
+      "1 mg",
+      "1 mg"
+    ],
+    "FORM": "tablet",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 8 (eight) hours as needed"
+  },
+  {
+    "DRUG": "ondansetron"
+  },
+  {
+    "DRUG": "ZOFRAN",
+    "STRENGTH": [
+      "8 mg",
+      "8 mg"
+    ],
+    "FORM": [
+      "tablet",
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 8 (eight) hours as needed"
+  },
+  {
+    "DRUG": "oxybutynin",
+    "STRENGTH": [
+      "5 mg",
+      "5 mg"
+    ],
+    "FORM": [
+      "24 hr",
+      "tablet"
+    ],
+    "ROUTE": "by mouth",
+    "FREQUENCY": "daily"
+  },
+  {
+    "DRUG": "OXY-IR)",
+    "STRENGTH": [
+      "5 mg",
+      "5 mg"
+    ],
+    "FORM": "capsule",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 4 (four) hours as needed"
+  },
+  {
+    "DRUG": "pantoprazole"
+  },
+  {
+    "DRUG": "PROTONIX",
+    "STRENGTH": [
+      "40 mg",
+      "40 mg"
+    ],
+    "FORM": [
+      "EC",
+      "tablet"
+    ],
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every morning"
+  },
+  {
+    "DRUG": "prochlorperazine"
+  },
+  {
+    "DRUG": "COMPAZINE",
+    "STRENGTH": [
+      "10 mg",
+      "10 mg"
+    ],
+    "FORM": [
+      "tablet",
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 6 (six) hours as needed"
+  },
+  {
+    "DRUG": "senna"
+  },
+  {
+    "DRUG": "SENOKOT",
+    "STRENGTH": "8.6 mg",
+    "FORM": [
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "2 (two) times daily"
+  },
+  {
+    "DRUG": "Equi-Block",
+    "ROUTE": "right shoulder",
+    "FREQUENCY": "prn"
+  },
+  {
+    "DRUG": "iohexoL",
+    "STRENGTH": "350 mg",
+    "FORM": "solution",
+    "ROUTE": "Intravenous"
+  },
+  {
+    "DRUG": "Penicillins"
+  },
+  {
+    "DRUG": "chemo",
+    "ROUTE": "intravenous"
+  },
+  {
+    "DRUG": "contrast"
+  },
+  {
+    "DRUG": "CONTRAST",
+    "ROUTE": "Intravenous"
+  },
+  {
+    "DRUG": "chemo",
+    "ROUTE": "intravenous"
+  },
+  {
+    "DRUG": "contrast"
+  }
+]

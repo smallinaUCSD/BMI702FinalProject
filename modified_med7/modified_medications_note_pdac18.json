@@ -1,0 +1,132 @@
+[
+  {
+    "DRUG": "pain medications"
+  },
+  {
+    "DRUG": "gemcitabine"
+  },
+  {
+    "DRUG": "Abraxane"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "Zofran"
+  },
+  {
+    "DRUG": "zofran"
+  },
+  {
+    "DRUG": "Creon",
+    "DOSAGE": "3",
+    "FORM": "tabs"
+  },
+  {
+    "DRUG": "Methadone",
+    "FREQUENCY": "BID"
+  },
+  {
+    "DRUG": "Oxycodone",
+    "FREQUENCY": "PRN",
+    "ROUTE": "oral"
+  },
+  {
+    "DRUG": "hypoglycemic"
+  },
+  {
+    "DRUG": "aspirin",
+    "STRENGTH": "81 mg",
+    "FORM": "ec",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "atorvastatin"
+  },
+  {
+    "DRUG": "LIPITOR",
+    "STRENGTH": "40 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "ROUTE": "PO",
+    "FREQUENCY": "QD"
+  },
+  {
+    "DRUG": "coenzyme Q10",
+    "STRENGTH": "100 mg",
+    "FORM": "capsule",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "daily",
+    "DOSAGE": "3"
+  },
+  {
+    "DRUG": "metFORMIN",
+    "STRENGTH": "850 mg",
+    "FORM": "tablet",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "2 (two) times daily with meals"
+  },
+  {
+    "DRUG": "DOLOPHINE",
+    "STRENGTH": "10 mg",
+    "FORM": "tablet",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 12 (twelve) hours"
+  },
+  {
+    "DRUG": "REGLAN",
+    "STRENGTH": "10 mg",
+    "FORM": "tablet"
+  },
+  {
+    "DRUG": "multivitamin with iron-minerals-folic acid",
+    "STRENGTH": "3,500-18-0.4 unit-mg-mg",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "omeprazole"
+  },
+  {
+    "DRUG": "PRILOSEC",
+    "STRENGTH": "20 mg",
+    "FORM": "capsule",
+    "DOSAGE": "1 C",
+    "ROUTE": "PO",
+    "FREQUENCY": "QD"
+  },
+  {
+    "DRUG": "ondansetron"
+  },
+  {
+    "DRUG": "ZOFRAN",
+    "STRENGTH": "5 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "ROUTE": "po",
+    "FREQUENCY": "q 8 h prn"
+  },
+  {
+    "DRUG": "polyethylene glycol (MIRALAX)",
+    "STRENGTH": "17 gram",
+    "FORM": "packet"
+  },
+  {
+    "DRUG": "CREON",
+    "STRENGTH": "36,000-114,000- 180,000 unit",
+    "FORM": "caps",
+    "DOSAGE": "2-3",
+    "ROUTE": "po",
+    "FREQUENCY": "q snack",
+    "DURATION": "2 cycles"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  }
+]

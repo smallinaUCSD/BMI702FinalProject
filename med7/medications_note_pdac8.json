@@ -1,0 +1,320 @@
+[
+  {
+    "DRUG": "FOLFIRINOX",
+    "DURATION": "12 cycles"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "5FU"
+  },
+  {
+    "DRUG": "irinotecan",
+    "DURATION": "12 cycles"
+  },
+  {
+    "DRUG": "5FU"
+  },
+  {
+    "DRUG": "irinotecan"
+  },
+  {
+    "DRUG": "5FU"
+  },
+  {
+    "DRUG": "irinotecan"
+  },
+  {
+    "DRUG": "5FU"
+  },
+  {
+    "DRUG": "irinotecan"
+  },
+  {
+    "DRUG": "5FU"
+  },
+  {
+    "DRUG": "5FU"
+  },
+  {
+    "DRUG": "irinotecan"
+  },
+  {
+    "DRUG": "5FU"
+  },
+  {
+    "DRUG": "irinotecan",
+    "ROUTE": "liposomal"
+  },
+  {
+    "DRUG": "irinotecan",
+    "ROUTE": "liposomal"
+  },
+  {
+    "DRUG": "irinotecan",
+    "ROUTE": "Liposomal"
+  },
+  {
+    "DRUG": "irinotecan"
+  },
+  {
+    "DRUG": "nab-paclitaxel"
+  },
+  {
+    "DRUG": "CORT125134"
+  },
+  {
+    "DRUG": "Gemcitabine"
+  },
+  {
+    "DRUG": "Abraxane"
+  },
+  {
+    "DRUG": "Gemcitabine"
+  },
+  {
+    "DRUG": "Abraxane"
+  },
+  {
+    "DRUG": "Gemcitabine"
+  },
+  {
+    "DRUG": "Abraxane"
+  },
+  {
+    "DRUG": "Gemcitabine"
+  },
+  {
+    "DRUG": "Abraxane"
+  },
+  {
+    "DRUG": "Gemcitabine"
+  },
+  {
+    "DRUG": "Abraxane"
+  },
+  {
+    "DRUG": "Gemcitabine"
+  },
+  {
+    "DRUG": "Abraxane"
+  },
+  {
+    "DRUG": "Gemcitabine"
+  },
+  {
+    "DRUG": "Abraxane"
+  },
+  {
+    "DRUG": "albuterol",
+    "STRENGTH": "90 mcg/actuation",
+    "FORM": [
+      "metered dose inhaler",
+      "Inhale",
+      "puffs"
+    ],
+    "DOSAGE": "1-2",
+    "ROUTE": "into the lungs",
+    "FREQUENCY": "every 6 (six) hours as needed"
+  },
+  {
+    "DRUG": "cetirizine"
+  },
+  {
+    "DRUG": "ZYRTEC",
+    "STRENGTH": [
+      "10 mg",
+      "10 mg"
+    ],
+    "FORM": "tablet",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "daily as needed"
+  },
+  {
+    "DRUG": "diphenoxylate-atropine"
+  },
+  {
+    "DRUG": "LOMOTIL",
+    "STRENGTH": "2.5-0.025 mg",
+    "FORM": [
+      "tablet",
+      "tabs",
+      "tabs"
+    ],
+    "DOSAGE": "2"
+  },
+  {
+    "DRUG": "fluticasone propion-salmeterol",
+    "STRENGTH": [
+      "100-50 mcg/dose",
+      "24,000-76,000 -120,000 unit"
+    ],
+    "FORM": [
+      "diskus inhaler",
+      "puff"
+    ],
+    "ROUTE": [
+      "Inhale",
+      "into the lungs"
+    ],
+    "DOSAGE": "1",
+    "FREQUENCY": "Twice a day"
+  },
+  {
+    "DRUG": "CAPDREC",
+    "FORM": [
+      "capsule",
+      "caps",
+      "caps"
+    ]
+  },
+  {
+    "DRUG": "LORazepam"
+  },
+  {
+    "DRUG": "ATIVAN",
+    "STRENGTH": [
+      "1 mg",
+      "1 mg"
+    ],
+    "FORM": [
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 8 (eight) hours as needed"
+  },
+  {
+    "DRUG": "metoclopramide HCl"
+  },
+  {
+    "DRUG": "REGLAN",
+    "STRENGTH": "10 mg",
+    "FORM": [
+      "tablet",
+      "tab"
+    ],
+    "DOSAGE": "1",
+    "FREQUENCY": "30 minutes prior to every meal"
+  },
+  {
+    "DRUG": "mirtazapine"
+  },
+  {
+    "DRUG": "REMERON",
+    "STRENGTH": [
+      "15 mg",
+      "15 mg"
+    ],
+    "FORM": [
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "nightly at bedtime"
+  },
+  {
+    "DRUG": "OLANZapine (ZYPREXA)",
+    "STRENGTH": "5 mg",
+    "FORM": [
+      "tablet",
+      "tabs"
+    ],
+    "DOSAGE": "1 or 2"
+  },
+  {
+    "DRUG": "chemotherapy",
+    "DOSAGE": "1 or 2",
+    "FORM": "tabs",
+    "FREQUENCY": "once daily",
+    "DURATION": "for 3 days"
+  },
+  {
+    "DRUG": "chemotherapy",
+    "FORM": "infusion"
+  },
+  {
+    "DRUG": "olopatadine"
+  },
+  {
+    "DRUG": "PATANOL",
+    "STRENGTH": "0.1 %",
+    "ROUTE": [
+      "ophthalmic",
+      "eye"
+    ],
+    "FORM": [
+      "solution",
+      "drop"
+    ],
+    "DOSAGE": "1"
+  },
+  {
+    "DRUG": "oxyCODONE"
+  },
+  {
+    "DRUG": "ROXICODONE",
+    "STRENGTH": "5 mg",
+    "FORM": [
+      "tablet",
+      "tablets"
+    ],
+    "DOSAGE": "1-2",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 4 (four) hours as needed"
+  },
+  {
+    "DRUG": "ranitidine"
+  },
+  {
+    "DRUG": "ZANTAC",
+    "STRENGTH": [
+      "150 mg",
+      "150 mg"
+    ],
+    "FORM": "tablet",
+    "ROUTE": "by mouth"
+  },
+  {
+    "DRUG": "TRIAMCINOLONE ACETONIDE",
+    "ROUTE": [
+      "NASAL",
+      "Nasal route"
+    ],
+    "FREQUENCY": "daily as needed"
+  },
+  {
+    "DRUG": "heparin",
+    "STRENGTH": "100 unit/mL",
+    "FORM": "injection syringe",
+    "DOSAGE": [
+      "500 Units",
+      "5 mLs"
+    ],
+    "ROUTE": "into the vein"
+  },
+  {
+    "DRUG": "Levofloxacin"
+  },
+  {
+    "DRUG": "Alendronate Sodium"
+  },
+  {
+    "DRUG": "Anastrozole"
+  },
+  {
+    "DRUG": "Terbinafine"
+  },
+  {
+    "DRUG": "gem abraxane"
+  },
+  {
+    "DRUG": "abraxane"
+  },
+  {
+    "DRUG": "remeron"
+  }
+]

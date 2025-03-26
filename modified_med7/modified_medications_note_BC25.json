@@ -1,0 +1,89 @@
+[
+  {
+    "DRUG": "ergocalciferol"
+  },
+  {
+    "DRUG": "vitamin D2"
+  },
+  {
+    "DRUG": "ERGOCALCIFEROL",
+    "STRENGTH": "50,000 unit",
+    "FORM": "capsule"
+  },
+  {
+    "DRUG": "metFORMIN"
+  },
+  {
+    "DRUG": "GLUCOPHAGE",
+    "STRENGTH": "500 mg",
+    "FORM": "tablet"
+  },
+  {
+    "DRUG": "omega-3 fatty acids-fish oil",
+    "STRENGTH": "300-1,000 mg",
+    "FORM": "capsule"
+  },
+  {
+    "DRUG": "JOLIVETTE",
+    "STRENGTH": "0.35 mg",
+    "FORM": "tablet"
+  },
+  {
+    "DRUG": "ondansetron"
+  },
+  {
+    "DRUG": "ZOFRAN",
+    "STRENGTH": "8 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1"
+  },
+  {
+    "DRUG": "ondansetron",
+    "STRENGTH": "8 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1"
+  },
+  {
+    "DRUG": "prednisoLONE acetate",
+    "STRENGTH": "1 %",
+    "ROUTE": "ophthalmic",
+    "FORM": "suspension"
+  },
+  {
+    "DRUG": "PROLENSA",
+    "STRENGTH": "0.07 %"
+  },
+  {
+    "DRUG": "DROPSOLN"
+  },
+  {
+    "DRUG": "VIGAMOX",
+    "STRENGTH": "0.5 %",
+    "ROUTE": "ophthalmic",
+    "FORM": "solution",
+    "FREQUENCY": "weekly"
+  },
+  {
+    "DRUG": "paclitaxel",
+    "FREQUENCY": "q3wk"
+  },
+  {
+    "DRUG": "trastuzumab",
+    "FREQUENCY": "q3wk"
+  },
+  {
+    "DRUG": "pertuzumab",
+    "FREQUENCY": "weekly"
+  },
+  {
+    "DRUG": "paclitaxel",
+    "FREQUENCY": "q3wk"
+  },
+  {
+    "DRUG": "trastuzumab",
+    "FREQUENCY": "q3wk"
+  },
+  {
+    "DRUG": "pertuzumab"
+  }
+]

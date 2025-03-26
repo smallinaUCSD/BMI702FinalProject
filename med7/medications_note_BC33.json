@@ -1,0 +1,172 @@
+[
+  {
+    "DRUG": "lamictal"
+  },
+  {
+    "DRUG": "Aripiprazole"
+  },
+  {
+    "DRUG": "Lurasidone"
+  },
+  {
+    "DRUG": "ascorbic acid"
+  },
+  {
+    "DRUG": "vitamin C",
+    "STRENGTH": "500 mg"
+  },
+  {
+    "DRUG": "TABSR",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "daily"
+  },
+  {
+    "DRUG": "vitamin C",
+    "FORM": [
+      "tablet",
+      "tablet",
+      "tablet"
+    ],
+    "ROUTE": [
+      "by mouth",
+      "by mouth",
+      "by mouth"
+    ],
+    "FREQUENCY": [
+      "daily",
+      "nightly as needed"
+    ],
+    "STRENGTH": [
+      "1 mg",
+      "1 mg"
+    ],
+    "DOSAGE": "1"
+  },
+  {
+    "DRUG": "Kava",
+    "FORM": "tincture-",
+    "DOSAGE": "1/2 -1 teaspoon",
+    "ROUTE": "by mouth"
+  },
+  {
+    "DRUG": "Kava",
+    "DOSAGE": "1",
+    "FORM": "capsule",
+    "ROUTE": "by mouth"
+  },
+  {
+    "DRUG": "lamoTRIgine",
+    "STRENGTH": [
+      "200 mg",
+      "200 mg"
+    ],
+    "FORM": [
+      "24 hr ER",
+      "tablet",
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "daily"
+  },
+  {
+    "DRUG": "multivitamin",
+    "FORM": [
+      "capsule",
+      "capsule"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "daily"
+  },
+  {
+    "DRUG": "multivitamin-Ca-iron-minerals",
+    "FORM": [
+      "TAB",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth"
+  },
+  {
+    "DRUG": "tretinoin",
+    "FORM": [
+      "microspheres (RETIN-A MICRO PUMP)",
+      "GlwP",
+      "Application",
+      "capsule"
+    ],
+    "STRENGTH": "0.08 %",
+    "DOSAGE": [
+      "1",
+      "1"
+    ],
+    "ROUTE": [
+      "topically",
+      "ORAL",
+      "by mouth"
+    ],
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "TURMERIC",
+    "ROUTE": [
+      "PO",
+      "by mouth",
+      "by mouth"
+    ],
+    "DOSAGE": "1",
+    "FORM": "cap",
+    "FREQUENCY": [
+      "daily",
+      "daily"
+    ]
+  },
+  {
+    "DRUG": "zolpidem"
+  },
+  {
+    "DRUG": "AMBIEN",
+    "STRENGTH": [
+      "5 mg",
+      "5 mg"
+    ],
+    "FORM": [
+      "tablet",
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "nightly as needed"
+  },
+  {
+    "DRUG": "tamoxifen",
+    "FREQUENCY": "monthly"
+  },
+  {
+    "DRUG": "goserelin"
+  },
+  {
+    "DRUG": "tamoxifen"
+  },
+  {
+    "DRUG": "goserelin"
+  },
+  {
+    "DRUG": "letrozole"
+  },
+  {
+    "DRUG": "estradiol"
+  },
+  {
+    "DRUG": "effexor"
+  },
+  {
+    "DRUG": "gabapentin"
+  },
+  {
+    "DRUG": "lamictal"
+  }
+]

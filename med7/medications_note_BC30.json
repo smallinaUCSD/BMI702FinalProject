@@ -1,0 +1,142 @@
+[
+  {
+    "DRUG": "Penicillins"
+  },
+  {
+    "DRUG": "amLODIPine"
+  },
+  {
+    "DRUG": "NORVASC",
+    "STRENGTH": [
+      "5 mg",
+      "5 mg"
+    ],
+    "FORM": [
+      "tablet",
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": "1 \n ",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "NEURONTIN",
+    "STRENGTH": "300 mg",
+    "FORM": [
+      "capsule",
+      "capsule",
+      "capsule"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "3 (three) times daily"
+  },
+  {
+    "DRUG": "TYLENOL",
+    "STRENGTH": [
+      "500 mg",
+      "500 mg"
+    ],
+    "FORM": [
+      "tablet",
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 6 (six) hours as needed"
+  },
+  {
+    "DRUG": "cetirizine"
+  },
+  {
+    "DRUG": "ZYRTEC",
+    "STRENGTH": [
+      "10 mg",
+      "10 mg"
+    ],
+    "FORM": [
+      "tablet",
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": [
+      "Daily",
+      "prn"
+    ]
+  },
+  {
+    "DRUG": "cyclobenzaprine"
+  },
+  {
+    "DRUG": "FLEXERIL",
+    "STRENGTH": "5 mg",
+    "FORM": [
+      "tablet",
+      "TABLET",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "BY MOUTH",
+    "FREQUENCY": "EVERY 8 HOURS AS NEEDED"
+  },
+  {
+    "DRUG": "ferrous sulfate",
+    "STRENGTH": [
+      "325 mg",
+      "65 mg",
+      "325 mg"
+    ],
+    "FORM": [
+      "tablet",
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": [
+      "daily with breakfast",
+      "3 (three) times daily"
+    ]
+  },
+  {
+    "DRUG": "lidocaine (XYLOCAINE)",
+    "STRENGTH": "5 %",
+    "FORM": [
+      "OINT",
+      "ointment"
+    ],
+    "ROUTE": [
+      "thin layer",
+      "right lower back"
+    ],
+    "FREQUENCY": "once or twice daily as needed"
+  },
+  {
+    "DRUG": "naproxen"
+  },
+  {
+    "DRUG": "NAPROSYN",
+    "STRENGTH": "500 mg",
+    "FORM": [
+      "tablet",
+      "TABLET",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "BY MOUTH",
+    "FREQUENCY": "TWICE DAILY WITH MEALS"
+  },
+  {
+    "DRUG": "anti-hormonal therapy which also would help to decrease the risk of local recurrence. In addition I spoke about its primary preventative effect as well with the decrease in new breast cancer events of 50%. Since Ms. ***** is continuing to menstruate, although because she is having symptomatology of hot flashes and night sweats she may be in the perimenopausal period, I suggested that the drug of choice would be a tamoxifen if she were to contemplate anti-hormonal therapy. We went the mechanism of tamoxifen"
+  },
+  {
+    "DRUG": "tamoxifen"
+  },
+  {
+    "DRUG": "tamoxifen"
+  }
+]

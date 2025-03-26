@@ -1,0 +1,287 @@
+[
+  {
+    "FREQUENCY": "nab"
+  },
+  {
+    "DRUG": "paclitaxel"
+  },
+  {
+    "DRUG": "pembrolizumab"
+  },
+  {
+    "DRUG": "pembrolizumab"
+  },
+  {
+    "DRUG": "abraxane"
+  },
+  {
+    "DRUG": "Prilosec"
+  },
+  {
+    "DRUG": "ativan"
+  },
+  {
+    "DRUG": "flexeril"
+  },
+  {
+    "DRUG": "MS contin"
+  },
+  {
+    "DRUG": "oxycodone",
+    "FREQUENCY": "prn"
+  },
+  {
+    "DRUG": "xarelto"
+  },
+  {
+    "DRUG": "ddAC",
+    "DURATION": "5/12 weekly cycles"
+  },
+  {
+    "DRUG": "carboplatin"
+  },
+  {
+    "DRUG": "paclitaxel"
+  },
+  {
+    "DRUG": "carboplatin"
+  },
+  {
+    "DRUG": "paclitaxel"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "gemcitabine"
+  },
+  {
+    "DRUG": "carboplatin"
+  },
+  {
+    "DRUG": "rivaroxaban",
+    "STRENGTH": "20mg",
+    "ROUTE": "PO",
+    "FREQUENCY": "daily"
+  },
+  {
+    "DRUG": "albuterol",
+    "STRENGTH": "90 mcg/actuation",
+    "FORM": "metered dose inhaler",
+    "ROUTE": "inhale",
+    "DOSAGE": "2",
+    "FREQUENCY": "every 4 (four) hours as needed"
+  },
+  {
+    "DRUG": "AMBIEN CR",
+    "STRENGTH": "12.5 mg",
+    "FORM": "er",
+    "FREQUENCY": "nightly at bedtime"
+  },
+  {
+    "DRUG": "brimonidine"
+  },
+  {
+    "DRUG": "MIRVASO",
+    "STRENGTH": "5 mg",
+    "FORM": "gel",
+    "ROUTE": "topically",
+    "FREQUENCY": "daily"
+  },
+  {
+    "DRUG": "LORazepam"
+  },
+  {
+    "DRUG": "ATIVAN",
+    "STRENGTH": "1 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "FREQUENCY": "every 6 (six) hours as needed"
+  },
+  {
+    "DRUG": "morphine (MS CONTIN",
+    "STRENGTH": "15 mg",
+    "FREQUENCY": "12 hr",
+    "FORM": "tablet",
+    "ROUTE": "by mouth",
+    "DOSAGE": "1"
+  },
+  {
+    "DRUG": "traMADol",
+    "STRENGTH": "50 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "FREQUENCY": "every 8 hours as needed"
+  },
+  {
+    "DRUG": "acetaminophen"
+  },
+  {
+    "DRUG": "TYLENOL",
+    "STRENGTH": "500 mg",
+    "FORM": "tablet",
+    "DOSAGE": "2",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 6 (six) hours"
+  },
+  {
+    "DRUG": "esomeprazole"
+  },
+  {
+    "DRUG": "NEXIUM",
+    "STRENGTH": "20 mg",
+    "FORM": "capsule",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "daily as needed"
+  },
+  {
+    "DRUG": "ATIVAN",
+    "STRENGTH": "0.5 mg",
+    "FORM": "tablet",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 12 (twelve) hours as needed"
+  },
+  {
+    "DRUG": "naloxone",
+    "STRENGTH": "4 mg/actuation",
+    "FORM": "SPRAYNAERO",
+    "ROUTE": "1 nostril"
+  },
+  {
+    "DRUG": "polyethylene glycol (MIRALAX)",
+    "STRENGTH": "17 gram",
+    "FORM": "packet",
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "daily as needed"
+  },
+  {
+    "DRUG": "polyethylene glycol (MIRALAX)",
+    "STRENGTH": "17 gram",
+    "FORM": "packet",
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "prochlorperazine"
+  },
+  {
+    "DRUG": "COMPAZINE",
+    "STRENGTH": "10 mg",
+    "FORM": "tablet",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 6 (six) hours as needed",
+    "DOSAGE": "1"
+  },
+  {
+    "DRUG": "rivaroxaban"
+  },
+  {
+    "DRUG": "XARELTO",
+    "STRENGTH": "20 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every morning"
+  },
+  {
+    "DRUG": "simethicone"
+  },
+  {
+    "DRUG": "MYLICON",
+    "STRENGTH": "80 mg",
+    "FORM": "chewable tablet",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 6 (six) hours as needed",
+    "DOSAGE": "1"
+  },
+  {
+    "DRUG": "Allergen"
+  },
+  {
+    "DRUG": "Penicillins"
+  },
+  {
+    "DRUG": "Hydrochlorothiazide"
+  },
+  {
+    "DRUG": "Hydroxychloroquine"
+  },
+  {
+    "DRUG": "prednisone"
+  },
+  {
+    "DRUG": "prednisone"
+  },
+  {
+    "DRUG": "Ibuprofen"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "pembrolizumab"
+  },
+  {
+    "DRUG": "abraxane"
+  },
+  {
+    "DRUG": "abraxane",
+    "FREQUENCY": "every week"
+  },
+  {
+    "DRUG": "Pembrolizumab",
+    "FREQUENCY": "every 3 weeks"
+  },
+  {
+    "DRUG": "xarelto"
+  },
+  {
+    "DRUG": "chemo"
+  },
+  {
+    "DRUG": "ativan"
+  },
+  {
+    "DRUG": "compazine",
+    "FREQUENCY": "prn"
+  },
+  {
+    "DRUG": "zofran"
+  },
+  {
+    "DRUG": "prilosec",
+    "STRENGTH": "40mg",
+    "FREQUENCY": "qd"
+  },
+  {
+    "DRUG": "Taxane"
+  },
+  {
+    "DRUG": "Taxane"
+  },
+  {
+    "DRUG": "mag oxide",
+    "STRENGTH": "400mg",
+    "FREQUENCY": "qhs"
+  },
+  {
+    "DRUG": "MS Contin",
+    "STRENGTH": "15mg",
+    "FREQUENCY": "BID"
+  },
+  {
+    "DRUG": "oxycodone",
+    "FREQUENCY": "prn"
+  },
+  {
+    "DRUG": "flexeril"
+  },
+  {
+    "DRUG": "ativan"
+  },
+  {
+    "DRUG": "stool softener"
+  }
+]

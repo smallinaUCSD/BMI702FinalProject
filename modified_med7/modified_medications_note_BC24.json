@@ -1,0 +1,71 @@
+[
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "OCP"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "TAILORx"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "TC",
+    "DURATION": "x 4 cycles",
+    "FREQUENCY": "AC/T"
+  },
+  {
+    "DRUG": "TC chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "anti-estrogen"
+  },
+  {
+    "DRUG": "anti-estrogen therapy in a post-menopausal patient with HR+/HER2- breast cancer is an aromatase inhibitor"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "calcium"
+  },
+  {
+    "DRUG": "vitamin"
+  },
+  {
+    "DRUG": "cyclophosphamide",
+    "DURATION": "4 cycles"
+  },
+  {
+    "DRUG": "CDK4/6 inhibitor"
+  }
+]

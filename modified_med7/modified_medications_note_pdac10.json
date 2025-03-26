@@ -1,0 +1,90 @@
+[
+  {
+    "DRUG": "omeprazole"
+  },
+  {
+    "DRUG": "mFOLFIRINOX"
+  },
+  {
+    "DRUG": "metformin"
+  },
+  {
+    "DRUG": "acetaminophen"
+  },
+  {
+    "DRUG": "TYLENOL",
+    "STRENGTH": "200 mg",
+    "FORM": "tablet",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "daily",
+    "DOSAGE": "1"
+  },
+  {
+    "DRUG": "metFORMIN",
+    "STRENGTH": "500 mg",
+    "FORM": "tablet",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "daily"
+  },
+  {
+    "DRUG": "ondansetron"
+  },
+  {
+    "DRUG": "ZOFRAN",
+    "STRENGTH": "8 mg",
+    "FORM": "tablet",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 8 (eight) hours as needed"
+  },
+  {
+    "DRUG": "simvastatin"
+  },
+  {
+    "DRUG": "ZOCOR",
+    "STRENGTH": "40 mg",
+    "FORM": "tablet",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "daily",
+    "DOSAGE": "130 mL"
+  },
+  {
+    "DRUG": "Omnipaque",
+    "STRENGTH": "300",
+    "ROUTE": "intravenous"
+  },
+  {
+    "DRUG": "contrast"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "FOLFIRINOX",
+    "FREQUENCY": "biweekly",
+    "ROUTE": "infusional"
+  },
+  {
+    "DRUG": "5-FU"
+  },
+  {
+    "DRUG": "leucovorin"
+  },
+  {
+    "DRUG": "irinotecan"
+  },
+  {
+    "DRUG": "oxaliplatin"
+  },
+  {
+    "DRUG": "gemcitabine"
+  },
+  {
+    "DRUG": "nab-paclitaxel"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "birth control"
+  }
+]

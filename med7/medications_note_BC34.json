@@ -1,0 +1,134 @@
+[
+  {
+    "DRUG": "OCP",
+    "DURATION": "for 4 years"
+  },
+  {
+    "DRUG": "buPROPion",
+    "STRENGTH": [
+      "150 mg",
+      "150 mg"
+    ],
+    "FORM": [
+      "12 hr",
+      "tablet"
+    ],
+    "ROUTE": "by mouth",
+    "FREQUENCY": "2 (two) times daily"
+  },
+  {
+    "DRUG": "cetirizine"
+  },
+  {
+    "DRUG": "ZYRTEC",
+    "STRENGTH": [
+      "10 mg",
+      "10 mg"
+    ],
+    "FORM": [
+      "tablet",
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "docusate sodium",
+    "STRENGTH": [
+      "250 mg",
+      "250 mg"
+    ],
+    "FORM": [
+      "capsule",
+      "capsule",
+      "capsule"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "2 (two) times daily as needed"
+  },
+  {
+    "DRUG": "hydrOXYzine"
+  },
+  {
+    "DRUG": "ATARAX",
+    "STRENGTH": [
+      "10 mg",
+      "10 mg"
+    ],
+    "FORM": "tablet",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "3 (three) times daily as needed"
+  },
+  {
+    "DRUG": "ibuprofen",
+    "STRENGTH": [
+      "600 mg",
+      "600 mg"
+    ],
+    "FORM": [
+      "tablet",
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 6 (six) hours as needed"
+  },
+  {
+    "DRUG": "iron",
+    "STRENGTH": [
+      "18 mg",
+      "100 mg",
+      "100 mg"
+    ],
+    "FORM": [
+      "TAB",
+      "tablet",
+      "tablet"
+    ],
+    "ROUTE": [
+      "by mouth",
+      "by mouth",
+      "by mouth"
+    ],
+    "FREQUENCY": "2 (two) times daily"
+  },
+  {
+    "DRUG": "triamcinolone"
+  },
+  {
+    "DRUG": "KENALOG",
+    "STRENGTH": "0.1 %",
+    "FORM": "cream",
+    "ROUTE": "topically",
+    "FREQUENCY": "2 (two) times daily"
+  },
+  {
+    "DRUG": "Fluoxetine"
+  },
+  {
+    "DRUG": "zolpidem"
+  },
+  {
+    "DRUG": "AMBIEN",
+    "STRENGTH": [
+      "5 mg",
+      "5 mg"
+    ],
+    "FORM": "tablet",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "nightly as needed"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "antiestrogen therapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  }
+]

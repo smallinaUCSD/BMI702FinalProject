@@ -1,0 +1,136 @@
+[
+  {
+    "DRUG": "oxycodone"
+  },
+  {
+    "DRUG": "Tylenol"
+  },
+  {
+    "DRUG": "oxycodone"
+  },
+  {
+    "DRUG": "amLODIPine"
+  },
+  {
+    "DRUG": "NORVASC",
+    "STRENGTH": "5 mg",
+    "ROUTE": "Oral",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "atorvastatin"
+  },
+  {
+    "DRUG": "LIPITOR",
+    "STRENGTH": "20 mg",
+    "ROUTE": "Oral",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "famotidine"
+  },
+  {
+    "DRUG": "PEPCID",
+    "STRENGTH": "20 mg",
+    "ROUTE": "Oral",
+    "FREQUENCY": "2 Times Daily PRN"
+  },
+  {
+    "DRUG": "losartan"
+  },
+  {
+    "DRUG": "COZAAR",
+    "STRENGTH": "50 mg",
+    "ROUTE": "Oral",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "metFORMIN",
+    "STRENGTH": "500 mg",
+    "ROUTE": "oral",
+    "FREQUENCY": "daily with breakfast",
+    "DOSAGE": "unit",
+    "FORM": "tablet"
+  },
+  {
+    "DRUG": "polyethylene glycol (MIRALAX)",
+    "STRENGTH": "17 g",
+    "ROUTE": "Oral",
+    "FREQUENCY": "Daily PRN"
+  },
+  {
+    "DRUG": "CONTRAST"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "FOLFIRINOX",
+    "FREQUENCY": "biweekly",
+    "ROUTE": "infusional"
+  },
+  {
+    "DRUG": "5-FU"
+  },
+  {
+    "DRUG": "leucovorin"
+  },
+  {
+    "DRUG": "irinotecan"
+  },
+  {
+    "DRUG": "oxaliplatin"
+  },
+  {
+    "DRUG": "gemcitabine"
+  },
+  {
+    "DRUG": "nab-paclitaxel"
+  },
+  {
+    "DRUG": "gemcitabine"
+  },
+  {
+    "DRUG": "nab-paclitaxel"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "paclitaxel"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "paclitaxel"
+  },
+  {
+    "DRUG": "pamrevlumab"
+  },
+  {
+    "DRUG": "anti-CTGF (connective tissue growth factor)"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "hydroxychloroquine",
+    "DOSAGE": "low-dose"
+  },
+  {
+    "DRUG": "ipilimumab"
+  },
+  {
+    "DRUG": "paclitaxel"
+  },
+  {
+    "DRUG": "chemotherapy"
+  }
+]

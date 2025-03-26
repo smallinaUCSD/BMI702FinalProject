@@ -1,0 +1,168 @@
+[
+  {
+    "DRUG": "TYLENOL",
+    "STRENGTH": "325 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 6 (six) hours as needed"
+  },
+  {
+    "DRUG": "alendronate"
+  },
+  {
+    "DRUG": "FOSAMAX",
+    "STRENGTH": "70 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "ROUTE": "BY MOUTH",
+    "FREQUENCY": "EVERY 7 DAYS"
+  },
+  {
+    "DRUG": "ascorbate calcium (VITAMIN C ORAL)",
+    "ROUTE": "by mouth"
+  },
+  {
+    "DRUG": "baclofen"
+  },
+  {
+    "DRUG": "LIORESAL",
+    "STRENGTH": "10 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "nightly as needed"
+  },
+  {
+    "DRUG": "benzonatate"
+  },
+  {
+    "DRUG": "TESSALON",
+    "STRENGTH": "100 mg",
+    "FORM": "capsule",
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "3 (three) times daily as needed"
+  },
+  {
+    "DRUG": "clotrimazole"
+  },
+  {
+    "DRUG": "LOTRIMIN",
+    "STRENGTH": "1 %",
+    "FORM": "cream",
+    "FREQUENCY": "TWICE DAILY"
+  },
+  {
+    "DRUG": "cyanocobalamin"
+  },
+  {
+    "DRUG": "vitamin B-12",
+    "ROUTE": "oral"
+  },
+  {
+    "DRUG": "dextran",
+    "STRENGTH": "70-hypromellose",
+    "FORM": "dropsoln",
+    "ROUTE": "ophthalmic",
+    "DOSAGE": "2",
+    "FREQUENCY": "2 (two) times daily"
+  },
+  {
+    "DRUG": "ergocalciferol"
+  },
+  {
+    "DRUG": "vitamin D2",
+    "ROUTE": "oral"
+  },
+  {
+    "DRUG": "loratadine"
+  },
+  {
+    "DRUG": "CLARITIN",
+    "STRENGTH": "10 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "melatonin",
+    "STRENGTH": "3 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "nightly at bedtime"
+  },
+  {
+    "DRUG": "mometasone"
+  },
+  {
+    "DRUG": "NASONEX",
+    "STRENGTH": "50 mcg",
+    "FORM": "spray",
+    "ROUTE": "by Nasal route",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "multivitamin",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "omeprazole"
+  },
+  {
+    "DRUG": "PRILOSEC",
+    "STRENGTH": "20 mg",
+    "FORM": "capsule",
+    "DOSAGE": "1",
+    "ROUTE": "BY MOUTH",
+    "FREQUENCY": "DAILY"
+  },
+  {
+    "DRUG": "promethazine-dextromethorphan",
+    "STRENGTH": "6.25-15 mg/5 mL",
+    "FORM": "syrup",
+    "DOSAGE": "5 mLs",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "4 (four) times daily as needed"
+  },
+  {
+    "DRUG": "menthol",
+    "STRENGTH": "5 %",
+    "FORM": "gel",
+    "DOSAGE": "1",
+    "ROUTE": "topically",
+    "FREQUENCY": "2 (two) times daily"
+  },
+  {
+    "DRUG": "VENTOLIN",
+    "FORM": "hfa",
+    "STRENGTH": "90 mcg/actuation",
+    "ROUTE": "inhale",
+    "DOSAGE": "1",
+    "FREQUENCY": "EVERY 4 HOURS AS NEEDED"
+  },
+  {
+    "DRUG": "Hydrocodone-Acetaminophen"
+  },
+  {
+    "DRUG": "Penicillins"
+  },
+  {
+    "DRUG": "chemo"
+  },
+  {
+    "DRUG": "Chemo"
+  },
+  {
+    "DRUG": "taxol",
+    "DURATION": "x 12 weekly"
+  },
+  {
+    "DRUG": "chemo"
+  }
+]

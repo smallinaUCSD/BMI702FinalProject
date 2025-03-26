@@ -1,0 +1,64 @@
+[
+  {
+    "DRUG": "Penicillins"
+  },
+  {
+    "DRUG": "cholecalciferol"
+  },
+  {
+    "DRUG": "vitamin D3"
+  },
+  {
+    "DRUG": "VITAMIN D3",
+    "STRENGTH": [
+      "2,000 unit",
+      "1%"
+    ],
+    "FORM": [
+      "CAP",
+      "capsule"
+    ],
+    "ROUTE": "by mouth"
+  },
+  {
+    "DRUG": "lidocaine",
+    "STRENGTH": "1%"
+  },
+  {
+    "DRUG": "lidocaine with diluted"
+  },
+  {
+    "DRUG": "Gadolinium based contrast",
+    "DOSAGE": "5 cc"
+  },
+  {
+    "DRUG": "Gadavist",
+    "ROUTE": "intravenously"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy",
+    "FREQUENCY": [
+      "AC/weekly",
+      "TC x 4"
+    ]
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "TC"
+  },
+  {
+    "DRUG": "TC",
+    "DOSAGE": "6"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  }
+]

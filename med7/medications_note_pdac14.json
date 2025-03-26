@@ -1,0 +1,263 @@
+[
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "acetaminophen"
+  },
+  {
+    "DRUG": "TYLENOL",
+    "STRENGTH": [
+      "500 mg",
+      "1,000 mg"
+    ],
+    "FORM": "tablet",
+    "ROUTE": [
+      "by mouth",
+      "ORAL",
+      "by mouth"
+    ],
+    "FREQUENCY": "2 (two) times daily as needed"
+  },
+  {
+    "DRUG": "calcium carbonate",
+    "ROUTE": [
+      "ORAL",
+      "by mouth"
+    ],
+    "STRENGTH": "1,000 mg"
+  },
+  {
+    "DRUG": "calcium citrate/vitamin D3 (CALCIUM CITRATE + D",
+    "ROUTE": [
+      "ORAL",
+      "by mouth"
+    ],
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "cholecalciferol"
+  },
+  {
+    "DRUG": "vitamin D3",
+    "STRENGTH": "1000 UNITS",
+    "FORM": [
+      "TAB",
+      "tablet"
+    ],
+    "DOSAGE": "1,000 Units",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "clotrimazole",
+    "STRENGTH": "1 mg/mL",
+    "ROUTE": [
+      "SUSP",
+      "by mouth"
+    ],
+    "FORM": "suspension",
+    "FREQUENCY": "daily as needed"
+  },
+  {
+    "DRUG": "enoxaparin"
+  },
+  {
+    "DRUG": "LOVENOX",
+    "STRENGTH": [
+      "80 mg/0.8 mL",
+      "60 mg"
+    ],
+    "FORM": "injection",
+    "ROUTE": "under the skin",
+    "FREQUENCY": "every 12 (twelve) hours"
+  },
+  {
+    "DRUG": "PEPCID",
+    "STRENGTH": [
+      "10 mg",
+      "10 mg"
+    ],
+    "FORM": "tablet",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "2 (two) times daily as needed"
+  },
+  {
+    "DRUG": "folic acid",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "furosemide"
+  },
+  {
+    "DRUG": "LASIX",
+    "STRENGTH": [
+      "20 mg",
+      "20 mg"
+    ],
+    "FORM": "tablet",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "glucose",
+    "STRENGTH": "4 gram",
+    "FORM": [
+      "tablet",
+      "tablets"
+    ]
+  },
+  {
+    "DRUG": "insulin aspart U-100 (NOVOLOG)",
+    "STRENGTH": "100 unit/mL",
+    "FORM": [
+      "injection",
+      "Inject"
+    ],
+    "ROUTE": "under the skin",
+    "FREQUENCY": "three times daily with meals"
+  },
+  {
+    "DRUG": "insulin",
+    "DOSAGE": "sliding scale"
+  },
+  {
+    "DRUG": "insulin glargine"
+  },
+  {
+    "DRUG": "LANTUS",
+    "STRENGTH": "100 unit/mL",
+    "FORM": "injection",
+    "DOSAGE": "14 Units",
+    "ROUTE": "under the skin",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "insulin syringe-needle U-100",
+    "DOSAGE": [
+      "0.3 mL",
+      "6",
+      "3"
+    ],
+    "FORM": [
+      "31 gauge",
+      "SYRINGE",
+      "syringe",
+      "capsule",
+      "capsules",
+      "capsules with snacks"
+    ],
+    "FREQUENCY": [
+      "four times daily",
+      "3 (three) times daily"
+    ],
+    "STRENGTH": "24,000-76,000 -120,000 unit",
+    "ROUTE": "by mouth"
+  },
+  {
+    "DRUG": "multivitamin",
+    "FORM": [
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "PROTONIX",
+    "STRENGTH": [
+      "40 mg",
+      "40 mg",
+      "550 mg",
+      "550 mg",
+      "20 mg",
+      "20 mg"
+    ],
+    "FORM": [
+      "EC",
+      "tablet",
+      "tablet",
+      "tablet"
+    ],
+    "ROUTE": [
+      "by mouth",
+      "by mouth",
+      "by mouth"
+    ],
+    "FREQUENCY": [
+      "2 (two) times daily",
+      "2 (two) times daily",
+      "Daily"
+    ]
+  },
+  {
+    "DRUG": "Lovenox",
+    "STRENGTH": [
+      "250 mg",
+      "250 mg"
+    ],
+    "FORM": "capsule",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "2 (two) times daily"
+  },
+  {
+    "DRUG": "VANCOCIN",
+    "STRENGTH": [
+      "125 mg",
+      "125 mg"
+    ],
+    "FORM": "capsule",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "4 (four) times daily"
+  },
+  {
+    "DRUG": "Ondansetron"
+  },
+  {
+    "DRUG": "Oxaliplatin",
+    "FORM": "infusion"
+  },
+  {
+    "DRUG": "Benadryl",
+    "ROUTE": "IV"
+  },
+  {
+    "DRUG": "hydrocortisone"
+  },
+  {
+    "DRUG": "chemo"
+  },
+  {
+    "DRUG": "irinotecan"
+  },
+  {
+    "DRUG": "leucovorin"
+  },
+  {
+    "DRUG": "Sodium Phosphates"
+  },
+  {
+    "DRUG": "saline fleet",
+    "FORM": "enema"
+  },
+  {
+    "DRUG": "Acesulfame"
+  },
+  {
+    "DRUG": "Monosodium Glutamate"
+  },
+  {
+    "DRUG": "Penicillins"
+  },
+  {
+    "DRUG": "ertapenem"
+  },
+  {
+    "DRUG": "fleet enema"
+  }
+]

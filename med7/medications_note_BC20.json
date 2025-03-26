@@ -1,0 +1,666 @@
+[
+  {
+    "DRUG": "Lasix"
+  },
+  {
+    "DRUG": "OCP"
+  },
+  {
+    "DRUG": "acetaminophen"
+  },
+  {
+    "DRUG": "TYLENOL",
+    "STRENGTH": [
+      "500 mg",
+      "500 mg",
+      "5 mg"
+    ],
+    "FORM": [
+      "tablet",
+      "tablet",
+      "tablet",
+      "tablets",
+      "tablet"
+    ],
+    "DOSAGE": [
+      "1",
+      "0.5"
+    ],
+    "ROUTE": [
+      "by mouth",
+      "by mouth"
+    ],
+    "FREQUENCY": [
+      "every 6 (six) hours as needed",
+      "Daily"
+    ]
+  },
+  {
+    "DRUG": "aspirin",
+    "STRENGTH": [
+      "81 mg",
+      "90"
+    ],
+    "FORM": [
+      "EC",
+      "tablet",
+      "TABLET",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "BY MOUTH",
+    "FREQUENCY": "DAILY"
+  },
+  {
+    "DRUG": "atorvastatin"
+  },
+  {
+    "DRUG": "LIPITOR",
+    "STRENGTH": [
+      "40 mg",
+      "5 mg"
+    ],
+    "FORM": [
+      "tablet",
+      "TABLET",
+      "tablet",
+      "tablet",
+      "TABLET",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": [
+      "BY MOUTH",
+      "BY MOUTH"
+    ],
+    "FREQUENCY": [
+      "EVERY DAY",
+      "DAILY"
+    ]
+  },
+  {
+    "DRUG": "brimonidine"
+  },
+  {
+    "DRUG": "ALPHAGAN",
+    "STRENGTH": "0.1 %",
+    "ROUTE": [
+      "ophthalmic",
+      "into both eyes"
+    ],
+    "FORM": [
+      "solution",
+      "drop"
+    ],
+    "DOSAGE": "1",
+    "FREQUENCY": "2 (two) times daily"
+  },
+  {
+    "DRUG": "calcium carbonate-vitamin D",
+    "STRENGTH": [
+      "500/D",
+      "1,250 mg",
+      "500 mg"
+    ],
+    "FORM": [
+      "tablet",
+      "TABLET",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "BY MOUTH",
+    "FREQUENCY": "EVERY DAY"
+  },
+  {
+    "DRUG": "glipiZIDE"
+  },
+  {
+    "DRUG": "GLUCOTROL",
+    "STRENGTH": "10 mg",
+    "FORM": [
+      "tablet",
+      "TABLET",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "BY MOUTH",
+    "FREQUENCY": "TWICE DAILY BEFORE MEALS"
+  },
+  {
+    "DRUG": "insulin glargine"
+  },
+  {
+    "DRUG": "LANTUS",
+    "STRENGTH": [
+      "100 unit/mL",
+      "10 mL"
+    ],
+    "FORM": [
+      "injection",
+      "INJECT"
+    ],
+    "DOSAGE": "5 UNITS",
+    "ROUTE": "INTO THE SKIN",
+    "FREQUENCY": "EVERY NIGHT"
+  },
+  {
+    "DRUG": "insulin syringe-needle",
+    "STRENGTH": "0.3 mL",
+    "FORM": [
+      "SYRINGE",
+      "Syringe",
+      "lancets",
+      "lancets"
+    ],
+    "FREQUENCY": [
+      "DAILY AS DIRECTED",
+      "twice daily as directed"
+    ]
+  },
+  {
+    "DRUG": "latanoprost (XALATAN)",
+    "STRENGTH": [
+      "0.005 %",
+      "2.5 mL"
+    ],
+    "ROUTE": [
+      "ophthalmic",
+      "into both eyes"
+    ],
+    "FORM": [
+      "solution",
+      "drop"
+    ],
+    "DOSAGE": "1",
+    "FREQUENCY": "nightly at bedtime"
+  },
+  {
+    "DRUG": "metFORMIN (GLUCOPHAGE)",
+    "STRENGTH": [
+      "1,000 mg",
+      "200"
+    ],
+    "FORM": [
+      "tablet",
+      "TABLET",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "BY MOUTH",
+    "FREQUENCY": "TWICE DAILY TAKE WITH MEALS"
+  },
+  {
+    "DRUG": "valsartan"
+  },
+  {
+    "DRUG": "DIOVAN",
+    "STRENGTH": "80 mg",
+    "FORM": [
+      "tablet",
+      "TABLET",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "BY MOUTH",
+    "FREQUENCY": "DAILY"
+  },
+  {
+    "DRUG": "ALPHAGAN P",
+    "STRENGTH": "0.1",
+    "ROUTE": [
+      "ophthalmic",
+      "BOTH EYES"
+    ],
+    "FORM": [
+      "solution",
+      "DROP"
+    ],
+    "DOSAGE": "1",
+    "FREQUENCY": "TWICE DAILY"
+  },
+  {
+    "DRUG": "docusate sodium"
+  },
+  {
+    "DRUG": "COLACE",
+    "STRENGTH": [
+      "100 mg",
+      "60"
+    ],
+    "FORM": [
+      "capsule",
+      "capsule",
+      "capsule"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth"
+  },
+  {
+    "DRUG": "loratadine"
+  },
+  {
+    "DRUG": "CLARITIN",
+    "STRENGTH": [
+      "10 mg",
+      "10 mg",
+      "90"
+    ],
+    "FORM": [
+      "tablet",
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "mometasone"
+  },
+  {
+    "DRUG": "NASONEX",
+    "STRENGTH": [
+      "50 mcg/actuation",
+      "17 g"
+    ],
+    "FORM": [
+      "spray",
+      "sprays"
+    ],
+    "DOSAGE": "2",
+    "ROUTE": "Nasal route",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "nitroGLYCERIN"
+  },
+  {
+    "DRUG": "NITROSTAT",
+    "STRENGTH": "0.4 mg",
+    "ROUTE": [
+      "SL",
+      "under the tongue"
+    ],
+    "FORM": [
+      "tablet",
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "FREQUENCY": "every 5 (five) minutes as needed"
+  },
+  {
+    "DRUG": "olopatadine"
+  },
+  {
+    "DRUG": "PATANOL",
+    "STRENGTH": "0.1 %",
+    "ROUTE": [
+      "ophthalmic",
+      "into both eyes"
+    ],
+    "FORM": [
+      "solution",
+      "drop",
+      "drop"
+    ],
+    "DOSAGE": [
+      "1",
+      "1"
+    ],
+    "FREQUENCY": "daily as needed"
+  },
+  {
+    "DRUG": "doxycycline"
+  },
+  {
+    "DRUG": "MONODOX",
+    "STRENGTH": "100 mg",
+    "FORM": "capsule"
+  },
+  {
+    "DRUG": "furosemide"
+  },
+  {
+    "DRUG": "LASIX",
+    "STRENGTH": [
+      "40 mg",
+      "20 mg"
+    ],
+    "FORM": [
+      "tablet",
+      "tablets",
+      "tablet"
+    ],
+    "DOSAGE": "0.5",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "oxyCODONE"
+  },
+  {
+    "DRUG": "ROXICODONE",
+    "STRENGTH": "5 mg",
+    "FORM": [
+      "tablet",
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 4 (four) hours as needed"
+  },
+  {
+    "DRUG": "furosemide (LASIX)",
+    "FORM": "injection",
+    "STRENGTH": [
+      "20 mg",
+      "20 mg",
+      "0.9"
+    ],
+    "ROUTE": "Intravenous",
+    "FREQUENCY": "Once"
+  },
+  {
+    "DRUG": "sodium chloride",
+    "FORM": [
+      "syringe",
+      "syringe"
+    ],
+    "DOSAGE": [
+      "3 mL",
+      "3 mL"
+    ],
+    "ROUTE": [
+      "Intravenous",
+      "Intravenous"
+    ],
+    "FREQUENCY": [
+      "Q8H SCH",
+      "PRN"
+    ],
+    "STRENGTH": "0.9"
+  },
+  {
+    "DRUG": "acetaminophen"
+  },
+  {
+    "DRUG": "TYLENOL",
+    "FORM": "tablet",
+    "STRENGTH": [
+      "500 mg",
+      "500 mg"
+    ],
+    "ROUTE": "Oral",
+    "FREQUENCY": "Q6H PRN"
+  },
+  {
+    "DRUG": "acetaminophen"
+  },
+  {
+    "DRUG": "TYLENOL",
+    "FORM": "tablet",
+    "STRENGTH": [
+      "500 mg",
+      "500 mg"
+    ],
+    "ROUTE": "Oral",
+    "FREQUENCY": "Q6H PRN"
+  },
+  {
+    "DRUG": "amLODIPine"
+  },
+  {
+    "DRUG": "NORVASC",
+    "FORM": "tablet",
+    "STRENGTH": [
+      "2.5 mg",
+      "2.5 mg"
+    ],
+    "ROUTE": "Oral",
+    "FREQUENCY": "Daily (AM)"
+  },
+  {
+    "DRUG": "aspirin",
+    "FORM": "tablet",
+    "STRENGTH": [
+      "81 mg",
+      "81 mg"
+    ],
+    "ROUTE": "Oral",
+    "FREQUENCY": "Daily (AM)"
+  },
+  {
+    "DRUG": "atorvastatin"
+  },
+  {
+    "DRUG": "LIPITOR",
+    "FORM": "tablet",
+    "STRENGTH": [
+      "40 mg",
+      "40 mg"
+    ],
+    "ROUTE": "Oral",
+    "FREQUENCY": "Q PM"
+  },
+  {
+    "DRUG": "brimonidine"
+  },
+  {
+    "DRUG": "ALPHAGAN",
+    "STRENGTH": "0.1 %",
+    "ROUTE": [
+      "ophthalmic",
+      "Both Eyes"
+    ],
+    "FORM": [
+      "solution",
+      "drop",
+      "drop"
+    ],
+    "DOSAGE": [
+      "1",
+      "1"
+    ],
+    "FREQUENCY": "BID"
+  },
+  {
+    "DRUG": "dextrose",
+    "STRENGTH": [
+      "50%",
+      "12.5 g"
+    ],
+    "FORM": "injection syringe",
+    "DOSAGE": "25 mL",
+    "ROUTE": "Intravenous",
+    "FREQUENCY": "Q15 Min PRN"
+  },
+  {
+    "DRUG": "docusate sodium"
+  },
+  {
+    "DRUG": "COLACE",
+    "FORM": "capsule",
+    "STRENGTH": [
+      "100 mg",
+      "100 mg"
+    ],
+    "ROUTE": "Oral",
+    "FREQUENCY": "BID"
+  },
+  {
+    "DRUG": "glipiZIDE"
+  },
+  {
+    "DRUG": "GLUCOTROL",
+    "FORM": "tablet",
+    "STRENGTH": [
+      "10 mg",
+      "10 mg"
+    ],
+    "ROUTE": "Oral",
+    "FREQUENCY": "Daily with Breakfast"
+  },
+  {
+    "DRUG": "glucose",
+    "FORM": [
+      "chewable",
+      "tablet"
+    ],
+    "STRENGTH": [
+      "20 g",
+      "20 g"
+    ],
+    "ROUTE": "Oral",
+    "FREQUENCY": "Q15 Min PRN"
+  },
+  {
+    "DRUG": "insulin aspart",
+    "FORM": [
+      "injection",
+      "pen"
+    ],
+    "STRENGTH": "100 units/mL",
+    "DOSAGE": "0-20 Units",
+    "ROUTE": "Subcutaneous",
+    "FREQUENCY": "TID"
+  },
+  {
+    "DRUG": "insulin aspart",
+    "FORM": [
+      "injection",
+      "pen"
+    ],
+    "STRENGTH": "100 units/mL",
+    "DOSAGE": "0-3 Units",
+    "ROUTE": "Subcutaneous",
+    "FREQUENCY": "Bedtime and early am"
+  },
+  {
+    "DRUG": "insulin glargine",
+    "FORM": [
+      "injection",
+      "pen"
+    ],
+    "STRENGTH": "100 units/mL",
+    "DOSAGE": "5 Units",
+    "ROUTE": "Subcutaneous",
+    "FREQUENCY": "Bedtime"
+  },
+  {
+    "DRUG": "latanoprost (XALATAN)",
+    "STRENGTH": "0.005 %",
+    "ROUTE": [
+      "ophthalmic",
+      "Both Eyes"
+    ],
+    "FORM": [
+      "solution",
+      "drop",
+      "drop"
+    ],
+    "DOSAGE": [
+      "1",
+      "1"
+    ],
+    "FREQUENCY": "Bedtime"
+  },
+  {
+    "DRUG": "loratadine"
+  },
+  {
+    "DRUG": "CLARITIN",
+    "FORM": "tablet",
+    "STRENGTH": [
+      "10 mg",
+      "10 mg"
+    ],
+    "ROUTE": "Oral",
+    "FREQUENCY": "Daily (AM)"
+  },
+  {
+    "DRUG": "metFORMIN"
+  },
+  {
+    "DRUG": "GLUCOPHAGE",
+    "FORM": "tablet",
+    "STRENGTH": [
+      "1,000 mg",
+      "1,000 mg"
+    ],
+    "ROUTE": "Oral",
+    "FREQUENCY": "BID"
+  },
+  {
+    "DRUG": "nitroGLYCERIN"
+  },
+  {
+    "DRUG": "NITROSTAT",
+    "ROUTE": [
+      "SL",
+      "Sublingual"
+    ],
+    "FORM": "tablet",
+    "STRENGTH": [
+      "0.4 mg",
+      "0.4 mg"
+    ],
+    "FREQUENCY": "Q5 Min PRN"
+  },
+  {
+    "DRUG": "ondansetron"
+  },
+  {
+    "DRUG": "ZOFRAN",
+    "FORM": "injection",
+    "STRENGTH": [
+      "4 mg",
+      "4 mg"
+    ],
+    "ROUTE": "Intravenous",
+    "FREQUENCY": "Q8H PRN"
+  },
+  {
+    "DRUG": "ZOFRAN",
+    "FORM": "tablet",
+    "STRENGTH": [
+      "4 mg",
+      "4 mg"
+    ],
+    "ROUTE": "Oral",
+    "FREQUENCY": "Q8H PRN"
+  },
+  {
+    "DRUG": "valsartan"
+  },
+  {
+    "DRUG": "DIOVAN",
+    "FORM": "tablet",
+    "STRENGTH": [
+      "80 mg",
+      "80 mg"
+    ],
+    "ROUTE": "Oral",
+    "FREQUENCY": "Daily (AM)"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy",
+    "FREQUENCY": "AC/T"
+  },
+  {
+    "DRUG": "dexamethasone"
+  },
+  {
+    "DRUG": "CMF"
+  },
+  {
+    "DRUG": "chemotherapy"
+  }
+]

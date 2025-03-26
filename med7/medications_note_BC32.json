@@ -1,0 +1,211 @@
+[
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "cholecalciferol"
+  },
+  {
+    "DRUG": "vitamin D3"
+  },
+  {
+    "DRUG": "VITAMIN D3",
+    "ROUTE": [
+      "ORAL",
+      "by mouth"
+    ]
+  },
+  {
+    "DRUG": "multivitamin",
+    "FORM": [
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "SYNTHROID",
+    "STRENGTH": [
+      "112 mcg",
+      "112 mcg"
+    ],
+    "FORM": "tablet",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "TYLENOL",
+    "STRENGTH": "500 mg",
+    "FORM": [
+      "tablet",
+      "tablets",
+      "tablet"
+    ],
+    "DOSAGE": "2",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 8 (eight) hours as needed"
+  },
+  {
+    "DRUG": "docusate sodium",
+    "STRENGTH": "100 mg",
+    "FORM": [
+      "capsule",
+      "capsule"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth"
+  },
+  {
+    "DRUG": "oxycodone",
+    "FORM": [
+      "capsule",
+      "tablet",
+      "tablet"
+    ],
+    "STRENGTH": "5-325 mg",
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 4 (four) hours as needed"
+  },
+  {
+    "DRUG": "ibuprofen",
+    "STRENGTH": [
+      "600 mg",
+      "600 mg"
+    ],
+    "FORM": [
+      "tablet",
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 8 (eight) hours as needed"
+  },
+  {
+    "DRUG": "ATIVAN",
+    "STRENGTH": [
+      "0.5 mg",
+      "0.5 mg"
+    ],
+    "FORM": "tablet",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 6 (six) hours as needed"
+  },
+  {
+    "DRUG": "oxyCODONE"
+  },
+  {
+    "DRUG": "ROXICODONE",
+    "STRENGTH": "5 mg",
+    "FORM": [
+      "tablet",
+      "tablets",
+      "tablet"
+    ],
+    "DOSAGE": "1-2",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 6 (six) hours as needed"
+  },
+  {
+    "DRUG": "oral contraceptives",
+    "DOSAGE": "7.5 ml",
+    "ROUTE": [
+      "IV",
+      "intravenous"
+    ],
+    "STRENGTH": "9.1 mCi"
+  },
+  {
+    "DRUG": "F18-FDG"
+  },
+  {
+    "DRUG": "FDG"
+  },
+  {
+    "DRUG": "FDG",
+    "STRENGTH": "1%"
+  },
+  {
+    "DRUG": "Xylocaine",
+    "STRENGTH": "1%"
+  },
+  {
+    "DRUG": "Xylocaine"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "anthracycline"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "Mindact"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "Anthracyclines",
+    "DURATION": "for six cycles"
+  },
+  {
+    "DRUG": "TaxAC"
+  },
+  {
+    "DRUG": "TaxAC"
+  },
+  {
+    "DRUG": "TaxAC"
+  },
+  {
+    "DRUG": "TaxAC"
+  },
+  {
+    "DRUG": "TaxAC"
+  },
+  {
+    "DRUG": "TC x 6"
+  },
+  {
+    "DRUG": "TaxAC"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "anthracycline"
+  },
+  {
+    "DRUG": "Taxotere"
+  },
+  {
+    "DRUG": "Cytoxan"
+  },
+  {
+    "DRUG": "taxanes"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "CDK 4/6 inhibitors"
+  },
+  {
+    "DRUG": "PALLAS"
+  }
+]

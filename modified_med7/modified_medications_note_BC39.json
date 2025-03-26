@@ -1,0 +1,31 @@
+[
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "anthracycline"
+  },
+  {
+    "DRUG": "taxane",
+    "DURATION": "for 4 cycles"
+  },
+  {
+    "DRUG": "docetaxel"
+  },
+  {
+    "DRUG": "carboplatin"
+  },
+  {
+    "DRUG": "Pertuzumab"
+  },
+  {
+    "DRUG": "Trastuzumab",
+    "DURATION": "1 year"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  }
+]

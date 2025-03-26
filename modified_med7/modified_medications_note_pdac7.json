@@ -1,0 +1,138 @@
+[
+  {
+    "DURATION": "1 cycle"
+  },
+  {
+    "DRUG": "FOLFOX chemotherapy"
+  },
+  {
+    "DRUG": "irinotecan"
+  },
+  {
+    "DRUG": "FOLFIRINOX",
+    "DURATION": "11 cycles"
+  },
+  {
+    "DRUG": "gemcitabine"
+  },
+  {
+    "DRUG": "nab-paclitaxel",
+    "FREQUENCY": "every other week",
+    "FORM": "long-acting"
+  },
+  {
+    "DRUG": "morphine"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "Erythromycin"
+  },
+  {
+    "DRUG": "acetaminophen"
+  },
+  {
+    "DRUG": "TYLENOL",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every day",
+    "STRENGTH": "120,000-24,000-76,000",
+    "FORM": "caps",
+    "DOSAGE": "2"
+  },
+  {
+    "DRUG": "cholecalciferol (vitamin D3) (VITAMIN D3",
+    "ROUTE": "po",
+    "FREQUENCY": "every day"
+  },
+  {
+    "DRUG": "morphine"
+  },
+  {
+    "DRUG": "MS Contin",
+    "STRENGTH": "15 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "daily"
+  },
+  {
+    "DRUG": "polyethylene glycol"
+  },
+  {
+    "DRUG": "MIRAlax",
+    "STRENGTH": "17 gram",
+    "FORM": "packet",
+    "ROUTE": "by mouth"
+  },
+  {
+    "DRUG": "potassium chloride"
+  },
+  {
+    "DRUG": "Klor-Con",
+    "STRENGTH": "20 meq",
+    "FORM": "sustained release",
+    "DOSAGE": "2",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "2 times a day"
+  },
+  {
+    "DRUG": "chemotherapy",
+    "DURATION": "1 cycle"
+  },
+  {
+    "DRUG": "FOLFOX",
+    "DURATION": "11 cycles"
+  },
+  {
+    "DRUG": "FOLFIRINOX",
+    "DURATION": "3 cycles"
+  },
+  {
+    "DRUG": "paclitaxel"
+  },
+  {
+    "DRUG": "paclitaxel",
+    "FREQUENCY": "every other week"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "5-FU/LV",
+    "FORM": "nanoliposomal"
+  },
+  {
+    "DRUG": "irinotecan"
+  },
+  {
+    "DRUG": "Onivyde"
+  },
+  {
+    "DRUG": "nab-paclitaxel"
+  },
+  {
+    "DRUG": "glucocorticoid receptor antagonist"
+  },
+  {
+    "DRUG": "relacorilant"
+  },
+  {
+    "DRUG": "pembrolizumab"
+  },
+  {
+    "DRUG": "lenvantinib"
+  },
+  {
+    "DRUG": "HIF2a inhibitor"
+  },
+  {
+    "DRUG": "RAD51 inhibitor"
+  },
+  {
+    "DRUG": "ATR inhibitor"
+  }
+]

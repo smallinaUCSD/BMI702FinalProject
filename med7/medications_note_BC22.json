@@ -1,0 +1,86 @@
+[
+  {
+    "DRUG": "oral contraceptives"
+  },
+  {
+    "DRUG": "hormone replacement therapy"
+  },
+  {
+    "DRUG": "clotrimazole-betamethasone"
+  },
+  {
+    "DRUG": "LOTRISONE",
+    "STRENGTH": "1-0.05",
+    "FORM": "cream",
+    "FREQUENCY": "2 (two) times a day"
+  },
+  {
+    "DRUG": "ibuprofen",
+    "STRENGTH": [
+      "800 mg",
+      "800 mg"
+    ],
+    "FORM": "tablet",
+    "ROUTE": "by mouth"
+  },
+  {
+    "DRUG": "omeprazole"
+  },
+  {
+    "DRUG": "PRILOSEC",
+    "STRENGTH": [
+      "20 mg",
+      "20 mg"
+    ],
+    "FORM": "capsule",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "As needed"
+  },
+  {
+    "DRUG": "DYAZIDE",
+    "STRENGTH": "37.5-25 mg",
+    "FORM": [
+      "capsule",
+      "capsule"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "DELTASONE",
+    "STRENGTH": "5 mg",
+    "FORM": "tablet"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy",
+    "DURATION": "12 cycles",
+    "FREQUENCY": "weekly"
+  },
+  {
+    "DRUG": "paclitaxel",
+    "DURATION": "4 cycles"
+  },
+  {
+    "DRUG": "doxorubicin"
+  },
+  {
+    "DRUG": "cyclophosphamide",
+    "FREQUENCY": "every 2 weeks"
+  },
+  {
+    "DRUG": "paclitaxel"
+  },
+  {
+    "DRUG": "chemo"
+  }
+]

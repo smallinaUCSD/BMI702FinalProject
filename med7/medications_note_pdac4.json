@@ -1,0 +1,344 @@
+[
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "Irinotecan"
+  },
+  {
+    "DRUG": "FOLFOX"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "Irinotecan"
+  },
+  {
+    "DRUG": "irinotecan"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "xarelto"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "fluconazole"
+  },
+  {
+    "DRUG": "cicloprox",
+    "FORM": "cream"
+  },
+  {
+    "DRUG": "butenafine",
+    "STRENGTH": "1 %",
+    "FORM": "cream"
+  },
+  {
+    "DRUG": "cholecalciferol"
+  },
+  {
+    "DRUG": "vitamin D3",
+    "STRENGTH": "1000 UNITS",
+    "FORM": [
+      "TAB",
+      "tablet",
+      "tablets"
+    ],
+    "DOSAGE": "4",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "daily"
+  },
+  {
+    "DRUG": "clotrimazole"
+  },
+  {
+    "DRUG": "MYCELEX",
+    "STRENGTH": "10 mg"
+  },
+  {
+    "DRUG": "troche",
+    "DOSAGE": "1",
+    "FORM": "tablet",
+    "STRENGTH": "10 mg",
+    "ROUTE": [
+      "Other route",
+      "buccal route"
+    ],
+    "FREQUENCY": "3 (three) times daily",
+    "DURATION": "for 14 days"
+  },
+  {
+    "DRUG": "Troche",
+    "STRENGTH": "1     "
+  },
+  {
+    "DRUG": "fluconazole"
+  },
+  {
+    "DRUG": "DIFLUCAN",
+    "STRENGTH": [
+      "100 mg",
+      "200mg",
+      "100mg",
+      "8",
+      "0     hyoscyamine",
+      "0.125 MG",
+      "0.125 mg",
+      "60"
+    ],
+    "FORM": [
+      "tablet",
+      "tablet",
+      "tablet",
+      "tablet",
+      "tablet"
+    ],
+    "ROUTE": [
+      "PO",
+      "PO",
+      "SL",
+      "under the tongue"
+    ],
+    "FREQUENCY": [
+      "qd",
+      "qd",
+      "every 4 (four) hours as needed"
+    ],
+    "DURATION": "for 1 week",
+    "DOSAGE": "1"
+  },
+  {
+    "DRUG": "KERYDIN",
+    "STRENGTH": "5 %",
+    "FORM": "SolA",
+    "ROUTE": "by mouth"
+  },
+  {
+    "DRUG": "lidocaine-prilocaine",
+    "STRENGTH": [
+      "2.5-2.5",
+      "30 g",
+      "24,000-76,000 -120,000 unit",
+      "300"
+    ],
+    "FORM": [
+      "cream",
+      "cream",
+      "capsule",
+      "tabs",
+      "tab",
+      "capsule"
+    ],
+    "DOSAGE": [
+      "2",
+      "1"
+    ]
+  },
+  {
+    "DRUG": "loperamide"
+  },
+  {
+    "DRUG": "IMODIUM",
+    "STRENGTH": "2 mg",
+    "FORM": [
+      "capsule",
+      "capsules",
+      "capsule",
+      "capsule"
+    ],
+    "DOSAGE": [
+      "two",
+      "one"
+    ],
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 2 hours",
+    "DURATION": "for 12 hours"
+  },
+  {
+    "DRUG": "ZOFRAN",
+    "STRENGTH": "8 mg",
+    "FORM": [
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "FREQUENCY": "three times a day as needed"
+  },
+  {
+    "DRUG": "palonosetron"
+  },
+  {
+    "DRUG": "Aloxi",
+    "FORM": "tablet"
+  },
+  {
+    "DRUG": "OXYCONTIN",
+    "STRENGTH": [
+      "10 mg",
+      "10 mg"
+    ],
+    "FORM": [
+      "12 hr ER",
+      "tablet",
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 12 (twelve) hours"
+  },
+  {
+    "DRUG": "ROXICODONE",
+    "STRENGTH": [
+      "10 mg",
+      "10 mg"
+    ],
+    "FORM": [
+      "tablet",
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 4 (four) hours as needed"
+  },
+  {
+    "DRUG": "prochlorperazine"
+  },
+  {
+    "DRUG": "COMPAZINE",
+    "STRENGTH": [
+      "10 mg",
+      "10 mg"
+    ],
+    "FORM": [
+      "tablet",
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 6 (six) hours as needed"
+  },
+  {
+    "DRUG": "rivaroxaban"
+  },
+  {
+    "DRUG": "XARELTO",
+    "STRENGTH": [
+      "20 mg",
+      "20 mg"
+    ],
+    "FORM": [
+      "tablet",
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "daily"
+  },
+  {
+    "DRUG": "terbinafine HCl"
+  },
+  {
+    "DRUG": "LAMISIL",
+    "STRENGTH": [
+      "1 %",
+      "71.5 mg"
+    ],
+    "FORM": [
+      "cream",
+      "tablet",
+      "tablet",
+      "tablet"
+    ],
+    "ROUTE": [
+      "topically",
+      "by mouth"
+    ],
+    "FREQUENCY": [
+      "Daily",
+      "every other day during weeks of no infusion",
+      "every other day during weeks of no infusion"
+    ],
+    "DOSAGE": [
+      "1",
+      "one",
+      "0.5 ml"
+    ],
+    "DURATION": "12 cycles"
+  },
+  {
+    "DRUG": "FOLFIRINOX",
+    "DURATION": "12 cycles"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "fluconazole"
+  },
+  {
+    "DRUG": "xarelto",
+    "FREQUENCY": "QD"
+  },
+  {
+    "DRUG": "Creon",
+    "DOSAGE": [
+      "2",
+      "1"
+    ],
+    "FORM": [
+      "tab",
+      "tab"
+    ]
+  },
+  {
+    "DRUG": "Oxycontin",
+    "STRENGTH": "10mg",
+    "ROUTE": "PO",
+    "FREQUENCY": "bid"
+  },
+  {
+    "DRUG": "Oxycodone",
+    "STRENGTH": [
+      "5 to 10mg",
+      "10mg"
+    ],
+    "ROUTE": "PO",
+    "FORM": "tabs"
+  }
+]

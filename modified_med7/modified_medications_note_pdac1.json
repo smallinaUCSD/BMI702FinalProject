@@ -1,0 +1,187 @@
+[
+  {
+    "DRUG": "Cipro"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "Gemcitabine"
+  },
+  {
+    "DRUG": "Abraxane"
+  },
+  {
+    "DRUG": "ALPRAZolam",
+    "STRENGTH": "0.25 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "nightly as needed"
+  },
+  {
+    "DRUG": "atorvastatin"
+  },
+  {
+    "DRUG": "LIPITOR",
+    "STRENGTH": "40 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "diclofenac"
+  },
+  {
+    "DRUG": "VOLTAREN",
+    "STRENGTH": "1 %",
+    "FORM": "patch",
+    "ROUTE": "affected areas",
+    "FREQUENCY": "PRN"
+  },
+  {
+    "DRUG": "chemo"
+  },
+  {
+    "DRUG": "chemo",
+    "FORM": "Patch"
+  },
+  {
+    "DRUG": "INSULIN",
+    "FORM": "ASPART",
+    "STRENGTH": "100 UNIT/ML",
+    "ROUTE": "SUBCUTANEOUS PEN"
+  },
+  {
+    "DRUG": "lidocaine-diphenhydramine-maalox",
+    "STRENGTH": "200-25-400-40 mg/30 mL",
+    "FORM": "mouthwash",
+    "DOSAGE": "15 mLs",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "4 (four) times daily as needed"
+  },
+  {
+    "DRUG": "lipase-protease-amylase",
+    "STRENGTH": "36,000-114,000- 180,000 unit",
+    "FORM": "capsule",
+    "ROUTE": "by mouth"
+  },
+  {
+    "DRUG": "min-folic acid"
+  },
+  {
+    "DRUG": "OMNICAP",
+    "STRENGTH": "0.4 mg",
+    "FORM": "TAB"
+  },
+  {
+    "DRUG": "nitroGLYCERIN",
+    "STRENGTH": "6.5 mg",
+    "FORM": "cr",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "ondansetron"
+  },
+  {
+    "DRUG": "ZOFRAN",
+    "STRENGTH": "8 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1"
+  },
+  {
+    "DRUG": "palonosetron"
+  },
+  {
+    "DRUG": "Aloxi"
+  },
+  {
+    "DRUG": "pantoprazole"
+  },
+  {
+    "DRUG": "PROTONIX",
+    "STRENGTH": "40 mg",
+    "FORM": "ec",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "pantoprazole",
+    "STRENGTH": "40 mg"
+  },
+  {
+    "DRUG": "prochlorperazine"
+  },
+  {
+    "DRUG": "COMPAZINE",
+    "STRENGTH": "10 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 6 (six) hours as needed"
+  },
+  {
+    "DRUG": "tamsulosin"
+  },
+  {
+    "DRUG": "FLOMAX",
+    "STRENGTH": "0.4 mg",
+    "FORM": "capsule",
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "nicotine replacement"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "Gemcitabine"
+  },
+  {
+    "DRUG": "Abraxane"
+  },
+  {
+    "DRUG": "Gem"
+  },
+  {
+    "DRUG": "Abrax"
+  },
+  {
+    "DRUG": "Abraxane"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "Aloxi"
+  },
+  {
+    "DRUG": "granisetron",
+    "FORM": "patch",
+    "STRENGTH": "3.1 mg/24"
+  },
+  {
+    "DRUG": "compazine",
+    "FREQUENCY": "PRN",
+    "ROUTE": "IV"
+  },
+  {
+    "DRUG": "hydration"
+  },
+  {
+    "DRUG": "Creon",
+    "DOSAGE": "2",
+    "FORM": "tab"
+  }
+]

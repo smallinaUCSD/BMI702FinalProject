@@ -1,0 +1,276 @@
+[
+  {
+    "DRUG": "gemcitabine"
+  },
+  {
+    "DRUG": "Abraxane"
+  },
+  {
+    "DRUG": "gemcitabine"
+  },
+  {
+    "DRUG": "capecitabine",
+    "FREQUENCY": "alternate week",
+    "DURATION": "2 cycles"
+  },
+  {
+    "DRUG": "Tylenol"
+  },
+  {
+    "DRUG": "Flexeril"
+  },
+  {
+    "DRUG": "gabapentin"
+  },
+  {
+    "DRUG": "albuterol",
+    "STRENGTH": "90 mcg/actuation",
+    "FORM": "metered dose inhaler",
+    "ROUTE": "inhale",
+    "DOSAGE": "2",
+    "FREQUENCY": "every 4 (four) hours as needed"
+  },
+  {
+    "DRUG": "buPROPion",
+    "STRENGTH": "450 mg",
+    "FREQUENCY": "tabsr24h",
+    "ROUTE": "by mouth"
+  },
+  {
+    "DRUG": "capecitabine"
+  },
+  {
+    "DRUG": "XELODA",
+    "STRENGTH": "1 mg",
+    "FORM": "tablet",
+    "DOSAGE": "3",
+    "DURATION": "for 7 days",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "2 (two) times daily as needed"
+  },
+  {
+    "DRUG": "clotrimazole"
+  },
+  {
+    "DRUG": "LOTRIMIN",
+    "STRENGTH": "1 %",
+    "FORM": "cream",
+    "ROUTE": "topically"
+  },
+  {
+    "DRUG": "cyanocobalamin",
+    "STRENGTH": "2,500 mcg",
+    "ROUTE": "sl",
+    "FORM": "tablet",
+    "DOSAGE": "1"
+  },
+  {
+    "DRUG": "diclofenac"
+  },
+  {
+    "DRUG": "VOLTAREN",
+    "STRENGTH": "1 %",
+    "FORM": "gel",
+    "ROUTE": "topically",
+    "FREQUENCY": "4 (four) times daily as needed"
+  },
+  {
+    "DRUG": "etodolac",
+    "STRENGTH": "20 mg",
+    "FORM": "tablet",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "in the morning",
+    "DOSAGE": "1"
+  },
+  {
+    "DRUG": "FLUoxetine"
+  },
+  {
+    "DRUG": "PROZAC",
+    "STRENGTH": "40 mg",
+    "FORM": "capsule",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "daily"
+  },
+  {
+    "DRUG": "fluticasone propionate",
+    "ROUTE": "inh"
+  },
+  {
+    "DRUG": "gabapentin"
+  },
+  {
+    "DRUG": "NEURONTIN",
+    "STRENGTH": "300 mg",
+    "FORM": "capsule",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "2 (two) times daily"
+  },
+  {
+    "DRUG": "hydrocortisone",
+    "STRENGTH": "2.5 %",
+    "FORM": "ointment",
+    "ROUTE": "topically",
+    "FREQUENCY": "4 (four) times daily"
+  },
+  {
+    "DRUG": "levocarnitine HCl"
+  },
+  {
+    "DRUG": "ACETYL-L-CARNITINE MISC)",
+    "DOSAGE": "1",
+    "FORM": "tablet",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "daily"
+  },
+  {
+    "DRUG": "lidocaine-diphenhydrAMINE-maalox",
+    "FORM": "capsule",
+    "DOSAGE": "10 ml",
+    "ROUTE": "in the mouth or throat",
+    "STRENGTH": "24,000-76,000 -120,000 unit"
+  },
+  {
+    "DRUG": "loperamide"
+  },
+  {
+    "DRUG": "IMODIUM",
+    "STRENGTH": "2 mg",
+    "FORM": "capsule",
+    "DOSAGE": "two",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 2 hours"
+  },
+  {
+    "DRUG": "LORazepam"
+  },
+  {
+    "DRUG": "ATIVAN",
+    "STRENGTH": "1 mg",
+    "FORM": "tablet",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "nightly as needed"
+  },
+  {
+    "DRUG": "losartan"
+  },
+  {
+    "DRUG": "COZAAR",
+    "STRENGTH": "50 mg",
+    "FORM": "tablet",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every evening"
+  },
+  {
+    "DRUG": "multivitamin",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "daily"
+  },
+  {
+    "DRUG": "naloxone",
+    "STRENGTH": "4 mg/actuation",
+    "FORM": "spraynaero",
+    "DOSAGE": "1",
+    "ROUTE": "Nasal route",
+    "DURATION": "for up to 1 dose"
+  },
+  {
+    "DRUG": "ondansetron"
+  },
+  {
+    "DRUG": "ZOFRAN",
+    "STRENGTH": "8 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 8 (eight) hours as needed"
+  },
+  {
+    "DRUG": "gabapentin"
+  },
+  {
+    "DRUG": "tylenol"
+  },
+  {
+    "DRUG": "ibuprofen",
+    "DOSAGE": "10",
+    "FORM": "tablet",
+    "STRENGTH": "17 gram",
+    "ROUTE": "by mouth"
+  },
+  {
+    "DRUG": "COMPAZINE",
+    "STRENGTH": "10 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 6 (six) hours as needed"
+  },
+  {
+    "DRUG": "tamsulosin"
+  },
+  {
+    "DRUG": "FLOMAX",
+    "STRENGTH": "0.4 mg",
+    "FORM": "capsule",
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "daily"
+  },
+  {
+    "DRUG": "ferrous  bis-glycinate"
+  },
+  {
+    "DRUG": "MONONITRATE",
+    "STRENGTH": "100 mg",
+    "FORM": "tablet",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "daily"
+  },
+  {
+    "DRUG": "zolpidem"
+  },
+  {
+    "DRUG": "AMBIEN",
+    "STRENGTH": "10 mg",
+    "FORM": "tablet",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "nightly as needed"
+  },
+  {
+    "DRUG": "Sulfa (Sulfonamide Antibiotics)"
+  },
+  {
+    "DRUG": "CONTRAST"
+  },
+  {
+    "DRUG": "Iohexol",
+    "DOSAGE": "350 - 110 mL",
+    "ROUTE": "intravenous"
+  },
+  {
+    "DRUG": "contrast"
+  },
+  {
+    "DRUG": "Iohexol",
+    "DOSAGE": "350 - 110 mL",
+    "ROUTE": "Intravenous"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "capecitabine"
+  },
+  {
+    "DRUG": "Lovenox"
+  },
+  {
+    "DRUG": "Lovenox"
+  }
+]

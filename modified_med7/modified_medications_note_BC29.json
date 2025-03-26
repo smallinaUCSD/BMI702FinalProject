@@ -1,0 +1,62 @@
+[
+  {
+    "DRUG": "Sulfa (Sulfonamide Antibiotics)"
+  },
+  {
+    "DRUG": "CETRORELIX",
+    "ROUTE": "under the skin"
+  },
+  {
+    "DRUG": "tamoxifen"
+  },
+  {
+    "DRUG": "NOLVADEX",
+    "STRENGTH": "20 mg",
+    "FORM": "tablet",
+    "ROUTE": "sq",
+    "DOSAGE": "1cc"
+  },
+  {
+    "DRUG": "F18-FDG"
+  },
+  {
+    "DRUG": "FDG"
+  },
+  {
+    "DRUG": "FDG",
+    "FORM": "injection",
+    "STRENGTH": "1%"
+  },
+  {
+    "DRUG": "Lidocaine"
+  },
+  {
+    "DRUG": "epinephrine"
+  },
+  {
+    "DRUG": "Gadolinium based contrast",
+    "ROUTE": "injected",
+    "STRENGTH": "0.1 millimole"
+  },
+  {
+    "DRUG": "Xylocaine",
+    "FREQUENCY": "weekly"
+  },
+  {
+    "DRUG": "paclitaxel",
+    "DURATION": "x 12 followed",
+    "FREQUENCY": "every 2-3 weeks"
+  },
+  {
+    "DRUG": "neulasta"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "gemcitabine"
+  },
+  {
+    "DRUG": "Abraxane",
+    "DURATION": "28 day cycles"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "fiber"
+  },
+  {
+    "DRUG": "MiraLAX"
+  },
+  {
+    "DRUG": "buPROPion (WELLBUTRIN SR",
+    "STRENGTH": [
+      "100 mg",
+      "100 mg"
+    ],
+    "FREQUENCY": [
+      "12 hr",
+      "daily"
+    ],
+    "FORM": "tablet",
+    "ROUTE": "by mouth"
+  },
+  {
+    "DRUG": "estradiol",
+    "FREQUENCY": "twice weekly",
+    "FORM": "patch",
+    "STRENGTH": "0.05 mg/24",
+    "DURATION": "hr"
+  },
+  {
+    "DRUG": "estradiol",
+    "STRENGTH": "0.05 mg/24",
+    "DURATION": "hr",
+    "FREQUENCY": "semiweekly transdermal",
+    "FORM": "patch"
+  },
+  {
+    "DRUG": "LORazepam"
+  },
+  {
+    "DRUG": "ATIVAN",
+    "STRENGTH": [
+      "1 mg",
+      "1 mg"
+    ],
+    "FORM": "tablet",
+    "ROUTE": "by mouth"
+  },
+  {
+    "DRUG": "ondansetron"
+  },
+  {
+    "DRUG": "ZOFRAN",
+    "STRENGTH": "8 mg",
+    "FORM": [
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "FREQUENCY": "three times a day as needed"
+  },
+  {
+    "DRUG": "palonosetron"
+  },
+  {
+    "DRUG": "Aloxi",
+    "STRENGTH": [
+      "40 mg",
+      "40 mg"
+    ],
+    "FORM": [
+      "EC",
+      "tablet",
+      "tablet"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "daily"
+  },
+  {
+    "DRUG": "PRISTIQ",
+    "STRENGTH": [
+      "100 mg",
+      "100 mg"
+    ],
+    "FORM": [
+      "24 hr",
+      "tablet"
+    ],
+    "ROUTE": "by mouth",
+    "FREQUENCY": "daily"
+  },
+  {
+    "DRUG": "progesterone"
+  },
+  {
+    "DRUG": "PROMETRIUM",
+    "STRENGTH": "100 mg",
+    "FORM": [
+      "capsule",
+      "CAPSULE"
+    ],
+    "DOSAGE": "1",
+    "ROUTE": "BY MOUTH",
+    "FREQUENCY": "DAILY AT BEDTIME"
+  },
+  {
+    "DRUG": "chemo"
+  },
+  {
+    "DRUG": "Omnipaque",
+    "DOSAGE": "500 mL",
+    "ROUTE": "Oral"
+  },
+  {
+    "DRUG": "Omnipaque",
+    "DOSAGE": "500 mL",
+    "ROUTE": "Oral"
+  },
+  {
+    "DRUG": "Iohexol",
+    "STRENGTH": "350",
+    "DOSAGE": "150 mL",
+    "ROUTE": "Intravenous"
+  },
+  {
+    "DRUG": "chemo",
+    "ROUTE": "intravenous"
+  },
+  {
+    "DRUG": "contrast"
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "DRUG": "IVF"
+  },
+  {
+    "DRUG": "IVF"
+  },
+  {
+    "DRUG": "Gemcitabine"
+  },
+  {
+    "DRUG": "chlorhexidine"
+  },
+  {
+    "DRUG": "chlorhexidine",
+    "FORM": "rinse",
+    "FREQUENCY": "BID"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "acetaminophen"
+  },
+  {
+    "DRUG": "TYLENOL",
+    "STRENGTH": "500 mg",
+    "FORM": "tablet",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 6 (six) hours as needed"
+  },
+  {
+    "DRUG": "bimatoprost (LUMIGAN)",
+    "STRENGTH": "0.01",
+    "FORM": "dropsoln",
+    "DOSAGE": "1",
+    "ROUTE": "both eyes",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "calcium-vitamin D",
+    "STRENGTH": "500-125 mg-unit",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "cholecalciferol",
+    "STRENGTH": "2,000 unit",
+    "FORM": "tab",
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "dorzolamide"
+  },
+  {
+    "DRUG": "TRUSOPT",
+    "STRENGTH": "2 %",
+    "ROUTE": "ophthalmic",
+    "FORM": "solution",
+    "DOSAGE": "1",
+    "FREQUENCY": "nightly at bedtime"
+  },
+  {
+    "DRUG": "THERAGRAN",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "ROUTE": "by mouth"
+  },
+  {
+    "DRUG": "polyethylene glycol"
+  },
+  {
+    "DRUG": "MIRALAX",
+    "STRENGTH": "17 gram",
+    "FORM": "packet",
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "daily as needed"
+  },
+  {
+    "DRUG": "prochlorperazine"
+  },
+  {
+    "DRUG": "COMPAZINE",
+    "STRENGTH": "10 mg",
+    "FORM": "tablet",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 6 (six) hours as needed"
+  },
+  {
+    "DRUG": "SENOKOT",
+    "STRENGTH": "50 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "daily"
+  },
+  {
+    "DRUG": "omeprazole"
+  },
+  {
+    "DRUG": "PRILOSEC",
+    "STRENGTH": "40 mg",
+    "FORM": "capsule",
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every morning before breakfast"
+  },
+  {
+    "DRUG": "influenza vaccine"
+  },
+  {
+    "DRUG": "FLUVAVAL",
+    "FORM": "injection",
+    "DOSAGE": "0.5 ml",
+    "ROUTE": "Intramuscular",
+    "FREQUENCY": "Once"
+  },
+  {
+    "DRUG": "CONTRAST"
+  },
+  {
+    "DRUG": "Omnipaque",
+    "STRENGTH": "350",
+    "ROUTE": "intravenous"
+  },
+  {
+    "DRUG": "contrast"
+  },
+  {
+    "DRUG": "gemcitabine"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "gemcitabine",
+    "FREQUENCY": "alternating week"
+  },
+  {
+    "DRUG": "chlorhexidine",
+    "FORM": "rinses",
+    "FREQUENCY": "bid"
+  },
+  {
+    "DRUG": "Influenza vaccine"
+  },
+  {
+    "DRUG": "sennokot"
+  },
+  {
+    "DRUG": "antiemetics"
+  }
+]

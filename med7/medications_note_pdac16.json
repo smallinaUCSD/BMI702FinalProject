@@ -1,0 +1,27 @@
+[
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "Irinotecan"
+  },
+  {
+    "DRUG": "irinotecan"
+  },
+  {
+    "DRUG": "chemotherapy",
+    "DURATION": "8 cycles"
+  },
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "chemotherapy"
+  }
+]

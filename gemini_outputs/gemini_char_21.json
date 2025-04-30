@@ -1,0 +1,74 @@
+[
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 765,
+    "end": 774
+  },
+  {
+    "text": "CoQ10",
+    "label": "Drug Name",
+    "start": 2201,
+    "end": 2206
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 3503,
+    "end": 3512
+  },
+  {
+    "text": "letrozole",
+    "label": "Drug Name",
+    "start": 3546,
+    "end": 3555
+  },
+  {
+    "text": "alendronate",
+    "label": "Drug Name",
+    "start": 3561,
+    "end": 3572
+  },
+  {
+    "text": "zoledronic acid",
+    "label": "Drug Name",
+    "start": 3697,
+    "end": 3712
+  },
+  {
+    "text": "letrozole",
+    "label": "Drug Name",
+    "start": 3754,
+    "end": 3763
+  },
+  {
+    "text": "bevacizumab",
+    "label": "Drug Name",
+    "start": 3768,
+    "end": 3779
+  },
+  {
+    "text": "placebo",
+    "label": "Drug Name",
+    "start": 3783,
+    "end": 3790
+  },
+  {
+    "text": "zoledronic acid",
+    "label": "Drug Name",
+    "start": 4205,
+    "end": 4220
+  },
+  {
+    "text": "aromatase inhibitor",
+    "label": "Drug Name",
+    "start": 4239,
+    "end": 4259
+  },
+  {
+    "text": "bevacizumab",
+    "label": "Drug Name",
+    "start": 4296,
+    "end": 4307
+  }
+]

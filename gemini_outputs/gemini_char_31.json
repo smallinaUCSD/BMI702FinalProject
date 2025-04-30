@@ -1,0 +1,206 @@
+[
+  {
+    "text": "OCP",
+    "label": "Drug Name",
+    "start": 2129,
+    "end": 2132
+  },
+  {
+    "text": "simvastatin",
+    "label": "Drug Name",
+    "start": 3000,
+    "end": 3012
+  },
+  {
+    "text": "ZOCOR",
+    "label": "Drug Name",
+    "start": 3014,
+    "end": 3019
+  },
+  {
+    "text": "20 mg",
+    "label": "Drug Dosage",
+    "start": 3021,
+    "end": 3026
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3027,
+    "end": 3033
+  },
+  {
+    "text": "LORazepam",
+    "label": "Drug Name",
+    "start": 3041,
+    "end": 3050
+  },
+  {
+    "text": "ATIVAN",
+    "label": "Drug Name",
+    "start": 3052,
+    "end": 3058
+  },
+  {
+    "text": "1 mg",
+    "label": "Drug Dosage",
+    "start": 3060,
+    "end": 3064
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3065,
+    "end": 3071
+  },
+  {
+    "text": "1 tab",
+    "label": "Drug Dosage",
+    "start": 3077,
+    "end": 3082
+  },
+  {
+    "text": "po/sl",
+    "label": "Drug Route of Administration",
+    "start": 3083,
+    "end": 3088
+  },
+  {
+    "text": "1 hr prior",
+    "label": "Frequency of Drug Intake",
+    "start": 3089,
+    "end": 3098
+  },
+  {
+    "text": "4 cycles",
+    "label": "Duration of Drug Intake",
+    "start": 4185,
+    "end": 4193
+  },
+  {
+    "text": "doxorubicin",
+    "label": "Drug Name",
+    "start": 4197,
+    "end": 4208
+  },
+  {
+    "text": "cyclophosphamide",
+    "label": "Drug Name",
+    "start": 4215,
+    "end": 4231
+  },
+  {
+    "text": "AC",
+    "label": "Drug Name",
+    "start": 4233,
+    "end": 4235
+  },
+  {
+    "text": "every 2 weeks",
+    "label": "Frequency of Drug Intake",
+    "start": 4236,
+    "end": 4249
+  },
+  {
+    "text": "12 cycles",
+    "label": "Duration of Drug Intake",
+    "start": 4256,
+    "end": 4264
+  },
+  {
+    "text": "weekly paclitaxel",
+    "label": "Drug Name",
+    "start": 4268,
+    "end": 4284
+  },
+  {
+    "text": "docetaxel",
+    "label": "Drug Name",
+    "start": 4299,
+    "end": 4308
+  },
+  {
+    "text": "cyclophosphamide",
+    "label": "Drug Name",
+    "start": 4315,
+    "end": 4331
+  },
+  {
+    "text": "TC",
+    "label": "Drug Name",
+    "start": 4334,
+    "end": 4336
+  },
+  {
+    "text": "every 3 weeks",
+    "label": "Frequency of Drug Intake",
+    "start": 4344,
+    "end": 4357
+  },
+  {
+    "text": "4 to 6 cycles",
+    "label": "Duration of Drug Intake",
+    "start": 4358,
+    "end": 4371
+  },
+  {
+    "text": "6 cycles",
+    "label": "Duration of Drug Intake",
+    "start": 4488,
+    "end": 4496
+  },
+  {
+    "text": "TC",
+    "label": "Drug Name",
+    "start": 4499,
+    "end": 4501
+  },
+  {
+    "text": "TC",
+    "label": "Drug Name",
+    "start": 4551,
+    "end": 4553
+  },
+  {
+    "text": "TC",
+    "label": "Drug Name",
+    "start": 4596,
+    "end": 4598
+  },
+  {
+    "text": "AC/T",
+    "label": "Drug Name",
+    "start": 4678,
+    "end": 4682
+  },
+  {
+    "text": "AC/T",
+    "label": "Drug Name",
+    "start": 4761,
+    "end": 4765
+  },
+  {
+    "text": "AC",
+    "label": "Drug Name",
+    "start": 4819,
+    "end": 4821
+  },
+  {
+    "text": "AC",
+    "label": "Drug Name",
+    "start": 4876,
+    "end": 4878
+  },
+  {
+    "text": "AC/T",
+    "label": "Drug Name",
+    "start": 4941,
+    "end": 4945
+  },
+  {
+    "text": "AC",
+    "label": "Drug Name",
+    "start": 5050,
+    "end": 5052
+  }
+]

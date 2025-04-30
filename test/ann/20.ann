@@ -1,0 +1,1028 @@
+T1	SectionAnnotate 178 182	HPI:
+T2	SectionAnnotate 4151 4165	Social History
+T4	SectionAnnotate 18852 18883	Assessment and Recommendations:
+T5	PROBLEM 79 92	breast cancer
+T6	TREATMENT 134 151	treatment options
+T7	TEST 204 225	a screening mammogram
+T8	PROBLEM 274 309	heterogeneously dense breast tissue
+T9	PROBLEM 330 340	malignancy
+T10	PROBLEM 360 394	a painful mass in her right breast
+T11	PROBLEM 484 502	a firm mobile mass
+T12	PROBLEM 563 589	dimpling of overlying skin
+T13	TEST 596 618	A diagnostic mammogram
+T14	PROBLEM 644 679	heterogeneously dense breast tissue
+T15	PROBLEM 684 722	a round, indistinct, high density mass
+T16	PROBLEM 753 770	the palpable lump
+T17	TEST 833 854	A targeted ultrasound
+T18	PROBLEM 884 917	a hypoechoic irregular solid mass
+T19	TREATMENT 1032 1069	a right breast fine needle aspiration
+T20	TEST 1106 1119	The pathology
+T21	PROBLEM 1140 1154	adenocarcinoma
+T22	TEST 1160 1162	ER
+T23	TEST 1173 1175	PR
+T24	TEST 1190 1194	HER2
+T25	TEST 1205 1208	IHC
+T26	Pathology 1212 1222	FISH ratio
+T27	TREATMENT 1304 1329	breast conserving surgery
+T28	TREATMENT 1345 1355	mastectomy
+T29	TREATMENT 1378 1387	radiation
+T30	TREATMENT 1406 1438	a right breast simple mastectomy
+T31	TEST 1443 1469	sentinel lymph node biopsy
+T32	TEST 1499 1512	The pathology
+T33	PROBLEM 1539 1550	grade 3 IDC
+T34	TEST 1553 1570	The mitotic count
+T35	PROBLEM 1575 1589	quite elevated
+T36	PROBLEM 1662 1685	lymphovascular invasion
+T37	PROBLEM 1704 1708	DCIS
+T38	TEST 1730 1756	the 2 sentinel lymph nodes
+T39	PROBLEM 1774 1788	adenocarcinoma
+T40	PROBLEM 1805 1825	extranodal extension
+T41	TEST 1829 1839	Biomarkers
+T42	TEST 1857 1874	estrogen receptor
+T43	TEST 1885 1906	progesterone receptor
+T44	TEST 1917 1921	HER2
+T45	TEST 1932 1935	IHC
+T46	TEST 1939 1949	FISH ratio
+T47	TEST 1966 1970	HER2
+T48	TEST 1975 1978	nuc
+T49	TEST 1987 2000	Cen17 sig/nuc
+T50	PROBLEM 2011 2035	variable Ki67 expression
+T51	TEST 2052 2059	average
+T52	PROBLEM 2088 2095	dyspnea
+T53	PROBLEM 2176 2209	her known congestive hart failure
+T54	PROBLEM 2215 2243	left venrticular dysfunction
+T55	TEST 2245 2249	LVEF
+T56	MedicationName 2278 2283	Lasix
+T57	PROBLEM 2480 2487	dyspnea
+T58	PROBLEM 2501 2505	pain
+T59	TREATMENT 2521 2539	her breast surgery
+T60	TREATMENT 2589 2606	Cardiac pacemaker
+T61	PROBLEM 2620 2664	Cataract     CHF (congestive heart failure)
+T62	PROBLEM 2670 2698	CKD (chronic kidney disease)
+T63	PROBLEM 2703 2725	Chronic kidney disease
+T64	PROBLEM 2727 2731	CKD)
+T65	PROBLEM 2732 2744	stage G3b/A1
+T66	PROBLEM 2746 2793	moderately decreased glomerular filtration rate
+T67	TEST 2795 2798	GFR
+T68	TEST 2826 2838	square meter
+T69	TEST 2843 2854	albuminuria
+T70	TEST 2855 2871	creatinine ratio
+T71	PROBLEM 2894 2948	Coronary atherosclerosis of unspecified type of vessel
+T72	TREATMENT 2960 2965	graft
+T73	PROBLEM 2971 2988	Diabetes mellitus
+T74	PROBLEM 3006 3044	GERD (gastroesophageal reflux disease)
+T75	PROBLEM 3050 3058	Glaucoma
+T76	PROBLEM 3075 3093	HTN (hypertension)
+T77	PROBLEM 3099 3111	Hypertension
+T78	PROBLEM 3117 3153	Other and unspecified hyperlipidemia
+T79	TREATMENT 3159 3168	Pacemaker
+T80	PROBLEM 3174 3202	SBO (small bowel obstruction
+T81	PROBLEM 3208 3219	Partial sbo
+T82	TREATMENT 3239 3267	previous abdominal surgeries
+T83	PROBLEM 3300 3321	small occult neoplasm
+T84	PROBLEM 3325 3340	focal enteritis
+T85	PROBLEM 3342 3350	Adhesion
+T86	TREATMENT 3376 3395	abdominal surgeries
+T87	TEST 3397 3400	EGD
+T88	PROBLEM 3430 3449	Sick sinus syndrome
+T89	TREATMENT 3512 3536	BIOPSY / EXCISION BREAST
+T90	TREATMENT 3543 3575	CHOLECYSTECTOMY      MASTECTOMY
+T91	TREATMENT 3597 3616	PACEMAKER INSERTION
+T92	TEST 3627 3653	SENTINEL LYMPH NODE BIOPSY
+T93	PROBLEM 3729 3735	Stroke
+T94	PROBLEM 3748 3762	Uterine cancer
+T95	PROBLEM 3792 3798	Stroke
+T96	PROBLEM 3811 3819	Diabetes
+T97	PROBLEM 3831 3840	Arthritis
+T98	PROBLEM 3852 3858	Stroke
+T99	PROBLEM 3888 3902	Stomach cancer
+T100	PROBLEM 3931 3945	Uterine cancer
+T101	PROBLEM 3982 3991	Blindness
+T102	PROBLEM 4004 4013	Amblyopia
+T103	PROBLEM 4026 4035	Cataracts
+T104	PROBLEM 4048 4056	Glaucoma
+T105	PROBLEM 4069 4082	Macular degen
+T106	PROBLEM 4095 4113	Retinal detachment
+T107	PROBLEM 4126 4136	Strabismus
+T108	TREATMENT 4756 4765	menopause
+T109	PROBLEM 4796 4799	HRT
+T110	TREATMENT 4897 4920	acetaminophen (TYLENOL)
+T111	PROBLEM 5004 5013	MILD PAIN
+T112	TREATMENT 5022 5042	amLODIPine (NORVASC)
+T113	TREATMENT 5119 5126	aspirin
+T114	TREATMENT 5188 5210	atorvastatin (LIPITOR)
+T115	TREATMENT 5273 5292	bisoprolol (ZEBETA)
+T116	TEST 5352 5365	blood glucose
+T117	TREATMENT 5366 5381	(BLOOD GLUCOSE)
+T118	TEST 5382 5392	test strip
+T119	TEST 5399 5410	blood sugar
+T120	TEST 5451 5475	blood glucose monitoring
+T121	TEST 5486 5497	blood sugar
+T122	TREATMENT 5523 5545	brimonidine (ALPHAGAN)
+T123	TREATMENT 5634 5668	calcium carbonate-vitamin D (OYSCO
+T124	TREATMENT 5769 5790	glipiZIDE (GLUCOTROL)
+T125	TREATMENT 5871 5896	insulin glargine (LANTUS)
+T126	TREATMENT 5983 6011	insulin syringe-needle U-100
+T127	TREATMENT 6130 6151	latanoprost (XALATAN)
+T128	TREATMENT 6242 6264	metFORMIN (GLUCOPHAGE)
+T129	TREATMENT 6349 6367	valsartan (DIOVAN)
+T130	TREATMENT 6426 6436	ALPHAGAN P
+T131	TREATMENT 6514 6538	docusate sodium (COLACE)
+T132	TREATMENT 6623 6644	loratadine (CLARITIN)
+T133	TREATMENT 6718 6738	mometasone (NASONEX)
+T134	TREATMENT 6804 6829	nitroGLYCERIN (NITROSTAT)
+T135	PROBLEM 6931 6941	Chest pain
+T136	TREATMENT 6960 6981	olopatadine (PATANOL)
+T137	TREATMENT 7098 7119	doxycycline (MONODOX)
+T138	TREATMENT 7157 7175	furosemide (LASIX)
+T139	TREATMENT 7266 7288	oxyCODONE (ROXICODONE)
+T140	PROBLEM 7372 7376	Pain
+T141	TREATMENT 7426 7437	Medications
+T142	TREATMENT 7457 7562	Medication Dose Route Frequency Provider Last Rate Last Dose    [COMPLETED] furosemide (LASIX) injection
+T143	TREATMENT 7657 7698	% sodium chloride flush injection syringe
+T144	TREATMENT 7799 7842	% sodium 
+ chloride flush injection syringe
+T145	TREATMENT 7915 7938	acetaminophen (TYLENOL)
+T146	TREATMENT 8024 8047	acetaminophen (TYLENOL)
+T147	TREATMENT 8133 8153	amLODIPine (NORVASC)
+T148	TREATMENT 8242 8259	aspirin EC tablet
+T149	TREATMENT 8339 8361	atorvastatin (LIPITOR)
+T150	TREATMENT 8463 8485	brimonidine (ALPHAGAN)
+T151	TREATMENT 8613 8621	dextrose
+T152	TREATMENT 8732 8764	docusate sodium (COLACE) capsule
+T153	TREATMENT 8861 8882	glipiZIDE (GLUCOTROL)
+T154	TREATMENT 8979 8995	glucose chewable
+T155	TREATMENT 9081 9105	insulin aspart (NovoLOG)
+T156	TREATMENT 9241 9265	insulin aspart (NovoLOG)
+T157	TREATMENT 9411 9446	insulin glargine (LANTUS, BASAGLAR)
+T158	TREATMENT 9577 9598	latanoprost (XALATAN)
+T159	TREATMENT 9732 9753	loratadine (CLARITIN)
+T160	TREATMENT 9842 9864	metFORMIN (GLUCOPHAGE)
+T161	TREATMENT 9980 10005	nitroGLYCERIN (NITROSTAT)
+T162	TREATMENT 10006 10015	SL tablet
+T163	TREATMENT 10103 10123	ondansetron (ZOFRAN)
+T164	TREATMENT 10215 10235	ondansetron (ZOFRAN)
+T165	TREATMENT 10317 10335	valsartan (DIOVAN)
+T166	PROBLEM 10465 10477	some fatigue
+T167	PROBLEM 10517 10531	vision changes
+T168	TEST 10534 10538	HENT
+T169	PROBLEM 10560 10575	nasal discharge
+T170	PROBLEM 10579 10595	sinus tenderness
+T171	PROBLEM 10600 10621	difficulty swallowing
+T172	PROBLEM 10626 10637	mouth sores
+T173	PROBLEM 10642 10653	sore throat
+T174	PROBLEM 10668 10679	breast pain
+T175	PROBLEM 10695 10702	dyspnea
+T176	PROBLEM 10719 10724	cough
+T177	PROBLEM 10729 10737	wheezing
+T178	PROBLEM 10760 10770	chest pain
+T179	PROBLEM 10775 10787	palpitations
+T180	PROBLEM 10792 10813	lower extremity edema
+T181	PROBLEM 10821 10833	constipation
+T182	PROBLEM 10838 10847	heartburn
+T183	PROBLEM 10852 10858	nausea
+T184	PROBLEM 10863 10869	emesis
+T185	Symptom 10874 10888	abdominal pain
+T186	Symptom 10893 10901	diarrhea
+T187	Symptom 10906 10912	melena
+T188	Symptom 10917 10929	hematochezia
+T189	Symptom 10940 10955	suprapubic pain
+T190	Symptom 10960 10967	dysuria
+T191	Symptom 10972 10988	vaginal bleeding
+T192	Symptom 11009 11024	joint stiffness
+T193	Symptom 11029 11040	muscle pain
+T194	Symptom 11045 11054	bone pain
+T195	Symptom 11072 11093	heat/cold intolerance
+T196	Symptom 11098 11109	hot flashes
+T197	TEST 11116 11121	Lymph
+T198	Symptom 11127 11140	easy bruising
+T199	Symptom 11141 11149	bleeding
+T200	Symptom 11154 11164	lymphedema
+T201	Symptom 11185 11194	headaches
+T202	Symptom 11199 11208	dizziness
+T203	Symptom 11213 11221	numbness
+T204	Symptom 11222 11230	tingling
+T205	PROBLEM 11235 11240	falls
+T206	Symptom 11259 11266	anxious
+T207	Symptom 11271 11281	depression
+T208	Symptom 11294 11300	rashes
+T209	PROBLEM 11301 11308	lesions
+T210	Symptom 11313 11324	diaphoresis
+T211	TEST 11348 11352	ECOG
+T212	TEST 11357 11368	Vital Signs
+T213	TEST 11371 11373	BP
+T214	TEST 11383 11388	Pulse
+T215	TEST 11394 11398	Temp
+T216	TEST 11404 11405	C
+T217	TEST 11425 11429	Resp
+T218	TEST 11435 11437	Ht
+T219	TEST 11485 11487	Wt
+T220	TEST 11507 11511	SpO2
+T221	TEST 11518 11521	BMI
+T222	PROBLEM 11559 11562	NAD
+T223	PROBLEM 11578 11587	anicteric
+T224	PROBLEM 11617 11626	nontender
+T225	PROBLEM 11665 11673	erythema
+T226	PROBLEM 11675 11685	stomatitis
+T227	PROBLEM 11690 11710	thrush   Lymph Nodes
+T228	PROBLEM 11716 11770	cervical, supraclavicular, or axillary lymphadenopathy
+T229	TEST 11802 11812	percussion
+T230	TEST 11825 11828	CTA
+T231	PROBLEM 11845 11852	wheezes
+T232	PROBLEM 11854 11861	rhonchi
+T233	PROBLEM 11866 11874	crackles
+T234	PROBLEM 11930 11937	murmurs
+T235	PROBLEM 11942 11947	edema
+T236	TREATMENT 11958 11981	right simple mastectomy
+T237	PROBLEM 11986 12005	mass in left breast
+T238	PROBLEM 12042 12052	tenderness
+T239	PROBLEM 12057 12067	distention
+T240	PROBLEM 12072 12075	HSM
+T241	PROBLEM 12098 12129	tenderness over bones or joints
+T242	PROBLEM 12250 12252	HI
+T243	PROBLEM 12254 12256	SI
+T244	PROBLEM 12258 12272	hallucinations
+T245	PROBLEM 12274 12282	paranoia
+T246	PROBLEM 12287 12296	delusions
+T247	PROBLEM 12318 12324	rashes
+T248	PROBLEM 12328 12335	lesions
+T249	TEST 12352 12366	Available labs
+T250	TEST 12368 12377	pathology
+T251	TEST 12383 12390	imaging
+T252	TEST 12506 12515	WBC Count
+T253	TEST 12534 12544	Hemoglobin
+T254	TEST 12567 12577	Hematocrit
+T255	TEST 12601 12615	Platelet Count
+T256	TEST 12635 12646	Lab Results
+T257	TEST 12659 12664	Value
+T258	TEST 12673 12679	Sodium
+T259	TEST 12681 12686	Serum
+T260	TEST 12689 12695	Plasma
+T261	TEST 12718 12727	Potassium
+T262	TEST 12729 12734	Serum
+T263	TEST 12737 12743	Plasma
+T264	TEST 12762 12770	Chloride
+T265	TEST 12772 12777	Serum
+T266	TEST 12780 12786	Plasma
+T267	TEST 12805 12819	Carbon Dioxide
+T268	TEST 12821 12826	Total
+T269	TEST 12844 12857	Urea Nitrogen
+T270	TEST 12859 12873	Serum / Plasma
+T271	TEST 12891 12901	Creatinine
+T272	TEST 12925 12932	Glucose
+T273	TEST 13007 13014	Calcium
+T274	TEST 13023 13028	Serum
+T275	TEST 13031 13037	Plasma
+T276	TEST 13057 13068	Lab Results
+T277	TEST 13071 13086	Component Value
+T278	TEST 13095 13104	Aspartate
+T279	TEST 13105 13117	transaminase
+T280	TEST 13135 13155	Alanine transaminase
+T281	TEST 13173 13193	Alkaline Phosphatase
+T282	TEST 13211 13220	Bilirubin
+T283	TEST 13222 13227	Total
+T284	TEST 13246 13253	Albumin
+T285	TEST 13255 13260	Serum
+T286	TEST 13263 13269	Plasma
+T287	TREATMENT 13660 13691	Right breast, simple mastectomy
+T288	PROBLEM 13698 13723	Invasive ductal carcinoma
+T289	PROBLEM 13786 13799	Fibroadenomas
+T290	PROBLEM 13805 13831	Cystic dilatation of ducts
+T291	PROBLEM 13836 13855	apocrine metaplasia
+T292	PROBLEM 13861 13875	Calcifications
+T293	PROBLEM 13892 13911	apocrine metaplasia
+T294	PROBLEM 13916 13928	benign ducts
+T295	TEST 14009 14025	1- ex vivo count
+T296	TEST 14032 14038	biopsy
+T297	PROBLEM 14042 14080	Metastatic carcinoma in one lymph node
+T298	PROBLEM 14093 14113	extranodal extension
+T299	TEST 14196 14202	biopsy
+T300	PROBLEM 14207 14231	tumor  in one lymph node
+T301	PROBLEM 14290 14317	Benign fibroadipose  tissue
+T302	PROBLEM 14322 14331	carcinoma
+T303	PROBLEM 14368 14379	Benign skin
+T304	PROBLEM 14384 14393	carcinoma
+T305	PROBLEM 14477 14497	Upper outer quadrant
+T306	PROBLEM 14550 14575	Invasive ductal carcinoma
+T307	TEST 14580 14599	Invasive tumor size
+T308	PROBLEM 14612 14622	Tumor size
+T309	PROBLEM 14643 14648	tumor
+T310	PROBLEM 14730 14749	Invasive tumor size
+T311	TREATMENT 14756 14775	neoadjuvant therapy
+T312	PROBLEM 14785 14805	Invasive tumor grade
+T313	TEST 14886 14899	Mitotic count
+T314	PROBLEM 14926 14959	Glandular/tubular differentiation
+T315	TEST 15013 15049	EIC (extensive intraductal component
+T316	PROBLEM 15065 15092	Lymphatic/vascular invasion
+T317	PROBLEM 15117 15141	lymphovascular  invasion
+T318	PROBLEM 15181 15215	significant pathologic abnormality
+T319	PROBLEM 15240 15274	significant pathologic abnormality
+T320	PROBLEM 15291 15305	invasive tumor
+T321	PROBLEM 15350 15355	tumor
+T322	PROBLEM 15416 15421	tumor
+T323	PROBLEM 15469 15474	tumor
+T324	TEST 15497 15521	Anterior/superior margin
+T325	TEST 15579 15603	Anterior/inferior margin
+T326	PROBLEM 15615 15620	tumor
+T327	PROBLEM 15657 15673	Ductal carcinoma
+T328	PROBLEM 15699 15718	Microcalcifications
+T329	PROBLEM 15744 15763	apocrine metaplasia
+T330	PROBLEM 15769 15781	benign ducts
+T331	PROBLEM 15786 15803	Lobular carcinoma
+T332	PROBLEM 15822 15843	Non-neoplastic breast
+T333	PROBLEM 15845 15871	Cystic dilatation of ducts
+T334	PROBLEM 15873 15893	apocrine  metaplasia
+T335	PROBLEM 15895 15908	fibroadenomas
+T336	TEST 16018 16033	micrometastases
+T337	TEST 16072 16087	macrometastases
+T338	PROBLEM 16107 16133	largest metastasis in node
+T339	TEST 16213 16228	Tumor biomarker
+T340	PROBLEM 16316 16341	palpable, pink-white mass
+T341	PROBLEM 16347 16365	irregular  borders
+T342	PROBLEM 16578 16602	a pink, dark-yellow area
+T343	TREATMENT 16633 16653	a prior  biopsy site
+T344	PROBLEM 16658 16724	A small (0.5 cm greatest dimension) orange-yellow translucent bead
+T345	TREATMENT 16797 16806	The  bead
+T346	TREATMENT 16821 16843	tissue paper and gauze
+T347	TEST 16917 16924	Margins
+T348	TEST 16928 16951	Anterior/superior: Mass
+T349	PROBLEM 16994 17017	Anterior/inferior: Mass
+T350	PROBLEM 17061 17065	Mass
+T351	PROBLEM 17099 17103	Mass
+T352	PROBLEM 17134 17138	Mass
+T353	PROBLEM 17187 17191	Mass
+T354	PROBLEM 17228 17232	Mass
+T355	TREATMENT 17248 17272	lateral skin ellipse tip
+T356	PROBLEM 17289 17306	nipple retraction
+T357	PROBLEM 17310 17315	crust
+T358	PROBLEM 17330 17353	a blue discolored  area
+T359	PROBLEM 17423 17431	a bruise
+T360	PROBLEM 17436 17441	scars
+T361	PROBLEM 17529 17560	lobular 
+ yellow adipose tissue
+T362	PROBLEM 17593 17601	the mass
+T363	PROBLEM 17613 17641	mixed yellow adipose  tissue
+T364	PROBLEM 17652 17670	white, firm tissue
+T365	TREATMENT 17740 17746	a clip
+T366	TEST 18078 18103	Immunohistochemical tests
+T367	TREATMENT 18108 18143	estrogen and progesterone receptors
+T368	TEST 18145 18149	HER2
+T369	TEST 18155 18160	Ki-67
+T370	TEST 18214 18245	The test for estrogen receptors
+T371	PROBLEM 18271 18303	nuclear  staining in tumor cells
+T372	TREATMENT 18305 18330	Internal positive control
+T373	TEST 18393 18428	The test for progesterone receptors
+T374	PROBLEM 18454 18486	nuclear  staining in tumor cells
+T375	TREATMENT 18488 18513	Internal positive control
+T376	TEST 18586 18595	HER2 test
+T377	PROBLEM 18597 18611	This carcinoma
+T378	PROBLEM 18628 18661	HER2 oncoprotein  over-expression
+T379	PROBLEM 18689 18703	this carcinoma
+T380	TEST 18733 18758	Ki-67 proliferation index
+T381	TEST 18760 18779	Variable expression
+T382	ClinicalCondition 18921 18951	multiple medical comorbidities
+T383	ClinicalCondition 18963 18976	heart failure
+T384	TEST 18982 18986	LVEF
+T385	PROBLEM 18995 19000	DM II
+T386	PROBLEM 19039 19086	a Stage II (T2N1) triple negative breast cancer
+T387	TEST 19100 19118	additional testing
+T388	PROBLEM 19231 19260	triple negative breast cancer
+T389	TEST 19303 19310	imaging
+T390	TreatmentType 19338 19350	chemotherapy
+T391	TREATMENT 19376 19385	treatment
+T392	PROBLEM 19390 19419	triple negative breast cancer
+T393	TreatmentType 19450 19462	chemotherapy
+T394	PROBLEM 19482 19495	Stage II TNBC
+T395	PROBLEM 19515 19549	her multiple medical comorbidities
+T396	TREATMENT 19582 19607	our chemotherapy regimens
+T397	TREATMENT 19744 19748	AC/T
+T398	PROBLEM 19792 19809	her heart failure
+T399	PROBLEM 19858 19875	her heart failure
+T400	Symptom 19883 19895	fluid shifts
+T401	PROBLEM 19907 19919	her diabetes
+T402	TREATMENT 19934 19947	dexamethasone
+T403	Symptom 19976 19986	less toxic
+T404	DiseaseState 20053 20063	recurrence
+T405	PROBLEM 20140 20167	a high grade, node positive
+T406	PROBLEM 20169 20198	triple negative breast cancer
+T407	DiseaseState 20214 20224	recurrence
+T408	TEST 20292 20307	staging imaging
+T409	PROBLEM 20322 20332	metastasis
+T410	PROBLEM 20392 20403	her disease
+T411	TREATMENT 20463 20488	a lower risk chemotherapy
+T412	PROBLEM 20512 20522	metastasis
+T413	PROBLEM 20554 20578	her other medical issues
+T414	Metastasis 20662 20672	metastases
+T415	Radiology 20689 20697	a PET/CT
+T416	TREATMENT 20742 20751	treatment
+T417	Radiology 20806 20812	PET/CT
+T418	TREATMENT 20950 20968	the treatment plan
+T419	TREATMENT 20985 21001	medication risks
+T420	PROBLEM 21003 21011	symptoms
+T421	TREATMENT 21016 21035	therapeutic options
+T422	ClinicalCondition 29 43	postmenopausal
+A1	ChronicVal T422 chronic
+T423	ClinicalCondition 86 92	cancer
+T424	Radiology 216 225	mammogram
+A2	IntentVal T424 screening
+T425	Datetime 229 237	11/06/11
+T426	RadPathResult 274 295	heterogeneously dense
+A3	RadPathResultVal T426 NoDisease
+R1	ResultOfTest Desc:T426 Test:T424	
+T427	Site 296 302	breast
+R2	SiteOf Arg1:T427 Arg2:T426	
+R3	SiteOf Arg1:T427 Arg2:T424	
+T428	RadPathResult 330 340	malignancy
+A4	NegationModalityVal T428 negated
+A5	RadPathResultVal T428 NoDisease
+R4	ResultOfTest Desc:T428 Test:T424	
+T429	Datetime 398 409	August 2016
+T430	Symptom 362 374	painful mass
+A6	IsPresentOnFirstCancerDiagnosis T430 yes
+A7	IsCausedByDiagnosedCancer T430 yes
+A8	ChronicVal T430 non-chronic
+A9	ContinuityVal T430 new
+T431	Site 388 394	breast
+T432	Laterality 382 387	right
+R5	LateralityOfSite Arg1:T432 Arg2:T431	
+R6	SiteOf Arg1:T431 Arg2:T430	
+T433	Datetime 465 473	09/11/16
+T434	Symptom 486 502	firm mobile mass
+A10	IsPresentOnFirstCancerDiagnosis T434 yes
+A11	IsCausedByDiagnosedCancer T434 yes
+A12	ChronicVal T434 non-chronic
+A13	ContinuityVal T434 new
+T435	Size 504 508	6 cm
+A14	HistoryVal T435 new
+A15	EpisodeDescription T435 FirstOccurrence
+T436	Site 523 557	upper outer quadrant of her breast
+T437	Laterality 517 522	right
+R7	LateralityOfSite Arg1:T437 Arg2:T436	
+T438	Symptom 563 589	dimpling of overlying skin
+A16	IsPresentOnFirstCancerDiagnosis T438 yes
+A17	IsCausedByDiagnosedCancer T438 yes
+A18	ChronicVal T438 non-chronic
+A19	ContinuityVal T438 new
+T439	Radiology 609 618	mammogram
+A20	IntentVal T439 diagnosis
+T440	Datetime 622 630	09/17/16
+T441	RadPathResult 644 665	heterogeneously dense
+A21	RadPathResultVal T441 Others
+T442	Site 666 672	breast
+T443	RadPathResult 686 722	round, indistinct, high density mass
+A22	RadPathResultVal T443 InitialCancerDiagnosis
+T444	Size 724 736	4.1 x 3.3 cm
+R12	SiteOf Arg1:T442 Arg2:T439	
+R13	ResultOfTest Desc:T443 Test:T439	
+R9	ResultOfTest Desc:T441 Test:T439	
+T445	Symptom 757 770	palpable lump
+A23	IsPresentOnFirstCancerDiagnosis T445 yes
+A24	IsCausedByDiagnosedCancer T445 yes
+A25	ChronicVal T445 non-chronic
+A26	ContinuityVal T445 new
+T447	Site 789 800;807 830	upper outer breast, posterior depth
+T448	Laterality 801 806	right
+R15	LateralityOfSite Arg1:T448 Arg2:T447	
+T450	Radiology 844 854	ultrasound
+A27	IntentVal T450 diagnosis
+T451	RadPathResult 886 917	hypoechoic irregular solid mass
+A28	RadPathResultVal T451 InitialCancerDiagnosis
+T452	Size 919 937	2.7 x 2.9 x 3.8 cm
+A29	HistoryVal T452 new
+A30	EpisodeDescription T452 FirstOccurrence
+T453	Site 946 957	upper outer
+T454	Site 964 970	breast
+T455	Laterality 958 963	right
+R17	LateralityOfSite Arg1:T455 Arg2:T454	
+T456	Site 979 1015	10:00 position, 9 cm from the nipple
+R18	LateralityOfSite Arg1:T455 Arg2:T456	
+R19	LateralityOfSite Arg1:T455 Arg2:T453	
+R20	ResultOfTest Desc:T451 Test:T450	
+R21	TestOrProcedureReveals Test:T450 Desc:T452	
+R22	SiteOf Arg1:T453 Arg2:T451	
+R23	SiteOf Arg1:T454 Arg2:T451	
+R24	SiteOf Arg1:T456 Arg2:T451	
+T457	ProcedureName 1047 1069	fine needle aspiration
+A31	IntentVal T457 diagnosis
+T458	Site 1040 1046	breast
+T459	Laterality 1034 1039	right
+T460	Site 1077 1091	10:00 position
+R25	LateralityOfSite Arg1:T459 Arg2:T460	
+R26	LateralityOfSite Arg1:T459 Arg2:T458	
+T461	Datetime 1095 1103	09/17/16
+R27	SiteOf Arg1:T458 Arg2:T457	
+R28	SiteOf Arg1:T460 Arg2:T457	
+T462	Histology 1140 1154	adenocarcinoma
+T463	BiomarkerName 1160 1162	ER
+T464	BiomarkerResult 1163 1171	negative
+*	BiomarkerRel T464 T463
+T465	BiomarkerName 1173 1175	PR
+T466	BiomarkerResult 1176 1184	negative
+A32	BiomarkerResultVal T466 Negative
+A33	BiomarkerResultVal T464 Negative
+T467	BiomarkerName 1190 1194	HER2
+A34	BiomarkerResultVal T467 Negative
+*	BiomarkerRel T465 T466
+A35	EpisodeDescription T467 FirstOccurrence
+T468	BiomarkerResult 1195 1203	negative
+A36	BiomarkerResultVal T468 Negative
+*	BiomarkerRel T467 T468
+T470	ProcedureName 1304 1329	breast conserving surgery
+A38	NegationModalityVal T470 negated
+A39	IntentVal T470 treatment-curative
+A40	TreatmentTypeVal T470 local
+T471	ProcedureName 1345 1355	mastectomy
+A41	NegationModalityVal T471 affirmed
+A42	IntentVal T471 treatment-curative
+A43	TreatmentTypeVal T471 local
+T472	RadiationTherapyName 1378 1387	radiation
+A44	NegationModalityVal T472 negated
+A45	TreatmentTypeVal T472 local
+T473	ProcedureName 1421 1438	simple mastectomy
+A46	IntentVal T473 treatment-curative
+A47	TreatmentTypeVal T473 local
+A48	IsTumorRemaining T473 unclear
+T474	Datetime 1473 1481	10/25/16
+T475	ProcedureName 1443 1469	sentinel lymph node biopsy
+A49	IntentVal T475 DiagnosisAndTreatment
+A50	TreatmentTypeVal T475 local
+A51	IsTumorRemaining T475 unclear
+T476	Size 1529 1535	3.6 cm
+R29	TestOrProcedureReveals Test:T473 Desc:T476	
+T477	Grade 1545 1546	3
+T478	Histology 1547 1550	IDC
+R30	TestOrProcedureReveals Test:T473 Desc:T477	
+R31	TestOrProcedureReveals Test:T473 Desc:T478	
+T479	RadPathResult 1557 1602	mitotic count was quite elevated at 74/10 hpf
+R32	TestOrProcedureReveals Test:T473 Desc:T479	
+T480	MarginStatus 1628 1636	negative
+A52	MarginVal T480 MoreThan2mm(Neg)
+T481	LocalInvasion 1662 1685	lymphovascular invasion
+A53	NegationModalityVal T481 affirmed
+T482	Site 1736 1756	sentinel lymph nodes
+T483	LymphNodeInvolvement 1723 1726;1761 1769	One positive
+A54	NegationModalityVal T483 affirmed
+R33	TestOrProcedureReveals Test:T475 Desc:T483	
+T484	Histology 1774 1788	adenocarcinoma
+T485	Size 1790 1796	1.2 cm
+R34	TestOrProcedureReveals Test:T475 Desc:T484	
+R35	TestOrProcedureReveals Test:T475 Desc:T485	
+T486	LocalInvasion 1805 1825	extranodal extension
+A55	NegationModalityVal T486 negated
+R36	TestOrProcedureReveals Test:T475 Desc:T486	
+T487	BiomarkerName 1857 1874	estrogen receptor
+T488	BiomarkerName 1885 1906	progesterone receptor
+T489	BiomarkerName 1917 1921	HER2
+T490	BiomarkerResult 1875 1883	negative
+A56	BiomarkerResultVal T490 Negative
+T491	BiomarkerResult 1907 1915	negative
+A57	BiomarkerResultVal T491 Negative
+T492	BiomarkerResult 1922 1930	positive
+A58	BiomarkerResultVal T492 Positive
+*	BiomarkerRel T489 T492
+*	BiomarkerRel T488 T491
+*	BiomarkerRel T487 T490
+R37	TestOrProcedureReveals Test:T473 Desc:T487	
+R38	TestOrProcedureReveals Test:T473 Desc:T488	
+R39	TestOrProcedureReveals Test:T473 Desc:T489	
+T495	Symptom 2088 2095	dyspnea
+A60	IsPresentOnFirstCancerDiagnosis T495 no
+A61	IsCausedByDiagnosedCancer T495 no
+A62	ChronicVal T495 non-chronic
+A63	ContinuityVal T495 new
+T496	Datetime 2114 2122	11/20/16
+T497	ClinicalCondition 2186 2209	congestive hart failure
+A64	ChronicVal T497 chronic
+A65	ContinuityVal T497 worsening
+T498	ClinicalCondition 2215 2254	left venrticular dysfunction (LVEF 25%)
+A66	ChronicVal T498 chronic
+A67	ContinuityVal T498 stable
+A68	TreatmentCategory T56 Others
+T499	Symptom 2480 2487	dyspnea
+A69	NegationModalityVal T499 negated
+T500	Symptom 2501 2505	pain
+A70	NegationModalityVal T500 negated
+T502	Datetime 3413 3425	October 2012
+T503	ProcedureName 3397 3405	EGD/Colo
+A71	IntentVal T503 screening
+T504	LivingCondition 4602 4625	Lives with her daughter
+T505	ClinicalCondition 4677 4685	menarche
+A72	NegationModalityVal T505 affirmed
+A73	ChronicVal T505 non-chronic
+A74	ContinuityVal T505 stopped
+T506	Age 4689 4697	11 years
+T507	ClinicalCondition 4735 4739	G7P5
+T508	Symptom 10465 10477	some fatigue
+A75	IsPresentOnFirstCancerDiagnosis T508 yes
+A76	IsCausedByDiagnosedCancer T508 no
+A77	ChronicVal T508 chronic
+A78	ContinuityVal T508 stable
+T509	Symptom 10517 10531	vision changes
+A79	NegationModalityVal T509 negated
+T510	Symptom 10560 10575	nasal discharge
+A80	NegationModalityVal T510 negated
+T511	Symptom 10579 10595	sinus tenderness
+A81	NegationModalityVal T511 negated
+T512	Symptom 10600 10621	difficulty swallowing
+A82	NegationModalityVal T512 negated
+T513	Symptom 10626 10637	mouth sores
+A83	NegationModalityVal T513 negated
+T514	Symptom 10642 10653	sore throat
+A84	NegationModalityVal T514 negated
+T515	Symptom 10675 10679	pain
+A85	NegationModalityVal T515 negated
+T516	Site 10668 10674	breast
+R41	SiteOf Arg1:T516 Arg2:T515	
+T517	Symptom 10695 10702	dyspnea
+A86	IsPresentOnFirstCancerDiagnosis T517 yes
+A87	IsCausedByDiagnosedCancer T517 no
+A88	ChronicVal T517 chronic
+A89	ContinuityVal T517 stable
+T518	Symptom 10719 10724	cough
+A90	NegationModalityVal T518 negated
+T519	Symptom 10729 10737	wheezing
+A91	NegationModalityVal T519 negated
+T520	Symptom 10760 10770	chest pain
+A92	NegationModalityVal T520 negated
+T521	Symptom 10775 10787	palpitations
+A93	NegationModalityVal T521 negated
+T522	Symptom 10792 10813	lower extremity edema
+A94	NegationModalityVal T522 negated
+T523	Symptom 10821 10833	constipation
+A95	IsPresentOnFirstCancerDiagnosis T523 yes
+A96	IsCausedByDiagnosedCancer T523 no
+A97	ContinuityVal T523 stable
+T524	Symptom 10838 10847	heartburn
+A98	NegationModalityVal T524 negated
+T525	Symptom 10852 10858	nausea
+A99	NegationModalityVal T525 negated
+T526	Symptom 10863 10869	emesis
+A100	NegationModalityVal T526 negated
+A101	NegationModalityVal T185 negated
+A102	NegationModalityVal T186 negated
+A103	NegationModalityVal T187 negated
+A104	NegationModalityVal T188 negated
+A105	NegationModalityVal T189 negated
+A106	NegationModalityVal T190 negated
+A107	NegationModalityVal T191 negated
+A108	NegationModalityVal T192 affirmed
+A109	IsPresentOnFirstCancerDiagnosis T192 yes
+A110	ChronicVal T192 chronic
+A111	ContinuityVal T192 stable
+A112	NegationModalityVal T193 negated
+A113	NegationModalityVal T194 negated
+A114	NegationModalityVal T195 negated
+A115	NegationModalityVal T196 negated
+A116	NegationModalityVal T198 negated
+A117	NegationModalityVal T199 negated
+A118	NegationModalityVal T200 negated
+A119	NegationModalityVal T201 negated
+A120	NegationModalityVal T202 negated
+A121	NegationModalityVal T203 negated
+A122	NegationModalityVal T204 negated
+A123	NegationModalityVal T206 affirmed
+A124	IsPresentOnFirstCancerDiagnosis T206 yes
+A125	IsCausedByDiagnosedCancer T206 yes
+A126	NegationModalityVal T207 negated
+A127	NegationModalityVal T208 negated
+A128	NegationModalityVal T210 negated
+A129	NegationModalityVal T382 affirmed
+A130	ChronicVal T382 chronic
+A131	ContinuityVal T382 stable
+A132	NegationModalityVal T383 affirmed
+A133	ChronicVal T383 chronic
+A134	ContinuityVal T383 stable
+T527	ClinicalCondition 18982 18990	LVEF 25%
+A135	NegationModalityVal T527 affirmed
+A136	ChronicVal T527 chronic
+A137	ContinuityVal T527 stable
+T528	ClinicalCondition 18995 19000	DM II
+A138	NegationModalityVal T528 affirmed
+A139	ChronicVal T528 chronic
+A140	ContinuityVal T528 stable
+T529	Stage 19047 19049	II
+T530	TNM 19051 19055	T2N1
+A141	HistoryVal T530 new
+A142	EpisodeDescription T530 FirstOccurrence
+T532	ClinicalCondition 19080 19086	cancer
+T533	BiomarkerResult 19238 19246	negative
+A144	NegationModalityVal T390 hypothetical_in_future
+A145	TreatmentTypeVal T390 adjuvant
+T534	BiomarkerResult 19397 19405	negative
+A146	NegationModalityVal T393 hypothetical_in_future
+A147	TreatmentTypeVal T393 adjuvant
+T535	Stage 19488 19490	II
+T537	ClinicalCondition 19519 19549	multiple medical comorbidities
+A148	ChronicVal T537 chronic
+A149	ContinuityVal T537 stable
+T538	TreatmentType 19586 19607	chemotherapy regimens
+A150	NegationModalityVal T538 hypothetical_in_future
+A151	TreatmentTypeVal T538 adjuvant
+T539	Symptom 19631 19641	great harm
+A152	NegationModalityVal T539 hypothetical_in_future
+R42	ConditionOrTreatmentCausesProblem Treatment:T538 Prob:T539	
+T540	MedicationRegimen 19744 19748	AC/T
+A153	NegationModalityVal T540 hypothetical_in_future
+A154	TreatmentTypeVal T540 adjuvant
+A155	TreatmentIntentVal T540 curative
+T541	ClinicalCondition 19796 19809	heart failure
+A156	ChronicVal T541 chronic
+A157	ContinuityVal T541 stable
+T542	MedicationRegimen 19812 19814	TC
+A158	NegationModalityVal T542 hypothetical_in_future
+A159	TreatmentIntentVal T542 curative
+T543	ClinicalCondition 19862 19875	heart failure
+A160	ChronicVal T543 chronic
+A161	ContinuityVal T543 stable
+T544	ClinicalCondition 19911 19919	diabetes
+A162	ChronicVal T544 chronic
+A163	ContinuityVal T544 stable
+T545	MedicationName 19934 19947	dexamethasone
+A164	NegationModalityVal T545 hypothetical_in_future
+A165	TreatmentCategory T545 Supportive
+T546	MedicationRegimen 19962 19965	CMF
+A166	NegationModalityVal T546 hypothetical_in_future
+A167	TreatmentTypeVal T546 adjuvant
+A168	TreatmentIntentVal T546 curative
+A169	NegationModalityVal T403 hypothetical_in_future
+R43	ConditionOrTreatmentCausesProblem Treatment:T546 Prob:T403	
+T547	Symptom 20006 20016	great risk
+A170	NegationModalityVal T547 hypothetical_in_future
+R44	ConditionOrTreatmentCausesProblem Treatment:T546 Prob:T547	
+T548	Symptom 19828 19839	not be safe
+A171	NegationModalityVal T548 hypothetical_in_future
+R45	ConditionOrTreatmentCausesProblem Treatment:T542 Prob:T548	
+A172	NegationModalityVal T400 hypothetical_in_future
+R46	ConditionOrTreatmentCausesProblem Treatment:T542 Prob:T400	
+A173	NegationModalityVal T404 hypothetical_in_future
+T549	Grade 20142 20146	high
+A174	NegationModalityVal T549 affirmed
+T550	LymphNodeInvolvement 20154 20167	node positive
+A175	NegationModalityVal T550 affirmed
+A176	HistoryVal T550 new
+A177	EpisodeDescription T550 FirstOccurrence
+A178	NegationModalityVal T407 hypothetical_in_future
+T552	Radiology 20300 20307	imaging
+A179	NegationModalityVal T552 hypothetical_in_future
+A180	IntentVal T552 staging
+T553	Metastasis 20322 20332	metastasis
+A181	NegationModalityVal T553 hypothetical_in_future
+R47	TestOrProcedureConductedForProblem Test:T552 Prob:T553	
+T554	DiseaseState 20408 20422	already spread
+A182	NegationModalityVal T554 hypothetical_in_future
+T555	TreatmentType 20465 20488	lower risk chemotherapy
+A183	NegationModalityVal T555 hypothetical_in_future
+A184	TreatmentTypeVal T555 adjuvant
+T556	Metastasis 20512 20522	metastasis
+A185	NegationModalityVal T556 hypothetical_in_future
+R48	TreatmentAdministeredForProblem Treatment:T555 Prob:T556	
+A186	NegationModalityVal T414 hypothetical_in_future
+A187	NegationModalityVal T415 planned_in_future
+A188	IntentVal T415 staging
+A189	NegationModalityVal T417 planned_in_future
+R49	HappensAtOnDuring Arg1:T424 Arg2:T425	
+T557	Age 242 250	76 years
+R50	HappensAtOnDuring Arg1:T424 Arg2:T557	
+R51	HappensAtOnDuring Arg1:T434 Arg2:T433	
+R52	HappensAtOnDuring Arg1:T430 Arg2:T429	
+R53	HappensAtOnDuring Arg1:T438 Arg2:T433	
+R54	HappensAtOnDuring Arg1:T439 Arg2:T440	
+R55	HappensAtOnDuring Arg1:T450 Arg2:T440	
+R56	HappensAtOnDuring Arg1:T457 Arg2:T461	
+R57	HappensAtOnDuring Arg1:T475 Arg2:T474	
+R58	HappensAtOnDuring Arg1:T473 Arg2:T474	
+R59	ProcedureDesc Procedure:T473 Desc:T480	
+R60	HappensAtOnDuring Arg1:T495 Arg2:T496	
+R61	HappensAtOnDuring Arg1:T503 Arg2:T502	
+R62	BeginsOnOrAt Arg1:T505 Arg2:T506	
+T558	ClinicalCondition 4756 4765	menopause
+T559	Age 4769 4771	55
+R63	BeginsOnOrAt Arg1:T558 Arg2:T559	
+T560	SectionSkip 4808 5855;5858 7807;7810 9801;9804 10398	Outpatient Encounter Prescriptions as of 11/21/2016   Medication Sig Dispense Refill    acetaminophen (TYLENOL) 500 mg tablet Take 1 tablet (500 mg total) by mouth every 6 (six) hours as needed (MILD PAIN).      amLODIPine (NORVASC) 5 mg tablet Take 0.5 tablets (2.5 mg total) by mouth Daily. 90 tablet 3    aspirin 81 mg EC tablet TAKE 1 TABLET BY MOUTH DAILY 90 tablet 3    atorvastatin (LIPITOR) 40 mg tablet TAKE 1 TABLET BY MOUTH EVERY DAY 90 tablet 3    bisoprolol (ZEBETA) 5 mg tablet TAKE 1/2 TABLET BY MOUTH DAILY 50 tablet 3    blood glucose (BLOOD GLUCOSE) test strip Check blood sugar twice daily as directed. 180 each 3    blood glucose monitoring kit Check blood sugar as directed 1 each 0    brimonidine (ALPHAGAN) 0.1 % ophthalmic solution Place 1 drop into both eyes 2 (two) times daily. 10 mL 11    calcium carbonate-vitamin D (OYSCO 500/D) 1,250 mg (500 mg elemental)-200 unit tablet TAKE 1 TABLET BY MOUTH EVERY DAY 90 tablet 3    glipiZIDE (GLUCOTROL) 10 mg tablet TAKE 1 TABLET BY MOUTH TWICE DAILY BEFORE MEALS 180 tablet 1    insulin glargine (LANTUS) 100 unit/mL injection INJECT 5 UNITS INTO THE SKIN EVERY NIGHT AT BEDTIME 10 mL 5    insulin syringe-needle U-100 0.3 mL 29 SYRINGE USE DAILY AS DIRECTED 100 Syringe 3    lancets lancets Use twice daily as directed. 180 each 3    latanoprost (XALATAN) 0.005 % ophthalmic solution Place 1 drop into both eyes nightly at bedtime. 2.5 mL 11    metFORMIN (GLUCOPHAGE) 1,000 mg tablet TAKE 1 TABLET BY MOUTH TWICE DAILY TAKE WITH MEALS 200 tablet 3    valsartan (DIOVAN) 80 mg tablet TAKE 1 TABLET BY MOUTH DAILY 90 tablet 2    ALPHAGAN P 0.1 % ophthalmic solution INSTILL 1 DROP IN BOTH EYES TWICE DAILY 5 mL 0    docusate sodium (COLACE) 100 mg capsule Take 1 capsule (100 mg total) by mouth Twice a day. 60 capsule 0    loratadine (CLARITIN) 10 mg tablet Take 1 tablet (10 mg total) by mouth Daily. 90 tablet 1    mometasone (NASONEX) 50 mcg/actuation spray 2 sprays by Nasal route Daily. 17 g 6    nitroGLYCERIN (NITROSTAT) 0.4 mg SL tablet Place 1 tablet (0.4 mg total) under the tongue every 5 (five) minutes as needed for Chest pain. 100 tablet 3    olopatadine (PATANOL) 0.1 % ophthalmic solution Place 1 drop into both eyes daily as needed (1 drop as needed). 5 mL 6    [DISCONTINUED] doxycycline (MONODOX) 100 mg capsule       [DISCONTINUED] furosemide (LASIX) 40 mg tablet Take 0.5 tablets (20 mg total) by mouth Daily. 3 tablet 0    [DISCONTINUED] oxyCODONE (ROXICODONE) 5 mg tablet Take 1 tablet (5 mg total) by mouth every 4 (four) hours as needed for Pain. 30 tablet 0     Facility-Administered Encounter Medications as of 11/21/2016   Medication Dose Route Frequency Provider Last Rate Last Dose    [COMPLETED] furosemide (LASIX) injection 20 mg  20 mg Intravenous Once ***** *****, MD   20 mg at 11/20/16 1632    [DISCONTINUED] 0.9 % sodium chloride flush injection syringe  3 mL Intravenous Q8H SCH ***** ***** *****, *****-C   3 mL at 11/20/16 2138    [DISCONTINUED] 0.9 % sodium chloride flush injection syringe  3 mL Intravenous PRN ***** ***** *****, *****-C        [DISCONTINUED] acetaminophen (TYLENOL) tablet 500 mg  500 mg Oral Q6H PRN ***** ***** *****, *****-C        [DISCONTINUED] acetaminophen (TYLENOL) tablet 500 mg  500 mg Oral Q6H PRN ***** ***** *****, *****-C        [DISCONTINUED] amLODIPine (NORVASC) tablet 2.5 mg  2.5 mg Oral Daily (AM) ***** ***** *****, *****-C        [DISCONTINUED] aspirin EC tablet 81 mg  81 mg Oral Daily (AM) ***** ***** *****, *****-C        [DISCONTINUED] atorvastatin (LIPITOR) tablet 40 mg  40 mg Oral Q PM ***** ***** *****, *****-C   40 mg at 11/20/16 2128    [DISCONTINUED] brimonidine (ALPHAGAN) 0.1 % ophthalmic solution 1 drop  1 drop Both Eyes BID ***** ***** *****, *****-C   1 drop at 11/20/16 2128    [DISCONTINUED] dextrose 50% injection syringe 12.5 g  25 mL Intravenous Q15 Min PRN ***** ***** *****, *****-C        [DISCONTINUED] docusate sodium (COLACE) capsule 100 mg  100 mg Oral BID ***** ***** *****, *****-C   100 mg at 11/20/16 2128    [DISCONTINUED] glipiZIDE (GLUCOTROL) tablet 10 mg  10 mg Oral Daily with Breakfast ***** ***** *****, *****-C        [DISCONTINUED] glucose chewable tablet 20 g  20 g Oral Q15 Min PRN ***** ***** *****, *****-C        [DISCONTINUED] insulin aspart (NovoLOG) injection 100 units/mL pen  0-20 Units Subcutaneous TID ***** ***** ***** *****, *****-C   0 Units at 11/20/16 1843    [DISCONTINUED] insulin aspart (NovoLOG) injection 100 units/mL pen  0-3 Units Subcutaneous Bedtime and early am ***** ***** *****, *****-C   0 Units at 11/20/16 2134    [DISCONTINUED] insulin glargine (LANTUS, BASAGLAR) injection 100 units/mL pen  5 Units Subcutaneous Bedtime ***** ***** *****, *****-C   5 Units at 11/20/16 2136    [DISCONTINUED] latanoprost (XALATAN) 0.005 % ophthalmic solution 1 drop  1 drop Both Eyes Bedtime ***** ***** *****, *****-C   1 drop at 11/20/16 2128    [DISCONTINUED] loratadine (CLARITIN) tablet 10 mg  10 mg Oral Daily (AM) ***** ***** *****, *****-C        [DISCONTINUED] metFORMIN (GLUCOPHAGE) tablet 1,000 mg  1,000 mg Oral BID ***** ***** ***** *****, *****-C   1,000 mg at 11/20/16 1845    [DISCONTINUED] nitroGLYCERIN (NITROSTAT) SL tablet 0.4 mg  0.4 mg Sublingual Q5 Min PRN ***** ***** *****, *****-C        [DISCONTINUED] ondansetron (ZOFRAN) injection 4 mg  4 mg Intravenous Q8H PRN ***** ***** *****, *****-C        [DISCONTINUED] ondansetron (ZOFRAN) tablet 4 mg  4 mg Oral Q8H PRN ***** ***** *****, *****-C        [DISCONTINUED] valsartan (DIOVAN) tablet 80 mg  80 mg Oral Daily (AM) ***** ***** *****, *****-C
+A193	SectionSkipType T560 medications
+T561	SectionSkip 12468 13288	Lab Results   Component Value Date    WBC Count 9.9 11/20/2016    Hemoglobin 9.6 (L) 11/20/2016    Hematocrit 28.9 (L) 11/20/2016    Platelet Count 222 11/20/2016     Lab Results   Component Value Date    Sodium, Serum / Plasma 133 (L) 11/20/2016    Potassium, Serum / Plasma 4.2 11/20/2016    Chloride, Serum / Plasma 102 11/20/2016    Carbon Dioxide, Total 22 11/20/2016    Urea Nitrogen, Serum / Plasma 18 11/20/2016    Creatinine 1.01 (H) 11/20/2016    Glucose, non-fasting 201 (H) 11/20/2016     Lab Results   Component Value Date    Calcium, total, Serum / Plasma 9.4 11/20/2016     Lab Results   Component Value Date    Aspartate transaminase 27 11/20/2016    Alanine transaminase 19 11/20/2016    Alkaline Phosphatase 60 11/20/2016    Bilirubin, Total 0.9 11/20/2016    Albumin, Serum / Plasma 3.0 (L) 06/01/2015
+A195	SectionSkipType T561 laboratory
+T562	SectionSkip 11331 11771;11776 12466	Physical Exam:   ECOG 2   Vital Signs - BP 118/67 | Pulse 87 | Temp 36.3 C (97.3 F) (Oral)  | Resp 16 | Ht 150 cm (4' 11.06") Comment: 11/21/2016 ***** | Wt 53.5 kg (118 lb) | SpO2 98% | BMI 23.79 kg/m2   Constitutional - WDWN, NAD  Eyes - sclera anicteric, PERRL, EOMI  HENT - sinuses nontender, nasal mucosa intact, pharynx without erythema, stomatitis, or thrush   Lymph Nodes - no cervical, supraclavicular, or axillary lymphadenopathy. Respiratory - resonant to percussion throughout, CTA bilaterally; no wheezes, rhonchi, or crackles  Cardiovascular - Normal heart rate, normal rhythm, no murmurs, no edema  Breast - right simple mastectomy; no mass in left breast  GI - Bowel sounds normal, soft; no tenderness, no distention, no HSM  Musculoskeletal - No tenderness over bones or joints.   Neurologic - Alert & oriented x 3, ambulates w/o difficulty, good strength throughout  Psychiatric - Mood stable; no HI, SI, hallucinations, paranoia, or delusions  Skin - warm without rashes or lesions       Studies:  Available labs, pathology, and imaging were reviewed and independently interpreted, as described above in the HPI.
+A196	SectionSkipType T562 physical_exam
+T563	SectionSkip 13293 13736;13739 15636;15639 17536;17539 18845	10/25/16 SURGICAL PATHOLOGY REPORT    ***** WITH ADDENDUM *****    Patient Name: *****, *****  *****. Rec.#: *****  DOB: 04/22/1935 (Age: 81)  Sex: Female  Accession #: *****-*****  Visit #: *****  Service Date: 10/25/2016  Received: 10/25/2016  Location: PPE  Client:*****   Physician(s): ***** *****. ***** ((*****) *****-*****)    FINAL PATHOLOGIC DIAGNOSIS    A. Right breast, simple mastectomy:   1. Invasive ductal carcinoma, SBR   grade 3, 3.6 cm, negative margins;  see comment.  2. Fibroadenomas.  3. Cystic dilatation of ducts and apocrine metaplasia.  4. Calcifications associated with apocrine metaplasia and benign ducts.    5. Unremarkable skin and nipple.    B. Right axillary sentinel lymph node, #1- ex vivo count 5000, biopsy:   Metastatic carcinoma in one lymph node, 1.2 cm, no extranodal extension  (May 19); see comment.    C. Right axillary palpable non-sentinel lymph node #1, biopsy: No tumor  in one lymph node (0/1).    D. Right new anterior lateral margin, excision: Benign fibroadipose  tissue, no carcinoma.    E. Right breast skin, excision: Benign skin, no carcinoma.    COMMENT:  Breast Tumor Synoptic Comment    - Laterality: Right.  - Tumor site: Upper outer quadrant.    - Position: 10 o'clock.  - Invasive tumor type: Invasive ductal carcinoma.  - Invasive tumor size: 3.6 cm.  - Tumor size determined based on tumor present in 4 consecutive slides  (slice *****-*****, slice thickness 0.9 cm).  - Invasive tumor size after neoadjuvant therapy: N/A.  - Invasive tumor grade (modified Scarff-Bloom-Richardson): Grade 3.    - Nuclear grade: 3 points.    - Mitotic count: 74/10HPF: 3 points.    - Glandular/tubular differentiation: 3 points.    - Total points: 9 points = grade 3.  - EIC (extensive intraductal component): Negative.  - Lymphatic/vascular invasion: Features suggestive of lymphovascular  invasion present (slide A3).  - Skin/nipple: No significant pathologic abnormality.  - Skeletal muscle: No significant pathologic abnormality.  - Margins for invasive tumor: Negative.    - Posterior margin: Negative (tumor is 1.6 cm away, on slide A3).    - Medial margin: Negative (tumor is 12 cm away).    - Lateral margin: Negative (tumor is 2.4 cm away).    - Anterior/superior margin: Negative (tumor is <0.1 cm away, on  slide A4-A5).    - Anterior/inferior margin: Negative (tumor is 0.3 cm away, on  slide A6).  - Ductal carcinoma in situ (DCIS): None.  - Microcalcifications: Present associated with apocrine metaplasia and  benign ducts.  - Lobular carcinoma in situ: None.  - Non-neoplastic breast: Cystic dilatation of ducts, apocrine  metaplasia, fibroadenomas.  - Lymph node status: Positive.      - Total number of nodes examined: 2.      - Total number of nodes with micrometastases: 0.      - Total number of nodes with macrometastases: 1.      - Size of largest metastasis in node: 1.2 cm.      - Extranodal extension: None.    - AJCC/UICC stage: pT2N1a.    - Tumor biomarker (ER/PR/HER2) status: Will be reported by addendum.        GROSS ABNORMALITIES: A firm, palpable, pink-white mass with irregular  borders (2.6 cm medial-to-lateral x 3 cm superior-to-inferior x 2.8 cm  anterior-to-posterior; spanning slices 5 through 8) is present at 10  o'clock, approximately 7 cm from the nipple. The inferior tip of slice  9 has a pink, dark-yellow area (1 x 0.7 x 0.8 cm) resembling a prior  biopsy site.    A small (0.5 cm greatest dimension) orange-yellow translucent bead is  identified in slice 10 within white, firm fibrous-appearing tissue. The  bead is wrapped in tissue paper and gauze and placed with the remainder  of slice 10 in the specimen container.    Margins:  -Anterior/superior: Mass is <0.1 cm from margin (slice 6 and 7).  -Anterior/inferior: Mass is 0.1 cm from margin (***** 7).  -Medial: Mass is 12 cm from margin.  -Lateral: Mass is 2.4 cm from margin  -Deep: Mass is 1.5 cm from margin (slice 8).  -Nipple base: Mass is 8.4 cm from nipple base.  -Skin: Mass is 2.5 cm from lateral skin ellipse tip.    There is no nipple retraction or crust. The skin has a blue discolored  area (0.7 cm) immediately adjacent to the areola grossly consistent with  a bruise. No scars are seen. The deep surface is smooth and appears  complete. The anterior surfaces have lobular yellow adipose tissue.   The parenchyma uninvolved by the mass consist of mixed yellow adipose  tissue (70%) and white, firm tissue (30%). The specimen is radiographed  in the Pathology Department and a clip is not identified.    ***** *****/Pathology Resident  ***** *****/Pathologist    Electronically signed out on *****/*****/***** *****:*****      Addendum   Date Ordered:   10/31/2016   Status:  Signed Out    Date Complete:   10/31/2016   By: ***** *****    Date Reported:   10/31/2016     Addendum Diagnosis    Addendum Comment    Immunohistochemical tests for estrogen and progesterone receptors, HER2  and Ki-67 were performed by manual morphometry on block A4.    The test for estrogen receptors is negative. There is no nuclear  staining in tumor cells. Internal positive control is present, and  external positive control is appropriate.    The test for progesterone receptors is negative. There is no nuclear  staining in tumor cells. Internal positive control is present, and  external positive control is appropriate.    Result of HER2 test: This carcinoma is negative for HER2 oncoprotein  over-expression. The staining intensity of this carcinoma was 1 on a  scale of 0-3.    Ki-67 proliferation index: Variable expression ranging from <5% to  25-30%. Overall, it is estimated to be ~15%.
+A197	SectionSkipType T563 pathology_report
+T564	MaritalStatus 4205 4212	Married
+T565	Tobacco 4383 4395	Never Smoker
+A198	NegationModalityVal T565 negated
+T566	Tobacco 4400 4429	Smokeless tobacco: Never Used
+A199	NegationModalityVal T566 negated
+T567	Alcohol 4434 4448	Alcohol use No
+A200	NegationModalityVal T567 negated
+T568	Drugs 4453 4465	Drug use: No
+A201	NegationModalityVal T568 negated
+T569	MaritalStatus 4572 4600	Married; husband still alive
+R64	ExclusionCriteriaFor Arg1:T541 Arg2:T540	
+R65	ExclusionCriteriaFor Arg1:T543 Arg2:T542	
+A194	ChronicVal T423 non-chronic
+A202	ContinuityVal T423 new
+T3	Age 21 23	81
+T570	Duration 452 461	30+ years
+R66	SiteOf Arg1:T436 Arg2:T435	
+R67	SiteOf Arg1:T436 Arg2:T434	
+R68	SiteOf Arg1:T436 Arg2:T438	
+R8	SiteOf Arg1:T447 Arg2:T441	
+R10	SiteOf Arg1:T447 Arg2:T443	
+R11	SiteOf Arg1:T447 Arg2:T444	
+T469	Pathology 1205 1208	IHC
+A37	IntentVal T469 diagnosis
+T571	RadPathResult 1209 1210	0
+A205	RadPathResultVal T571 Others
+R69	ResultOfTest Desc:T571 Test:T469	
+A206	IntentVal T26 diagnosis
+T572	RadPathResult 1223 1226	1.7
+R70	ResultOfTest Desc:T572 Test:T26	
+T573	Site 1414 1420	breast
+T574	Laterality 1408 1413	right
+R71	LateralityOfSite Arg1:T574 Arg2:T573	
+R72	SiteOf Arg1:T573 Arg2:T473	
+T575	Pathology 1557 1570	mitotic count
+A207	EpisodeDescription T575 FirstOccurrence
+T576	Histology 1704 1708	DCIS
+A208	NegationModalityVal T576 negated
+A209	EpisodeDescription T576 FirstOccurrence
+T493	Pathology 1932 1935	IHC
+T577	RadPathResult 1936 1937	1
+T578	Pathology 1939 1943	FISH
+T579	RadPathResult 1950 1953	2.1
+R74	ResultOfTest Desc:T579 Test:T578	
+R73	ResultOfTest Desc:T577 Test:T493	
+R75	TreatmentAdministeredForProblem Treatment:T56 Prob:T497	
+T501	Site 2525 2531	breast
+T580	ProcedureName 2532 2539	surgery
+A59	IntentVal T580 DiagnosisAndTreatment
+A210	TreatmentTypeVal T580 local
+R40	SiteOf Arg1:T501 Arg2:T580	
+R76	SiteOf Arg1:T501 Arg2:T500	
+T581	ClinicalCondition 2620 2628	Cataract
+A211	ChronicVal T581 chronic
+A212	ContinuityVal T581 stable
+T582	ClinicalCondition 2634 2664	CHF (congestive heart failure)
+A213	ChronicVal T582 chronic
+A214	ContinuityVal T582 stable
+T583	ClinicalCondition 2670 2698	CKD (chronic kidney disease)
+A215	ChronicVal T583 chronic
+A216	ContinuityVal T583 stable
+T584	ClinicalCondition 2703 2731	Chronic kidney disease (CKD)
+A217	ChronicVal T584 chronic
+A218	ContinuityVal T584 stable
+T585	ClinicalCondition 2894 2918	Coronary atherosclerosis
+A219	ChronicVal T585 chronic
+A220	ContinuityVal T585 stable
+T586	ClinicalCondition 2971 2988	Diabetes mellitus
+A221	ChronicVal T586 chronic
+A222	ContinuityVal T586 stable
+T587	ClinicalCondition 3006 3044	GERD (gastroesophageal reflux disease)
+A223	ChronicVal T587 chronic
+A224	ContinuityVal T587 stable
+T588	ClinicalCondition 3050 3058	Glaucoma
+A225	NegationModalityVal T588 uncertain_in_past
+A226	ChronicVal T588 chronic
+A227	ContinuityVal T588 stable
+T589	ClinicalCondition 3075 3093	HTN (hypertension)
+A228	ChronicVal T589 chronic
+A229	ContinuityVal T589 stable
+T590	ClinicalCondition 3099 3111	Hypertension
+A230	ChronicVal T590 chronic
+A231	ContinuityVal T590 stable
+T591	ClinicalCondition 3139 3153	hyperlipidemia
+A232	ChronicVal T591 chronic
+A233	ContinuityVal T591 stable
+T592	ClinicalCondition 3174 3203	SBO (small bowel obstruction)
+A234	ChronicVal T592 non-chronic
+A235	ContinuityVal T592 stopped
+T593	ClinicalCondition 3430 3449	Sick sinus syndrome
+A236	ChronicVal T593 chronic
+A237	ContinuityVal T593 stable
+T594	ProcedureName 3512 3536	BIOPSY / EXCISION BREAST
+T595	ProcedureName 3543 3558	CHOLECYSTECTOMY
+T596	ProcedureName 3565 3575	MASTECTOMY
+T597	Datetime 3582 3592	10/25/2016
+T598	Laterality 3576 3581	Right
+R77	HappensAtOnDuring Arg1:T597 Arg2:T596	
+T599	Datetime 3618 3622	1998
+T600	ProcedureName 3597 3616	PACEMAKER INSERTION
+R78	HappensAtOnDuring Arg1:T600 Arg2:T599	
+T601	ProcedureName 3627 3653	SENTINEL LYMPH NODE BIOPSY
+T602	Datetime 3660 3670	10/25/2016
+T603	Laterality 3654 3659	Right
+R79	HappensAtOnDuring Arg1:T602 Arg2:T601	
+T604	ClinicalCondition 3729 3735	Stroke
+A238	ExperiencerVal T604 family
+T605	Age 3770 3772	40
+T606	Age 3785 3787	43
+T607	ClinicalCondition 3792 3798	Stroke
+A241	ExperiencerVal T607 family
+T608	ClinicalCondition 3811 3819	Diabetes
+A242	ExperiencerVal T608 family
+T609	ClinicalCondition 3831 3840	Arthritis
+A243	ExperiencerVal T609 family
+T610	ClinicalCondition 3852 3858	Stroke
+A244	ExperiencerVal T610 family
+T611	Age 3866 3868	68
+T612	Datetime 3873 3883	March 2013
+R80	HappensAtOnDuring Arg1:T610 Arg2:T612	
+T613	ClinicalCondition 3888 3902	Stomach cancer
+A246	ExperiencerVal T613 family
+T614	ClinicalCondition 3931 3945	Uterine cancer
+A247	ExperiencerVal T614 family
+T615	Age 3960 3962	37
+T616	Age 3975 3977	39
+T617	ClinicalCondition 3982 3991	Blindness
+A250	NegationModalityVal T617 negated
+A251	ExperiencerVal T617 family
+T618	ClinicalCondition 4004 4013	Amblyopia
+A252	NegationModalityVal T618 negated
+T619	ClinicalCondition 4026 4035	Cataracts
+A253	NegationModalityVal T619 negated
+T620	ClinicalCondition 4048 4056	Glaucoma
+A254	NegationModalityVal T620 negated
+T621	ClinicalCondition 4069 4082	Macular degen
+A255	NegationModalityVal T621 negated
+T622	ClinicalCondition 4095 4113	Retinal detachment
+A256	NegationModalityVal T622 negated
+T623	ClinicalCondition 4126 4136	Strabismus
+A257	NegationModalityVal T623 negated
+T624	TreatmentType 4796 4799	HRT
+A258	NegationModalityVal T624 negated
+T625	Age 18885 18887	81
+A260	BiomarkerResultVal T533 Negative
+T531	BiomarkerResult 19064 19072	negative
+A143	EpisodeDescription T531 FirstOccurrence
+A261	BiomarkerResultVal T531 Negative
+T536	TumorCharacteristics 19491 19495	TNBC
+R81	ExclusionCriteriaFor Arg1:T544 Arg2:T542	
+T551	BiomarkerResult 20176 20184	negative
+A262	BiomarkerResultVal T551 Negative
+T626	ClinicalCondition 20192 20198	cancer
+A263	ChronicVal T626 non-chronic
+A264	ContinuityVal T626 stable
+A265	NegationModalityVal T56 affirmed
+A266	TreatmentContinuityVal T56 finished
+T627	ClinicalCondition 19254 19260	cancer
+A267	NegationModalityVal T627 affirmed
+A268	ChronicVal T627 non-chronic
+A269	ContinuityVal T627 stable
+T628	ClinicalCondition 19413 19419	cancer
+A270	TreatmentTypeVal T542 adjuvant
+R82	TestOrProcedureReveals Test:T457 Desc:T462	
+R83	TestOrProcedureReveals Test:T457 Desc:T463	
+R84	TestOrProcedureReveals Test:T457 Desc:T465	
+R85	TestOrProcedureReveals Test:T457 Desc:T467	
+R86	TestOrProcedureReveals Test:T469 Desc:T467	
+R87	TestOrProcedureReveals Test:T26 Desc:T467	
+R88	SiteOf Arg1:T482 Arg2:T483	
+R14	SiteOf Arg1:T447 Arg2:T445	
+R16	TestOrProcedureReveals Test:T493 Desc:T489	
+R89	TestOrProcedureReveals Test:T578 Desc:T489	
+A271	IntentVal T417 staging
+T446	Site 19073 19079	breast
+R90	SiteOf Arg1:T446 Arg2:T532	
+T449	BiomarkerName 19231 19237	triple
+R91	BiomarkerRel Arg1:T449 Arg2:T533	
+T629	BiomarkerName 19057 19063	triple
+R92	BiomarkerRel Arg1:T629 Arg2:T531	
+T630	Site 19247 19253	breast
+R93	SiteOf Arg1:T630 Arg2:T627	
+T631	BiomarkerName 19390 19396	triple
+R94	BiomarkerRel Arg1:T631 Arg2:T534	
+T632	Site 19406 19412	breast
+R95	SiteOf Arg1:T632 Arg2:T628	
+T633	BiomarkerName 20169 20175	triple
+R96	BiomarkerRel Arg1:T633 Arg2:T551	
+T634	Site 20185 20191	breast
+R97	SiteOf Arg1:T634 Arg2:T626	
+A272	IntentVal T493 diagnosis
+A273	IntentVal T578 diagnosis
+R98	SiteOf Arg1:T446 Arg2:T529	
+R99	SiteOf Arg1:T446 Arg2:T629	
+R100	SiteOf Arg1:T446 Arg2:T530	
+R101	TestOrProcedureReveals Test:T473 Desc:T481	
+A274	RadPathResultVal T479 Others
+T494	Pathology 2020 2024	Ki67
+A275	IntentVal T494 others
+T635	RadPathResult 2036 2065	(<5% to 25-30%; average ~15%)
+A276	RadPathResultVal T635 Others
+R102	ResultOfTest Desc:T635 Test:T494	
+R103	TestOrProcedureReveals Test:T473 Desc:T576	
+A277	RadPathResultVal T575 Others
+R104	ResultOfTest Desc:T479 Test:T575	
+T636	Site 79 85	breast
+R105	SiteOf Arg1:T636 Arg2:T423	
+A278	DiseaseStateVal T407 progression-recurrence
+A279	DiseaseStateVal T554 progression-others
+A280	DiseaseStateVal T404 progression-recurrence
+R106	SizeOf Arg1:T435 Arg2:T434	
+R107	SizeOf Arg1:T452 Arg2:T451	
+R108	SizeOf Arg1:T444 Arg2:T443	
+R109	SizeOf Arg1:T476 Arg2:T478	
+R110	SizeOf Arg1:T485 Arg2:T484	
+T637	ap_end 21028 21036	options.
+T638	ap_start 18852 18862	Assessment
+T639	hpi_start 0 2	ID
+T640	hpi_end 2532 2540	surgery.
+R111	BeginsOnOrAt Arg1:T496 Arg2:T56	

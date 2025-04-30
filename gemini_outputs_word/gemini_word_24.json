@@ -1,0 +1,164 @@
+[
+  {
+    "text": "chemotherapy",
+    "label": "Drug Name",
+    "start": 129,
+    "end": 130
+  },
+  {
+    "text": "TC",
+    "label": "Drug Name",
+    "start": 137,
+    "end": 138
+  },
+  {
+    "text": "chemotherapy",
+    "label": "Drug Name",
+    "start": 158,
+    "end": 159
+  },
+  {
+    "text": "chemotherapy",
+    "label": "Drug Name",
+    "start": 327,
+    "end": 328
+  },
+  {
+    "text": "chemotherapy",
+    "label": "Drug Name",
+    "start": 374,
+    "end": 375
+  },
+  {
+    "text": "chemotherapy",
+    "label": "Drug Name",
+    "start": 415,
+    "end": 416
+  },
+  {
+    "text": "chemotherapy",
+    "label": "Drug Name",
+    "start": 437,
+    "end": 438
+  },
+  {
+    "text": "chemotherapy",
+    "label": "Drug Name",
+    "start": 475,
+    "end": 476
+  },
+  {
+    "text": "TC x 4 cycles",
+    "label": "Drug Name",
+    "start": 478,
+    "end": 482
+  },
+  {
+    "text": "chemotherapy",
+    "label": "Drug Name",
+    "start": 483,
+    "end": 484
+  },
+  {
+    "text": "chemotherapy",
+    "label": "Drug Name",
+    "start": 500,
+    "end": 501
+  },
+  {
+    "text": "chemotherapy",
+    "label": "Drug Name",
+    "start": 519,
+    "end": 520
+  },
+  {
+    "text": "anti-estrogen therapy",
+    "label": "Drug Name",
+    "start": 526,
+    "end": 529
+  },
+  {
+    "text": "anti-estrogen therapy",
+    "label": "Drug Name",
+    "start": 539,
+    "end": 542
+  },
+  {
+    "text": "aromatase inhibitor",
+    "label": "Drug Name",
+    "start": 546,
+    "end": 548
+  },
+  {
+    "text": "AI",
+    "label": "Drug Name",
+    "start": 559,
+    "end": 560
+  },
+  {
+    "text": "calcium",
+    "label": "Drug Name",
+    "start": 572,
+    "end": 573
+  },
+  {
+    "text": "vitamin D",
+    "label": "Drug Name",
+    "start": 574,
+    "end": 576
+  },
+  {
+    "text": "docetaxel/cyclophosphamide",
+    "label": "Drug Name",
+    "start": 583,
+    "end": 585
+  },
+  {
+    "text": "AI therapy",
+    "label": "Drug Name",
+    "start": 589,
+    "end": 591
+  },
+  {
+    "text": "CDK4/6 inhibitor",
+    "label": "Drug Name",
+    "start": 594,
+    "end": 596
+  },
+  {
+    "text": "TC x 4 cycles",
+    "label": "Drug Dosage",
+    "start": 478,
+    "end": 482
+  },
+  {
+    "text": "docetaxel/cyclophosphamide x 4 cycles",
+    "label": "Drug Dosage",
+    "start": 583,
+    "end": 587
+  },
+  {
+    "text": "AI therapy for at least 5 years",
+    "label": "Duration of Drug Intake",
+    "start": 589,
+    "end": 593
+  },
+  {
+    "text": "take an AI for at least 5 years",
+    "label": "Duration of Drug Intake",
+    "start": 559,
+    "end": 565
+  },
+  {
+    "text": "TC x 4 cycles",
+    "label": "Frequency of Drug Intake",
+    "start": 478,
+    "end": 482
+  },
+  {
+    "text": "docetaxel/cyclophosphamide x 4 cycles",
+    "label": "Frequency of Drug Intake",
+    "start": 583,
+    "end": 587
+  }
+]

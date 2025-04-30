@@ -1,0 +1,326 @@
+[
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 132,
+    "end": 141
+  },
+  {
+    "text": "letrozole",
+    "label": "Drug Name",
+    "start": 205,
+    "end": 214
+  },
+  {
+    "text": "exemestane",
+    "label": "Drug Name",
+    "start": 218,
+    "end": 228
+  },
+  {
+    "text": "letrozole",
+    "label": "Drug Name",
+    "start": 270,
+    "end": 279
+  },
+  {
+    "text": "exemestane",
+    "label": "Drug Name",
+    "start": 297,
+    "end": 307
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 1835,
+    "end": 1844
+  },
+  {
+    "text": "letrozole",
+    "label": "Drug Name",
+    "start": 1877,
+    "end": 1886
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 1939,
+    "end": 1948
+  },
+  {
+    "text": "letrozole",
+    "label": "Drug Name",
+    "start": 1994,
+    "end": 2003
+  },
+  {
+    "text": "exemestane",
+    "label": "Drug Name",
+    "start": 2007,
+    "end": 2017
+  },
+  {
+    "text": "exemestane",
+    "label": "Drug Name",
+    "start": 2074,
+    "end": 2084
+  },
+  {
+    "text": "25mg",
+    "label": "Drug Dosage",
+    "start": 2085,
+    "end": 2089
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 2212,
+    "end": 2221
+  },
+  {
+    "text": "letrozole",
+    "label": "Drug Name",
+    "start": 2249,
+    "end": 2258
+  },
+  {
+    "text": "amoxicillin",
+    "label": "Drug Name",
+    "start": 3944,
+    "end": 3955
+  },
+  {
+    "text": "amoxicillin-clavulanate",
+    "label": "Drug Name",
+    "start": 4010,
+    "end": 4033
+  },
+  {
+    "text": "benzonatate",
+    "label": "Drug Name",
+    "start": 4077,
+    "end": 4088
+  },
+  {
+    "text": "buPROPion",
+    "label": "Drug Name",
+    "start": 4142,
+    "end": 4151
+  },
+  {
+    "text": "doxycycline",
+    "label": "Drug Name",
+    "start": 4205,
+    "end": 4216
+  },
+  {
+    "text": "exemestane",
+    "label": "Drug Name",
+    "start": 4269,
+    "end": 4279
+  },
+  {
+    "text": "HYDROcodone-acetaminophen",
+    "label": "Drug Name",
+    "start": 4332,
+    "end": 4360
+  },
+  {
+    "text": "IBU",
+    "label": "Drug Name",
+    "start": 4417,
+    "end": 4420
+  },
+  {
+    "text": "metroNIDAZOLE",
+    "label": "Drug Name",
+    "start": 4474,
+    "end": 4487
+  },
+  {
+    "text": "ondansetron",
+    "label": "Drug Name",
+    "start": 4541,
+    "end": 4552
+  },
+  {
+    "text": "875 mg",
+    "label": "Drug Strength",
+    "start": 3957,
+    "end": 3963
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3964,
+    "end": 3970
+  },
+  {
+    "text": "TAKE 1 TABLET BY MOUTH TWICE A DAY UNTIL GONE",
+    "label": "Frequency of Drug Intake",
+    "start": 3971,
+    "end": 4010
+  },
+  {
+    "text": "875-125 mg",
+    "label": "Drug Strength",
+    "start": 4034,
+    "end": 4044
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 4045,
+    "end": 4051
+  },
+  {
+    "text": "Take by mouth.",
+    "label": "Drug Route of Administration",
+    "start": 4052,
+    "end": 4066
+  },
+  {
+    "text": "200 mg",
+    "label": "Drug Strength",
+    "start": 4090,
+    "end": 4096
+  },
+  {
+    "text": "capsule",
+    "label": "Drug Form",
+    "start": 4097,
+    "end": 4104
+  },
+  {
+    "text": "Take 200 mg by mouth.",
+    "label": "Drug Route of Administration",
+    "start": 4105,
+    "end": 4126
+  },
+  {
+    "text": "150 mg",
+    "label": "Drug Strength",
+    "start": 4153,
+    "end": 4159
+  },
+  {
+    "text": "24 hr tablet",
+    "label": "Drug Form",
+    "start": 4160,
+    "end": 4171
+  },
+  {
+    "text": "Take 150 mg by mouth.",
+    "label": "Drug Route of Administration",
+    "start": 4172,
+    "end": 4193
+  },
+  {
+    "text": "100 mg",
+    "label": "Drug Strength",
+    "start": 4218,
+    "end": 4224
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 4225,
+    "end": 4231
+  },
+  {
+    "text": "TAKE 1 TABLET BY MOUTH TWICE A DAY FOR 10 DAYS",
+    "label": "Frequency of Drug Intake",
+    "start": 4232,
+    "end": 4278
+  },
+  {
+    "text": "25 mg",
+    "label": "Drug Strength",
+    "start": 4280,
+    "end": 4285
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 4286,
+    "end": 4292
+  },
+  {
+    "text": "TAKE 1 TABLET BY MOUTH EVERY DAY FOR 30 DAYS",
+    "label": "Frequency of Drug Intake",
+    "start": 4293,
+    "end": 4331
+  },
+  {
+    "text": "5-325 mg",
+    "label": "Drug Strength",
+    "start": 4362,
+    "end": 4370
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 4371,
+    "end": 4377
+  },
+  {
+    "text": "TAKE 1 TO 2 TABS BY MOUTH EVERY 6 HOURS AS NEEDED FOR PAIN",
+    "label": "Frequency of Drug Intake",
+    "start": 4378,
+    "end": 4430
+  },
+  {
+    "text": "800 mg",
+    "label": "Drug Strength",
+    "start": 4421,
+    "end": 4427
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 4428,
+    "end": 4434
+  },
+  {
+    "text": "TAKE 1 TABLET BY MOUTH EVERY 8 HOURS AS NEEDED",
+    "label": "Frequency of Drug Intake",
+    "start": 4435,
+    "end": 4473
+  },
+  {
+    "text": "0.75 %",
+    "label": "Drug Strength",
+    "start": 4488,
+    "end": 4494
+  },
+  {
+    "text": "gel",
+    "label": "Drug Form",
+    "start": 4495,
+    "end": 4498
+  },
+  {
+    "text": "Apply thin film to affected area BID",
+    "label": "Drug Route of Administration",
+    "start": 4499,
+    "end": 4534
+  },
+  {
+    "text": "4 mg",
+    "label": "Drug Strength",
+    "start": 4553,
+    "end": 4557
+  },
+  {
+    "text": "rapid dissolve tablet",
+    "label": "Drug Form",
+    "start": 4558,
+    "end": 4578
+  },
+  {
+    "text": "DISSOLVE 1 TAB ON THE TONGUE EVERY 6 HOURS AS NEEDED FOR NAUSEA/VOMITING",
+    "label": "Frequency of Drug Intake",
+    "start": 4579,
+    "end": 4650
+  }
+]

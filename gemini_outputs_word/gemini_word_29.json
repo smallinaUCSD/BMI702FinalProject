@@ -1,0 +1,86 @@
+[
+  {
+    "text": "CETRORELIX ACETATE (CETROTIDE SUBCUT)",
+    "label": "Drug Name",
+    "start": 243,
+    "end": 248
+  },
+  {
+    "text": "SUBCUT",
+    "label": "Drug Route of Administration",
+    "start": 247,
+    "end": 248
+  },
+  {
+    "text": "MENOTROPINS (MENOPUR SUBCUT)",
+    "label": "Drug Name",
+    "start": 253,
+    "end": 256
+  },
+  {
+    "text": "SUBCUT",
+    "label": "Drug Route of Administration",
+    "start": 255,
+    "end": 256
+  },
+  {
+    "text": "tamoxifen (NOLVADEX)",
+    "label": "Drug Name",
+    "start": 261,
+    "end": 263
+  },
+  {
+    "text": "20 mg",
+    "label": "Drug Dosage",
+    "start": 263,
+    "end": 265
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 265,
+    "end": 266
+  },
+  {
+    "text": "Powder vials SQ",
+    "label": "Drug Form",
+    "start": 270,
+    "end": 273
+  },
+  {
+    "text": "SQ",
+    "label": "Drug Route of Administration",
+    "start": 272,
+    "end": 273
+  },
+  {
+    "text": "weekly paclitaxel",
+    "label": "Frequency of Drug Intake",
+    "start": 435,
+    "end": 437
+  },
+  {
+    "text": "paclitaxel",
+    "label": "Drug Name",
+    "start": 436,
+    "end": 437
+  },
+  {
+    "text": "x 12",
+    "label": "Duration of Drug Intake",
+    "start": 437,
+    "end": 439
+  },
+  {
+    "text": "AC",
+    "label": "Drug Name",
+    "start": 440,
+    "end": 441
+  },
+  {
+    "text": "AC",
+    "label": "Drug Name",
+    "start": 500,
+    "end": 501
+  }
+]

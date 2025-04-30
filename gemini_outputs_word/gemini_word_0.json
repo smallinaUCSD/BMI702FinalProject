@@ -1,0 +1,32 @@
+[
+  {
+    "text": "gemcitabine",
+    "label": "Drug Name",
+    "start": 69,
+    "end": 70
+  },
+  {
+    "text": "Abraxane",
+    "label": "Drug Name",
+    "start": 71,
+    "end": 72
+  },
+  {
+    "text": "oxycodone",
+    "label": "Drug Name",
+    "start": 104,
+    "end": 105
+  },
+  {
+    "text": "IV",
+    "label": "Drug Route of Administration",
+    "start": 98,
+    "end": 99
+  },
+  {
+    "text": "oral antibiotics",
+    "label": "Drug Name",
+    "start": 99,
+    "end": 101
+  }
+]

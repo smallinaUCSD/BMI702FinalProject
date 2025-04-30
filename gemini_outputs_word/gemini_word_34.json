@@ -1,0 +1,398 @@
+[
+  {
+    "text": "buPROPion (WELLBUTRIN SR)",
+    "label": "Drug Name",
+    "start": 371,
+    "end": 374
+  },
+  {
+    "text": "150 mg",
+    "label": "Drug Dosage",
+    "start": 374,
+    "end": 376
+  },
+  {
+    "text": "12 hr tablet",
+    "label": "Drug Form",
+    "start": 376,
+    "end": 379
+  },
+  {
+    "text": "150 mg",
+    "label": "Drug Dosage",
+    "start": 381,
+    "end": 383
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 383,
+    "end": 385
+  },
+  {
+    "text": "2 (two) times daily",
+    "label": "Frequency of Drug Intake",
+    "start": 385,
+    "end": 389
+  },
+  {
+    "text": "cetirizine (ZYRTEC)",
+    "label": "Drug Name",
+    "start": 390,
+    "end": 392
+  },
+  {
+    "text": "10 mg",
+    "label": "Drug Dosage",
+    "start": 392,
+    "end": 394
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 394,
+    "end": 395
+  },
+  {
+    "text": "1 tablet",
+    "label": "Drug Dosage",
+    "start": 396,
+    "end": 398
+  },
+  {
+    "text": "10 mg total",
+    "label": "Drug Dosage",
+    "start": 398,
+    "end": 401
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 401,
+    "end": 403
+  },
+  {
+    "text": "Daily",
+    "label": "Frequency of Drug Intake",
+    "start": 403,
+    "end": 404
+  },
+  {
+    "text": "10 mg",
+    "label": "Drug Strength",
+    "start": 393,
+    "end": 394
+  },
+  {
+    "text": "docusate sodium (COLACE)",
+    "label": "Drug Name",
+    "start": 407,
+    "end": 410
+  },
+  {
+    "text": "250 mg",
+    "label": "Drug Dosage",
+    "start": 410,
+    "end": 412
+  },
+  {
+    "text": "capsule",
+    "label": "Drug Form",
+    "start": 412,
+    "end": 413
+  },
+  {
+    "text": "1 capsule",
+    "label": "Drug Dosage",
+    "start": 414,
+    "end": 416
+  },
+  {
+    "text": "250 mg total",
+    "label": "Drug Dosage",
+    "start": 416,
+    "end": 419
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 419,
+    "end": 421
+  },
+  {
+    "text": "2 (two) times daily",
+    "label": "Frequency of Drug Intake",
+    "start": 421,
+    "end": 425
+  },
+  {
+    "text": "250 mg",
+    "label": "Drug Strength",
+    "start": 411,
+    "end": 412
+  },
+  {
+    "text": "hydrOXYzine (ATARAX)",
+    "label": "Drug Name",
+    "start": 429,
+    "end": 431
+  },
+  {
+    "text": "10 mg",
+    "label": "Drug Dosage",
+    "start": 431,
+    "end": 433
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 433,
+    "end": 434
+  },
+  {
+    "text": "10 mg",
+    "label": "Drug Dosage",
+    "start": 435,
+    "end": 437
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 437,
+    "end": 439
+  },
+  {
+    "text": "3 (three) times daily",
+    "label": "Frequency of Drug Intake",
+    "start": 439,
+    "end": 443
+  },
+  {
+    "text": "10 mg",
+    "label": "Drug Strength",
+    "start": 432,
+    "end": 433
+  },
+  {
+    "text": "ibuprofen (ADVIL,MOTRIN)",
+    "label": "Drug Name",
+    "start": 446,
+    "end": 449
+  },
+  {
+    "text": "600 mg",
+    "label": "Drug Dosage",
+    "start": 449,
+    "end": 451
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 451,
+    "end": 452
+  },
+  {
+    "text": "1 tablet",
+    "label": "Drug Dosage",
+    "start": 453,
+    "end": 455
+  },
+  {
+    "text": "600 mg total",
+    "label": "Drug Dosage",
+    "start": 455,
+    "end": 458
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 458,
+    "end": 460
+  },
+  {
+    "text": "every 6 (six) hours",
+    "label": "Frequency of Drug Intake",
+    "start": 460,
+    "end": 464
+  },
+  {
+    "text": "600 mg",
+    "label": "Drug Strength",
+    "start": 450,
+    "end": 451
+  },
+  {
+    "text": "iron",
+    "label": "Drug Name",
+    "start": 468,
+    "end": 469
+  },
+  {
+    "text": "18 mg",
+    "label": "Drug Dosage",
+    "start": 469,
+    "end": 471
+  },
+  {
+    "text": "TAB",
+    "label": "Drug Form",
+    "start": 471,
+    "end": 472
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 472,
+    "end": 473
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 474,
+    "end": 476
+  },
+  {
+    "text": "18 mg",
+    "label": "Drug Strength",
+    "start": 470,
+    "end": 471
+  },
+  {
+    "text": "labetalol (NORMODYNE)",
+    "label": "Drug Name",
+    "start": 478,
+    "end": 480
+  },
+  {
+    "text": "100 mg",
+    "label": "Drug Dosage",
+    "start": 480,
+    "end": 482
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 482,
+    "end": 483
+  },
+  {
+    "text": "100 mg",
+    "label": "Drug Dosage",
+    "start": 484,
+    "end": 486
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 486,
+    "end": 488
+  },
+  {
+    "text": "2 (two) times daily",
+    "label": "Frequency of Drug Intake",
+    "start": 488,
+    "end": 492
+  },
+  {
+    "text": "100 mg",
+    "label": "Drug Strength",
+    "start": 481,
+    "end": 482
+  },
+  {
+    "text": "PNV NO.122/IRON/FOLIC ACID (PRENATAL MULTI ORAL)",
+    "label": "Drug Name",
+    "start": 493,
+    "end": 499
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 500,
+    "end": 502
+  },
+  {
+    "text": "triamcinolone (KENALOG)",
+    "label": "Drug Name",
+    "start": 504,
+    "end": 506
+  },
+  {
+    "text": "0.1 %",
+    "label": "Drug Dosage",
+    "start": 506,
+    "end": 508
+  },
+  {
+    "text": "cream",
+    "label": "Drug Form",
+    "start": 508,
+    "end": 509
+  },
+  {
+    "text": "topically",
+    "label": "Drug Route of Administration",
+    "start": 510,
+    "end": 511
+  },
+  {
+    "text": "2 (two) times daily",
+    "label": "Frequency of Drug Intake",
+    "start": 511,
+    "end": 515
+  },
+  {
+    "text": "0.1 %",
+    "label": "Drug Strength",
+    "start": 507,
+    "end": 508
+  },
+  {
+    "text": "Fluoxetine",
+    "label": "Drug Name",
+    "start": 520,
+    "end": 521
+  },
+  {
+    "text": "zolpidem (AMBIEN)",
+    "label": "Drug Name",
+    "start": 523,
+    "end": 525
+  },
+  {
+    "text": "5 mg",
+    "label": "Drug Dosage",
+    "start": 525,
+    "end": 527
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 527,
+    "end": 528
+  },
+  {
+    "text": "5 mg",
+    "label": "Drug Dosage",
+    "start": 529,
+    "end": 531
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 531,
+    "end": 533
+  },
+  {
+    "text": "nightly",
+    "label": "Frequency of Drug Intake",
+    "start": 533,
+    "end": 534
+  },
+  {
+    "text": "5 mg",
+    "label": "Drug Strength",
+    "start": 526,
+    "end": 527
+  }
+]

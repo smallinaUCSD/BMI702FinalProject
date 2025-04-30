@@ -1,0 +1,344 @@
+[
+  {
+    "text": "buPROPion (WELLBUTRIN SR)",
+    "label": "Drug Name",
+    "start": 2958,
+    "end": 2983
+  },
+  {
+    "text": "150 mg",
+    "label": "Drug Dosage",
+    "start": 2984,
+    "end": 2990
+  },
+  {
+    "text": "12 hr tablet",
+    "label": "Drug Form",
+    "start": 2991,
+    "end": 3002
+  },
+  {
+    "text": "150 mg",
+    "label": "Drug Dosage",
+    "start": 3009,
+    "end": 3015
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3016,
+    "end": 3024
+  },
+  {
+    "text": "2 (two) times daily",
+    "label": "Frequency of Drug Intake",
+    "start": 3025,
+    "end": 3044
+  },
+  {
+    "text": "cetirizine (ZYRTEC)",
+    "label": "Drug Name",
+    "start": 3052,
+    "end": 3071
+  },
+  {
+    "text": "10 mg",
+    "label": "Drug Dosage",
+    "start": 3072,
+    "end": 3077
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3078,
+    "end": 3084
+  },
+  {
+    "text": "1 tablet",
+    "label": "Drug Dosage",
+    "start": 3089,
+    "end": 3097
+  },
+  {
+    "text": "10 mg",
+    "label": "Drug Dosage",
+    "start": 3099,
+    "end": 3104
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3112,
+    "end": 3120
+  },
+  {
+    "text": "Daily",
+    "label": "Frequency of Drug Intake",
+    "start": 3121,
+    "end": 3126
+  },
+  {
+    "text": "docusate sodium (COLACE)",
+    "label": "Drug Name",
+    "start": 3141,
+    "end": 3165
+  },
+  {
+    "text": "250 mg",
+    "label": "Drug Dosage",
+    "start": 3166,
+    "end": 3172
+  },
+  {
+    "text": "capsule",
+    "label": "Drug Form",
+    "start": 3173,
+    "end": 3180
+  },
+  {
+    "text": "1 capsule",
+    "label": "Drug Dosage",
+    "start": 3185,
+    "end": 3194
+  },
+  {
+    "text": "250 mg",
+    "label": "Drug Dosage",
+    "start": 3196,
+    "end": 3202
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3210,
+    "end": 3218
+  },
+  {
+    "text": "2 (two) times daily",
+    "label": "Frequency of Drug Intake",
+    "start": 3219,
+    "end": 3238
+  },
+  {
+    "text": "hydrOXYzine (ATARAX)",
+    "label": "Drug Name",
+    "start": 3277,
+    "end": 3297
+  },
+  {
+    "text": "10 mg",
+    "label": "Drug Dosage",
+    "start": 3298,
+    "end": 3303
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3304,
+    "end": 3310
+  },
+  {
+    "text": "10 mg",
+    "label": "Drug Dosage",
+    "start": 3315,
+    "end": 3320
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3321,
+    "end": 3329
+  },
+  {
+    "text": "3 (three) times daily",
+    "label": "Frequency of Drug Intake",
+    "start": 3330,
+    "end": 3351
+  },
+  {
+    "text": "ibuprofen (ADVIL,MOTRIN)",
+    "label": "Drug Name",
+    "start": 3366,
+    "end": 3392
+  },
+  {
+    "text": "600 mg",
+    "label": "Drug Dosage",
+    "start": 3393,
+    "end": 3399
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3400,
+    "end": 3406
+  },
+  {
+    "text": "1 tablet",
+    "label": "Drug Dosage",
+    "start": 3411,
+    "end": 3419
+  },
+  {
+    "text": "600 mg",
+    "label": "Drug Dosage",
+    "start": 3421,
+    "end": 3427
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3428,
+    "end": 3436
+  },
+  {
+    "text": "every 6 (six) hours",
+    "label": "Frequency of Drug Intake",
+    "start": 3437,
+    "end": 3456
+  },
+  {
+    "text": "iron",
+    "label": "Drug Name",
+    "start": 3483,
+    "end": 3487
+  },
+  {
+    "text": "18 mg",
+    "label": "Drug Dosage",
+    "start": 3488,
+    "end": 3493
+  },
+  {
+    "text": "TAB tablet",
+    "label": "Drug Form",
+    "start": 3494,
+    "end": 3504
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3505,
+    "end": 3513
+  },
+  {
+    "text": "labetalol (NORMODYNE)",
+    "label": "Drug Name",
+    "start": 3526,
+    "end": 3547
+  },
+  {
+    "text": "100 mg",
+    "label": "Drug Dosage",
+    "start": 3548,
+    "end": 3554
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3555,
+    "end": 3561
+  },
+  {
+    "text": "100 mg",
+    "label": "Drug Dosage",
+    "start": 3566,
+    "end": 3572
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3573,
+    "end": 3581
+  },
+  {
+    "text": "2 (two) times daily",
+    "label": "Frequency of Drug Intake",
+    "start": 3582,
+    "end": 3601
+  },
+  {
+    "text": "PNV NO.122/IRON/FOLIC ACID (PRENATAL MULTI ORAL)",
+    "label": "Drug Name",
+    "start": 3614,
+    "end": 3660
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3666,
+    "end": 3674
+  },
+  {
+    "text": "triamcinolone (KENALOG)",
+    "label": "Drug Name",
+    "start": 3687,
+    "end": 3709
+  },
+  {
+    "text": "0.1 %",
+    "label": "Drug Strength",
+    "start": 3710,
+    "end": 3715
+  },
+  {
+    "text": "cream",
+    "label": "Drug Form",
+    "start": 3716,
+    "end": 3721
+  },
+  {
+    "text": "topically",
+    "label": "Drug Route of Administration",
+    "start": 3728,
+    "end": 3736
+  },
+  {
+    "text": "2 (two) times daily",
+    "label": "Frequency of Drug Intake",
+    "start": 3737,
+    "end": 3756
+  },
+  {
+    "text": "Fluoxetine",
+    "label": "Drug Name",
+    "start": 3799,
+    "end": 3809
+  },
+  {
+    "text": "zolpidem (AMBIEN)",
+    "label": "Drug Name",
+    "start": 3822,
+    "end": 3839
+  },
+  {
+    "text": "5 mg",
+    "label": "Drug Dosage",
+    "start": 3840,
+    "end": 3844
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3845,
+    "end": 3851
+  },
+  {
+    "text": "5 mg",
+    "label": "Drug Dosage",
+    "start": 3856,
+    "end": 3860
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3861,
+    "end": 3869
+  },
+  {
+    "text": "nightly",
+    "label": "Frequency of Drug Intake",
+    "start": 3870,
+    "end": 3877
+  }
+]

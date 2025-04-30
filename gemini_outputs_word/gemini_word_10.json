@@ -1,0 +1,266 @@
+[
+  {
+    "text": "omeprazole",
+    "label": "Drug Name",
+    "start": 48,
+    "end": 49
+  },
+  {
+    "text": "mFOLFIRINOX",
+    "label": "Drug Name",
+    "start": 100,
+    "end": 101
+  },
+  {
+    "text": "acetaminophen (TYLENOL)",
+    "label": "Drug Name",
+    "start": 231,
+    "end": 233
+  },
+  {
+    "text": "500 mg",
+    "label": "Drug Strength",
+    "start": 234,
+    "end": 236
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 236,
+    "end": 237
+  },
+  {
+    "text": "Take 1,000 mg by mouth daily as needed for Pain",
+    "label": "Drug Dosage",
+    "start": 237,
+    "end": 246
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 240,
+    "end": 242
+  },
+  {
+    "text": "daily",
+    "label": "Frequency of Drug Intake",
+    "start": 242,
+    "end": 243
+  },
+  {
+    "text": "ibuprofen (ADVIL,MOTRIN)",
+    "label": "Drug Name",
+    "start": 247,
+    "end": 249
+  },
+  {
+    "text": "200 mg",
+    "label": "Drug Strength",
+    "start": 250,
+    "end": 252
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 252,
+    "end": 253
+  },
+  {
+    "text": "Take 200 mg by mouth daily as needed for Pain",
+    "label": "Drug Dosage",
+    "start": 253,
+    "end": 261
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 256,
+    "end": 258
+  },
+  {
+    "text": "daily",
+    "label": "Frequency of Drug Intake",
+    "start": 258,
+    "end": 259
+  },
+  {
+    "text": "lipase-protease-amylase",
+    "label": "Drug Name",
+    "start": 262,
+    "end": 263
+  },
+  {
+    "text": "Take 1 capsule by mouth 3 (three) times daily with meals",
+    "label": "Drug Dosage",
+    "start": 265,
+    "end": 276
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 268,
+    "end": 270
+  },
+  {
+    "text": "times daily",
+    "label": "Frequency of Drug Intake",
+    "start": 272,
+    "end": 274
+  },
+  {
+    "text": "metFORMIN (GLUCOPHAGE)",
+    "label": "Drug Name",
+    "start": 277,
+    "end": 279
+  },
+  {
+    "text": "500 mg",
+    "label": "Drug Strength",
+    "start": 280,
+    "end": 282
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 282,
+    "end": 283
+  },
+  {
+    "text": "Take 500 mg by mouth daily",
+    "label": "Drug Dosage",
+    "start": 283,
+    "end": 288
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 286,
+    "end": 288
+  },
+  {
+    "text": "daily",
+    "label": "Frequency of Drug Intake",
+    "start": 288,
+    "end": 289
+  },
+  {
+    "text": "ondansetron (ZOFRAN)",
+    "label": "Drug Name",
+    "start": 290,
+    "end": 292
+  },
+  {
+    "text": "8 mg",
+    "label": "Drug Strength",
+    "start": 293,
+    "end": 295
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 295,
+    "end": 296
+  },
+  {
+    "text": "Take 8 mg by mouth every 8 (eight) hours as needed for Nausea",
+    "label": "Drug Dosage",
+    "start": 296,
+    "end": 306
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 299,
+    "end": 301
+  },
+  {
+    "text": "every 8 (eight) hours",
+    "label": "Frequency of Drug Intake",
+    "start": 301,
+    "end": 305
+  },
+  {
+    "text": "simvastatin (ZOCOR)",
+    "label": "Drug Name",
+    "start": 307,
+    "end": 309
+  },
+  {
+    "text": "40 mg",
+    "label": "Drug Strength",
+    "start": 310,
+    "end": 312
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 312,
+    "end": 313
+  },
+  {
+    "text": "Take 40 mg by mouth daily",
+    "label": "Drug Dosage",
+    "start": 313,
+    "end": 318
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 316,
+    "end": 318
+  },
+  {
+    "text": "daily",
+    "label": "Frequency of Drug Intake",
+    "start": 318,
+    "end": 319
+  },
+  {
+    "text": "metformin",
+    "label": "Drug Name",
+    "start": 223,
+    "end": 224
+  },
+  {
+    "text": "5-FU",
+    "label": "Drug Name",
+    "start": 447,
+    "end": 448
+  },
+  {
+    "text": "leucovorin",
+    "label": "Drug Name",
+    "start": 449,
+    "end": 450
+  },
+  {
+    "text": "irinotecan",
+    "label": "Drug Name",
+    "start": 451,
+    "end": 452
+  },
+  {
+    "text": "oxaliplatin",
+    "label": "Drug Name",
+    "start": 454,
+    "end": 455
+  },
+  {
+    "text": "gemcitabine",
+    "label": "Drug Name",
+    "start": 458,
+    "end": 459
+  },
+  {
+    "text": "nab-paclitaxel",
+    "label": "Drug Name",
+    "start": 460,
+    "end": 461
+  },
+  {
+    "text": "biweekly",
+    "label": "Frequency of Drug Intake",
+    "start": 446,
+    "end": 447
+  }
+]

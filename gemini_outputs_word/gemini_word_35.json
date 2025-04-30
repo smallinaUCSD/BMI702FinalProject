@@ -1,0 +1,32 @@
+[
+  {
+    "text": "Hydrochlorothiazide",
+    "label": "Drug Name",
+    "start": 246,
+    "end": 247
+  },
+  {
+    "text": "potassium",
+    "label": "Drug Name",
+    "start": 248,
+    "end": 249
+  },
+  {
+    "text": "Exforge",
+    "label": "Drug Name",
+    "start": 250,
+    "end": 251
+  },
+  {
+    "text": "letrozole",
+    "label": "Drug Name",
+    "start": 390,
+    "end": 391
+  },
+  {
+    "text": "bevacizumab",
+    "label": "Drug Name",
+    "start": 393,
+    "end": 394
+  }
+]

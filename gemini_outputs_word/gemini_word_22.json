@@ -1,0 +1,170 @@
+[
+  {
+    "text": "oral contraceptives",
+    "label": "Drug Route of Administration",
+    "start": 140,
+    "end": 142
+  },
+  {
+    "text": "clotrimazole-betamethasone (LOTRISONE)",
+    "label": "Drug Name",
+    "start": 208,
+    "end": 211
+  },
+  {
+    "text": "1-0.05 %",
+    "label": "Drug Strength",
+    "start": 212,
+    "end": 214
+  },
+  {
+    "text": "cream",
+    "label": "Drug Form",
+    "start": 214,
+    "end": 215
+  },
+  {
+    "text": "2 (two) times a day",
+    "label": "Frequency of Drug Intake",
+    "start": 216,
+    "end": 221
+  },
+  {
+    "text": "ibuprofen (ADVIL,MOTRIN)",
+    "label": "Drug Name",
+    "start": 223,
+    "end": 226
+  },
+  {
+    "text": "800 mg",
+    "label": "Drug Dosage",
+    "start": 227,
+    "end": 229
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 229,
+    "end": 230
+  },
+  {
+    "text": "800 mg",
+    "label": "Drug Dosage",
+    "start": 232,
+    "end": 234
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 234,
+    "end": 236
+  },
+  {
+    "text": "omeprazole (PRILOSEC)",
+    "label": "Drug Name",
+    "start": 239,
+    "end": 241
+  },
+  {
+    "text": "20 mg",
+    "label": "Drug Dosage",
+    "start": 242,
+    "end": 244
+  },
+  {
+    "text": "capsule",
+    "label": "Drug Form",
+    "start": 244,
+    "end": 245
+  },
+  {
+    "text": "20 mg",
+    "label": "Drug Dosage",
+    "start": 247,
+    "end": 249
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 249,
+    "end": 251
+  },
+  {
+    "text": "triamterene-hydrochlorothiazide (DYAZIDE)",
+    "label": "Drug Name",
+    "start": 254,
+    "end": 256
+  },
+  {
+    "text": "37.5-25 mg",
+    "label": "Drug Strength",
+    "start": 257,
+    "end": 259
+  },
+  {
+    "text": "capsule",
+    "label": "Drug Form",
+    "start": 259,
+    "end": 260
+  },
+  {
+    "text": "1 capsule",
+    "label": "Drug Dosage",
+    "start": 262,
+    "end": 264
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 264,
+    "end": 266
+  },
+  {
+    "text": "Daily",
+    "label": "Frequency of Drug Intake",
+    "start": 267,
+    "end": 268
+  },
+  {
+    "text": "predniSONE (DELTASONE)",
+    "label": "Drug Name",
+    "start": 270,
+    "end": 272
+  },
+  {
+    "text": "5 mg",
+    "label": "Drug Dosage",
+    "start": 273,
+    "end": 275
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 275,
+    "end": 276
+  },
+  {
+    "text": "paclitaxel",
+    "label": "Drug Name",
+    "start": 428,
+    "end": 429
+  },
+  {
+    "text": "doxorubicin",
+    "label": "Drug Name",
+    "start": 433,
+    "end": 434
+  },
+  {
+    "text": "cyclophosphamide",
+    "label": "Drug Name",
+    "start": 435,
+    "end": 436
+  },
+  {
+    "text": "paclitaxel",
+    "label": "Drug Name",
+    "start": 444,
+    "end": 445
+  }
+]

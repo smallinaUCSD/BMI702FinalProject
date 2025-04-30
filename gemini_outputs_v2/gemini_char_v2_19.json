@@ -1,0 +1,200 @@
+[
+  {
+    "text": "Tylenol",
+    "label": "Drug Name",
+    "start": 395,
+    "end": 402
+  },
+  {
+    "text": "Percocet",
+    "label": "Drug Name",
+    "start": 411,
+    "end": 419
+  },
+  {
+    "text": "oxyCODONE-acetaminophen",
+    "label": "Drug Name",
+    "start": 631,
+    "end": 654
+  },
+  {
+    "text": "Percocet",
+    "label": "Drug Name",
+    "start": 656,
+    "end": 664
+  },
+  {
+    "text": "5-325 mg",
+    "label": "Drug Strength",
+    "start": 666,
+    "end": 674
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 675,
+    "end": 681
+  },
+  {
+    "text": "Take 2 tablets by mouth",
+    "label": "Drug Route of Administration",
+    "start": 682,
+    "end": 704
+  },
+  {
+    "text": "every 6 (six) hours",
+    "label": "Frequency of Drug Intake",
+    "start": 705,
+    "end": 723
+  },
+  {
+    "text": "if needed for severe pain",
+    "label": "Drug Dosage",
+    "start": 724,
+    "end": 748
+  },
+  {
+    "text": "up to 10 days",
+    "label": "Duration of Drug Intake",
+    "start": 749,
+    "end": 762
+  },
+  {
+    "text": "30 tablet",
+    "label": "Drug Dosage",
+    "start": 763,
+    "end": 772
+  },
+  {
+    "text": "valACYclovir",
+    "label": "Drug Name",
+    "start": 776,
+    "end": 787
+  },
+  {
+    "text": "Valtrex",
+    "label": "Drug Name",
+    "start": 789,
+    "end": 796
+  },
+  {
+    "text": "1 gram",
+    "label": "Drug Strength",
+    "start": 798,
+    "end": 804
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 805,
+    "end": 811
+  },
+  {
+    "text": "prn cold sores",
+    "label": "Drug Dosage",
+    "start": 812,
+    "end": 826
+  },
+  {
+    "text": "Lorazepam",
+    "label": "Drug Name",
+    "start": 829,
+    "end": 838
+  },
+  {
+    "text": "PRN",
+    "label": "Frequency of Drug Intake",
+    "start": 839,
+    "end": 842
+  },
+  {
+    "text": "metronidazole",
+    "label": "Drug Name",
+    "start": 254,
+    "end": 267
+  },
+  {
+    "text": "rifaximin",
+    "label": "Drug Name",
+    "start": 272,
+    "end": 281
+  },
+  {
+    "text": "5-FU",
+    "label": "Drug Name",
+    "start": 1427,
+    "end": 1431
+  },
+  {
+    "text": "leucovorin",
+    "label": "Drug Name",
+    "start": 1433,
+    "end": 1443
+  },
+  {
+    "text": "irinotecan",
+    "label": "Drug Name",
+    "start": 1445,
+    "end": 1455
+  },
+  {
+    "text": "oxaliplatin",
+    "label": "Drug Name",
+    "start": 1461,
+    "end": 1471
+  },
+  {
+    "text": "gemcitabine",
+    "label": "Drug Name",
+    "start": 1488,
+    "end": 1499
+  },
+  {
+    "text": "nab-paclitaxel",
+    "label": "Drug Name",
+    "start": 1505,
+    "end": 1519
+  },
+  {
+    "text": "gemcitabine",
+    "label": "Drug Name",
+    "start": 1696,
+    "end": 1707
+  },
+  {
+    "text": "nab-paclitaxel",
+    "label": "Drug Name",
+    "start": 1708,
+    "end": 1722
+  },
+  {
+    "text": "pamrevlumab",
+    "label": "Drug Name",
+    "start": 1728,
+    "end": 1739
+  },
+  {
+    "text": "gemcitabine",
+    "label": "Drug Name",
+    "start": 1817,
+    "end": 1828
+  },
+  {
+    "text": "nab-paclitaxel",
+    "label": "Drug Name",
+    "start": 1829,
+    "end": 1843
+  },
+  {
+    "text": "hydroxychloroquine",
+    "label": "Drug Name",
+    "start": 1855,
+    "end": 1873
+  },
+  {
+    "text": "ipilimumab",
+    "label": "Drug Name",
+    "start": 1899,
+    "end": 1909
+  }
+]

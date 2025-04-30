@@ -1,0 +1,266 @@
+[
+  {
+    "text": "oxycodone",
+    "label": "Drug Name",
+    "start": 455,
+    "end": 464
+  },
+  {
+    "text": "oxycodone",
+    "label": "Drug Name",
+    "start": 889,
+    "end": 898
+  },
+  {
+    "text": "Tylenol",
+    "label": "Drug Name",
+    "start": 868,
+    "end": 875
+  },
+  {
+    "text": "amLODIPine",
+    "label": "Drug Name",
+    "start": 1154,
+    "end": 1164
+  },
+  {
+    "text": "5 mg",
+    "label": "Drug Dosage",
+    "start": 1177,
+    "end": 1181
+  },
+  {
+    "text": "Oral",
+    "label": "Drug Route of Administration",
+    "start": 1183,
+    "end": 1187
+  },
+  {
+    "text": "Daily",
+    "label": "Frequency of Drug Intake",
+    "start": 1189,
+    "end": 1194
+  },
+  {
+    "text": "atorvastatin",
+    "label": "Drug Name",
+    "start": 1210,
+    "end": 1222
+  },
+  {
+    "text": "20 mg",
+    "label": "Drug Dosage",
+    "start": 1235,
+    "end": 1240
+  },
+  {
+    "text": "Oral",
+    "label": "Drug Route of Administration",
+    "start": 1242,
+    "end": 1246
+  },
+  {
+    "text": "Daily",
+    "label": "Frequency of Drug Intake",
+    "start": 1248,
+    "end": 1253
+  },
+  {
+    "text": "famotidine",
+    "label": "Drug Name",
+    "start": 1269,
+    "end": 1279
+  },
+  {
+    "text": "20 mg",
+    "label": "Drug Dosage",
+    "start": 1292,
+    "end": 1297
+  },
+  {
+    "text": "Oral",
+    "label": "Drug Route of Administration",
+    "start": 1299,
+    "end": 1303
+  },
+  {
+    "text": "2 Times Daily",
+    "label": "Frequency of Drug Intake",
+    "start": 1305,
+    "end": 1318
+  },
+  {
+    "text": "losartan",
+    "label": "Drug Name",
+    "start": 1334,
+    "end": 1342
+  },
+  {
+    "text": "50 mg",
+    "label": "Drug Dosage",
+    "start": 1355,
+    "end": 1360
+  },
+  {
+    "text": "Oral",
+    "label": "Drug Route of Administration",
+    "start": 1362,
+    "end": 1366
+  },
+  {
+    "text": "Daily",
+    "label": "Frequency of Drug Intake",
+    "start": 1368,
+    "end": 1373
+  },
+  {
+    "text": "metFORMIN",
+    "label": "Drug Name",
+    "start": 1389,
+    "end": 1398
+  },
+  {
+    "text": "500 mg",
+    "label": "Drug Dosage",
+    "start": 1413,
+    "end": 1419
+  },
+  {
+    "text": "Oral",
+    "label": "Drug Route of Administration",
+    "start": 1421,
+    "end": 1425
+  },
+  {
+    "text": "Daily",
+    "label": "Frequency of Drug Intake",
+    "start": 1427,
+    "end": 1432
+  },
+  {
+    "text": "OYSTER SHELL CALCIUM-VIT D3",
+    "label": "Drug Name",
+    "start": 1450,
+    "end": 1477
+  },
+  {
+    "text": "500 mg",
+    "label": "Drug Dosage",
+    "start": 1478,
+    "end": 1484
+  },
+  {
+    "text": "1 tablet",
+    "label": "Drug Dosage",
+    "start": 1529,
+    "end": 1537
+  },
+  {
+    "text": "Oral",
+    "label": "Drug Route of Administration",
+    "start": 1539,
+    "end": 1543
+  },
+  {
+    "text": "2 times daily",
+    "label": "Frequency of Drug Intake",
+    "start": 1545,
+    "end": 1558
+  },
+  {
+    "text": "polyethylene glycol",
+    "label": "Drug Name",
+    "start": 1574,
+    "end": 1593
+  },
+  {
+    "text": "17 g",
+    "label": "Drug Dosage",
+    "start": 1607,
+    "end": 1611
+  },
+  {
+    "text": "Oral",
+    "label": "Drug Route of Administration",
+    "start": 1613,
+    "end": 1617
+  },
+  {
+    "text": "Daily",
+    "label": "Frequency of Drug Intake",
+    "start": 1619,
+    "end": 1624
+  },
+  {
+    "text": "gemcitabine",
+    "label": "Drug Name",
+    "start": 3219,
+    "end": 3230
+  },
+  {
+    "text": "nab-paclitaxel",
+    "label": "Drug Name",
+    "start": 3235,
+    "end": 3249
+  },
+  {
+    "text": "gemcitabine",
+    "label": "Drug Name",
+    "start": 3360,
+    "end": 3371
+  },
+  {
+    "text": "nab-paclitaxel",
+    "label": "Drug Name",
+    "start": 3372,
+    "end": 3386
+  },
+  {
+    "text": "gemcitabine",
+    "label": "Drug Name",
+    "start": 3471,
+    "end": 3482
+  },
+  {
+    "text": "nab-paclitaxel",
+    "label": "Drug Name",
+    "start": 3483,
+    "end": 3497
+  },
+  {
+    "text": "gemcitabine",
+    "label": "Drug Name",
+    "start": 3594,
+    "end": 3605
+  },
+  {
+    "text": "nab-paclitaxel",
+    "label": "Drug Name",
+    "start": 3606,
+    "end": 3620
+  },
+  {
+    "text": "hydroxychloroquine",
+    "label": "Drug Name",
+    "start": 3627,
+    "end": 3644
+  },
+  {
+    "text": "ipilimumab",
+    "label": "Drug Name",
+    "start": 3689,
+    "end": 3699
+  },
+  {
+    "text": "gemcitabine",
+    "label": "Drug Name",
+    "start": 3828,
+    "end": 3839
+  },
+  {
+    "text": "nab-paclitaxel",
+    "label": "Drug Name",
+    "start": 3840,
+    "end": 3854
+  }
+]

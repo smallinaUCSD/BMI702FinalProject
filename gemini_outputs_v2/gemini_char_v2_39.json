@@ -1,0 +1,26 @@
+[
+  {
+    "text": "docetaxel and carboplatin",
+    "label": "Drug Name",
+    "start": 5223,
+    "end": 5247
+  },
+  {
+    "text": "Pertuzumab",
+    "label": "Drug Name",
+    "start": 5279,
+    "end": 5289
+  },
+  {
+    "text": "Trastuzumab",
+    "label": "Drug Name",
+    "start": 5294,
+    "end": 5305
+  },
+  {
+    "text": "1 year",
+    "label": "Duration of Drug Intake",
+    "start": 5323,
+    "end": 5329
+  }
+]

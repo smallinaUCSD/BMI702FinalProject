@@ -1,0 +1,50 @@
+[
+  {
+    "text": "gemcitabine",
+    "label": "Drug Name",
+    "start": 398,
+    "end": 409
+  },
+  {
+    "text": "Abraxane",
+    "label": "Drug Name",
+    "start": 414,
+    "end": 422
+  },
+  {
+    "text": "oxycodone",
+    "label": "Drug Name",
+    "start": 641,
+    "end": 650
+  },
+  {
+    "text": "150 cc",
+    "label": "Drug Dosage",
+    "start": 1614,
+    "end": 1620
+  },
+  {
+    "text": "Omnipaque",
+    "label": "Drug Name",
+    "start": 1624,
+    "end": 1633
+  },
+  {
+    "text": "350",
+    "label": "Drug Strength",
+    "start": 1634,
+    "end": 1637
+  },
+  {
+    "text": "oral",
+    "label": "Drug Route of Administration",
+    "start": 1690,
+    "end": 1694
+  },
+  {
+    "text": "rectal",
+    "label": "Drug Route of Administration",
+    "start": 1699,
+    "end": 1705
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "text": "modified FOLFIRINOX",
+    "label": "Drug Name",
+    "start": 1177,
+    "end": 1196
+  },
+  {
+    "text": "12 cycles",
+    "label": "Duration of Drug Intake",
+    "start": 1200,
+    "end": 1208
+  }
+]

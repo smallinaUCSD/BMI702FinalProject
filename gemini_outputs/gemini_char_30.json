@@ -1,0 +1,356 @@
+[
+  {
+    "text": "amLODIPine",
+    "label": "Drug Name",
+    "start": 2428,
+    "end": 2438
+  },
+  {
+    "text": "5 mg",
+    "label": "Drug Dosage",
+    "start": 2449,
+    "end": 2453
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 2454,
+    "end": 2460
+  },
+  {
+    "text": "5 mg",
+    "label": "Drug Strength",
+    "start": 2469,
+    "end": 2473
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 2474,
+    "end": 2480
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 2481,
+    "end": 2489
+  },
+  {
+    "text": "Daily",
+    "label": "Frequency of Drug Intake",
+    "start": 2490,
+    "end": 2495
+  },
+  {
+    "text": "gabapentin",
+    "label": "Drug Name",
+    "start": 2530,
+    "end": 2540
+  },
+  {
+    "text": "300 mg",
+    "label": "Drug Dosage",
+    "start": 2542,
+    "end": 2548
+  },
+  {
+    "text": "capsule",
+    "label": "Drug Form",
+    "start": 2549,
+    "end": 2556
+  },
+  {
+    "text": "300 mg",
+    "label": "Drug Strength",
+    "start": 2565,
+    "end": 2571
+  },
+  {
+    "text": "capsule",
+    "label": "Drug Form",
+    "start": 2572,
+    "end": 2579
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 2580,
+    "end": 2588
+  },
+  {
+    "text": "3 (three) times daily",
+    "label": "Frequency of Drug Intake",
+    "start": 2589,
+    "end": 2610
+  },
+  {
+    "text": "acetaminophen",
+    "label": "Drug Name",
+    "start": 2650,
+    "end": 2663
+  },
+  {
+    "text": "500 mg",
+    "label": "Drug Dosage",
+    "start": 2665,
+    "end": 2671
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 2672,
+    "end": 2678
+  },
+  {
+    "text": "500 mg",
+    "label": "Drug Strength",
+    "start": 2687,
+    "end": 2693
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 2694,
+    "end": 2700
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 2701,
+    "end": 2709
+  },
+  {
+    "text": "every 6 (six) hours",
+    "label": "Frequency of Drug Intake",
+    "start": 2710,
+    "end": 2729
+  },
+  {
+    "text": "cetirizine",
+    "label": "Drug Name",
+    "start": 2808,
+    "end": 2818
+  },
+  {
+    "text": "10 mg",
+    "label": "Drug Dosage",
+    "start": 2829,
+    "end": 2834
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 2835,
+    "end": 2841
+  },
+  {
+    "text": "10 mg",
+    "label": "Drug Strength",
+    "start": 2850,
+    "end": 2855
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 2856,
+    "end": 2862
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 2863,
+    "end": 2871
+  },
+  {
+    "text": "Daily",
+    "label": "Frequency of Drug Intake",
+    "start": 2872,
+    "end": 2877
+  },
+  {
+    "text": "cyclobenzaprine",
+    "label": "Drug Name",
+    "start": 2912,
+    "end": 2927
+  },
+  {
+    "text": "5 mg",
+    "label": "Drug Dosage",
+    "start": 2939,
+    "end": 2943
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 2944,
+    "end": 2950
+  },
+  {
+    "text": "BY MOUTH",
+    "label": "Drug Route of Administration",
+    "start": 2959,
+    "end": 2967
+  },
+  {
+    "text": "EVERY 8 HOURS",
+    "label": "Frequency of Drug Intake",
+    "start": 2968,
+    "end": 2982
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 2999,
+    "end": 3005
+  },
+  {
+    "text": "ferrous sulfate",
+    "label": "Drug Name",
+    "start": 3040,
+    "end": 3055
+  },
+  {
+    "text": "325 mg",
+    "label": "Drug Dosage",
+    "start": 3056,
+    "end": 3062
+  },
+  {
+    "text": "65 mg elemental",
+    "label": "Drug Strength",
+    "start": 3064,
+    "end": 3080
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3081,
+    "end": 3087
+  },
+  {
+    "text": "325 mg",
+    "label": "Drug Strength",
+    "start": 3096,
+    "end": 3102
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3103,
+    "end": 3109
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3110,
+    "end": 3118
+  },
+  {
+    "text": "daily",
+    "label": "Frequency of Drug Intake",
+    "start": 3119,
+    "end": 3124
+  },
+  {
+    "text": "heating pads",
+    "label": "Drug Name",
+    "start": 3165,
+    "end": 3177
+  },
+  {
+    "text": "Misc.(Non-Drug; Combo Route)",
+    "label": "Drug Route of Administration",
+    "start": 3199,
+    "end": 3228
+  },
+  {
+    "text": "3 (three) times daily",
+    "label": "Frequency of Drug Intake",
+    "start": 3229,
+    "end": 3250
+  },
+  {
+    "text": "lidocaine",
+    "label": "Drug Name",
+    "start": 3290,
+    "end": 3299
+  },
+  {
+    "text": "5 %",
+    "label": "Drug Strength",
+    "start": 3313,
+    "end": 3316
+  },
+  {
+    "text": "ointment",
+    "label": "Drug Form",
+    "start": 3317,
+    "end": 3325
+  },
+  {
+    "text": "Apply thin layer (dime-sized amount) to right lower back once or twice daily as needed for pain",
+    "label": "Drug Route of Administration",
+    "start": 3326,
+    "end": 3411
+  },
+  {
+    "text": "lidocaine",
+    "label": "Drug Name",
+    "start": 3290,
+    "end": 3299
+  },
+  {
+    "text": "naproxen",
+    "label": "Drug Name",
+    "start": 3456,
+    "end": 3464
+  },
+  {
+    "text": "500 mg",
+    "label": "Drug Dosage",
+    "start": 3476,
+    "end": 3482
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3483,
+    "end": 3489
+  },
+  {
+    "text": "BY MOUTH",
+    "label": "Drug Route of Administration",
+    "start": 3498,
+    "end": 3506
+  },
+  {
+    "text": "TWICE DAILY",
+    "label": "Frequency of Drug Intake",
+    "start": 3507,
+    "end": 3519
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3533,
+    "end": 3539
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 4565,
+    "end": 4574
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 4776,
+    "end": 4785
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 4917,
+    "end": 4926
+  }
+]

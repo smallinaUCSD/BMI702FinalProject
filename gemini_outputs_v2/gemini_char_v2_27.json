@@ -1,0 +1,308 @@
+[
+  {
+    "text": "acetaminophen (TYLENOL)",
+    "label": "Drug Name",
+    "start": 3091,
+    "end": 3113
+  },
+  {
+    "text": "325 mg",
+    "label": "Drug Strength",
+    "start": 3114,
+    "end": 3120
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3121,
+    "end": 3127
+  },
+  {
+    "text": "Take 2 tablets (650 mg total) by mouth every 4 (four) hours as needed for Pain or temp > 38.5 C",
+    "label": "Frequency of Drug Intake",
+    "start": 3128,
+    "end": 3219
+  },
+  {
+    "text": "acetaminophen (TYLENOL)",
+    "label": "Drug Name",
+    "start": 3228,
+    "end": 3250
+  },
+  {
+    "text": "500 mg",
+    "label": "Drug Strength",
+    "start": 3251,
+    "end": 3257
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3258,
+    "end": 3264
+  },
+  {
+    "text": "Take 1 tablet (500 mg total) by mouth every 6 (six) hours as needed for Pain",
+    "label": "Frequency of Drug Intake",
+    "start": 3265,
+    "end": 3336
+  },
+  {
+    "text": "ascorbic acid (VITAMIN C)",
+    "label": "Drug Name",
+    "start": 3345,
+    "end": 3370
+  },
+  {
+    "text": "500 mg",
+    "label": "Drug Strength",
+    "start": 3371,
+    "end": 3377
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3378,
+    "end": 3384
+  },
+  {
+    "text": "Take 500 mg by mouth every other day",
+    "label": "Frequency of Drug Intake",
+    "start": 3385,
+    "end": 3422
+  },
+  {
+    "text": "atenolol (TENORMIN)",
+    "label": "Drug Name",
+    "start": 3431,
+    "end": 3449
+  },
+  {
+    "text": "25 mg",
+    "label": "Drug Strength",
+    "start": 3450,
+    "end": 3455
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3456,
+    "end": 3462
+  },
+  {
+    "text": "Take 25 mg by mouth every morning",
+    "label": "Frequency of Drug Intake",
+    "start": 3463,
+    "end": 3497
+  },
+  {
+    "text": "docusate sodium (COLACE)",
+    "label": "Drug Name",
+    "start": 3506,
+    "end": 3529
+  },
+  {
+    "text": "100 mg",
+    "label": "Drug Strength",
+    "start": 3530,
+    "end": 3536
+  },
+  {
+    "text": "capsule",
+    "label": "Drug Form",
+    "start": 3537,
+    "end": 3544
+  },
+  {
+    "text": "Take 1 capsule (100 mg total) by mouth Twice a day",
+    "label": "Frequency of Drug Intake",
+    "start": 3545,
+    "end": 3597
+  },
+  {
+    "text": "gabapentin (NEURONTIN)",
+    "label": "Drug Name",
+    "start": 3606,
+    "end": 3626
+  },
+  {
+    "text": "300 mg",
+    "label": "Drug Strength",
+    "start": 3627,
+    "end": 3633
+  },
+  {
+    "text": "capsule",
+    "label": "Drug Form",
+    "start": 3634,
+    "end": 3641
+  },
+  {
+    "text": "Take 1 capsule (300 mg total) by mouth 3 (three) times daily",
+    "label": "Frequency of Drug Intake",
+    "start": 3642,
+    "end": 3704
+  },
+  {
+    "text": "ibuprofen (ADVIL,MOTRIN)",
+    "label": "Drug Name",
+    "start": 3713,
+    "end": 3736
+  },
+  {
+    "text": "600 mg",
+    "label": "Drug Strength",
+    "start": 3737,
+    "end": 3743
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3744,
+    "end": 3750
+  },
+  {
+    "text": "Take 1 tablet (600 mg total) by mouth every 6 (six) hours as needed for Pain or temp > 38.5 C",
+    "label": "Frequency of Drug Intake",
+    "start": 3751,
+    "end": 3842
+  },
+  {
+    "text": "multivitamin",
+    "label": "Drug Name",
+    "start": 3851,
+    "end": 3863
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3864,
+    "end": 3870
+  },
+  {
+    "text": "Take 1 tablet by mouth Daily",
+    "label": "Frequency of Drug Intake",
+    "start": 3871,
+    "end": 3899
+  },
+  {
+    "text": "omeprazole (PRILOSEC)",
+    "label": "Drug Name",
+    "start": 3910,
+    "end": 3929
+  },
+  {
+    "text": "20 mg",
+    "label": "Drug Strength",
+    "start": 3930,
+    "end": 3935
+  },
+  {
+    "text": "capsule",
+    "label": "Drug Form",
+    "start": 3936,
+    "end": 3943
+  },
+  {
+    "text": "Take 20 mg by mouth every morning",
+    "label": "Frequency of Drug Intake",
+    "start": 3944,
+    "end": 3978
+  },
+  {
+    "text": "simvastatin (ZOCOR)",
+    "label": "Drug Name",
+    "start": 3987,
+    "end": 4005
+  },
+  {
+    "text": "20 mg",
+    "label": "Drug Strength",
+    "start": 4006,
+    "end": 4011
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 4012,
+    "end": 4018
+  },
+  {
+    "text": "Take 20 mg by mouth nightly at bedtime",
+    "label": "Frequency of Drug Intake",
+    "start": 4019,
+    "end": 4056
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3158,
+    "end": 3166
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3295,
+    "end": 3303
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3395,
+    "end": 3403
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3473,
+    "end": 3481
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3565,
+    "end": 3573
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3660,
+    "end": 3668
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3781,
+    "end": 3789
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3882,
+    "end": 3890
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3954,
+    "end": 3962
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 4029,
+    "end": 4037
+  },
+  {
+    "text": "paclitaxel",
+    "label": "Drug Name",
+    "start": 5921,
+    "end": 5931
+  },
+  {
+    "text": "paclitaxel",
+    "label": "Drug Name",
+    "start": 6085,
+    "end": 6095
+  }
+]

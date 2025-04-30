@@ -1,0 +1,92 @@
+[
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 690,
+    "end": 699
+  },
+  {
+    "text": "letrozole",
+    "label": "Drug Name",
+    "start": 2508,
+    "end": 2517
+  },
+  {
+    "text": "alendronate",
+    "label": "Drug Name",
+    "start": 2523,
+    "end": 2534
+  },
+  {
+    "text": "zoledronic acid",
+    "label": "Drug Name",
+    "start": 2633,
+    "end": 2648
+  },
+  {
+    "text": "letrozole",
+    "label": "Drug Name",
+    "start": 2691,
+    "end": 2700
+  },
+  {
+    "text": "bevacizumab",
+    "label": "Drug Name",
+    "start": 2709,
+    "end": 2720
+  },
+  {
+    "text": "placebo",
+    "label": "Drug Name",
+    "start": 2724,
+    "end": 2731
+  },
+  {
+    "text": "aromatase inhibitor",
+    "label": "Drug Name",
+    "start": 2989,
+    "end": 3008
+  },
+  {
+    "text": "zoledronic acid",
+    "label": "Drug Name",
+    "start": 3224,
+    "end": 3239
+  },
+  {
+    "text": "aromatase inhibitor",
+    "label": "Drug Name",
+    "start": 3270,
+    "end": 3289
+  },
+  {
+    "text": "placebo",
+    "label": "Drug Name",
+    "start": 3298,
+    "end": 3305
+  },
+  {
+    "text": "bevacizumab",
+    "label": "Drug Name",
+    "start": 3309,
+    "end": 3320
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 2449,
+    "end": 2458
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 690,
+    "end": 699
+  },
+  {
+    "text": "from 1994 to\n1996",
+    "label": "Duration of Drug Intake",
+    "start": 700,
+    "end": 713
+  }
+]

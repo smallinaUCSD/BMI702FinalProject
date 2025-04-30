@@ -1,0 +1,368 @@
+[
+  {
+    "text": "cholecalciferol",
+    "label": "Drug Name",
+    "start": 2912,
+    "end": 2927
+  },
+  {
+    "text": "vitamin D3",
+    "label": "Drug Name",
+    "start": 2930,
+    "end": 2939
+  },
+  {
+    "text": "VITAMIN D3 ORAL",
+    "label": "Drug Name",
+    "start": 2942,
+    "end": 2957
+  },
+  {
+    "text": "Take by mouth",
+    "label": "Drug Route of Administration",
+    "start": 2959,
+    "end": 2972
+  },
+  {
+    "text": "multivitamin tablet",
+    "label": "Drug Name",
+    "start": 2998,
+    "end": 3017
+  },
+  {
+    "text": "1 tablet",
+    "label": "Drug Dosage",
+    "start": 3024,
+    "end": 3032
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3033,
+    "end": 3042
+  },
+  {
+    "text": "Daily",
+    "label": "Frequency of Drug Intake",
+    "start": 3043,
+    "end": 3048
+  },
+  {
+    "text": "SYNTHROID",
+    "label": "Drug Name",
+    "start": 3074,
+    "end": 3083
+  },
+  {
+    "text": "112 mcg",
+    "label": "Drug Dosage",
+    "start": 3084,
+    "end": 3091
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3092,
+    "end": 3098
+  },
+  {
+    "text": "Take 112 mcg",
+    "label": "Drug Dosage",
+    "start": 3100,
+    "end": 3111
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3112,
+    "end": 3121
+  },
+  {
+    "text": "Daily",
+    "label": "Frequency of Drug Intake",
+    "start": 3122,
+    "end": 3127
+  },
+  {
+    "text": "acetaminophen",
+    "label": "Drug Name",
+    "start": 3153,
+    "end": 3166
+  },
+  {
+    "text": "TYLENOL",
+    "label": "Drug Name",
+    "start": 3168,
+    "end": 3175
+  },
+  {
+    "text": "500 mg",
+    "label": "Drug Strength",
+    "start": 3177,
+    "end": 3183
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3184,
+    "end": 3190
+  },
+  {
+    "text": "Take 2 tablets",
+    "label": "Drug Dosage",
+    "start": 3192,
+    "end": 3207
+  },
+  {
+    "text": "1,000 mg",
+    "label": "Drug Dosage",
+    "start": 3209,
+    "end": 3216
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3224,
+    "end": 3233
+  },
+  {
+    "text": "every 8 (eight) hours",
+    "label": "Frequency of Drug Intake",
+    "start": 3234,
+    "end": 3256
+  },
+  {
+    "text": "docusate sodium",
+    "label": "Drug Name",
+    "start": 3344,
+    "end": 3359
+  },
+  {
+    "text": "COLACE",
+    "label": "Drug Name",
+    "start": 3361,
+    "end": 3367
+  },
+  {
+    "text": "100 mg",
+    "label": "Drug Strength",
+    "start": 3369,
+    "end": 3375
+  },
+  {
+    "text": "capsule",
+    "label": "Drug Form",
+    "start": 3376,
+    "end": 3383
+  },
+  {
+    "text": "Take 1 capsule",
+    "label": "Drug Dosage",
+    "start": 3385,
+    "end": 3399
+  },
+  {
+    "text": "100 mg",
+    "label": "Drug Dosage",
+    "start": 3401,
+    "end": 3407
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3415,
+    "end": 3424
+  },
+  {
+    "text": "Twice a day",
+    "label": "Frequency of Drug Intake",
+    "start": 3425,
+    "end": 3436
+  },
+  {
+    "text": "HYDROcodone-acetaminophen",
+    "label": "Drug Name",
+    "start": 3526,
+    "end": 3552
+  },
+  {
+    "text": "NORCO",
+    "label": "Drug Name",
+    "start": 3554,
+    "end": 3559
+  },
+  {
+    "text": "5-325 mg",
+    "label": "Drug Strength",
+    "start": 3561,
+    "end": 3569
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3570,
+    "end": 3576
+  },
+  {
+    "text": "Take 1 tablet",
+    "label": "Drug Dosage",
+    "start": 3578,
+    "end": 3592
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3593,
+    "end": 3602
+  },
+  {
+    "text": "every 4 (four) hours",
+    "label": "Frequency of Drug Intake",
+    "start": 3603,
+    "end": 3624
+  },
+  {
+    "text": "ibuprofen",
+    "label": "Drug Name",
+    "start": 3695,
+    "end": 3704
+  },
+  {
+    "text": "ADVIL",
+    "label": "Drug Name",
+    "start": 3706,
+    "end": 3711
+  },
+  {
+    "text": "MOTRIN",
+    "label": "Drug Name",
+    "start": 3713,
+    "end": 3719
+  },
+  {
+    "text": "600 mg",
+    "label": "Drug Strength",
+    "start": 3721,
+    "end": 3727
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3728,
+    "end": 3734
+  },
+  {
+    "text": "Take 1 tablet",
+    "label": "Drug Dosage",
+    "start": 3736,
+    "end": 3750
+  },
+  {
+    "text": "600 mg",
+    "label": "Drug Dosage",
+    "start": 3752,
+    "end": 3758
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3766,
+    "end": 3775
+  },
+  {
+    "text": "every 8 (eight) hours",
+    "label": "Frequency of Drug Intake",
+    "start": 3776,
+    "end": 3798
+  },
+  {
+    "text": "LORazepam",
+    "label": "Drug Name",
+    "start": 3871,
+    "end": 3880
+  },
+  {
+    "text": "ATIVAN",
+    "label": "Drug Name",
+    "start": 3882,
+    "end": 3888
+  },
+  {
+    "text": "0.5 mg",
+    "label": "Drug Strength",
+    "start": 3890,
+    "end": 3896
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3897,
+    "end": 3903
+  },
+  {
+    "text": "Take 0.5 mg",
+    "label": "Drug Dosage",
+    "start": 3905,
+    "end": 3916
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3917,
+    "end": 3926
+  },
+  {
+    "text": "every 6 (six) hours",
+    "label": "Frequency of Drug Intake",
+    "start": 3927,
+    "end": 3946
+  },
+  {
+    "text": "oxyCODONE",
+    "label": "Drug Name",
+    "start": 3997,
+    "end": 4006
+  },
+  {
+    "text": "ROXICODONE",
+    "label": "Drug Name",
+    "start": 4008,
+    "end": 4018
+  },
+  {
+    "text": "5 mg",
+    "label": "Drug Strength",
+    "start": 4020,
+    "end": 4024
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 4025,
+    "end": 4031
+  },
+  {
+    "text": "Take 1-2 tablets",
+    "label": "Drug Dosage",
+    "start": 4033,
+    "end": 4049
+  },
+  {
+    "text": "5-10 mg",
+    "label": "Drug Dosage",
+    "start": 4051,
+    "end": 4058
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 4066,
+    "end": 4075
+  },
+  {
+    "text": "every 6 (six) hours",
+    "label": "Frequency of Drug Intake",
+    "start": 4076,
+    "end": 4095
+  }
+]

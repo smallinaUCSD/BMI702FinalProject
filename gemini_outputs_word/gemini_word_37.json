@@ -1,0 +1,164 @@
+[
+  {
+    "text": "ALPRAZolam (XANAX)",
+    "label": "Drug Name",
+    "start": 212,
+    "end": 214
+  },
+  {
+    "text": "0.25 mg",
+    "label": "Drug Dosage",
+    "start": 214,
+    "end": 216
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 216,
+    "end": 217
+  },
+  {
+    "text": "ibuprofen (ADVIL)",
+    "label": "Drug Name",
+    "start": 222,
+    "end": 224
+  },
+  {
+    "text": "200 mg",
+    "label": "Drug Dosage",
+    "start": 224,
+    "end": 226
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 226,
+    "end": 227
+  },
+  {
+    "text": "200 mg",
+    "label": "Drug Strength",
+    "start": 224,
+    "end": 226
+  },
+  {
+    "text": "Take 200 mg by mouth",
+    "label": "Drug Route of Administration",
+    "start": 227,
+    "end": 231
+  },
+  {
+    "text": "every 6 (six) hours",
+    "label": "Frequency of Drug Intake",
+    "start": 231,
+    "end": 235
+  },
+  {
+    "text": "trazodone HCl (TRAZODONE ORAL)",
+    "label": "Drug Name",
+    "start": 239,
+    "end": 242
+  },
+  {
+    "text": "0.5",
+    "label": "Drug Dosage",
+    "start": 244,
+    "end": 245
+  },
+  {
+    "text": "tablets",
+    "label": "Drug Form",
+    "start": 245,
+    "end": 246
+  },
+  {
+    "text": "Take 0.5 tablets by mouth",
+    "label": "Drug Route of Administration",
+    "start": 243,
+    "end": 248
+  },
+  {
+    "text": "Depo-Provera",
+    "label": "Drug Name",
+    "start": 263,
+    "end": 264
+  },
+  {
+    "text": "oral contraceptives",
+    "label": "Drug Name",
+    "start": 265,
+    "end": 267
+  },
+  {
+    "text": "Taxotere",
+    "label": "Drug Name",
+    "start": 353,
+    "end": 354
+  },
+  {
+    "text": "Cytoxan",
+    "label": "Drug Name",
+    "start": 355,
+    "end": 356
+  },
+  {
+    "text": "AC-Taxol",
+    "label": "Drug Name",
+    "start": 359,
+    "end": 360
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 395,
+    "end": 396
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 399,
+    "end": 400
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 402,
+    "end": 403
+  },
+  {
+    "text": "exemestane",
+    "label": "Drug Name",
+    "start": 404,
+    "end": 405
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 411,
+    "end": 412
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 414,
+    "end": 415
+  },
+  {
+    "text": "exemestane",
+    "label": "Drug Name",
+    "start": 418,
+    "end": 419
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 421,
+    "end": 422
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 470,
+    "end": 471
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "text": "Tylenol",
+    "label": "Drug Name",
+    "start": 499,
+    "end": 506
+  },
+  {
+    "text": "Percocet",
+    "label": "Drug Name",
+    "start": 515,
+    "end": 523
+  },
+  {
+    "text": "oxyCODONE-acetaminophen",
+    "label": "Drug Name",
+    "start": 786,
+    "end": 810
+  },
+  {
+    "text": "Percocet",
+    "label": "Drug Name",
+    "start": 812,
+    "end": 820
+  },
+  {
+    "text": "5-325 mg",
+    "label": "Drug Strength",
+    "start": 821,
+    "end": 829
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 830,
+    "end": 836
+  },
+  {
+    "text": "Take 2 tablets by mouth every 6 (six) hours",
+    "label": "Frequency of Drug Intake",
+    "start": 837,
+    "end": 875
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 852,
+    "end": 860
+  },
+  {
+    "text": "10 days",
+    "label": "Duration of Drug Intake",
+    "start": 898,
+    "end": 905
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 909,
+    "end": 915
+  },
+  {
+    "text": "valACYclovir",
+    "label": "Drug Name",
+    "start": 918,
+    "end": 929
+  },
+  {
+    "text": "Valtrex",
+    "label": "Drug Name",
+    "start": 931,
+    "end": 938
+  },
+  {
+    "text": "1 gram",
+    "label": "Drug Dosage",
+    "start": 939,
+    "end": 945
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 946,
+    "end": 952
+  },
+  {
+    "text": "Lorazepam",
+    "label": "Drug Name",
+    "start": 957,
+    "end": 966
+  },
+  {
+    "text": "5-FU",
+    "label": "Drug Name",
+    "start": 2411,
+    "end": 2415
+  },
+  {
+    "text": "leucovorin",
+    "label": "Drug Name",
+    "start": 2417,
+    "end": 2427
+  },
+  {
+    "text": "irinotecan",
+    "label": "Drug Name",
+    "start": 2429,
+    "end": 2439
+  },
+  {
+    "text": "oxaliplatin",
+    "label": "Drug Name",
+    "start": 2445,
+    "end": 2455
+  },
+  {
+    "text": "gemcitabine",
+    "label": "Drug Name",
+    "start": 2471,
+    "end": 2482
+  },
+  {
+    "text": "nab-paclitaxel",
+    "label": "Drug Name",
+    "start": 2488,
+    "end": 2502
+  },
+  {
+    "text": "gemcitabine",
+    "label": "Drug Name",
+    "start": 2693,
+    "end": 2704
+  },
+  {
+    "text": "nab-paclitaxel",
+    "label": "Drug Name",
+    "start": 2705,
+    "end": 2719
+  },
+  {
+    "text": "gemcitabine",
+    "label": "Drug Name",
+    "start": 2790,
+    "end": 2801
+  },
+  {
+    "text": "nab-paclitaxel",
+    "label": "Drug Name",
+    "start": 2802,
+    "end": 2816
+  },
+  {
+    "text": "hydroxychloroquine",
+    "label": "Drug Name",
+    "start": 2829,
+    "end": 2846
+  },
+  {
+    "text": "ipilimumab",
+    "label": "Drug Name",
+    "start": 2884,
+    "end": 2894
+  }
+]

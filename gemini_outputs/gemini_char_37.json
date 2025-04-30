@@ -1,0 +1,140 @@
+[
+  {
+    "text": "ALPRAZolam (XANAX)",
+    "label": "Drug Name",
+    "start": 1910,
+    "end": 1929
+  },
+  {
+    "text": "0.25 mg",
+    "label": "Drug Dosage",
+    "start": 1930,
+    "end": 1936
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 1937,
+    "end": 1943
+  },
+  {
+    "text": "ibuprofen (ADVIL)",
+    "label": "Drug Name",
+    "start": 1972,
+    "end": 1989
+  },
+  {
+    "text": "200 mg",
+    "label": "Drug Dosage",
+    "start": 1990,
+    "end": 1996
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 1997,
+    "end": 2003
+  },
+  {
+    "text": "200 mg",
+    "label": "Drug Dosage",
+    "start": 2009,
+    "end": 2015
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 2016,
+    "end": 2024
+  },
+  {
+    "text": "every 6 (six) hours",
+    "label": "Frequency of Drug Intake",
+    "start": 2025,
+    "end": 2044
+  },
+  {
+    "text": "trazodone HCl (TRAZODONE ORAL)",
+    "label": "Drug Name",
+    "start": 2073,
+    "end": 2104
+  },
+  {
+    "text": "0.5",
+    "label": "Drug Dosage",
+    "start": 2115,
+    "end": 2118
+  },
+  {
+    "text": "tablets",
+    "label": "Drug Form",
+    "start": 2119,
+    "end": 2126
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 2127,
+    "end": 2135
+  },
+  {
+    "text": "Taxotere",
+    "label": "Drug Name",
+    "start": 4107,
+    "end": 4115
+  },
+  {
+    "text": "Cytoxan",
+    "label": "Drug Name",
+    "start": 4120,
+    "end": 4128
+  },
+  {
+    "text": "AC-Taxol",
+    "label": "Drug Name",
+    "start": 4152,
+    "end": 4160
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 4522,
+    "end": 4531
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 4566,
+    "end": 4575
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 4582,
+    "end": 4591
+  },
+  {
+    "text": "exemestane",
+    "label": "Drug Name",
+    "start": 4597,
+    "end": 4607
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 4676,
+    "end": 4685
+  },
+  {
+    "text": "exemestane",
+    "label": "Drug Name",
+    "start": 4691,
+    "end": 4701
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 4752,
+    "end": 4761
+  }
+]

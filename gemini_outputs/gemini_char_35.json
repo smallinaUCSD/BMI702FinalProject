@@ -1,0 +1,38 @@
+[
+  {
+    "text": "Hydrochlorothiazide",
+    "label": "Drug Name",
+    "start": 1919,
+    "end": 1937
+  },
+  {
+    "text": "potassium",
+    "label": "Drug Name",
+    "start": 1940,
+    "end": 1949
+  },
+  {
+    "text": "Exforge",
+    "label": "Drug Name",
+    "start": 1954,
+    "end": 1961
+  },
+  {
+    "text": "erythromycin",
+    "label": "Drug Name",
+    "start": 2017,
+    "end": 2029
+  },
+  {
+    "text": "letrozole",
+    "label": "Drug Name",
+    "start": 2707,
+    "end": 2716
+  },
+  {
+    "text": "bevacizumab",
+    "label": "Drug Name",
+    "start": 2723,
+    "end": 2734
+  }
+]

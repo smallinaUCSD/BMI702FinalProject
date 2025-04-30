@@ -1,0 +1,356 @@
+[
+  {
+    "text": "FOLFIRINOX",
+    "label": "Drug Name",
+    "start": 179,
+    "end": 189
+  },
+  {
+    "text": "gemcitabine",
+    "label": "Drug Name",
+    "start": 316,
+    "end": 327
+  },
+  {
+    "text": "Abraxane",
+    "label": "Drug Name",
+    "start": 332,
+    "end": 340
+  },
+  {
+    "text": "MiraLAX",
+    "label": "Drug Name",
+    "start": 805,
+    "end": 812
+  },
+  {
+    "text": "buPROPion",
+    "label": "Drug Name",
+    "start": 943,
+    "end": 952
+  },
+  {
+    "text": "WELLBUTRIN SR",
+    "label": "Drug Name",
+    "start": 954,
+    "end": 968
+  },
+  {
+    "text": "100 mg",
+    "label": "Drug Dosage",
+    "start": 970,
+    "end": 976
+  },
+  {
+    "text": "12 hr",
+    "label": "Frequency of Drug Intake",
+    "start": 977,
+    "end": 982
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 983,
+    "end": 989
+  },
+  {
+    "text": "100 mg",
+    "label": "Drug Dosage",
+    "start": 995,
+    "end": 1001
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 1002,
+    "end": 1010
+  },
+  {
+    "text": "daily",
+    "label": "Frequency of Drug Intake",
+    "start": 1011,
+    "end": 1016
+  },
+  {
+    "text": "estradiol",
+    "label": "Drug Name",
+    "start": 1023,
+    "end": 1032
+  },
+  {
+    "text": "0.05 mg/24 hr",
+    "label": "Drug Strength",
+    "start": 1033,
+    "end": 1046
+  },
+  {
+    "text": "estradiol",
+    "label": "Drug Name",
+    "start": 1047,
+    "end": 1056
+  },
+  {
+    "text": "0.05 mg/24 hr",
+    "label": "Drug Strength",
+    "start": 1057,
+    "end": 1070
+  },
+  {
+    "text": "LORazepam",
+    "label": "Drug Name",
+    "start": 1118,
+    "end": 1127
+  },
+  {
+    "text": "ATIVAN",
+    "label": "Drug Name",
+    "start": 1129,
+    "end": 1135
+  },
+  {
+    "text": "1 mg",
+    "label": "Drug Dosage",
+    "start": 1137,
+    "end": 1141
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 1142,
+    "end": 1148
+  },
+  {
+    "text": "1 mg",
+    "label": "Drug Dosage",
+    "start": 1154,
+    "end": 1158
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 1159,
+    "end": 1167
+  },
+  {
+    "text": "every 8 (eight) hours",
+    "label": "Frequency of Drug Intake",
+    "start": 1168,
+    "end": 1189
+  },
+  {
+    "text": "ondansetron",
+    "label": "Drug Name",
+    "start": 1238,
+    "end": 1249
+  },
+  {
+    "text": "ZOFRAN",
+    "label": "Drug Name",
+    "start": 1251,
+    "end": 1257
+  },
+  {
+    "text": "8 mg",
+    "label": "Drug Dosage",
+    "start": 1259,
+    "end": 1263
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 1264,
+    "end": 1270
+  },
+  {
+    "text": "1 tablet",
+    "label": "Drug Dosage",
+    "start": 1276,
+    "end": 1284
+  },
+  {
+    "text": "three times a day",
+    "label": "Frequency of Drug Intake",
+    "start": 1285,
+    "end": 1302
+  },
+  {
+    "text": "palonosetron",
+    "label": "Drug Name",
+    "start": 1353,
+    "end": 1365
+  },
+  {
+    "text": "Aloxi",
+    "label": "Drug Name",
+    "start": 1367,
+    "end": 1372
+  },
+  {
+    "text": "pantoprazole",
+    "label": "Drug Name",
+    "start": 1382,
+    "end": 1394
+  },
+  {
+    "text": "PROTONIX",
+    "label": "Drug Name",
+    "start": 1396,
+    "end": 1404
+  },
+  {
+    "text": "40 mg",
+    "label": "Drug Dosage",
+    "start": 1406,
+    "end": 1411
+  },
+  {
+    "text": "EC tablet",
+    "label": "Drug Form",
+    "start": 1412,
+    "end": 1421
+  },
+  {
+    "text": "1 tablet",
+    "label": "Drug Dosage",
+    "start": 1427,
+    "end": 1435
+  },
+  {
+    "text": "40 mg",
+    "label": "Drug Dosage",
+    "start": 1437,
+    "end": 1442
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 1449,
+    "end": 1457
+  },
+  {
+    "text": "daily",
+    "label": "Frequency of Drug Intake",
+    "start": 1458,
+    "end": 1463
+  },
+  {
+    "text": "PRISTIQ",
+    "label": "Drug Name",
+    "start": 1481,
+    "end": 1488
+  },
+  {
+    "text": "100 mg",
+    "label": "Drug Dosage",
+    "start": 1489,
+    "end": 1495
+  },
+  {
+    "text": "24 hr tablet",
+    "label": "Drug Form",
+    "start": 1496,
+    "end": 1507
+  },
+  {
+    "text": "100 mg",
+    "label": "Drug Dosage",
+    "start": 1513,
+    "end": 1519
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 1520,
+    "end": 1528
+  },
+  {
+    "text": "daily",
+    "label": "Frequency of Drug Intake",
+    "start": 1529,
+    "end": 1534
+  },
+  {
+    "text": "progesterone",
+    "label": "Drug Name",
+    "start": 1548,
+    "end": 1560
+  },
+  {
+    "text": "PROMETRIUM",
+    "label": "Drug Name",
+    "start": 1562,
+    "end": 1573
+  },
+  {
+    "text": "100 mg",
+    "label": "Drug Dosage",
+    "start": 1575,
+    "end": 1581
+  },
+  {
+    "text": "capsule",
+    "label": "Drug Form",
+    "start": 1582,
+    "end": 1589
+  },
+  {
+    "text": "BY MOUTH",
+    "label": "Drug Route of Administration",
+    "start": 1599,
+    "end": 1607
+  },
+  {
+    "text": "DAILY",
+    "label": "Frequency of Drug Intake",
+    "start": 1608,
+    "end": 1613
+  },
+  {
+    "text": "Omnipaque",
+    "label": "Drug Name",
+    "start": 1881,
+    "end": 1890
+  },
+  {
+    "text": "500 mL",
+    "label": "Drug Dosage",
+    "start": 1893,
+    "end": 1899
+  },
+  {
+    "text": "Oral",
+    "label": "Drug Route of Administration",
+    "start": 1902,
+    "end": 1906
+  },
+  {
+    "text": "Omnipaque",
+    "label": "Drug Name",
+    "start": 1907,
+    "end": 1916
+  },
+  {
+    "text": "500 mL",
+    "label": "Drug Dosage",
+    "start": 1919,
+    "end": 1925
+  },
+  {
+    "text": "Oral",
+    "label": "Drug Route of Administration",
+    "start": 1928,
+    "end": 1932
+  },
+  {
+    "text": "Iohexol 350",
+    "label": "Drug Name",
+    "start": 1933,
+    "end": 1944
+  },
+  {
+    "text": "150 mL",
+    "label": "Drug Dosage",
+    "start": 1947,
+    "end": 1953
+  }
+]

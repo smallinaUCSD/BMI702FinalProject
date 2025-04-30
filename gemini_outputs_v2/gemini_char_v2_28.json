@@ -1,0 +1,206 @@
+[
+  {
+    "text": "leuprolide",
+    "label": "Drug Name",
+    "start": 315,
+    "end": 325
+  },
+  {
+    "text": "exemestane",
+    "label": "Drug Name",
+    "start": 331,
+    "end": 341
+  },
+  {
+    "text": "leuprolide",
+    "label": "Drug Name",
+    "start": 356,
+    "end": 366
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 372,
+    "end": 381
+  },
+  {
+    "text": "Lupron",
+    "label": "Drug Name",
+    "start": 1703,
+    "end": 1709
+  },
+  {
+    "text": "Lupron",
+    "label": "Drug Name",
+    "start": 1792,
+    "end": 1798
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 1825,
+    "end": 1834
+  },
+  {
+    "text": "exemestane",
+    "label": "Drug Name",
+    "start": 1839,
+    "end": 1849
+  },
+  {
+    "text": "gapabentin",
+    "label": "Drug Name",
+    "start": 1989,
+    "end": 1999
+  },
+  {
+    "text": "Lupron",
+    "label": "Drug Name",
+    "start": 2080,
+    "end": 2086
+  },
+  {
+    "text": "Lupron",
+    "label": "Drug Name",
+    "start": 2098,
+    "end": 2104
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 2130,
+    "end": 2139
+  },
+  {
+    "text": "exemestane",
+    "label": "Drug Name",
+    "start": 2144,
+    "end": 2154
+  },
+  {
+    "text": "gabapentin",
+    "label": "Drug Name",
+    "start": 3422,
+    "end": 3432
+  },
+  {
+    "text": "hydroCHLOROthiazide",
+    "label": "Drug Name",
+    "start": 3476,
+    "end": 3496
+  },
+  {
+    "text": "polymyxin b-trimethoprim",
+    "label": "Drug Name",
+    "start": 3533,
+    "end": 3558
+  },
+  {
+    "text": "iohexol",
+    "label": "Drug Name",
+    "start": 3612,
+    "end": 3618
+  },
+  {
+    "text": "ddAC",
+    "label": "Drug Name",
+    "start": 283,
+    "end": 287
+  },
+  {
+    "text": "4 week",
+    "label": "Duration of Drug Intake",
+    "start": 1710,
+    "end": 1716
+  },
+  {
+    "text": "1-2 years",
+    "label": "Duration of Drug Intake",
+    "start": 386,
+    "end": 395
+  },
+  {
+    "text": "1-2 years",
+    "label": "Duration of Drug Intake",
+    "start": 1719,
+    "end": 1728
+  },
+  {
+    "text": "3 cycles",
+    "label": "Duration of Drug Intake",
+    "start": 294,
+    "end": 302
+  },
+  {
+    "text": "3 cycles",
+    "label": "Duration of Drug Intake",
+    "start": 687,
+    "end": 695
+  },
+  {
+    "text": "300 mg",
+    "label": "Drug Dosage",
+    "start": 3433,
+    "end": 3439
+  },
+  {
+    "text": "25 mg",
+    "label": "Drug Dosage",
+    "start": 3497,
+    "end": 3502
+  },
+  {
+    "text": "25 mg",
+    "label": "Drug Dosage",
+    "start": 3517,
+    "end": 3522
+  },
+  {
+    "text": "350 mg",
+    "label": "Drug Dosage",
+    "start": 3627,
+    "end": 3633
+  },
+  {
+    "text": "capsule",
+    "label": "Drug Form",
+    "start": 3440,
+    "end": 3447
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3503,
+    "end": 3509
+  },
+  {
+    "text": "ophthalmic solution",
+    "label": "Drug Form",
+    "start": 3559,
+    "end": 3578
+  },
+  {
+    "text": "solution",
+    "label": "Drug Form",
+    "start": 3634,
+    "end": 3642
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3523,
+    "end": 3531
+  },
+  {
+    "text": "as needed (~2x a week)",
+    "label": "Frequency of Drug Intake",
+    "start": 2034,
+    "end": 2058
+  },
+  {
+    "text": "350 mg iodine/mL",
+    "label": "Drug Strength",
+    "start": 3627,
+    "end": 3642
+  }
+]

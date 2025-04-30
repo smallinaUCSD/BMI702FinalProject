@@ -1,0 +1,260 @@
+[
+  {
+    "text": "cholecalciferol",
+    "label": "Drug Name",
+    "start": 2935,
+    "end": 2950
+  },
+  {
+    "text": "vitamin D3",
+    "label": "Drug Name",
+    "start": 2952,
+    "end": 2962
+  },
+  {
+    "text": "VITAMIN D3 ORAL",
+    "label": "Drug Name",
+    "start": 2965,
+    "end": 2981
+  },
+  {
+    "text": "Take by mouth.",
+    "label": "Drug Route of Administration",
+    "start": 2983,
+    "end": 2997
+  },
+  {
+    "text": "multivitamin tablet",
+    "label": "Drug Name",
+    "start": 3021,
+    "end": 3040
+  },
+  {
+    "text": "Take 1 tablet by mouth Daily.",
+    "label": "Frequency of Drug Intake",
+    "start": 3042,
+    "end": 3070
+  },
+  {
+    "text": "SYNTHROID",
+    "label": "Drug Name",
+    "start": 3100,
+    "end": 3109
+  },
+  {
+    "text": "112 mcg",
+    "label": "Drug Dosage",
+    "start": 3110,
+    "end": 3117
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3118,
+    "end": 3124
+  },
+  {
+    "text": "112 mcg",
+    "label": "Drug Strength",
+    "start": 3110,
+    "end": 3117
+  },
+  {
+    "text": "Take 112 mcg by mouth Daily.",
+    "label": "Frequency of Drug Intake",
+    "start": 3126,
+    "end": 3154
+  },
+  {
+    "text": "acetaminophen",
+    "label": "Drug Name",
+    "start": 3184,
+    "end": 3197
+  },
+  {
+    "text": "TYLENOL",
+    "label": "Drug Name",
+    "start": 3199,
+    "end": 3206
+  },
+  {
+    "text": "500 mg",
+    "label": "Drug Strength",
+    "start": 3208,
+    "end": 3214
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3215,
+    "end": 3221
+  },
+  {
+    "text": "Take 2 tablets (1,000 mg total) by mouth every 8 (eight) hours as needed for Pain.",
+    "label": "Frequency of Drug Intake",
+    "start": 3223,
+    "end": 3300
+  },
+  {
+    "text": "docusate sodium",
+    "label": "Drug Name",
+    "start": 3384,
+    "end": 3399
+  },
+  {
+    "text": "COLACE",
+    "label": "Drug Name",
+    "start": 3401,
+    "end": 3407
+  },
+  {
+    "text": "100 mg",
+    "label": "Drug Strength",
+    "start": 3409,
+    "end": 3415
+  },
+  {
+    "text": "capsule",
+    "label": "Drug Form",
+    "start": 3416,
+    "end": 3423
+  },
+  {
+    "text": "Take 1 capsule (100 mg total) by mouth Twice a day.",
+    "label": "Frequency of Drug Intake",
+    "start": 3425,
+    "end": 3481
+  },
+  {
+    "text": "oxycodone",
+    "label": "Drug Name",
+    "start": 3494,
+    "end": 3503
+  },
+  {
+    "text": "HYDROcodone-acetaminophen",
+    "label": "Drug Name",
+    "start": 3559,
+    "end": 3585
+  },
+  {
+    "text": "NORCO",
+    "label": "Drug Name",
+    "start": 3587,
+    "end": 3592
+  },
+  {
+    "text": "5-325 mg",
+    "label": "Drug Strength",
+    "start": 3594,
+    "end": 3602
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3603,
+    "end": 3609
+  },
+  {
+    "text": "Take 1 tablet by mouth every 4 (four) hours as needed for Pain.",
+    "label": "Frequency of Drug Intake",
+    "start": 3611,
+    "end": 3674
+  },
+  {
+    "text": "ibuprofen",
+    "label": "Drug Name",
+    "start": 3741,
+    "end": 3750
+  },
+  {
+    "text": "ADVIL",
+    "label": "Drug Name",
+    "start": 3752,
+    "end": 3757
+  },
+  {
+    "text": "MOTRIN",
+    "label": "Drug Name",
+    "start": 3758,
+    "end": 3764
+  },
+  {
+    "text": "600 mg",
+    "label": "Drug Strength",
+    "start": 3766,
+    "end": 3772
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3773,
+    "end": 3779
+  },
+  {
+    "text": "Take 1 tablet (600 mg total) by mouth every 8 (eight) hours as needed for Pain.",
+    "label": "Frequency of Drug Intake",
+    "start": 3781,
+    "end": 3858
+  },
+  {
+    "text": "LORazepam",
+    "label": "Drug Name",
+    "start": 3930,
+    "end": 3939
+  },
+  {
+    "text": "ATIVAN",
+    "label": "Drug Name",
+    "start": 3941,
+    "end": 3947
+  },
+  {
+    "text": "0.5 mg",
+    "label": "Drug Strength",
+    "start": 3949,
+    "end": 3955
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3956,
+    "end": 3962
+  },
+  {
+    "text": "Take 0.5 mg by mouth every 6 (six) hours as needed for Anxiety.",
+    "label": "Frequency of Drug Intake",
+    "start": 3964,
+    "end": 4020
+  },
+  {
+    "text": "oxyCODONE",
+    "label": "Drug Name",
+    "start": 4063,
+    "end": 4072
+  },
+  {
+    "text": "ROXICODONE",
+    "label": "Drug Name",
+    "start": 4074,
+    "end": 4084
+  },
+  {
+    "text": "5 mg",
+    "label": "Drug Strength",
+    "start": 4086,
+    "end": 4090
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 4091,
+    "end": 4097
+  },
+  {
+    "text": "Take 1-2 tablets (5-10 mg total) by mouth every 6 (six) hours as needed for Pain.",
+    "label": "Frequency of Drug Intake",
+    "start": 4099,
+    "end": 4170
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 114,
+    "end": 123
+  },
+  {
+    "text": "letrozole",
+    "label": "Drug Name",
+    "start": 183,
+    "end": 192
+  },
+  {
+    "text": "exemestane",
+    "label": "Drug Name",
+    "start": 196,
+    "end": 206
+  },
+  {
+    "text": "letrozole",
+    "label": "Drug Name",
+    "start": 243,
+    "end": 252
+  },
+  {
+    "text": "exemestane",
+    "label": "Drug Name",
+    "start": 269,
+    "end": 279
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 1825,
+    "end": 1834
+  },
+  {
+    "text": "letrozole",
+    "label": "Drug Name",
+    "start": 1867,
+    "end": 1876
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 1938,
+    "end": 1947
+  },
+  {
+    "text": "letrozole",
+    "label": "Drug Name",
+    "start": 1982,
+    "end": 1991
+  },
+  {
+    "text": "exemestane",
+    "label": "Drug Name",
+    "start": 2005,
+    "end": 2015
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 2119,
+    "end": 2128
+  },
+  {
+    "text": "letrozole",
+    "label": "Drug Name",
+    "start": 2178,
+    "end": 2187
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 2224,
+    "end": 2233
+  },
+  {
+    "text": "letrozole",
+    "label": "Drug Name",
+    "start": 2263,
+    "end": 2272
+  },
+  {
+    "text": "exemestane",
+    "label": "Drug Name",
+    "start": 2286,
+    "end": 2296
+  },
+  {
+    "text": "exemestane",
+    "label": "Drug Name",
+    "start": 2369,
+    "end": 2379
+  },
+  {
+    "text": "25mg",
+    "label": "Drug Strength",
+    "start": 2380,
+    "end": 2384
+  },
+  {
+    "text": "daily",
+    "label": "Frequency of Drug Intake",
+    "start": 2385,
+    "end": 2390
+  },
+  {
+    "text": "amoxicillin",
+    "label": "Drug Name",
+    "start": 4473,
+    "end": 4484
+  },
+  {
+    "text": "875 mg",
+    "label": "Drug Strength",
+    "start": 4495,
+    "end": 4501
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 4502,
+    "end": 4508
+  },
+  {
+    "text": "TAKE 1 TABLET BY MOUTH TWICE A DAY",
+    "label": "Frequency of Drug Intake",
+    "start": 4509,
+    "end": 4542
+  },
+  {
+    "text": "amoxicillin-clavulanate",
+    "label": "Drug Name",
+    "start": 4560,
+    "end": 4583
+  },
+  {
+    "text": "875-125 mg",
+    "label": "Drug Strength",
+    "start": 4584,
+    "end": 4594
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 4595,
+    "end": 4601
+  },
+  {
+    "text": "Take by mouth",
+    "label": "Drug Route of Administration",
+    "start": 4602,
+    "end": 4616
+  },
+  {
+    "text": "benzonatate",
+    "label": "Drug Name",
+    "start": 4624,
+    "end": 4635
+  },
+  {
+    "text": "200 mg",
+    "label": "Drug Strength",
+    "start": 4647,
+    "end": 4653
+  },
+  {
+    "text": "capsule",
+    "label": "Drug Form",
+    "start": 4654,
+    "end": 4661
+  },
+  {
+    "text": "Take 200 mg by mouth",
+    "label": "Drug Route of Administration",
+    "start": 4662,
+    "end": 4683
+  },
+  {
+    "text": "buPROPion",
+    "label": "Drug Name",
+    "start": 4691,
+    "end": 4700
+  },
+  {
+    "text": "150 mg",
+    "label": "Drug Strength",
+    "start": 4715,
+    "end": 4721
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 4729,
+    "end": 4735
+  },
+  {
+    "text": "Take 150 mg by mouth",
+    "label": "Drug Route of Administration",
+    "start": 4736,
+    "end": 4757
+  },
+  {
+    "text": "doxycycline",
+    "label": "Drug Name",
+    "start": 4765,
+    "end": 4776
+  },
+  {
+    "text": "100 mg",
+    "label": "Drug Strength",
+    "start": 4789,
+    "end": 4795
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 4796,
+    "end": 4802
+  },
+  {
+    "text": "TAKE 1 TABLET BY MOUTH TWICE A DAY",
+    "label": "Frequency of Drug Intake",
+    "start": 4803,
+    "end": 4836
+  },
+  {
+    "text": "10 DAYS",
+    "label": "Duration of Drug Intake",
+    "start": 4841,
+    "end": 4847
+  },
+  {
+    "text": "exemestane",
+    "label": "Drug Name",
+    "start": 4855,
+    "end": 4865
+  },
+  {
+    "text": "25 mg",
+    "label": "Drug Strength",
+    "start": 4877,
+    "end": 4882
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 4883,
+    "end": 4889
+  },
+  {
+    "text": "TAKE 1 TABLET BY MOUTH EVERY DAY",
+    "label": "Frequency of Drug Intake",
+    "start": 4890,
+    "end": 4921
+  },
+  {
+    "text": "30 DAYS",
+    "label": "Duration of Drug Intake",
+    "start": 4926,
+    "end": 4933
+  },
+  {
+    "text": "HYDROcodone-acetaminophen",
+    "label": "Drug Name",
+    "start": 4941,
+    "end": 4967
+  },
+  {
+    "text": "5-325 mg",
+    "label": "Drug Strength",
+    "start": 4975,
+    "end": 4983
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 4984,
+    "end": 4990
+  },
+  {
+    "text": "TAKE 1 TO 2 TABS BY MOUTH EVERY 6 HOURS",
+    "label": "Frequency of Drug Intake",
+    "start": 4991,
+    "end": 5028
+  },
+  {
+    "text": "IBU",
+    "label": "Drug Name",
+    "start": 5055,
+    "end": 5058
+  },
+  {
+    "text": "800 mg",
+    "label": "Drug Strength",
+    "start": 5059,
+    "end": 5065
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 5066,
+    "end": 5072
+  },
+  {
+    "text": "TAKE 1 TABLET BY MOUTH EVERY 8 HOURS",
+    "label": "Frequency of Drug Intake",
+    "start": 5073,
+    "end": 5108
+  },
+  {
+    "text": "metroNIDAZOLE",
+    "label": "Drug Name",
+    "start": 5135,
+    "end": 5148
+  },
+  {
+    "text": "0.75 %",
+    "label": "Drug Strength",
+    "start": 5159,
+    "end": 5165
+  },
+  {
+    "text": "gel",
+    "label": "Drug Form",
+    "start": 5166,
+    "end": 5169
+  },
+  {
+    "text": "Apply thin film to affected area BID",
+    "label": "Frequency of Drug Intake",
+    "start": 5170,
+    "end": 5205
+  },
+  {
+    "text": "ondansetron",
+    "label": "Drug Name",
+    "start": 5213,
+    "end": 5224
+  },
+  {
+    "text": "4 mg",
+    "label": "Drug Strength",
+    "start": 5237,
+    "end": 5241
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 5256,
+    "end": 5262
+  },
+  {
+    "text": "DISSOLVE 1 TAB ON THE TONGUE EVERY 6 HOURS",
+    "label": "Frequency of Drug Intake",
+    "start": 5263,
+    "end": 5305
+  }
+]

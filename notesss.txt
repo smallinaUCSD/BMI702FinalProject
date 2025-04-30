@@ -1,0 +1,59 @@
+training_data = [
+  {"text_input": "note 1", "output": "drug A: [[Dose, Unit, Route, Form]],
+                                      drug B: [[Dose, Unit, Route, Form],
+                                               [Dose, Unit, Route, Form]],
+                                       ....        ....
+                                       drug N: [[Dose, Unit, Route, Form]"},
+  ....
+  {"text_input": "note 100", "output": "drug W: [[Dose, Unit, Route, Form]]}
+]
+
+23. Digoxin 125 mcg Tablet Sig: 0.5 Tablet PO DAILY (Daily).  
+24. Torsemide 20 mg Tablet Sig: Three (3) Tablet PO once a day.  
+
+25. Warfarin 1 mg Tablet Sig: Three (3) Tablet PO Once Daily at 
+4 ___.  
+...
+Please note the following changes to your medications: 
+please stop taking lasix, and ativan (as it may over 
+sedate you); please begin taking torsemide 60mg once 
+a day, metoprolol 100mg three times a day, digoxin 
+0.0625mg daily, coumadin 3mg daily, levofloxacin 500mg 
+once a day for 2 more days. 
+
+
+[{'DRUG': 'Digoxin'},
+ {'STRENGTH': '125 mcg'},
+ {'FORM': 'Tablet'},
+ {'DOSAGE': '0.5'},
+ {'FORM': 'Tablet'},
+ {'ROUTE': 'PO'},
+ {'FREQUENCY': 'DAILY (Daily)'},
+ {'DRUG': 'Torsemide'},
+ . . .
+ {'DRUG': 'digoxin'},
+ {'STRENGTH': '0.0625mg'},
+ {'FREQUENCY': 'daily'},
+ . . .
+ ]
+
+
+  “Drug”: [prescribed dose, dosage unit, route, medication form],
+
+{
+  “Digoxin”: [0.0625, mg, PO, Tablet],
+  “Torsemide”: [60, mg, PO, Tablet],
+  “Warfarin”: [3, mg, PO, Tablet]
+}
+
+
+drug A: [[Dose, Unit, Route, Form]],
+drug B: [[Dose, Unit, Route, Form],
+         [Dose, Unit, Route, Form]],
+....        ....
+drug N: [[Dose, Unit, Route, Form]
+
+
+
+
+[drug A, drug B, . . . ., drug N]

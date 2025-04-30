@@ -1,0 +1,242 @@
+[
+  {
+    "text": "ergocalciferol, vitamin D2, (ERGOCALCIFEROL)",
+    "label": "Drug Name",
+    "start": 2960,
+    "end": 3002
+  },
+  {
+    "text": "50,000 unit",
+    "label": "Drug Dosage",
+    "start": 3003,
+    "end": 3014
+  },
+  {
+    "text": "capsule",
+    "label": "Drug Form",
+    "start": 3015,
+    "end": 3022
+  },
+  {
+    "text": "metFORMIN (GLUCOPHAGE)",
+    "label": "Drug Name",
+    "start": 3031,
+    "end": 3053
+  },
+  {
+    "text": "500 mg",
+    "label": "Drug Dosage",
+    "start": 3054,
+    "end": 3060
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3061,
+    "end": 3067
+  },
+  {
+    "text": "omega-3 fatty acids-fish oil",
+    "label": "Drug Name",
+    "start": 3076,
+    "end": 3103
+  },
+  {
+    "text": "300-1,000 mg",
+    "label": "Drug Dosage",
+    "start": 3104,
+    "end": 3116
+  },
+  {
+    "text": "capsule",
+    "label": "Drug Form",
+    "start": 3117,
+    "end": 3124
+  },
+  {
+    "text": "GAVILYTE-G",
+    "label": "Drug Name",
+    "start": 3133,
+    "end": 3143
+  },
+  {
+    "text": "236-22.74-6.74 -5.86 gram",
+    "label": "Drug Dosage",
+    "start": 3144,
+    "end": 3167
+  },
+  {
+    "text": "solution",
+    "label": "Drug Form",
+    "start": 3168,
+    "end": 3176
+  },
+  {
+    "text": "JOLIVETTE",
+    "label": "Drug Name",
+    "start": 3185,
+    "end": 3194
+  },
+  {
+    "text": "0.35 mg",
+    "label": "Drug Dosage",
+    "start": 3195,
+    "end": 3202
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3203,
+    "end": 3209
+  },
+  {
+    "text": "ondansetron (ZOFRAN)",
+    "label": "Drug Name",
+    "start": 3218,
+    "end": 3238
+  },
+  {
+    "text": "8 mg",
+    "label": "Drug Dosage",
+    "start": 3239,
+    "end": 3243
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3244,
+    "end": 3250
+  },
+  {
+    "text": "ondansetron (ZOFRAN)",
+    "label": "Drug Name",
+    "start": 3299,
+    "end": 3319
+  },
+  {
+    "text": "8 mg",
+    "label": "Drug Dosage",
+    "start": 3320,
+    "end": 3324
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3325,
+    "end": 3331
+  },
+  {
+    "text": "prednisoLONE acetate (PRED FORTE)",
+    "label": "Drug Name",
+    "start": 3340,
+    "end": 3374
+  },
+  {
+    "text": "1 %",
+    "label": "Drug Strength",
+    "start": 3375,
+    "end": 3378
+  },
+  {
+    "text": "ophthalmic suspension",
+    "label": "Drug Form",
+    "start": 3379,
+    "end": 3399
+  },
+  {
+    "text": "PROLENSA",
+    "label": "Drug Name",
+    "start": 3408,
+    "end": 3416
+  },
+  {
+    "text": "0.07 %",
+    "label": "Drug Strength",
+    "start": 3417,
+    "end": 3423
+  },
+  {
+    "text": "DROPSOLN",
+    "label": "Drug Form",
+    "start": 3424,
+    "end": 3432
+  },
+  {
+    "text": "VIGAMOX",
+    "label": "Drug Name",
+    "start": 3441,
+    "end": 3448
+  },
+  {
+    "text": "0.5 %",
+    "label": "Drug Strength",
+    "start": 3449,
+    "end": 3454
+  },
+  {
+    "text": "ophthalmic solution",
+    "label": "Drug Form",
+    "start": 3455,
+    "end": 3475
+  },
+  {
+    "text": "weekly paclitaxel",
+    "label": "Frequency of Drug Intake",
+    "start": 4453,
+    "end": 4470
+  },
+  {
+    "text": "q3wk",
+    "label": "Frequency of Drug Intake",
+    "start": 4472,
+    "end": 4476
+  },
+  {
+    "text": "trastuzumab",
+    "label": "Drug Name",
+    "start": 4477,
+    "end": 4488
+  },
+  {
+    "text": "q3wk",
+    "label": "Frequency of Drug Intake",
+    "start": 4490,
+    "end": 4494
+  },
+  {
+    "text": "pertuzumab",
+    "label": "Drug Name",
+    "start": 4495,
+    "end": 4505
+  },
+  {
+    "text": "weekly paclitaxel",
+    "label": "Frequency of Drug Intake",
+    "start": 4636,
+    "end": 4653
+  },
+  {
+    "text": "q3wk",
+    "label": "Frequency of Drug Intake",
+    "start": 4655,
+    "end": 4659
+  },
+  {
+    "text": "trastuzumab",
+    "label": "Drug Name",
+    "start": 4660,
+    "end": 4671
+  },
+  {
+    "text": "q3wk",
+    "label": "Frequency of Drug Intake",
+    "start": 4673,
+    "end": 4677
+  },
+  {
+    "text": "pertuzumab",
+    "label": "Drug Name",
+    "start": 4678,
+    "end": 4688
+  }
+]

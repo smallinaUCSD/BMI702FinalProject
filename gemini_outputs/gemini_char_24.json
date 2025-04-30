@@ -1,0 +1,98 @@
+[
+  {
+    "text": "TC",
+    "label": "Drug Name",
+    "start": 1600,
+    "end": 1602
+  },
+  {
+    "text": "chemotherapy",
+    "label": "Drug Name",
+    "start": 2618,
+    "end": 2630
+  },
+  {
+    "text": "TC x 4 cycles",
+    "label": "Drug Name",
+    "start": 2689,
+    "end": 2702
+  },
+  {
+    "text": "4 cycles",
+    "label": "Duration of Drug Intake",
+    "start": 2694,
+    "end": 2702
+  },
+  {
+    "text": "chemotherapy",
+    "label": "Drug Name",
+    "start": 2707,
+    "end": 2719
+  },
+  {
+    "text": "chemotherapy",
+    "label": "Drug Name",
+    "start": 2799,
+    "end": 2811
+  },
+  {
+    "text": "chemotherapy",
+    "label": "Drug Name",
+    "start": 2975,
+    "end": 2987
+  },
+  {
+    "text": "AI",
+    "label": "Drug Name",
+    "start": 3184,
+    "end": 3186
+  },
+  {
+    "text": "5 years",
+    "label": "Duration of Drug Intake",
+    "start": 3188,
+    "end": 3195
+  },
+  {
+    "text": "chemotherapy",
+    "label": "Drug Name",
+    "start": 3209,
+    "end": 3221
+  },
+  {
+    "text": "calcium",
+    "label": "Drug Name",
+    "start": 3297,
+    "end": 3303
+  },
+  {
+    "text": "vitamin D",
+    "label": "Drug Name",
+    "start": 3308,
+    "end": 3316
+  },
+  {
+    "text": "docetaxel/cyclophosphamide x 4 cycles",
+    "label": "Drug Name",
+    "start": 3354,
+    "end": 3390
+  },
+  {
+    "text": "4 cycles",
+    "label": "Duration of Drug Intake",
+    "start": 3383,
+    "end": 3390
+  },
+  {
+    "text": "AI therapy for at least 5 years",
+    "label": "Drug Name",
+    "start": 3399,
+    "end": 3430
+  },
+  {
+    "text": "5 years",
+    "label": "Duration of Drug Intake",
+    "start": 3423,
+    "end": 3430
+  }
+]

@@ -1,0 +1,260 @@
+[
+  {
+    "text": "omeprazole",
+    "label": "Drug Name",
+    "start": 528,
+    "end": 538
+  },
+  {
+    "text": "acetaminophen (TYLENOL)",
+    "label": "Drug Name",
+    "start": 2723,
+    "end": 2746
+  },
+  {
+    "text": "500 mg",
+    "label": "Drug Strength",
+    "start": 2747,
+    "end": 2753
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 2754,
+    "end": 2760
+  },
+  {
+    "text": "1,000 mg",
+    "label": "Drug Dosage",
+    "start": 2769,
+    "end": 2776
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 2777,
+    "end": 2785
+  },
+  {
+    "text": "daily",
+    "label": "Frequency of Drug Intake",
+    "start": 2786,
+    "end": 2791
+  },
+  {
+    "text": "ibuprofen (ADVIL,MOTRIN)",
+    "label": "Drug Name",
+    "start": 2811,
+    "end": 2836
+  },
+  {
+    "text": "200 mg",
+    "label": "Drug Strength",
+    "start": 2837,
+    "end": 2843
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 2844,
+    "end": 2850
+  },
+  {
+    "text": "200 mg",
+    "label": "Drug Dosage",
+    "start": 2859,
+    "end": 2865
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 2866,
+    "end": 2874
+  },
+  {
+    "text": "daily",
+    "label": "Frequency of Drug Intake",
+    "start": 2875,
+    "end": 2880
+  },
+  {
+    "text": "lipase-protease-amylase",
+    "label": "Drug Name",
+    "start": 2900,
+    "end": 2923
+  },
+  {
+    "text": "5,000-17,000- 24,000 unit",
+    "label": "Drug Dosage",
+    "start": 2924,
+    "end": 2949
+  },
+  {
+    "text": "CAPDREC",
+    "label": "Drug Form",
+    "start": 2950,
+    "end": 2957
+  },
+  {
+    "text": "1 capsule",
+    "label": "Drug Dosage",
+    "start": 2965,
+    "end": 2974
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 2975,
+    "end": 2983
+  },
+  {
+    "text": "3 (three) times daily",
+    "label": "Frequency of Drug Intake",
+    "start": 2984,
+    "end": 3005
+  },
+  {
+    "text": "metFORMIN (GLUCOPHAGE)",
+    "label": "Drug Name",
+    "start": 3020,
+    "end": 3043
+  },
+  {
+    "text": "500 mg",
+    "label": "Drug Strength",
+    "start": 3044,
+    "end": 3050
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3051,
+    "end": 3057
+  },
+  {
+    "text": "500 mg",
+    "label": "Drug Dosage",
+    "start": 3066,
+    "end": 3072
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3073,
+    "end": 3081
+  },
+  {
+    "text": "daily",
+    "label": "Frequency of Drug Intake",
+    "start": 3082,
+    "end": 3087
+  },
+  {
+    "text": "ondansetron (ZOFRAN)",
+    "label": "Drug Name",
+    "start": 3102,
+    "end": 3121
+  },
+  {
+    "text": "8 mg",
+    "label": "Drug Strength",
+    "start": 3122,
+    "end": 3126
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3127,
+    "end": 3133
+  },
+  {
+    "text": "8 mg",
+    "label": "Drug Dosage",
+    "start": 3142,
+    "end": 3146
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3147,
+    "end": 3155
+  },
+  {
+    "text": "every 8 (eight) hours",
+    "label": "Frequency of Drug Intake",
+    "start": 3156,
+    "end": 3176
+  },
+  {
+    "text": "simvastatin (ZOCOR)",
+    "label": "Drug Name",
+    "start": 3191,
+    "end": 3209
+  },
+  {
+    "text": "40 mg",
+    "label": "Drug Strength",
+    "start": 3210,
+    "end": 3215
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3216,
+    "end": 3222
+  },
+  {
+    "text": "40 mg",
+    "label": "Drug Dosage",
+    "start": 3231,
+    "end": 3236
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3237,
+    "end": 3245
+  },
+  {
+    "text": "daily",
+    "label": "Frequency of Drug Intake",
+    "start": 3246,
+    "end": 3251
+  },
+  {
+    "text": "5-FU",
+    "label": "Drug Name",
+    "start": 4307,
+    "end": 4311
+  },
+  {
+    "text": "leucovorin",
+    "label": "Drug Name",
+    "start": 4313,
+    "end": 4323
+  },
+  {
+    "text": "irinotecan",
+    "label": "Drug Name",
+    "start": 4325,
+    "end": 4335
+  },
+  {
+    "text": "oxaliplatin",
+    "label": "Drug Name",
+    "start": 4341,
+    "end": 4351
+  },
+  {
+    "text": "gemcitabine",
+    "label": "Drug Name",
+    "start": 4378,
+    "end": 4389
+  },
+  {
+    "text": "nab-paclitaxel",
+    "label": "Drug Name",
+    "start": 4395,
+    "end": 4409
+  }
+]

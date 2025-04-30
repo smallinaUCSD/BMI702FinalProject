@@ -1,0 +1,202 @@
+{
+    "Imipenem": [
+        [
+          "500",
+          "mg",
+          "IV",
+          "Not Mentioned"
+        ]
+    ],
+    "Coumadin": [
+        [
+          "Not Mentioned",
+          "Not Mentioned",
+          "Not Mentioned",
+          "Not Mentioned"
+        ]
+    ],
+    "Ciprofloxacin": [
+        [
+          "Not Mentioned",
+          "Not Mentioned",
+          "Not Mentioned",
+          "Not Mentioned"
+        ]
+    ],
+    "ASA": [
+        [
+          "325",
+          "mg",
+          "PO",
+          "Not Mentioned"
+        ]
+    ],
+    "Lovenox": [
+        [
+          "325",
+          "mg",
+          "PO",
+          "Not Mentioned"
+        ]
+    ],
+    "Lipitor": [
+        [
+          "80",
+          "mg",
+          "PO",
+          "Not Mentioned"
+        ]
+    ],
+    "Lopressor": [
+        [
+          "75",
+          "mg",
+          "PO",
+          "Not Mentioned"
+        ]
+    ],
+    "Finasteride": [
+        [
+          "5",
+          "mg",
+          "PO",
+          "Tablet"
+        ]
+    ],
+    "Lasix": [
+        [
+          "40",
+          "mg",
+          "PO",
+          "Tablet"
+        ]
+    ],
+    "Diltiazem": [
+        [
+          "30",
+          "mg",
+          "PO",
+          "Not Mentioned"
+        ]
+    ],
+    "Aspirin": [
+        [
+          "81",
+          "mg",
+          "PO",
+          "Tablet"
+        ]
+    ],
+    "Ranitidine HCl": [
+        [
+          "150",
+          "mg",
+          "PO",
+          "Not Mentioned"
+        ]
+    ],
+    "Docusate Sodium": [
+        [
+          "100",
+          "mg",
+          "PO",
+          "Capsule"
+        ]
+    ],
+    "Acetaminophen": [
+        [
+          "650",
+          "mg",
+          "PO",
+          "Tablet"
+        ]
+    ],
+    "Bisacodyl": [
+        [
+          "10",
+          "mg",
+          "Rectal",
+          "Suppository"
+        ]
+    ],
+    "Magnesium Hydroxide": [
+        [
+          "400/5",
+          "mg/mL",
+          "PO",
+          "Suspension"
+        ]
+    ],
+    "Atorvastatin": [
+        [
+          "80",
+          "mg",
+          "PO",
+          "Tablet"
+        ]
+    ],
+    "Heparin (Porcine)": [
+        [
+          "5000",
+          "unit/mL",
+          "Injection",
+          "Suspension"
+        ]
+    ],
+    "Quetiapine": [
+        [
+          "25",
+          "mg",
+          "PO",
+          "Tablet"
+        ]
+    ],
+    "Captopril": [
+        [
+          "50",
+          "mg",
+          "PO",
+          "Tablet"
+        ]
+    ],
+    "Miconazole Nitrate": [
+        [
+          "2",
+          "%",
+          "Topical",
+          "Powder"
+        ]
+    ],
+    "Insulin Regular Human": [
+        [
+          "100",
+          "unit/mL",
+          "Injection",
+          "Solution"
+        ]
+    ],
+    "Diltiazem HCl": [
+        [
+          "30",
+          "mg",
+          "PO",
+          "Tablet"
+        ]
+    ],
+    "Metoprolol Tartrate": [
+        [
+          "100",
+          "mg",
+          "PO",
+          "Tablet"
+        ]
+    ],
+    "Potassium Chloride": [
+        [
+          "20",
+          "mEq",
+          "PO",
+          "Tablet"
+        ]
+    ]
+}

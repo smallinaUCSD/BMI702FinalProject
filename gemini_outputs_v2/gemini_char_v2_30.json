@@ -1,0 +1,362 @@
+[
+  {
+    "text": "amLODIPine (NORVASC)",
+    "label": "Drug Name",
+    "start": 1910,
+    "end": 1930
+  },
+  {
+    "text": "5 mg",
+    "label": "Drug Strength",
+    "start": 1932,
+    "end": 1936
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 1937,
+    "end": 1943
+  },
+  {
+    "text": "Take 1 \n tablet (5 mg total) by mouth Daily",
+    "label": "Drug Dosage",
+    "start": 1944,
+    "end": 1983
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 1969,
+    "end": 1977
+  },
+  {
+    "text": "Daily",
+    "label": "Frequency of Drug Intake",
+    "start": 1978,
+    "end": 1983
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 1987,
+    "end": 1993
+  },
+  {
+    "text": "gabapentin (NEURONTIN)",
+    "label": "Drug Name",
+    "start": 2010,
+    "end": 2032
+  },
+  {
+    "text": "300 mg",
+    "label": "Drug Strength",
+    "start": 2033,
+    "end": 2039
+  },
+  {
+    "text": "capsule",
+    "label": "Drug Form",
+    "start": 2040,
+    "end": 2047
+  },
+  {
+    "text": "Take 1 capsule (300 mg total) by mouth 3 (three) times daily",
+    "label": "Drug Dosage",
+    "start": 2048,
+    "end": 2106
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 2074,
+    "end": 2082
+  },
+  {
+    "text": "3 (three) times daily",
+    "label": "Frequency of Drug Intake",
+    "start": 2083,
+    "end": 2106
+  },
+  {
+    "text": "capsule",
+    "label": "Drug Form",
+    "start": 2110,
+    "end": 2117
+  },
+  {
+    "text": "acetaminophen (TYLENOL)",
+    "label": "Drug Name",
+    "start": 2134,
+    "end": 2157
+  },
+  {
+    "text": "500 mg",
+    "label": "Drug Strength",
+    "start": 2158,
+    "end": 2164
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 2165,
+    "end": 2171
+  },
+  {
+    "text": "Take 1 tablet (500 mg total) by mouth every 6 (six) hours as needed for Pain or temp > 38.5 C",
+    "label": "Drug Dosage",
+    "start": 2172,
+    "end": 2251
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 2198,
+    "end": 2206
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 2255,
+    "end": 2261
+  },
+  {
+    "text": "blood pressure monitor",
+    "label": "Drug Name",
+    "start": 2278,
+    "end": 2300
+  },
+  {
+    "text": "cetirizine (ZYRTEC)",
+    "label": "Drug Name",
+    "start": 2330,
+    "end": 2348
+  },
+  {
+    "text": "10 mg",
+    "label": "Drug Strength",
+    "start": 2349,
+    "end": 2354
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 2355,
+    "end": 2361
+  },
+  {
+    "text": "Take 1 tablet (10 mg total) by mouth Daily",
+    "label": "Drug Dosage",
+    "start": 2362,
+    "end": 2399
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 2388,
+    "end": 2396
+  },
+  {
+    "text": "Daily",
+    "label": "Frequency of Drug Intake",
+    "start": 2397,
+    "end": 2402
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 2406,
+    "end": 2412
+  },
+  {
+    "text": "cyclobenzaprine (FLEXERIL)",
+    "label": "Drug Name",
+    "start": 2420,
+    "end": 2446
+  },
+  {
+    "text": "5 mg",
+    "label": "Drug Strength",
+    "start": 2447,
+    "end": 2451
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 2452,
+    "end": 2458
+  },
+  {
+    "text": "TAKE 1 TABLET BY MOUTH EVERY 8 HOURS AS NEEDED FOR MUSCLE SPASMS",
+    "label": "Drug Dosage",
+    "start": 2459,
+    "end": 2524
+  },
+  {
+    "text": "BY MOUTH",
+    "label": "Drug Route of Administration",
+    "start": 2474,
+    "end": 2482
+  },
+  {
+    "text": "EVERY 8 HOURS",
+    "label": "Frequency of Drug Intake",
+    "start": 2483,
+    "end": 2497
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 2528,
+    "end": 2534
+  },
+  {
+    "text": "ferrous sulfate",
+    "label": "Drug Name",
+    "start": 2551,
+    "end": 2566
+  },
+  {
+    "text": "325 mg",
+    "label": "Drug Strength",
+    "start": 2567,
+    "end": 2573
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 2597,
+    "end": 2603
+  },
+  {
+    "text": "Take 1 tablet (325 mg total) by mouth daily with breakfast",
+    "label": "Drug Dosage",
+    "start": 2604,
+    "end": 2663
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 2630,
+    "end": 2638
+  },
+  {
+    "text": "daily",
+    "label": "Frequency of Drug Intake",
+    "start": 2639,
+    "end": 2644
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 2667,
+    "end": 2673
+  },
+  {
+    "text": "heating pads",
+    "label": "Drug Name",
+    "start": 2690,
+    "end": 2702
+  },
+  {
+    "text": "3 (three) times daily",
+    "label": "Frequency of Drug Intake",
+    "start": 2749,
+    "end": 2772
+  },
+  {
+    "text": "lidocaine (XYLOCAINE)",
+    "label": "Drug Name",
+    "start": 2789,
+    "end": 2811
+  },
+  {
+    "text": "5 %",
+    "label": "Drug Strength",
+    "start": 2812,
+    "end": 2815
+  },
+  {
+    "text": "ointment",
+    "label": "Drug Form",
+    "start": 2816,
+    "end": 2824
+  },
+  {
+    "text": "Apply thin layer (dime-sized amount) to right lower back once or twice daily as needed for pain",
+    "label": "Drug Dosage",
+    "start": 2825,
+    "end": 2910
+  },
+  {
+    "text": "ointment",
+    "label": "Drug Form",
+    "start": 2914,
+    "end": 2922
+  },
+  {
+    "text": "daily",
+    "label": "Frequency of Drug Intake",
+    "start": 2878,
+    "end": 2883
+  },
+  {
+    "text": "naproxen (NAPROSYN)",
+    "label": "Drug Name",
+    "start": 2937,
+    "end": 2956
+  },
+  {
+    "text": "500 mg",
+    "label": "Drug Strength",
+    "start": 2957,
+    "end": 2963
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 2964,
+    "end": 2970
+  },
+  {
+    "text": "TAKE 1 TABLET BY MOUTH TWICE DAILY WITH MEALS",
+    "label": "Drug Dosage",
+    "start": 2971,
+    "end": 3020
+  },
+  {
+    "text": "BY MOUTH",
+    "label": "Drug Route of Administration",
+    "start": 2986,
+    "end": 2994
+  },
+  {
+    "text": "TWICE DAILY",
+    "label": "Frequency of Drug Intake",
+    "start": 2995,
+    "end": 3006
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3024,
+    "end": 3030
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 4786,
+    "end": 4795
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 4876,
+    "end": 4885
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 4995,
+    "end": 5004
+  }
+]

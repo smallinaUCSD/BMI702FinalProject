@@ -1,0 +1,74 @@
+[
+  {
+    "text": "chemotherapy",
+    "label": "Drug Name",
+    "start": 279,
+    "end": 280
+  },
+  {
+    "text": "docetaxel",
+    "label": "Drug Name",
+    "start": 287,
+    "end": 288
+  },
+  {
+    "text": "carboplatin",
+    "label": "Drug Name",
+    "start": 289,
+    "end": 290
+  },
+  {
+    "text": "Pertuzumab",
+    "label": "Drug Name",
+    "start": 294,
+    "end": 295
+  },
+  {
+    "text": "Trastuzumab",
+    "label": "Drug Name",
+    "start": 296,
+    "end": 297
+  },
+  {
+    "text": "chemotherapy",
+    "label": "Drug Name",
+    "start": 304,
+    "end": 305
+  },
+  {
+    "text": "chemotherapy",
+    "label": "Drug Name",
+    "start": 311,
+    "end": 312
+  },
+  {
+    "text": "chemotherapy",
+    "label": "Drug Name",
+    "start": 321,
+    "end": 322
+  },
+  {
+    "text": "chemotherapy",
+    "label": "Drug Name",
+    "start": 372,
+    "end": 373
+  },
+  {
+    "text": "4 cycles",
+    "label": "Duration of Drug Intake",
+    "start": 283,
+    "end": 285
+  },
+  {
+    "text": "six cycles",
+    "label": "Duration of Drug Intake",
+    "start": 286,
+    "end": 288
+  },
+  {
+    "text": "1 year",
+    "label": "Duration of Drug Intake",
+    "start": 299,
+    "end": 301
+  }
+]

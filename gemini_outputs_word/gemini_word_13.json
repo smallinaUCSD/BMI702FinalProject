@@ -1,0 +1,314 @@
+[
+  {
+    "text": "oxycodone",
+    "label": "Drug Name",
+    "start": 79,
+    "end": 80
+  },
+  {
+    "text": "oxycodone",
+    "label": "Drug Name",
+    "start": 138,
+    "end": 139
+  },
+  {
+    "text": "Tylenol",
+    "label": "Drug Name",
+    "start": 137,
+    "end": 138
+  },
+  {
+    "text": "amLODIPine",
+    "label": "Drug Name",
+    "start": 176,
+    "end": 177
+  },
+  {
+    "text": "5 mg",
+    "label": "Drug Dosage",
+    "start": 178,
+    "end": 180
+  },
+  {
+    "text": "Oral",
+    "label": "Drug Route of Administration",
+    "start": 180,
+    "end": 181
+  },
+  {
+    "text": "Daily Scheduled",
+    "label": "Frequency of Drug Intake",
+    "start": 182,
+    "end": 184
+  },
+  {
+    "text": "atorvastatin",
+    "label": "Drug Name",
+    "start": 185,
+    "end": 186
+  },
+  {
+    "text": "20 mg",
+    "label": "Drug Dosage",
+    "start": 187,
+    "end": 189
+  },
+  {
+    "text": "Oral",
+    "label": "Drug Route of Administration",
+    "start": 189,
+    "end": 190
+  },
+  {
+    "text": "Daily Scheduled",
+    "label": "Frequency of Drug Intake",
+    "start": 191,
+    "end": 193
+  },
+  {
+    "text": "famotidine",
+    "label": "Drug Name",
+    "start": 194,
+    "end": 195
+  },
+  {
+    "text": "20 mg",
+    "label": "Drug Dosage",
+    "start": 196,
+    "end": 198
+  },
+  {
+    "text": "Oral",
+    "label": "Drug Route of Administration",
+    "start": 198,
+    "end": 199
+  },
+  {
+    "text": "2 Times Daily PRN",
+    "label": "Frequency of Drug Intake",
+    "start": 200,
+    "end": 204
+  },
+  {
+    "text": "losartan",
+    "label": "Drug Name",
+    "start": 205,
+    "end": 206
+  },
+  {
+    "text": "50 mg",
+    "label": "Drug Dosage",
+    "start": 207,
+    "end": 209
+  },
+  {
+    "text": "Oral",
+    "label": "Drug Route of Administration",
+    "start": 209,
+    "end": 210
+  },
+  {
+    "text": "Daily Scheduled",
+    "label": "Frequency of Drug Intake",
+    "start": 211,
+    "end": 213
+  },
+  {
+    "text": "metFORMIN",
+    "label": "Drug Name",
+    "start": 214,
+    "end": 215
+  },
+  {
+    "text": "500 mg",
+    "label": "Drug Dosage",
+    "start": 216,
+    "end": 218
+  },
+  {
+    "text": "Oral",
+    "label": "Drug Route of Administration",
+    "start": 218,
+    "end": 219
+  },
+  {
+    "text": "Daily With Breakfast Scheduled",
+    "label": "Frequency of Drug Intake",
+    "start": 220,
+    "end": 224
+  },
+  {
+    "text": "OYSTER SHELL CALCIUM-VIT D3",
+    "label": "Drug Name",
+    "start": 225,
+    "end": 229
+  },
+  {
+    "text": "500 mg",
+    "label": "Drug Dosage",
+    "start": 229,
+    "end": 231
+  },
+  {
+    "text": "200 unit tablet",
+    "label": "Drug Form",
+    "start": 233,
+    "end": 236
+  },
+  {
+    "text": "1 tablet",
+    "label": "Drug Dosage",
+    "start": 236,
+    "end": 238
+  },
+  {
+    "text": "Oral",
+    "label": "Drug Route of Administration",
+    "start": 238,
+    "end": 239
+  },
+  {
+    "text": "2 times daily",
+    "label": "Frequency of Drug Intake",
+    "start": 240,
+    "end": 243
+  },
+  {
+    "text": "polyethylene glycol",
+    "label": "Drug Name",
+    "start": 244,
+    "end": 246
+  },
+  {
+    "text": "17 g",
+    "label": "Drug Dosage",
+    "start": 247,
+    "end": 249
+  },
+  {
+    "text": "Oral",
+    "label": "Drug Route of Administration",
+    "start": 249,
+    "end": 250
+  },
+  {
+    "text": "Daily PRN",
+    "label": "Frequency of Drug Intake",
+    "start": 251,
+    "end": 253
+  },
+  {
+    "text": "5 mg",
+    "label": "Drug Strength",
+    "start": 178,
+    "end": 180
+  },
+  {
+    "text": "20 mg",
+    "label": "Drug Strength",
+    "start": 187,
+    "end": 189
+  },
+  {
+    "text": "20 mg",
+    "label": "Drug Strength",
+    "start": 196,
+    "end": 198
+  },
+  {
+    "text": "50 mg",
+    "label": "Drug Strength",
+    "start": 207,
+    "end": 209
+  },
+  {
+    "text": "500 mg",
+    "label": "Drug Strength",
+    "start": 216,
+    "end": 218
+  },
+  {
+    "text": "gemcitabine",
+    "label": "Drug Name",
+    "start": 403,
+    "end": 404
+  },
+  {
+    "text": "nab-paclitaxel",
+    "label": "Drug Name",
+    "start": 405,
+    "end": 406
+  },
+  {
+    "text": "gemcitabine",
+    "label": "Drug Name",
+    "start": 416,
+    "end": 417
+  },
+  {
+    "text": "nab-paclitaxel",
+    "label": "Drug Name",
+    "start": 418,
+    "end": 419
+  },
+  {
+    "text": "gemcitabine/nab-paclitaxel",
+    "label": "Drug Name",
+    "start": 440,
+    "end": 441
+  },
+  {
+    "text": "FOLFIRINOX",
+    "label": "Drug Name",
+    "start": 442,
+    "end": 443
+  },
+  {
+    "text": "gemcitabine/nab-paclitaxel",
+    "label": "Drug Name",
+    "start": 462,
+    "end": 463
+  },
+  {
+    "text": "gemcitabine/nab-paclitaxel",
+    "label": "Drug Name",
+    "start": 480,
+    "end": 481
+  },
+  {
+    "text": "pamrevlumab",
+    "label": "Drug Name",
+    "start": 482,
+    "end": 483
+  },
+  {
+    "text": "gemcitabine/nab-paclitaxel",
+    "label": "Drug Name",
+    "start": 501,
+    "end": 502
+  },
+  {
+    "text": "hydroxychloroquine",
+    "label": "Drug Name",
+    "start": 503,
+    "end": 504
+  },
+  {
+    "text": "ipilimumab",
+    "label": "Drug Name",
+    "start": 506,
+    "end": 507
+  },
+  {
+    "text": "TTX-030",
+    "label": "Drug Name",
+    "start": 518,
+    "end": 519
+  },
+  {
+    "text": "gemcitabine/nab-paclitaxel",
+    "label": "Drug Name",
+    "start": 522,
+    "end": 523
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "text": "ergocalciferol, vitamin D2, (ERGOCALCIFEROL)",
+    "label": "Drug Name",
+    "start": 225,
+    "end": 231
+  },
+  {
+    "text": "50,000 unit",
+    "label": "Drug Dosage",
+    "start": 232,
+    "end": 234
+  },
+  {
+    "text": "capsule",
+    "label": "Drug Form",
+    "start": 234,
+    "end": 235
+  },
+  {
+    "text": "metFORMIN (GLUCOPHAGE)",
+    "label": "Drug Name",
+    "start": 237,
+    "end": 239
+  },
+  {
+    "text": "500 mg",
+    "label": "Drug Strength",
+    "start": 240,
+    "end": 242
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 242,
+    "end": 243
+  },
+  {
+    "text": "omega-3 fatty acids-fish oil",
+    "label": "Drug Name",
+    "start": 245,
+    "end": 249
+  },
+  {
+    "text": "300-1,000 mg",
+    "label": "Drug Dosage",
+    "start": 249,
+    "end": 251
+  },
+  {
+    "text": "capsule",
+    "label": "Drug Form",
+    "start": 251,
+    "end": 252
+  },
+  {
+    "text": "GAVILYTE-G",
+    "label": "Drug Name",
+    "start": 254,
+    "end": 255
+  },
+  {
+    "text": "236-22.74-6.74 -5.86 gram",
+    "label": "Drug Dosage",
+    "start": 255,
+    "end": 259
+  },
+  {
+    "text": "solution",
+    "label": "Drug Form",
+    "start": 259,
+    "end": 260
+  },
+  {
+    "text": "JOLIVETTE",
+    "label": "Drug Name",
+    "start": 262,
+    "end": 263
+  },
+  {
+    "text": "0.35 mg",
+    "label": "Drug Strength",
+    "start": 263,
+    "end": 265
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 265,
+    "end": 266
+  },
+  {
+    "text": "ondansetron (ZOFRAN)",
+    "label": "Drug Name",
+    "start": 268,
+    "end": 270
+  },
+  {
+    "text": "8 mg",
+    "label": "Drug Strength",
+    "start": 270,
+    "end": 272
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 272,
+    "end": 273
+  },
+  {
+    "text": "ondansetron (ZOFRAN)",
+    "label": "Drug Name",
+    "start": 279,
+    "end": 281
+  },
+  {
+    "text": "8 mg",
+    "label": "Drug Strength",
+    "start": 281,
+    "end": 283
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 283,
+    "end": 284
+  },
+  {
+    "text": "prednisoLONE acetate (PRED FORTE)",
+    "label": "Drug Name",
+    "start": 290,
+    "end": 294
+  },
+  {
+    "text": "1 %",
+    "label": "Drug Strength",
+    "start": 294,
+    "end": 296
+  },
+  {
+    "text": "ophthalmic suspension",
+    "label": "Drug Form",
+    "start": 296,
+    "end": 298
+  },
+  {
+    "text": "PROLENSA",
+    "label": "Drug Name",
+    "start": 300,
+    "end": 301
+  },
+  {
+    "text": "0.07 %",
+    "label": "Drug Strength",
+    "start": 301,
+    "end": 303
+  },
+  {
+    "text": "DROPSOLN",
+    "label": "Drug Form",
+    "start": 303,
+    "end": 304
+  },
+  {
+    "text": "VIGAMOX",
+    "label": "Drug Name",
+    "start": 306,
+    "end": 307
+  },
+  {
+    "text": "0.5 %",
+    "label": "Drug Strength",
+    "start": 307,
+    "end": 309
+  },
+  {
+    "text": "ophthalmic solution",
+    "label": "Drug Form",
+    "start": 309,
+    "end": 311
+  },
+  {
+    "text": "weekly paclitaxel",
+    "label": "Frequency of Drug Intake",
+    "start": 442,
+    "end": 444
+  },
+  {
+    "text": "q3wk trastuzumab",
+    "label": "Frequency of Drug Intake",
+    "start": 444,
+    "end": 446
+  },
+  {
+    "text": "q3wk pertuzumab",
+    "label": "Frequency of Drug Intake",
+    "start": 446,
+    "end": 448
+  },
+  {
+    "text": "weekly paclitaxel",
+    "label": "Drug Name",
+    "start": 474,
+    "end": 476
+  },
+  {
+    "text": "q3wk trastuzumab",
+    "label": "Drug Name",
+    "start": 476,
+    "end": 478
+  },
+  {
+    "text": "q3wk pertuzumab",
+    "label": "Drug Name",
+    "start": 478,
+    "end": 480
+  }
+]

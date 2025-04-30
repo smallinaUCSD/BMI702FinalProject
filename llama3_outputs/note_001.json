@@ -1,0 +1,9 @@
+{
+  "Drug Name": false,
+  "Drug Dosage": false,
+  "Drug Route of Administration": false,
+  "Drug Strength": false,
+  "Drug Form": false,
+  "Frequency of Drug Intake": false,
+  "Duration of Drug Intake": false
+}

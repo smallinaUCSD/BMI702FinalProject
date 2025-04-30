@@ -1,0 +1,80 @@
+[
+  {
+    "text": "cholecalciferol",
+    "label": "Drug Name",
+    "start": 1921,
+    "end": 1935
+  },
+  {
+    "text": "vitamin D3",
+    "label": "Drug Name",
+    "start": 1937,
+    "end": 1946
+  },
+  {
+    "text": "2,000 unit",
+    "label": "Drug Dosage",
+    "start": 1956,
+    "end": 1965
+  },
+  {
+    "text": "CAP",
+    "label": "Drug Form",
+    "start": 1966,
+    "end": 1969
+  },
+  {
+    "text": "capsule",
+    "label": "Drug Form",
+    "start": 1970,
+    "end": 1977
+  },
+  {
+    "text": "Take by mouth",
+    "label": "Drug Route of Administration",
+    "start": 1979,
+    "end": 1992
+  },
+  {
+    "text": "AC/weekly T",
+    "label": "Drug Name",
+    "start": 3733,
+    "end": 3744
+  },
+  {
+    "text": "TC",
+    "label": "Drug Name",
+    "start": 3748,
+    "end": 3750
+  },
+  {
+    "text": "4",
+    "label": "Drug Dosage",
+    "start": 3751,
+    "end": 3752
+  },
+  {
+    "text": "TC",
+    "label": "Drug Name",
+    "start": 3810,
+    "end": 3812
+  },
+  {
+    "text": "6",
+    "label": "Drug Dosage",
+    "start": 3813,
+    "end": 3814
+  },
+  {
+    "text": "TC",
+    "label": "Drug Name",
+    "start": 4180,
+    "end": 4182
+  },
+  {
+    "text": "6",
+    "label": "Drug Dosage",
+    "start": 4183,
+    "end": 4184
+  }
+]

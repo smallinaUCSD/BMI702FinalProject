@@ -1,0 +1,314 @@
+[
+  {
+    "text": "FOLFOX",
+    "label": "Drug Name",
+    "start": 1124,
+    "end": 1130
+  },
+  {
+    "text": "irinotecan",
+    "label": "Drug Name",
+    "start": 1137,
+    "end": 1147
+  },
+  {
+    "text": "FOLFIRINOX",
+    "label": "Drug Name",
+    "start": 1367,
+    "end": 1377
+  },
+  {
+    "text": "gemcitabine",
+    "label": "Drug Name",
+    "start": 1690,
+    "end": 1701
+  },
+  {
+    "text": "nab-paclitaxel",
+    "label": "Drug Name",
+    "start": 1706,
+    "end": 1720
+  },
+  {
+    "text": "morphine",
+    "label": "Drug Name",
+    "start": 1999,
+    "end": 2007
+  },
+  {
+    "text": "acetaminophen",
+    "label": "Drug Name",
+    "start": 2376,
+    "end": 2389
+  },
+  {
+    "text": "TYLENOL",
+    "label": "Drug Name",
+    "start": 2391,
+    "end": 2398
+  },
+  {
+    "text": "PO",
+    "label": "Drug Route of Administration",
+    "start": 2399,
+    "end": 2401
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 2408,
+    "end": 2416
+  },
+  {
+    "text": "every day",
+    "label": "Frequency of Drug Intake",
+    "start": 2417,
+    "end": 2426
+  },
+  {
+    "text": "amylase-lipase-protease",
+    "label": "Drug Name",
+    "start": 2432,
+    "end": 2455
+  },
+  {
+    "text": "Creon 24,000",
+    "label": "Drug Name",
+    "start": 2457,
+    "end": 2469
+  },
+  {
+    "text": "120,000-24,000-76,000",
+    "label": "Drug Dosage",
+    "start": 2471,
+    "end": 2491
+  },
+  {
+    "text": "delayed release capsule",
+    "label": "Drug Form",
+    "start": 2492,
+    "end": 2515
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 2530,
+    "end": 2538
+  },
+  {
+    "text": "3 times a day",
+    "label": "Frequency of Drug Intake",
+    "start": 2539,
+    "end": 2552
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 2590,
+    "end": 2598
+  },
+  {
+    "text": "2 times a day",
+    "label": "Frequency of Drug Intake",
+    "start": 2599,
+    "end": 2612
+  },
+  {
+    "text": "cholecalciferol",
+    "label": "Drug Name",
+    "start": 2634,
+    "end": 2649
+  },
+  {
+    "text": "vitamin D3",
+    "label": "Drug Name",
+    "start": 2651,
+    "end": 2661
+  },
+  {
+    "text": "VITAMIN D3",
+    "label": "Drug Name",
+    "start": 2663,
+    "end": 2673
+  },
+  {
+    "text": "PO",
+    "label": "Drug Route of Administration",
+    "start": 2674,
+    "end": 2676
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 2692,
+    "end": 2700
+  },
+  {
+    "text": "every day",
+    "label": "Frequency of Drug Intake",
+    "start": 2701,
+    "end": 2710
+  },
+  {
+    "text": "morphine",
+    "label": "Drug Name",
+    "start": 2716,
+    "end": 2724
+  },
+  {
+    "text": "MS Contin",
+    "label": "Drug Name",
+    "start": 2726,
+    "end": 2735
+  },
+  {
+    "text": "15 mg",
+    "label": "Drug Dosage",
+    "start": 2737,
+    "end": 2742
+  },
+  {
+    "text": "controlled release tablet",
+    "label": "Drug Form",
+    "start": 2743,
+    "end": 2768
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 2787,
+    "end": 2795
+  },
+  {
+    "text": "daily",
+    "label": "Frequency of Drug Intake",
+    "start": 2796,
+    "end": 2801
+  },
+  {
+    "text": "polyethylene glycol",
+    "label": "Drug Name",
+    "start": 2821,
+    "end": 2841
+  },
+  {
+    "text": "MIRAlax",
+    "label": "Drug Name",
+    "start": 2843,
+    "end": 2850
+  },
+  {
+    "text": "17 gram packet",
+    "label": "Drug Form",
+    "start": 2852,
+    "end": 2866
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 2873,
+    "end": 2881
+  },
+  {
+    "text": "potassium chloride",
+    "label": "Drug Name",
+    "start": 2897,
+    "end": 2916
+  },
+  {
+    "text": "Klor-Con",
+    "label": "Drug Name",
+    "start": 2918,
+    "end": 2926
+  },
+  {
+    "text": "20 mEq",
+    "label": "Drug Dosage",
+    "start": 2928,
+    "end": 2934
+  },
+  {
+    "text": "sustained release tablet",
+    "label": "Drug Form",
+    "start": 2935,
+    "end": 2959
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 2978,
+    "end": 2986
+  },
+  {
+    "text": "2 times a day",
+    "label": "Frequency of Drug Intake",
+    "start": 2987,
+    "end": 3000
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3038,
+    "end": 3046
+  },
+  {
+    "text": "every morning",
+    "label": "Frequency of Drug Intake",
+    "start": 3047,
+    "end": 3060
+  },
+  {
+    "text": "once-daily",
+    "label": "Frequency of Drug Intake",
+    "start": 1990,
+    "end": 1999
+  },
+  {
+    "text": "gemcitabine/nab-paclitaxel",
+    "label": "Drug Name",
+    "start": 5793,
+    "end": 5820
+  },
+  {
+    "text": "gemcitabine/nab-paclitaxel",
+    "label": "Drug Name",
+    "start": 6089,
+    "end": 6116
+  },
+  {
+    "text": "5,000 Int'l Units",
+    "label": "Drug Dosage",
+    "start": 2677,
+    "end": 2691
+  },
+  {
+    "text": "17 g",
+    "label": "Drug Dosage",
+    "start": 2869,
+    "end": 2873
+  },
+  {
+    "text": "15 mg",
+    "label": "Drug Strength",
+    "start": 2778,
+    "end": 2783
+  },
+  {
+    "text": "20 mEq",
+    "label": "Drug Dosage",
+    "start": 3032,
+    "end": 3038
+  },
+  {
+    "text": "every other week",
+    "label": "Frequency of Drug Intake",
+    "start": 1721,
+    "end": 1738
+  },
+  {
+    "text": "every other week",
+    "label": "Frequency of Drug Intake",
+    "start": 6117,
+    "end": 6134
+  }
+]

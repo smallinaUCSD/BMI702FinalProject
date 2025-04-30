@@ -1,0 +1,152 @@
+[
+  {
+    "text": "chemotherapy",
+    "label": "Drug Name",
+    "start": 797,
+    "end": 809
+  },
+  {
+    "text": "TC",
+    "label": "Drug Name",
+    "start": 857,
+    "end": 859
+  },
+  {
+    "text": "chemotherapy",
+    "label": "Drug Name",
+    "start": 959,
+    "end": 971
+  },
+  {
+    "text": "chemotherapy",
+    "label": "Drug Name",
+    "start": 1771,
+    "end": 1783
+  },
+  {
+    "text": "chemotherapy",
+    "label": "Drug Name",
+    "start": 1965,
+    "end": 1977
+  },
+  {
+    "text": "chemotherapy",
+    "label": "Drug Name",
+    "start": 2088,
+    "end": 2100
+  },
+  {
+    "text": "TC x 4 cycles",
+    "label": "Drug Dosage",
+    "start": 2137,
+    "end": 2150
+  },
+  {
+    "text": "TC",
+    "label": "Drug Name",
+    "start": 2137,
+    "end": 2139
+  },
+  {
+    "text": "AC/T",
+    "label": "Drug Name",
+    "start": 2157,
+    "end": 2161
+  },
+  {
+    "text": "chemotherapy",
+    "label": "Drug Name",
+    "start": 2165,
+    "end": 2177
+  },
+  {
+    "text": "TC chemotherapy",
+    "label": "Drug Name",
+    "start": 2209,
+    "end": 2225
+  },
+  {
+    "text": "chemotherapy",
+    "label": "Drug Name",
+    "start": 2386,
+    "end": 2398
+  },
+  {
+    "text": "chemotherapy",
+    "label": "Drug Name",
+    "start": 2414,
+    "end": 2426
+  },
+  {
+    "text": "anti-estrogen therapy",
+    "label": "Drug Name",
+    "start": 2477,
+    "end": 2498
+  },
+  {
+    "text": "anti-estrogen therapy",
+    "label": "Drug Name",
+    "start": 2542,
+    "end": 2563
+  },
+  {
+    "text": "aromatase inhibitor",
+    "label": "Drug Name",
+    "start": 2576,
+    "end": 2595
+  },
+  {
+    "text": "AI",
+    "label": "Drug Name",
+    "start": 2576,
+    "end": 2578
+  },
+  {
+    "text": "AI",
+    "label": "Drug Name",
+    "start": 2689,
+    "end": 2691
+  },
+  {
+    "text": "AI therapy for at least 5 years",
+    "label": "Duration of Drug Intake",
+    "start": 2689,
+    "end": 2721
+  },
+  {
+    "text": "calcium",
+    "label": "Drug Name",
+    "start": 2769,
+    "end": 2776
+  },
+  {
+    "text": "vitamin D",
+    "label": "Drug Name",
+    "start": 2781,
+    "end": 2790
+  },
+  {
+    "text": "docetaxel/cyclophosphamide x 4 cycles",
+    "label": "Drug Dosage",
+    "start": 2847,
+    "end": 2881
+  },
+  {
+    "text": "docetaxel/cyclophosphamide",
+    "label": "Drug Name",
+    "start": 2847,
+    "end": 2873
+  },
+  {
+    "text": "AI therapy for at least 5 years",
+    "label": "Duration of Drug Intake",
+    "start": 2890,
+    "end": 2922
+  },
+  {
+    "text": "AI",
+    "label": "Drug Name",
+    "start": 2890,
+    "end": 2892
+  }
+]

@@ -1,0 +1,368 @@
+[
+  {
+    "text": "ascorbic acid",
+    "label": "Drug Name",
+    "start": 7735,
+    "end": 7749
+  },
+  {
+    "text": "vitamin C",
+    "label": "Drug Name",
+    "start": 7752,
+    "end": 7761
+  },
+  {
+    "text": "500 mg",
+    "label": "Drug Strength",
+    "start": 7764,
+    "end": 7770
+  },
+  {
+    "text": "TABSR",
+    "label": "Drug Form",
+    "start": 7771,
+    "end": 7776
+  },
+  {
+    "text": "Take by mouth",
+    "label": "Drug Route of Administration",
+    "start": 7778,
+    "end": 7791
+  },
+  {
+    "text": "daily",
+    "label": "Frequency of Drug Intake",
+    "start": 7792,
+    "end": 7797
+  },
+  {
+    "text": "B-complex with vitamin C tablet",
+    "label": "Drug Name",
+    "start": 7821,
+    "end": 7850
+  },
+  {
+    "text": "Take by mouth",
+    "label": "Drug Route of Administration",
+    "start": 7852,
+    "end": 7865
+  },
+  {
+    "text": "daily",
+    "label": "Frequency of Drug Intake",
+    "start": 7866,
+    "end": 7871
+  },
+  {
+    "text": "clonazePAM",
+    "label": "Drug Name",
+    "start": 7895,
+    "end": 7905
+  },
+  {
+    "text": "KLONOPIN",
+    "label": "Drug Name",
+    "start": 7907,
+    "end": 7915
+  },
+  {
+    "text": "1 mg",
+    "label": "Drug Strength",
+    "start": 7917,
+    "end": 7921
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 7922,
+    "end": 7928
+  },
+  {
+    "text": "Take 1 tablet (1 mg total) by mouth",
+    "label": "Drug Dosage",
+    "start": 7930,
+    "end": 7963
+  },
+  {
+    "text": "nightly",
+    "label": "Frequency of Drug Intake",
+    "start": 7964,
+    "end": 7971
+  },
+  {
+    "text": "as needed",
+    "label": "Frequency of Drug Intake",
+    "start": 7972,
+    "end": 7981
+  },
+  {
+    "text": "KAVA ROOT ORAL",
+    "label": "Drug Name",
+    "start": 8034,
+    "end": 8049
+  },
+  {
+    "text": "Take by mouth",
+    "label": "Drug Route of Administration",
+    "start": 8051,
+    "end": 8064
+  },
+  {
+    "text": "Kava tincture",
+    "label": "Drug Form",
+    "start": 8066,
+    "end": 8078
+  },
+  {
+    "text": "Use 1/2 -1 teaspoon by mouth",
+    "label": "Drug Dosage",
+    "start": 8081,
+    "end": 8110
+  },
+  {
+    "text": "Kava",
+    "label": "Drug Name",
+    "start": 8111,
+    "end": 8115
+  },
+  {
+    "text": "Lactobacillus acidophilus",
+    "label": "Drug Name",
+    "start": 8151,
+    "end": 8177
+  },
+  {
+    "text": "PROBIOTIC ORAL",
+    "label": "Drug Name",
+    "start": 8179,
+    "end": 8194
+  },
+  {
+    "text": "Take 1 capsule by mouth",
+    "label": "Drug Dosage",
+    "start": 8196,
+    "end": 8220
+  },
+  {
+    "text": "lamoTRIgine",
+    "label": "Drug Name",
+    "start": 8248,
+    "end": 8259
+  },
+  {
+    "text": "LAMICTAL XR",
+    "label": "Drug Name",
+    "start": 8261,
+    "end": 8272
+  },
+  {
+    "text": "200 mg",
+    "label": "Drug Strength",
+    "start": 8274,
+    "end": 8280
+  },
+  {
+    "text": "24 hr ER tablet",
+    "label": "Drug Form",
+    "start": 8281,
+    "end": 8296
+  },
+  {
+    "text": "Take 1 tablet (200 mg total) by mouth",
+    "label": "Drug Dosage",
+    "start": 8298,
+    "end": 8331
+  },
+  {
+    "text": "daily",
+    "label": "Frequency of Drug Intake",
+    "start": 8332,
+    "end": 8337
+  },
+  {
+    "text": "multivitamin capsule",
+    "label": "Drug Name",
+    "start": 8361,
+    "end": 8382
+  },
+  {
+    "text": "Take 1 capsule by mouth",
+    "label": "Drug Dosage",
+    "start": 8384,
+    "end": 8408
+  },
+  {
+    "text": "daily",
+    "label": "Frequency of Drug Intake",
+    "start": 8409,
+    "end": 8414
+  },
+  {
+    "text": "multivitamin-Ca-iron-minerals TAB",
+    "label": "Drug Name",
+    "start": 8442,
+    "end": 8475
+  },
+  {
+    "text": "Take 1 tablet by mouth",
+    "label": "Drug Dosage",
+    "start": 8477,
+    "end": 8500
+  },
+  {
+    "text": "tretinoin microspheres",
+    "label": "Drug Name",
+    "start": 8524,
+    "end": 8546
+  },
+  {
+    "text": "RETIN-A MICRO PUMP",
+    "label": "Drug Name",
+    "start": 8548,
+    "end": 8567
+  },
+  {
+    "text": "0.08 %",
+    "label": "Drug Strength",
+    "start": 8569,
+    "end": 8575
+  },
+  {
+    "text": "GlwP",
+    "label": "Drug Form",
+    "start": 8576,
+    "end": 8580
+  },
+  {
+    "text": "Apply 1 Application topically",
+    "label": "Drug Dosage",
+    "start": 8582,
+    "end": 8610
+  },
+  {
+    "text": "Daily",
+    "label": "Frequency of Drug Intake",
+    "start": 8611,
+    "end": 8616
+  },
+  {
+    "text": "TURMERIC ORAL",
+    "label": "Drug Name",
+    "start": 8644,
+    "end": 8658
+  },
+  {
+    "text": "Take 1 capsule by mouth",
+    "label": "Drug Dosage",
+    "start": 8660,
+    "end": 8684
+  },
+  {
+    "text": "TURMERIC PO",
+    "label": "Drug Name",
+    "start": 8686,
+    "end": 8698
+  },
+  {
+    "text": "take 1 cap by mouth",
+    "label": "Drug Dosage",
+    "start": 8699,
+    "end": 8719
+  },
+  {
+    "text": "daily",
+    "label": "Frequency of Drug Intake",
+    "start": 8720,
+    "end": 8725
+  },
+  {
+    "text": "ELDERBERRY PO",
+    "label": "Drug Name",
+    "start": 8774,
+    "end": 8787
+  },
+  {
+    "text": "take by mouth",
+    "label": "Drug Route of Administration",
+    "start": 8788,
+    "end": 8802
+  },
+  {
+    "text": "daily",
+    "label": "Frequency of Drug Intake",
+    "start": 8803,
+    "end": 8808
+  },
+  {
+    "text": "zolpidem",
+    "label": "Drug Name",
+    "start": 8832,
+    "end": 8840
+  },
+  {
+    "text": "AMBIEN",
+    "label": "Drug Name",
+    "start": 8842,
+    "end": 8848
+  },
+  {
+    "text": "5 mg",
+    "label": "Drug Strength",
+    "start": 8850,
+    "end": 8854
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 8855,
+    "end": 8861
+  },
+  {
+    "text": "Take 1 tablet (5 mg total) by mouth",
+    "label": "Drug Dosage",
+    "start": 8863,
+    "end": 8896
+  },
+  {
+    "text": "nightly",
+    "label": "Frequency of Drug Intake",
+    "start": 8897,
+    "end": 8904
+  },
+  {
+    "text": "as needed",
+    "label": "Frequency of Drug Intake",
+    "start": 8905,
+    "end": 8914
+  },
+  {
+    "text": "lamictal",
+    "label": "Drug Name",
+    "start": 9853,
+    "end": 9861
+  },
+  {
+    "text": "goserelin",
+    "label": "Drug Name",
+    "start": 9931,
+    "end": 9939
+  },
+  {
+    "text": "letrozole",
+    "label": "Drug Name",
+    "start": 9962,
+    "end": 9971
+  },
+  {
+    "text": "goserelin",
+    "label": "Drug Name",
+    "start": 10111,
+    "end": 10119
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 10248,
+    "end": 10257
+  }
+]

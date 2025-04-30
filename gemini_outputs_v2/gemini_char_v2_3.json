@@ -1,0 +1,308 @@
+[
+  {
+    "text": "buPROPion (WELLBUTRIN SR)",
+    "label": "Drug Name",
+    "start": 1718,
+    "end": 1743
+  },
+  {
+    "text": "100 mg",
+    "label": "Drug Dosage",
+    "start": 1744,
+    "end": 1750
+  },
+  {
+    "text": "12 hr tablet",
+    "label": "Drug Form",
+    "start": 1751,
+    "end": 1762
+  },
+  {
+    "text": "100 mg",
+    "label": "Drug Dosage",
+    "start": 1769,
+    "end": 1775
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 1776,
+    "end": 1784
+  },
+  {
+    "text": "daily",
+    "label": "Frequency of Drug Intake",
+    "start": 1785,
+    "end": 1790
+  },
+  {
+    "text": "estradiol",
+    "label": "Drug Name",
+    "start": 1797,
+    "end": 1806
+  },
+  {
+    "text": "0.05 mg/24 hr",
+    "label": "Drug Strength",
+    "start": 1807,
+    "end": 1820
+  },
+  {
+    "text": "estradiol",
+    "label": "Drug Name",
+    "start": 1821,
+    "end": 1830
+  },
+  {
+    "text": "0.05 mg/24 hr",
+    "label": "Drug Strength",
+    "start": 1831,
+    "end": 1844
+  },
+  {
+    "text": "semiweekly transdermal patch",
+    "label": "Drug Form",
+    "start": 1845,
+    "end": 1874
+  },
+  {
+    "text": "LORazepam (ATIVAN)",
+    "label": "Drug Name",
+    "start": 1881,
+    "end": 1899
+  },
+  {
+    "text": "1 mg",
+    "label": "Drug Dosage",
+    "start": 1900,
+    "end": 1904
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 1905,
+    "end": 1911
+  },
+  {
+    "text": "1 mg",
+    "label": "Drug Dosage",
+    "start": 1918,
+    "end": 1922
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 1923,
+    "end": 1931
+  },
+  {
+    "text": "every 8 (eight) hours",
+    "label": "Frequency of Drug Intake",
+    "start": 1932,
+    "end": 1953
+  },
+  {
+    "text": "ondansetron (ZOFRAN)",
+    "label": "Drug Name",
+    "start": 1999,
+    "end": 2019
+  },
+  {
+    "text": "8 mg",
+    "label": "Drug Dosage",
+    "start": 2020,
+    "end": 2024
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 2025,
+    "end": 2031
+  },
+  {
+    "text": "1 tablet",
+    "label": "Drug Dosage",
+    "start": 2038,
+    "end": 2046
+  },
+  {
+    "text": "three times a day",
+    "label": "Frequency of Drug Intake",
+    "start": 2047,
+    "end": 2064
+  },
+  {
+    "text": "palonosetron (Aloxi)",
+    "label": "Drug Name",
+    "start": 2112,
+    "end": 2132
+  },
+  {
+    "text": "pantoprazole (PROTONIX)",
+    "label": "Drug Name",
+    "start": 2140,
+    "end": 2162
+  },
+  {
+    "text": "40 mg",
+    "label": "Drug Dosage",
+    "start": 2163,
+    "end": 2168
+  },
+  {
+    "text": "EC tablet",
+    "label": "Drug Form",
+    "start": 2169,
+    "end": 2178
+  },
+  {
+    "text": "1 tablet",
+    "label": "Drug Dosage",
+    "start": 2185,
+    "end": 2193
+  },
+  {
+    "text": "40 mg",
+    "label": "Drug Dosage",
+    "start": 2195,
+    "end": 2200
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 2207,
+    "end": 2215
+  },
+  {
+    "text": "daily",
+    "label": "Frequency of Drug Intake",
+    "start": 2216,
+    "end": 2221
+  },
+  {
+    "text": "PRISTIQ",
+    "label": "Drug Name",
+    "start": 2230,
+    "end": 2237
+  },
+  {
+    "text": "100 mg",
+    "label": "Drug Dosage",
+    "start": 2238,
+    "end": 2244
+  },
+  {
+    "text": "24 hr tablet",
+    "label": "Drug Form",
+    "start": 2245,
+    "end": 2256
+  },
+  {
+    "text": "100 mg",
+    "label": "Drug Dosage",
+    "start": 2263,
+    "end": 2269
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 2270,
+    "end": 2278
+  },
+  {
+    "text": "daily",
+    "label": "Frequency of Drug Intake",
+    "start": 2279,
+    "end": 2284
+  },
+  {
+    "text": "progesterone (PROMETRIUM)",
+    "label": "Drug Name",
+    "start": 2291,
+    "end": 2317
+  },
+  {
+    "text": "100 mg",
+    "label": "Drug Dosage",
+    "start": 2318,
+    "end": 2324
+  },
+  {
+    "text": "capsule",
+    "label": "Drug Form",
+    "start": 2325,
+    "end": 2332
+  },
+  {
+    "text": "1 CAPSULE",
+    "label": "Drug Dosage",
+    "start": 2338,
+    "end": 2347
+  },
+  {
+    "text": "BY MOUTH",
+    "label": "Drug Route of Administration",
+    "start": 2348,
+    "end": 2356
+  },
+  {
+    "text": "DAILY",
+    "label": "Frequency of Drug Intake",
+    "start": 2357,
+    "end": 2362
+  },
+  {
+    "text": "Omnipaque",
+    "label": "Drug Name",
+    "start": 2580,
+    "end": 2589
+  },
+  {
+    "text": "500 mL",
+    "label": "Drug Dosage",
+    "start": 2592,
+    "end": 2598
+  },
+  {
+    "text": "Oral",
+    "label": "Drug Route of Administration",
+    "start": 2601,
+    "end": 2605
+  },
+  {
+    "text": "Omnipaque",
+    "label": "Drug Name",
+    "start": 2606,
+    "end": 2615
+  },
+  {
+    "text": "500 mL",
+    "label": "Drug Dosage",
+    "start": 2618,
+    "end": 2624
+  },
+  {
+    "text": "Oral",
+    "label": "Drug Route of Administration",
+    "start": 2627,
+    "end": 2631
+  },
+  {
+    "text": "Iohexol 350",
+    "label": "Drug Name",
+    "start": 2632,
+    "end": 2642
+  },
+  {
+    "text": "150 mL",
+    "label": "Drug Dosage",
+    "start": 2645,
+    "end": 2651
+  },
+  {
+    "text": "Intravenous",
+    "label": "Drug Route of Administration",
+    "start": 2654,
+    "end": 2665
+  }
+]

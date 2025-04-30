@@ -1,0 +1,325 @@
+{"metoprolol": [
+    [
+      "5",
+      "mg",
+      "Not Mentioned",
+      "Not Mentioned"
+    ],
+    [
+        "100",
+        "mg",
+        "Not Mentioned",
+        "Not Mentioned"
+      ]
+],
+"lasix": [
+    [
+      "40",
+      "mg",
+      "IV",
+      "Not Mentioned"
+    ],
+    [
+        "100",
+        "mg",
+        "PO",
+        "Not Mentioned"
+    ]
+],
+"torsemide": [
+    [
+      "60",
+      "mg",
+      "PO",
+      "Tablet"
+    ]
+],
+"lopressor": [
+    [
+      "5",
+      "mg",
+      "IV",
+      "Not Mentioned"
+    ]
+],
+"digoxin": [
+    [
+        "0.0625",
+        "mg",
+        "PO",
+        "Tablet"
+      ]
+],
+"levoquin":[
+    [
+        "500",
+        "mg",
+        "Not Mentioned",
+        "Not Mentioned"
+    ]
+],
+"coumadin":[
+    [
+        "3",
+        "mg",
+        "Not Mentioned",
+        "Not Mentioned"
+    ]
+],
+"tylenol":[
+    [
+        "Not Mentioned",
+        "Not Mentioned",
+        "Not Mentioned",
+        "Not Mentioned"
+    ]
+],
+"albuterol":[
+    [
+        "Not Mentioned",
+        "Not Mentioned",
+        "nebs",
+        "Not Mentioned"
+    ]
+],
+"Aspirin":[
+    [
+        "81",
+        "mg",
+        "Not Mentioned",
+        "Tablet"
+    ]
+],
+"Bisacodyl":[
+    [
+        "10",
+        "mg",
+        "PO",
+        "Tablet"
+    ]
+],
+"Bupropin HCl":[
+    [
+        "100",
+        "mg",
+        "PO",
+        "tablet"
+    ]
+],
+"Clobetasol":[
+    [
+        "0.05",
+        "%",
+        "Not Mentioned",
+        "Cream"
+    ]
+],
+"Cyanocobalamin":[
+    [
+        "500",
+        "mcg",
+        "PO",
+        "Tablet"
+    ]
+],
+"Fexofenadine":[
+    [
+        "60",
+        "mg",
+        "PO",
+        "Tablet"
+    ]
+],
+"Fluticasone-Salmeterol":[
+    [
+        "100-50",
+        "mcg",
+        "PO",
+        "Dose"
+    ]
+],
+"Furosemide":[
+    [
+        "100",
+        "mcg",
+        "Not Mentioned",
+        "Tablet"
+    ]
+],
+"Insulin Glargine":[
+    [
+        "22",
+        "units",
+        "subcutaneous",
+        "Not Mentioned"
+    ]
+],
+"Insulin Lispro":[
+    [
+        "Not Mentioned",
+        "units",
+        "subcutaneous",
+        "Not Mentioned"
+    ]
+],
+"Ipratropium Bromide":[
+    [
+        "0.02",
+        "%",
+        "neb",
+        "Solution"
+    ]
+],
+"LEvothyroxine":[
+    [
+        "225",
+        "mcg",
+        "PO",
+        "Tablet"
+    ]
+],
+"Metoprolol Tartrate":[
+    [
+        "75",
+        "mg",
+        "PO",
+        "Tablet"
+    ]
+],
+"Oxycontin SR":[
+    [
+        "30",
+        "mg",
+        "Not Mentioned",
+        "Not Mentioned"
+    ]
+],
+"Morphine":[
+    [
+        "10/5",
+        "mg/mL",
+        "PO",
+        "Solution"
+    ]
+],
+"Protonix":[
+    [
+        "40",
+        "mg",
+        "PO",
+        "Not Mentioned"
+    ]
+],
+"Sennosides [Senna]":[
+    [
+        "8.6",
+        "mg",
+        "Not Mentioned",
+        "Tablet"
+    ]
+],
+"Simvastatin":[
+    [
+        "20",
+        "mg",
+        "PO",
+        "Tablet"
+    ]
+],
+"Venlafaxine":[
+    [
+        "112.5",
+        "mg",
+        "PO",
+        "Capsule"
+    ]
+],
+"Warfarin":[
+    [
+        "3",
+        "mg",
+        "PO",
+        "Tablet"
+    ]
+],
+"Zolpidem":[
+    [
+        "2.5",
+        "mg",
+        "PO",
+        "Tablet "
+    ]
+],
+"A-Vitamin":[
+    [
+        "Not Mentioned",
+        "Not Mentioned",
+        "Not Mentioned",
+        "Tablet "
+    ]
+],
+"A-Vit":[
+    [
+        "Not Mentioned",
+        "Not Mentioned",
+        "Not Mentioned",
+        "Tablet "
+    ]
+],
+"E-Min":[
+    [
+        "Not Mentioned",
+        "Not Mentioned",
+        "Not Mentioned",
+        "Tablet "
+    ]
+],
+"Acetaminophen":[
+    [
+        "325",
+        "mg",
+        "PO",
+        "Tablet "
+    ]
+],
+"Albuterol Sulfate":[
+    [
+        "2.5/3",
+        "mg/mL",
+        "Nebulization",
+        "Solution "
+    ]
+],
+"Multivitamin":[
+    [
+        "1",
+        "Not Mentioned",
+        "PO",
+        "Tablet "
+    ]
+],
+"Levofloxacin":[
+    [
+        "250",
+        "mg",
+        "PO",
+        "Tablet "
+    ]
+],
+"Oxycodone":[
+    [
+        "30",
+        "mg",
+        "PO",
+        "Tablet "
+    ]
+],
+"Pantoprazole":[
+    [
+        "40",
+        "mg",
+        "PO",
+        "Tablet "
+    ]
+]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "text": "gemcitabine",
+    "label": "Drug Name",
+    "start": 497,
+    "end": 508
+  },
+  {
+    "text": "Abraxane",
+    "label": "Drug Name",
+    "start": 513,
+    "end": 521
+  },
+  {
+    "text": "oxycodone",
+    "label": "Drug Name",
+    "start": 721,
+    "end": 730
+  },
+  {
+    "text": "Omnipaque",
+    "label": "Drug Name",
+    "start": 2016,
+    "end": 2025
+  },
+  {
+    "text": "350",
+    "label": "Drug Strength",
+    "start": 2026,
+    "end": 2029
+  }
+]

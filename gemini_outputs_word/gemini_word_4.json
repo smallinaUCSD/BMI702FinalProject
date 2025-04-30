@@ -1,0 +1,452 @@
+[
+  {
+    "text": "xarelto",
+    "label": "Drug Name",
+    "start": 152,
+    "end": 153
+  },
+  {
+    "text": "fluconazole",
+    "label": "Drug Name",
+    "start": 218,
+    "end": 219
+  },
+  {
+    "text": "cicloprox cream",
+    "label": "Drug Name",
+    "start": 224,
+    "end": 226
+  },
+  {
+    "text": "fluconazole",
+    "label": "Drug Name",
+    "start": 253,
+    "end": 254
+  },
+  {
+    "text": "100 mg",
+    "label": "Drug Strength",
+    "start": 255,
+    "end": 257
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 257,
+    "end": 258
+  },
+  {
+    "text": "200mg PO qd on day one followed by 100mg PO qd on subsequent days",
+    "label": "Drug Dosage",
+    "start": 260,
+    "end": 270
+  },
+  {
+    "text": "1 week",
+    "label": "Duration of Drug Intake",
+    "start": 273,
+    "end": 275
+  },
+  {
+    "text": "hyoscyamine",
+    "label": "Drug Name",
+    "start": 280,
+    "end": 281
+  },
+  {
+    "text": "0.125 MG",
+    "label": "Drug Strength",
+    "start": 283,
+    "end": 285
+  },
+  {
+    "text": "SL tablet",
+    "label": "Drug Form",
+    "start": 285,
+    "end": 287
+  },
+  {
+    "text": "lidocaine-prilocaine",
+    "label": "Drug Name",
+    "start": 304,
+    "end": 305
+  },
+  {
+    "text": "2.5-2.5 %",
+    "label": "Drug Strength",
+    "start": 306,
+    "end": 308
+  },
+  {
+    "text": "cream",
+    "label": "Drug Form",
+    "start": 308,
+    "end": 309
+  },
+  {
+    "text": "lipase-protease-amylase",
+    "label": "Drug Name",
+    "start": 312,
+    "end": 313
+  },
+  {
+    "text": "24,000-76,000 -120,000 unit",
+    "label": "Drug Strength",
+    "start": 314,
+    "end": 317
+  },
+  {
+    "text": "capsule",
+    "label": "Drug Form",
+    "start": 317,
+    "end": 318
+  },
+  {
+    "text": "loperamide",
+    "label": "Drug Name",
+    "start": 321,
+    "end": 322
+  },
+  {
+    "text": "2 mg",
+    "label": "Drug Strength",
+    "start": 323,
+    "end": 324
+  },
+  {
+    "text": "capsule",
+    "label": "Drug Form",
+    "start": 324,
+    "end": 325
+  },
+  {
+    "text": "ondansetron",
+    "label": "Drug Name",
+    "start": 329,
+    "end": 330
+  },
+  {
+    "text": "8 mg",
+    "label": "Drug Strength",
+    "start": 331,
+    "end": 332
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 332,
+    "end": 333
+  },
+  {
+    "text": "oxyCODONE",
+    "label": "Drug Name",
+    "start": 337,
+    "end": 338
+  },
+  {
+    "text": "10 mg",
+    "label": "Drug Strength",
+    "start": 339,
+    "end": 341
+  },
+  {
+    "text": "12 hr ER tablet",
+    "label": "Drug Form",
+    "start": 341,
+    "end": 344
+  },
+  {
+    "text": "oxyCODONE",
+    "label": "Drug Name",
+    "start": 348,
+    "end": 349
+  },
+  {
+    "text": "10 mg",
+    "label": "Drug Strength",
+    "start": 350,
+    "end": 352
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 352,
+    "end": 353
+  },
+  {
+    "text": "prochlorperazine",
+    "label": "Drug Name",
+    "start": 357,
+    "end": 358
+  },
+  {
+    "text": "10 mg",
+    "label": "Drug Strength",
+    "start": 359,
+    "end": 361
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 361,
+    "end": 362
+  },
+  {
+    "text": "rivaroxaban",
+    "label": "Drug Name",
+    "start": 366,
+    "end": 367
+  },
+  {
+    "text": "20 mg",
+    "label": "Drug Strength",
+    "start": 368,
+    "end": 370
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 370,
+    "end": 371
+  },
+  {
+    "text": "terbinafine HCl",
+    "label": "Drug Name",
+    "start": 374,
+    "end": 376
+  },
+  {
+    "text": "1 %",
+    "label": "Drug Strength",
+    "start": 377,
+    "end": 378
+  },
+  {
+    "text": "cream",
+    "label": "Drug Form",
+    "start": 378,
+    "end": 379
+  },
+  {
+    "text": "fluconazole",
+    "label": "Drug Name",
+    "start": 449,
+    "end": 450
+  },
+  {
+    "text": "xarelto",
+    "label": "Drug Name",
+    "start": 456,
+    "end": 457
+  },
+  {
+    "text": "Creon",
+    "label": "Drug Name",
+    "start": 461,
+    "end": 462
+  },
+  {
+    "text": "Oxycontin",
+    "label": "Drug Name",
+    "start": 464,
+    "end": 465
+  },
+  {
+    "text": "10mg",
+    "label": "Drug Strength",
+    "start": 465,
+    "end": 466
+  },
+  {
+    "text": "PO",
+    "label": "Drug Route of Administration",
+    "start": 466,
+    "end": 467
+  },
+  {
+    "text": "Oxycodone",
+    "label": "Drug Name",
+    "start": 467,
+    "end": 468
+  },
+  {
+    "text": "10mg",
+    "label": "Drug Strength",
+    "start": 469,
+    "end": 470
+  },
+  {
+    "text": "PO",
+    "label": "Drug Route of Administration",
+    "start": 470,
+    "end": 471
+  },
+  {
+    "text": "butenafine",
+    "label": "Drug Name",
+    "start": 233,
+    "end": 234
+  },
+  {
+    "text": "1 %",
+    "label": "Drug Strength",
+    "start": 236,
+    "end": 238
+  },
+  {
+    "text": "cream",
+    "label": "Drug Form",
+    "start": 238,
+    "end": 239
+  },
+  {
+    "text": "cholecalciferol",
+    "label": "Drug Name",
+    "start": 241,
+    "end": 242
+  },
+  {
+    "text": "vitamin D3",
+    "label": "Drug Name",
+    "start": 243,
+    "end": 245
+  },
+  {
+    "text": "1000 UNITS",
+    "label": "Drug Strength",
+    "start": 246,
+    "end": 248
+  },
+  {
+    "text": "TAB",
+    "label": "Drug Form",
+    "start": 248,
+    "end": 249
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 249,
+    "end": 250
+  },
+  {
+    "text": "clotrimazole",
+    "label": "Drug Name",
+    "start": 251,
+    "end": 252
+  },
+  {
+    "text": "10 mg",
+    "label": "Drug Strength",
+    "start": 253,
+    "end": 255
+  },
+  {
+    "text": "troche",
+    "label": "Drug Form",
+    "start": 255,
+    "end": 256
+  },
+  {
+    "text": "three times daily",
+    "label": "Frequency of Drug Intake",
+    "start": 259,
+    "end": 262
+  },
+  {
+    "text": "14 days",
+    "label": "Duration of Drug Intake",
+    "start": 263,
+    "end": 265
+  },
+  {
+    "text": "KERYDIN",
+    "label": "Drug Name",
+    "start": 289,
+    "end": 290
+  },
+  {
+    "text": "5 %",
+    "label": "Drug Strength",
+    "start": 291,
+    "end": 292
+  },
+  {
+    "text": "SolA",
+    "label": "Drug Form",
+    "start": 292,
+    "end": 293
+  },
+  {
+    "text": "L.acidoph/B.long/L.plant/B.lac",
+    "label": "Drug Name",
+    "start": 295,
+    "end": 296
+  },
+  {
+    "text": "2 tabs with meals and 1 tab with snacks",
+    "label": "Drug Dosage",
+    "start": 319,
+    "end": 327
+  },
+  {
+    "text": "two capsules by mouth at the onset of diarrhea, then take one capsule every 2 hours until diarrhea-free for 12 hours",
+    "label": "Drug Dosage",
+    "start": 326,
+    "end": 341
+  },
+  {
+    "text": "1 tablet three times a day",
+    "label": "Drug Dosage",
+    "start": 333,
+    "end": 339
+  },
+  {
+    "text": "every 12 (twelve) hours",
+    "label": "Frequency of Drug Intake",
+    "start": 345,
+    "end": 349
+  },
+  {
+    "text": "every 4 (four) hours",
+    "label": "Frequency of Drug Intake",
+    "start": 353,
+    "end": 357
+  },
+  {
+    "text": "every 6 (six) hours",
+    "label": "Frequency of Drug Intake",
+    "start": 362,
+    "end": 366
+  },
+  {
+    "text": "Daily",
+    "label": "Frequency of Drug Intake",
+    "start": 376,
+    "end": 377
+  },
+  {
+    "text": "Daily",
+    "label": "Frequency of Drug Intake",
+    "start": 381,
+    "end": 382
+  },
+  {
+    "text": "2 or 3 tab/meal and 1 tab/snack",
+    "label": "Drug Dosage",
+    "start": 462,
+    "end": 469
+  },
+  {
+    "text": "q4h",
+    "label": "Frequency of Drug Intake",
+    "start": 471,
+    "end": 472
+  },
+  {
+    "text": "QD",
+    "label": "Frequency of Drug Intake",
+    "start": 457,
+    "end": 458
+  }
+]

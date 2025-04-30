@@ -1,0 +1,230 @@
+[
+  {
+    "text": "leuprolide",
+    "label": "Drug Name",
+    "start": 49,
+    "end": 50
+  },
+  {
+    "text": "exemestane",
+    "label": "Drug Name",
+    "start": 51,
+    "end": 52
+  },
+  {
+    "text": "leuprolide",
+    "label": "Drug Name",
+    "start": 54,
+    "end": 55
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 56,
+    "end": 57
+  },
+  {
+    "text": "Lupron",
+    "label": "Drug Name",
+    "start": 158,
+    "end": 159
+  },
+  {
+    "text": "exemestane",
+    "label": "Drug Name",
+    "start": 163,
+    "end": 164
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 166,
+    "end": 167
+  },
+  {
+    "text": "Lupron",
+    "label": "Drug Name",
+    "start": 176,
+    "end": 177
+  },
+  {
+    "text": "Lupron",
+    "label": "Drug Name",
+    "start": 178,
+    "end": 179
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 181,
+    "end": 182
+  },
+  {
+    "text": "exemestane",
+    "label": "Drug Name",
+    "start": 182,
+    "end": 183
+  },
+  {
+    "text": "gapabentin",
+    "label": "Drug Name",
+    "start": 217,
+    "end": 218
+  },
+  {
+    "text": "Lupron",
+    "label": "Drug Name",
+    "start": 234,
+    "end": 235
+  },
+  {
+    "text": "Lupron",
+    "label": "Drug Name",
+    "start": 236,
+    "end": 237
+  },
+  {
+    "text": "tamoxifen",
+    "label": "Drug Name",
+    "start": 240,
+    "end": 241
+  },
+  {
+    "text": "exemestane",
+    "label": "Drug Name",
+    "start": 241,
+    "end": 242
+  },
+  {
+    "text": "gabapentin",
+    "label": "Drug Name",
+    "start": 393,
+    "end": 394
+  },
+  {
+    "text": "300 mg",
+    "label": "Drug Dosage",
+    "start": 395,
+    "end": 397
+  },
+  {
+    "text": "capsule",
+    "label": "Drug Form",
+    "start": 397,
+    "end": 398
+  },
+  {
+    "text": "hydroCHLOROthiazide",
+    "label": "Drug Name",
+    "start": 399,
+    "end": 400
+  },
+  {
+    "text": "HYDRODIURIL",
+    "label": "Drug Name",
+    "start": 400,
+    "end": 401
+  },
+  {
+    "text": "25 mg",
+    "label": "Drug Dosage",
+    "start": 401,
+    "end": 403
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 403,
+    "end": 404
+  },
+  {
+    "text": "25 mg",
+    "label": "Drug Dosage",
+    "start": 405,
+    "end": 407
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 407,
+    "end": 409
+  },
+  {
+    "text": "polymyxin b-trimethoprim",
+    "label": "Drug Name",
+    "start": 411,
+    "end": 413
+  },
+  {
+    "text": "POLYTRIM",
+    "label": "Drug Name",
+    "start": 413,
+    "end": 414
+  },
+  {
+    "text": "ophthalmic solution",
+    "label": "Drug Form",
+    "start": 414,
+    "end": 416
+  },
+  {
+    "text": "10 mL",
+    "label": "Drug Dosage",
+    "start": 419,
+    "end": 421
+  },
+  {
+    "text": "iohexol",
+    "label": "Drug Name",
+    "start": 423,
+    "end": 424
+  },
+  {
+    "text": "OMNIPAQUE",
+    "label": "Drug Name",
+    "start": 424,
+    "end": 425
+  },
+  {
+    "text": "350 mg",
+    "label": "Drug Dosage",
+    "start": 425,
+    "end": 427
+  },
+  {
+    "text": "iodine/mL",
+    "label": "Drug Strength",
+    "start": 427,
+    "end": 428
+  },
+  {
+    "text": "solution",
+    "label": "Drug Form",
+    "start": 428,
+    "end": 429
+  },
+  {
+    "text": "150 mL",
+    "label": "Drug Dosage",
+    "start": 429,
+    "end": 431
+  },
+  {
+    "text": "ddAC",
+    "label": "Drug Name",
+    "start": 47,
+    "end": 48
+  },
+  {
+    "text": "4 week",
+    "label": "Duration of Drug Intake",
+    "start": 158,
+    "end": 160
+  },
+  {
+    "text": "1-2 years",
+    "label": "Duration of Drug Intake",
+    "start": 161,
+    "end": 163
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "text": "cholecalciferol",
+    "label": "Drug Name",
+    "start": 279,
+    "end": 280
+  },
+  {
+    "text": "vitamin D3",
+    "label": "Drug Name",
+    "start": 281,
+    "end": 282
+  },
+  {
+    "text": "VITAMIN D3 ORAL",
+    "label": "Drug Name",
+    "start": 284,
+    "end": 287
+  },
+  {
+    "text": "Take by mouth.",
+    "label": "Drug Route of Administration",
+    "start": 288,
+    "end": 291
+  },
+  {
+    "text": "multivitamin tablet",
+    "label": "Drug Name",
+    "start": 297,
+    "end": 299
+  },
+  {
+    "text": "Take 1 tablet by mouth Daily.",
+    "label": "Frequency of Drug Intake",
+    "start": 300,
+    "end": 305
+  },
+  {
+    "text": "SYNTHROID",
+    "label": "Drug Name",
+    "start": 311,
+    "end": 312
+  },
+  {
+    "text": "112 mcg",
+    "label": "Drug Dosage",
+    "start": 313,
+    "end": 315
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 315,
+    "end": 316
+  },
+  {
+    "text": "Take 112 mcg by mouth Daily.",
+    "label": "Frequency of Drug Intake",
+    "start": 317,
+    "end": 322
+  },
+  {
+    "text": "acetaminophen",
+    "label": "Drug Name",
+    "start": 328,
+    "end": 329
+  },
+  {
+    "text": "TYLENOL",
+    "label": "Drug Name",
+    "start": 330,
+    "end": 331
+  },
+  {
+    "text": "500 mg",
+    "label": "Drug Strength",
+    "start": 332,
+    "end": 334
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 334,
+    "end": 335
+  },
+  {
+    "text": "Take 2 tablets (1,000 mg total) by mouth every 8 (eight) hours",
+    "label": "Frequency of Drug Intake",
+    "start": 336,
+    "end": 346
+  },
+  {
+    "text": "docusate sodium",
+    "label": "Drug Name",
+    "start": 354,
+    "end": 356
+  },
+  {
+    "text": "COLACE",
+    "label": "Drug Name",
+    "start": 357,
+    "end": 358
+  },
+  {
+    "text": "100 mg",
+    "label": "Drug Strength",
+    "start": 359,
+    "end": 361
+  },
+  {
+    "text": "capsule",
+    "label": "Drug Form",
+    "start": 361,
+    "end": 362
+  },
+  {
+    "text": "Take 1 capsule (100 mg total) by mouth Twice a day.",
+    "label": "Frequency of Drug Intake",
+    "start": 363,
+    "end": 372
+  },
+  {
+    "text": "oxycodone",
+    "label": "Drug Name",
+    "start": 376,
+    "end": 377
+  },
+  {
+    "text": "HYDROcodone-acetaminophen",
+    "label": "Drug Name",
+    "start": 381,
+    "end": 382
+  },
+  {
+    "text": "NORCO",
+    "label": "Drug Name",
+    "start": 383,
+    "end": 384
+  },
+  {
+    "text": "5-325 mg",
+    "label": "Drug Strength",
+    "start": 385,
+    "end": 387
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 387,
+    "end": 388
+  },
+  {
+    "text": "Take 1 tablet by mouth every 4 (four) hours",
+    "label": "Frequency of Drug Intake",
+    "start": 389,
+    "end": 397
+  },
+  {
+    "text": "ibuprofen",
+    "label": "Drug Name",
+    "start": 405,
+    "end": 406
+  },
+  {
+    "text": "ADVIL",
+    "label": "Drug Name",
+    "start": 407,
+    "end": 408
+  },
+  {
+    "text": "MOTRIN",
+    "label": "Drug Name",
+    "start": 409,
+    "end": 410
+  },
+  {
+    "text": "600 mg",
+    "label": "Drug Strength",
+    "start": 411,
+    "end": 413
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 413,
+    "end": 414
+  },
+  {
+    "text": "Take 1 tablet (600 mg total) by mouth every 8 (eight) hours",
+    "label": "Frequency of Drug Intake",
+    "start": 415,
+    "end": 424
+  },
+  {
+    "text": "LORazepam",
+    "label": "Drug Name",
+    "start": 432,
+    "end": 433
+  },
+  {
+    "text": "ATIVAN",
+    "label": "Drug Name",
+    "start": 434,
+    "end": 435
+  },
+  {
+    "text": "0.5 mg",
+    "label": "Drug Strength",
+    "start": 436,
+    "end": 438
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 438,
+    "end": 439
+  },
+  {
+    "text": "Take 0.5 mg by mouth every 6 (six) hours",
+    "label": "Frequency of Drug Intake",
+    "start": 440,
+    "end": 448
+  },
+  {
+    "text": "oxyCODONE",
+    "label": "Drug Name",
+    "start": 454,
+    "end": 455
+  },
+  {
+    "text": "ROXICODONE",
+    "label": "Drug Name",
+    "start": 456,
+    "end": 457
+  },
+  {
+    "text": "5 mg",
+    "label": "Drug Strength",
+    "start": 458,
+    "end": 460
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 460,
+    "end": 461
+  },
+  {
+    "text": "Take 1-2 tablets (5-10 mg total) by mouth every 6 (six) hours",
+    "label": "Frequency of Drug Intake",
+    "start": 462,
+    "end": 472
+  },
+  {
+    "text": "Xylocaine",
+    "label": "Drug Name",
+    "start": 1084,
+    "end": 1085
+  },
+  {
+    "text": "TaxAC",
+    "label": "Drug Name",
+    "start": 1563,
+    "end": 1564
+  },
+  {
+    "text": "TaxAC",
+    "label": "Drug Name",
+    "start": 1572,
+    "end": 1573
+  },
+  {
+    "text": "TaxAC",
+    "label": "Drug Name",
+    "start": 1579,
+    "end": 1580
+  },
+  {
+    "text": "TaxAC",
+    "label": "Drug Name",
+    "start": 1588,
+    "end": 1589
+  },
+  {
+    "text": "TaxAC",
+    "label": "Drug Name",
+    "start": 1597,
+    "end": 1598
+  },
+  {
+    "text": "TaxAC",
+    "label": "Drug Name",
+    "start": 1609,
+    "end": 1610
+  },
+  {
+    "text": "Taxotere",
+    "label": "Drug Name",
+    "start": 1630,
+    "end": 1631
+  },
+  {
+    "text": "Cytoxan",
+    "label": "Drug Name",
+    "start": 1632,
+    "end": 1633
+  }
+]

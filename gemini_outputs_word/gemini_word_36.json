@@ -1,0 +1,122 @@
+[
+  {
+    "text": "cholecalciferol",
+    "label": "Drug Name",
+    "start": 257,
+    "end": 258
+  },
+  {
+    "text": "vitamin D3",
+    "label": "Drug Name",
+    "start": 259,
+    "end": 261
+  },
+  {
+    "text": "VITAMIN D3",
+    "label": "Drug Name",
+    "start": 262,
+    "end": 264
+  },
+  {
+    "text": "2,000 unit",
+    "label": "Drug Dosage",
+    "start": 264,
+    "end": 266
+  },
+  {
+    "text": "CAP capsule",
+    "label": "Drug Form",
+    "start": 266,
+    "end": 268
+  },
+  {
+    "text": "Take by mouth.",
+    "label": "Drug Route of Administration",
+    "start": 268,
+    "end": 271
+  },
+  {
+    "text": "AC/weekly T",
+    "label": "Drug Name",
+    "start": 436,
+    "end": 439
+  },
+  {
+    "text": "TC",
+    "label": "Drug Name",
+    "start": 441,
+    "end": 442
+  },
+  {
+    "text": "chemotherapy",
+    "label": "Drug Name",
+    "start": 442,
+    "end": 443
+  },
+  {
+    "text": "TC",
+    "label": "Drug Name",
+    "start": 452,
+    "end": 453
+  },
+  {
+    "text": "TC x 6",
+    "label": "Drug Dosage",
+    "start": 485,
+    "end": 488
+  },
+  {
+    "text": "AC",
+    "label": "Drug Name",
+    "start": 525,
+    "end": 526
+  },
+  {
+    "text": "TC x 6",
+    "label": "Drug Dosage",
+    "start": 558,
+    "end": 561
+  },
+  {
+    "text": "lidocaine",
+    "label": "Drug Name",
+    "start": 600,
+    "end": 601
+  },
+  {
+    "text": "1%",
+    "label": "Drug Strength",
+    "start": 601,
+    "end": 602
+  },
+  {
+    "text": "lidocaine",
+    "label": "Drug Name",
+    "start": 603,
+    "end": 604
+  },
+  {
+    "text": "1%",
+    "label": "Drug Strength",
+    "start": 604,
+    "end": 605
+  },
+  {
+    "text": "Gadolinium",
+    "label": "Drug Name",
+    "start": 607,
+    "end": 608
+  },
+  {
+    "text": "5 cc",
+    "label": "Drug Dosage",
+    "start": 610,
+    "end": 612
+  },
+  {
+    "text": "Gadavist",
+    "label": "Drug Name",
+    "start": 612,
+    "end": 613
+  }
+]

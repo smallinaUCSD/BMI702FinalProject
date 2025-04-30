@@ -1,0 +1,20 @@
+[
+  {
+    "text": "FOLFIRINOX",
+    "label": "Drug Name",
+    "start": 761,
+    "end": 771
+  },
+  {
+    "text": "Irinotecan",
+    "label": "Drug Name",
+    "start": 849,
+    "end": 859
+  },
+  {
+    "text": "FOLFIRINOX",
+    "label": "Drug Name",
+    "start": 3940,
+    "end": 3950
+  }
+]

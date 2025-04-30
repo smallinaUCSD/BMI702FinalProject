@@ -1,0 +1,38 @@
+[
+  {
+    "text": "docetaxel",
+    "label": "Drug Name",
+    "start": 2787,
+    "end": 2796
+  },
+  {
+    "text": "carboplatin",
+    "label": "Drug Name",
+    "start": 2801,
+    "end": 2812
+  },
+  {
+    "text": "Pertuzumab",
+    "label": "Drug Name",
+    "start": 2839,
+    "end": 2849
+  },
+  {
+    "text": "Trastuzumab",
+    "label": "Drug Name",
+    "start": 2854,
+    "end": 2865
+  },
+  {
+    "text": "chemotherapy",
+    "label": "Drug Name",
+    "start": 2918,
+    "end": 2930
+  },
+  {
+    "text": "chemotherapy",
+    "label": "Drug Name",
+    "start": 2991,
+    "end": 3003
+  }
+]

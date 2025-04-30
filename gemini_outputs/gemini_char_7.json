@@ -1,0 +1,368 @@
+[
+  {
+    "text": "FOLFOX",
+    "label": "Drug Name",
+    "start": 573,
+    "end": 579
+  },
+  {
+    "text": "irinotecan",
+    "label": "Drug Name",
+    "start": 589,
+    "end": 599
+  },
+  {
+    "text": "FOLFIRINOX",
+    "label": "Drug Name",
+    "start": 770,
+    "end": 780
+  },
+  {
+    "text": "gemcitabine",
+    "label": "Drug Name",
+    "start": 1002,
+    "end": 1013
+  },
+  {
+    "text": "nab-paclitaxel",
+    "label": "Drug Name",
+    "start": 1018,
+    "end": 1032
+  },
+  {
+    "text": "morphine",
+    "label": "Drug Name",
+    "start": 1179,
+    "end": 1187
+  },
+  {
+    "text": "acetaminophen",
+    "label": "Drug Name",
+    "start": 1388,
+    "end": 1401
+  },
+  {
+    "text": "TYLENOL",
+    "label": "Drug Name",
+    "start": 1403,
+    "end": 1410
+  },
+  {
+    "text": "amylase-lipase-protease",
+    "label": "Drug Name",
+    "start": 1433,
+    "end": 1457
+  },
+  {
+    "text": "Creon 24,000",
+    "label": "Drug Name",
+    "start": 1459,
+    "end": 1472
+  },
+  {
+    "text": "cholecalciferol",
+    "label": "Drug Name",
+    "start": 1583,
+    "end": 1598
+  },
+  {
+    "text": "vitamin D3",
+    "label": "Drug Name",
+    "start": 1601,
+    "end": 1611
+  },
+  {
+    "text": "VITAMIN D3",
+    "label": "Drug Name",
+    "start": 1613,
+    "end": 1623
+  },
+  {
+    "text": "morphine",
+    "label": "Drug Name",
+    "start": 1671,
+    "end": 1679
+  },
+  {
+    "text": "MS Contin",
+    "label": "Drug Name",
+    "start": 1681,
+    "end": 1690
+  },
+  {
+    "text": "15 mg",
+    "label": "Drug Strength",
+    "start": 1692,
+    "end": 1697
+  },
+  {
+    "text": "polyethylene glycol",
+    "label": "Drug Name",
+    "start": 1749,
+    "end": 1769
+  },
+  {
+    "text": "MIRAlax",
+    "label": "Drug Name",
+    "start": 1771,
+    "end": 1778
+  },
+  {
+    "text": "17 gram",
+    "label": "Drug Dosage",
+    "start": 1780,
+    "end": 1787
+  },
+  {
+    "text": "17 g",
+    "label": "Drug Dosage",
+    "start": 1793,
+    "end": 1797
+  },
+  {
+    "text": "potassium chloride",
+    "label": "Drug Name",
+    "start": 1830,
+    "end": 1849
+  },
+  {
+    "text": "Klor-Con",
+    "label": "Drug Name",
+    "start": 1851,
+    "end": 1859
+  },
+  {
+    "text": "20 mEq",
+    "label": "Drug Strength",
+    "start": 1861,
+    "end": 1867
+  },
+  {
+    "text": "2 Tabs",
+    "label": "Drug Dosage",
+    "start": 1888,
+    "end": 1894
+  },
+  {
+    "text": "40 mEq",
+    "label": "Drug Strength",
+    "start": 1896,
+    "end": 1902
+  },
+  {
+    "text": "20 mEq",
+    "label": "Drug Strength",
+    "start": 1936,
+    "end": 1942
+  },
+  {
+    "text": "morphine",
+    "label": "Drug Name",
+    "start": 1196,
+    "end": 1204
+  },
+  {
+    "text": "gemcitabine",
+    "label": "Drug Name",
+    "start": 3329,
+    "end": 3340
+  },
+  {
+    "text": "nab-paclitaxel",
+    "label": "Drug Name",
+    "start": 3341,
+    "end": 3355
+  },
+  {
+    "text": "gemcitabine",
+    "label": "Drug Name",
+    "start": 3578,
+    "end": 3589
+  },
+  {
+    "text": "nab-paclitaxel",
+    "label": "Drug Name",
+    "start": 3590,
+    "end": 3604
+  },
+  {
+    "text": "5-FU",
+    "label": "Drug Name",
+    "start": 3735,
+    "end": 3739
+  },
+  {
+    "text": "irinotecan",
+    "label": "Drug Name",
+    "start": 3757,
+    "end": 3767
+  },
+  {
+    "text": "Onivyde",
+    "label": "Drug Name",
+    "start": 3773,
+    "end": 3780
+  },
+  {
+    "text": "nab-paclitaxel",
+    "label": "Drug Name",
+    "start": 3882,
+    "end": 3896
+  },
+  {
+    "text": "pembrolizumab",
+    "label": "Drug Name",
+    "start": 3940,
+    "end": 3953
+  },
+  {
+    "text": "relacorilant",
+    "label": "Drug Name",
+    "start": 3898,
+    "end": 3910
+  },
+  {
+    "text": "lenvantinib",
+    "label": "Drug Name",
+    "start": 3955,
+    "end": 3966
+  },
+  {
+    "text": "PO",
+    "label": "Drug Route of Administration",
+    "start": 1411,
+    "end": 1413
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 1418,
+    "end": 1426
+  },
+  {
+    "text": "every day",
+    "label": "Frequency of Drug Intake",
+    "start": 1427,
+    "end": 1436
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 1499,
+    "end": 1507
+  },
+  {
+    "text": "3 times a day",
+    "label": "Frequency of Drug Intake",
+    "start": 1508,
+    "end": 1521
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 1547,
+    "end": 1555
+  },
+  {
+    "text": "2 times a day",
+    "label": "Frequency of Drug Intake",
+    "start": 1556,
+    "end": 1569
+  },
+  {
+    "text": "PO",
+    "label": "Drug Route of Administration",
+    "start": 1624,
+    "end": 1626
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 1631,
+    "end": 1639
+  },
+  {
+    "text": "every day",
+    "label": "Frequency of Drug Intake",
+    "start": 1640,
+    "end": 1649
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 1717,
+    "end": 1725
+  },
+  {
+    "text": "daily",
+    "label": "Frequency of Drug Intake",
+    "start": 1726,
+    "end": 1731
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 1802,
+    "end": 1810
+  },
+  {
+    "text": "One Time",
+    "label": "Frequency of Drug Intake",
+    "start": 1811,
+    "end": 1819
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 1908,
+    "end": 1916
+  },
+  {
+    "text": "2 times a day",
+    "label": "Frequency of Drug Intake",
+    "start": 1917,
+    "end": 1930
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 1946,
+    "end": 1954
+  },
+  {
+    "text": "every morning",
+    "label": "Frequency of Drug Intake",
+    "start": 1955,
+    "end": 1968
+  },
+  {
+    "text": "delayed release capsule",
+    "label": "Drug Form",
+    "start": 1473,
+    "end": 1497
+  },
+  {
+    "text": "controlled release tablet",
+    "label": "Drug Form",
+    "start": 1698,
+    "end": 1722
+  },
+  {
+    "text": "sustained release tablet",
+    "label": "Drug Form",
+    "start": 1868,
+    "end": 1892
+  },
+  {
+    "text": "every other week",
+    "label": "Frequency of Drug Intake",
+    "start": 1037,
+    "end": 1053
+  },
+  {
+    "text": "every other week",
+    "label": "Frequency of Drug Intake",
+    "start": 3590,
+    "end": 3606
+  }
+]

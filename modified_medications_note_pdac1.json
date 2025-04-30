@@ -1,0 +1,147 @@
+[
+  {
+    "DRUG": "FOLFIRINOX"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "FOLFOX"
+  },
+  {
+    "DRUG": "5-FU",
+    "DOSAGE": "bolus",
+    "FREQUENCY": "q2 to q3 weeks"
+  },
+  {
+    "DRUG": "oxaliplatin"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "gemcitabine"
+  },
+  {
+    "DRUG": "nab-paclitaxel",
+    "FREQUENCY": "QOW",
+    "DURATION": "28-day"
+  },
+  {
+    "DRUG": "5-FU/LV",
+    "FORM": "nanoliposomal"
+  },
+  {
+    "DRUG": "irinotecan"
+  },
+  {
+    "DRUG": "Onivyde"
+  },
+  {
+    "DRUG": "PRBC",
+    "DOSAGE": "2 units"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "nal-IRI/5"
+  },
+  {
+    "DRUG": "Norco",
+    "FREQUENCY": "twice-daily"
+  },
+  {
+    "DRUG": "TYLENOL",
+    "ROUTE": "oral",
+    "STRENGTH": "200 mg"
+  },
+  {
+    "DRUG": "aspirin",
+    "STRENGTH": "81 mg",
+    "FORM": "ec"
+  },
+  {
+    "DRUG": "aspirin",
+    "STRENGTH": "81 mg",
+    "FORM": "tablet,delayed release",
+    "DOSAGE": "1",
+    "FREQUENCY": "every day",
+    "ROUTE": "oral route"
+  },
+  {
+    "DRUG": "carvedilol",
+    "STRENGTH": "200 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1-2",
+    "ROUTE": "by mouth"
+  },
+  {
+    "DRUG": "loperamide"
+  },
+  {
+    "DRUG": "IMODIUM",
+    "STRENGTH": "2 mg",
+    "FORM": "capsule",
+    "DOSAGE": "two",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 2 hours"
+  },
+  {
+    "DRUG": "LORazepam"
+  },
+  {
+    "DRUG": "ATIVAN",
+    "STRENGTH": "1 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 12 (twelve) hours as needed"
+  },
+  {
+    "DRUG": "PROTONIX",
+    "STRENGTH": "20 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "Daily"
+  },
+  {
+    "DRUG": "COMPAZINE",
+    "STRENGTH": "10 mg",
+    "FORM": "tablet",
+    "DOSAGE": "1",
+    "ROUTE": "by mouth",
+    "FREQUENCY": "every 6 (six) hours as needed"
+  },
+  {
+    "DRUG": "rosuvastatin"
+  },
+  {
+    "DRUG": "CRESTOR",
+    "STRENGTH": "20 mg",
+    "FORM": "tablet"
+  },
+  {
+    "DRUG": "5-FU/LV",
+    "FORM": "nanoliposomal"
+  },
+  {
+    "DRUG": "irinotecan"
+  },
+  {
+    "DRUG": "Onivyde"
+  },
+  {
+    "DRUG": "chemotherapy"
+  },
+  {
+    "DRUG": "trametinib"
+  },
+  {
+    "DRUG": "hydroxychloroquine"
+  },
+  {
+    "DRUG": "antimalarial"
+  }
+]

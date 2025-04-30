@@ -1,0 +1,212 @@
+[
+  {
+    "text": "ibuprofen",
+    "label": "Drug Name",
+    "start": 3416,
+    "end": 3425
+  },
+  {
+    "text": "ADVIL",
+    "label": "Drug Name",
+    "start": 3427,
+    "end": 3432
+  },
+  {
+    "text": "MOTRIN",
+    "label": "Drug Name",
+    "start": 3434,
+    "end": 3440
+  },
+  {
+    "text": "800 mg",
+    "label": "Drug Dosage",
+    "start": 3442,
+    "end": 3448
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3449,
+    "end": 3455
+  },
+  {
+    "text": "800 mg",
+    "label": "Drug Dosage",
+    "start": 3459,
+    "end": 3465
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3466,
+    "end": 3474
+  },
+  {
+    "text": "once",
+    "label": "Frequency of Drug Intake",
+    "start": 3475,
+    "end": 3479
+  },
+  {
+    "text": "omeprazole",
+    "label": "Drug Name",
+    "start": 3494,
+    "end": 3503
+  },
+  {
+    "text": "PRILOSEC",
+    "label": "Drug Name",
+    "start": 3505,
+    "end": 3513
+  },
+  {
+    "text": "20 mg",
+    "label": "Drug Dosage",
+    "start": 3515,
+    "end": 3520
+  },
+  {
+    "text": "capsule",
+    "label": "Drug Form",
+    "start": 3521,
+    "end": 3528
+  },
+  {
+    "text": "20 mg",
+    "label": "Drug Dosage",
+    "start": 3532,
+    "end": 3537
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3538,
+    "end": 3546
+  },
+  {
+    "text": "triamterene-hydrochlorothiazide",
+    "label": "Drug Name",
+    "start": 3561,
+    "end": 3592
+  },
+  {
+    "text": "DYAZIDE",
+    "label": "Drug Name",
+    "start": 3594,
+    "end": 3601
+  },
+  {
+    "text": "37.5-25 mg",
+    "label": "Drug Strength",
+    "start": 3603,
+    "end": 3613
+  },
+  {
+    "text": "capsule",
+    "label": "Drug Form",
+    "start": 3614,
+    "end": 3621
+  },
+  {
+    "text": "1 capsule",
+    "label": "Drug Dosage",
+    "start": 3625,
+    "end": 3634
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 3635,
+    "end": 3643
+  },
+  {
+    "text": "Daily",
+    "label": "Frequency of Drug Intake",
+    "start": 3644,
+    "end": 3649
+  },
+  {
+    "text": "predniSONE",
+    "label": "Drug Name",
+    "start": 3655,
+    "end": 3665
+  },
+  {
+    "text": "DELTASONE",
+    "label": "Drug Name",
+    "start": 3667,
+    "end": 3677
+  },
+  {
+    "text": "5 mg",
+    "label": "Drug Dosage",
+    "start": 3679,
+    "end": 3683
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 3684,
+    "end": 3690
+  },
+  {
+    "text": "12 cycles",
+    "label": "Duration of Drug Intake",
+    "start": 4571,
+    "end": 4580
+  },
+  {
+    "text": "weekly",
+    "label": "Frequency of Drug Intake",
+    "start": 4581,
+    "end": 4587
+  },
+  {
+    "text": "paclitaxel",
+    "label": "Drug Name",
+    "start": 4588,
+    "end": 4598
+  },
+  {
+    "text": "4 cycles",
+    "label": "Duration of Drug Intake",
+    "start": 4609,
+    "end": 4617
+  },
+  {
+    "text": "doxorubicin",
+    "label": "Drug Name",
+    "start": 4621,
+    "end": 4632
+  },
+  {
+    "text": "cyclophosphamide",
+    "label": "Drug Name",
+    "start": 4638,
+    "end": 4654
+  },
+  {
+    "text": "AC",
+    "label": "Drug Name",
+    "start": 4656,
+    "end": 4658
+  },
+  {
+    "text": "every 2 weeks",
+    "label": "Frequency of Drug Intake",
+    "start": 4659,
+    "end": 4672
+  },
+  {
+    "text": "paclitaxel",
+    "label": "Drug Name",
+    "start": 4756,
+    "end": 4766
+  },
+  {
+    "text": "AC/T",
+    "label": "Drug Name",
+    "start": 4990,
+    "end": 4994
+  }
+]

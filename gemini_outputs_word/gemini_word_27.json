@@ -1,0 +1,392 @@
+[
+  {
+    "text": "acetaminophen (TYLENOL)",
+    "label": "Drug Name",
+    "start": 307,
+    "end": 309
+  },
+  {
+    "text": "325 mg",
+    "label": "Drug Strength",
+    "start": 310,
+    "end": 312
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 312,
+    "end": 313
+  },
+  {
+    "text": "Take 2 tablets (650 mg total) by mouth",
+    "label": "Drug Dosage",
+    "start": 313,
+    "end": 320
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 319,
+    "end": 321
+  },
+  {
+    "text": "every 4 (four) hours",
+    "label": "Frequency of Drug Intake",
+    "start": 321,
+    "end": 325
+  },
+  {
+    "text": "acetaminophen (TYLENOL)",
+    "label": "Drug Name",
+    "start": 329,
+    "end": 331
+  },
+  {
+    "text": "500 mg",
+    "label": "Drug Strength",
+    "start": 332,
+    "end": 334
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 334,
+    "end": 335
+  },
+  {
+    "text": "Take 1 tablet (500 mg total) by mouth",
+    "label": "Drug Dosage",
+    "start": 335,
+    "end": 342
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 341,
+    "end": 343
+  },
+  {
+    "text": "every 6 (six) hours",
+    "label": "Frequency of Drug Intake",
+    "start": 343,
+    "end": 347
+  },
+  {
+    "text": "ascorbic acid (VITAMIN C)",
+    "label": "Drug Name",
+    "start": 351,
+    "end": 354
+  },
+  {
+    "text": "500 mg",
+    "label": "Drug Strength",
+    "start": 354,
+    "end": 356
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 356,
+    "end": 357
+  },
+  {
+    "text": "Take 500 mg by mouth",
+    "label": "Drug Dosage",
+    "start": 357,
+    "end": 361
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 360,
+    "end": 362
+  },
+  {
+    "text": "every other day",
+    "label": "Frequency of Drug Intake",
+    "start": 362,
+    "end": 365
+  },
+  {
+    "text": "atenolol (TENORMIN)",
+    "label": "Drug Name",
+    "start": 368,
+    "end": 370
+  },
+  {
+    "text": "25 mg",
+    "label": "Drug Strength",
+    "start": 371,
+    "end": 373
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 373,
+    "end": 374
+  },
+  {
+    "text": "Take 25 mg by mouth",
+    "label": "Drug Dosage",
+    "start": 374,
+    "end": 378
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 377,
+    "end": 379
+  },
+  {
+    "text": "every morning",
+    "label": "Frequency of Drug Intake",
+    "start": 379,
+    "end": 381
+  },
+  {
+    "text": "docusate sodium (COLACE)",
+    "label": "Drug Name",
+    "start": 384,
+    "end": 387
+  },
+  {
+    "text": "100 mg",
+    "label": "Drug Strength",
+    "start": 387,
+    "end": 389
+  },
+  {
+    "text": "capsule",
+    "label": "Drug Form",
+    "start": 389,
+    "end": 390
+  },
+  {
+    "text": "Take 1 capsule (100 mg total) by mouth",
+    "label": "Drug Dosage",
+    "start": 390,
+    "end": 397
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 396,
+    "end": 398
+  },
+  {
+    "text": "Twice a day",
+    "label": "Frequency of Drug Intake",
+    "start": 398,
+    "end": 401
+  },
+  {
+    "text": "gabapentin (NEURONTIN)",
+    "label": "Drug Name",
+    "start": 404,
+    "end": 406
+  },
+  {
+    "text": "300 mg",
+    "label": "Drug Strength",
+    "start": 407,
+    "end": 409
+  },
+  {
+    "text": "capsule",
+    "label": "Drug Form",
+    "start": 409,
+    "end": 410
+  },
+  {
+    "text": "Take 1 capsule (300 mg total) by mouth",
+    "label": "Drug Dosage",
+    "start": 410,
+    "end": 417
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 416,
+    "end": 418
+  },
+  {
+    "text": "3 (three) times daily",
+    "label": "Frequency of Drug Intake",
+    "start": 418,
+    "end": 422
+  },
+  {
+    "text": "ibuprofen (ADVIL,MOTRIN)",
+    "label": "Drug Name",
+    "start": 425,
+    "end": 428
+  },
+  {
+    "text": "600 mg",
+    "label": "Drug Strength",
+    "start": 428,
+    "end": 430
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 430,
+    "end": 431
+  },
+  {
+    "text": "Take 1 tablet (600 mg total) by mouth",
+    "label": "Drug Dosage",
+    "start": 431,
+    "end": 438
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 437,
+    "end": 439
+  },
+  {
+    "text": "every 6 (six) hours",
+    "label": "Frequency of Drug Intake",
+    "start": 439,
+    "end": 443
+  },
+  {
+    "text": "multivitamin",
+    "label": "Drug Name",
+    "start": 447,
+    "end": 448
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 448,
+    "end": 449
+  },
+  {
+    "text": "Take 1 tablet by mouth",
+    "label": "Drug Dosage",
+    "start": 449,
+    "end": 454
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 452,
+    "end": 454
+  },
+  {
+    "text": "Daily",
+    "label": "Frequency of Drug Intake",
+    "start": 454,
+    "end": 455
+  },
+  {
+    "text": "omeprazole (PRILOSEC)",
+    "label": "Drug Name",
+    "start": 458,
+    "end": 460
+  },
+  {
+    "text": "20 mg",
+    "label": "Drug Strength",
+    "start": 461,
+    "end": 463
+  },
+  {
+    "text": "capsule",
+    "label": "Drug Form",
+    "start": 463,
+    "end": 464
+  },
+  {
+    "text": "Take 20 mg by mouth",
+    "label": "Drug Dosage",
+    "start": 464,
+    "end": 468
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 467,
+    "end": 469
+  },
+  {
+    "text": "every morning",
+    "label": "Frequency of Drug Intake",
+    "start": 469,
+    "end": 471
+  },
+  {
+    "text": "simvastatin (ZOCOR)",
+    "label": "Drug Name",
+    "start": 474,
+    "end": 476
+  },
+  {
+    "text": "20 mg",
+    "label": "Drug Strength",
+    "start": 476,
+    "end": 478
+  },
+  {
+    "text": "tablet",
+    "label": "Drug Form",
+    "start": 478,
+    "end": 479
+  },
+  {
+    "text": "Take 20 mg by mouth",
+    "label": "Drug Dosage",
+    "start": 479,
+    "end": 483
+  },
+  {
+    "text": "by mouth",
+    "label": "Drug Route of Administration",
+    "start": 482,
+    "end": 484
+  },
+  {
+    "text": "nightly at bedtime",
+    "label": "Frequency of Drug Intake",
+    "start": 484,
+    "end": 487
+  },
+  {
+    "text": "aromatase inhibitor",
+    "label": "Drug Name",
+    "start": 770,
+    "end": 772
+  },
+  {
+    "text": "AC",
+    "label": "Drug Name",
+    "start": 778,
+    "end": 779
+  },
+  {
+    "text": "paclitaxel",
+    "label": "Drug Name",
+    "start": 780,
+    "end": 781
+  },
+  {
+    "text": "chemotherapy",
+    "label": "Drug Name",
+    "start": 787,
+    "end": 788
+  },
+  {
+    "text": "AC",
+    "label": "Drug Name",
+    "start": 808,
+    "end": 809
+  },
+  {
+    "text": "paclitaxel",
+    "label": "Drug Name",
+    "start": 810,
+    "end": 811
+  }
+]

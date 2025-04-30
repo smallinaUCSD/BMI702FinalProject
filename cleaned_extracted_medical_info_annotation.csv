@@ -1,0 +1,994 @@
+,Patient Index,Drug Name,Drug Dosage,Unit of Measurement of Dosage,Drug Form,Route
+0,0,Prozac,unknown doses,Not mentioned.,Not mentioned.,Not mentioned.
+1,0,Ativan,unknown doses,Not mentioned.,Not mentioned.,Not mentioned.
+2,0,Trazodone,unknown doses,Not mentioned.,Not mentioned.,Not mentioned.
+3,0,Seroquel,unknown doses,Not mentioned.,Not mentioned.,Not mentioned.
+4,0,lorazepam,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+5,0,amitriptyline,100,mg,Not mentioned.,PO
+6,0,clonidine,0.1,mg,TABLET,PO
+7,0,Diphenhydramine,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+8,0,albuterol,Not mentioned.,Not mentioned.,MDI,Not mentioned.
+9,0,loratadine,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+10,0,fexofenadine,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+11,0,diphenhydramine,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+12,0,hydrocortisone,1,%,Cream,Topical
+13,0,triamcinolone,Not mentioned.,Not mentioned.,creams,Not mentioned.
+14,0,multivitamin,One (1),Not mentioned.,Tablet,PO
+15,0,Thiamine HCl,100,mg,Tablet,PO
+16,0,Folic Acid,1,mg,Tablet,PO
+17,0,Cortisone,1,%,Cream,Topical
+18,0,Triamcinolone Acetonide,0.025,%,Cream,Topical
+19,0,Albuterol Sulfate,90,mcg,HFA Aerosol Inhaler,Inhalation
+20,0,Clonidine,0.1,mg,Tablet,PO
+21,0,Diphenhydramine HCl,25,mg,Capsule,PO
+22,0,Amitriptyline,100,mg,Not mentioned.,PO
+23,1,PhosLo,1334mg,mg,Not mentioned.,Not mentioned.
+24,1,Acetaminophen,650 mg,mg,Not mentioned.,PO
+25,1,Amlodipine,5 mg,mg,Not mentioned.,PO
+26,1,Aspirin,81 mg,mg,Not mentioned.,PO
+27,1,Atorvastatin,40 mg,mg,Not mentioned.,PO
+28,1,Calcitriol,0.25 mcg,mcg,Not mentioned.,PO
+29,1,Citalopram,20 mg,mg,Not mentioned.,PO
+30,1,Docusate Sodium,100 mg,mg,Not mentioned.,PO
+31,1,Levothyroxine Sodium,50 mcg,mcg,Not mentioned.,PO
+32,1,Lisinopril,40 mg,mg,Not mentioned.,PO
+33,1,Metoprolol Succinate XL,50 mg,mg,Not mentioned.,PO
+34,1,Nephrocaps,1,CAP,Not mentioned.,PO
+35,1,Omeprazole,20 mg,mg,Not mentioned.,PO
+36,1,Pregabalin,25 mg,mg,Not mentioned.,PO
+37,1,Ropinirole,0.25 mg,mg,Not mentioned.,PO
+38,1,sevelamer CARBONATE,3200 mg,mg,Not mentioned.,PO
+39,1,Clopidogrel,75 mg,mg,Not mentioned.,PO
+40,1,Isosorbide Mononitrate (Extended Release),30 mg,mg,Not mentioned.,PO
+41,1,Furosemide,80 mg,mg,Not mentioned.,PO
+42,1,Lactobacillus acidophilus,Not mentioned.,Not mentioned.,Not mentioned.,ORAL
+43,1,Oxycodone-Acetaminophen,5mg-325mg,mg,TAB,PO
+44,1,Humalog,15 Units,Units,Not mentioned.,Not mentioned.
+45,1,Humalog,30 Units,Units,Not mentioned.,Not mentioned.
+46,1,NPH,30 Units,Units,Not mentioned.,Not mentioned.
+47,1,NPH,30 Units,Units,Not mentioned.,Not mentioned.
+48,1,Calcium Acetate,1334 mg,mg,Not mentioned.,PO
+49,1,calcium acetate,667 mg,mg,tablet,by mouth
+50,2,erythromycin with ethanol 2 % topical,Not mentioned.,Not mentioned.,Other,Not mentioned.
+51,2,Tretinoin 0.05% Cream,1,Not mentioned.,Appl,TP
+52,2,Spironolactone,100,mg,Not mentioned.,PO
+53,2,Cetirizine,10,mg,Not mentioned.,PO
+54,2,Escitalopram Oxalate,25,mg,Not mentioned.,PO
+55,2,TraZODone,50,mg,Not mentioned.,PO
+56,2,Acetaminophen,1000,mg,Not mentioned.,PO
+57,2,Ibuprofen,400,mg,Not mentioned.,PO
+58,2,OxyCODONE (Immediate Release),5,mg,tablet,PO
+59,2,Cetirizine,10,mg,Not mentioned.,PO
+60,2,erythromycin with ethanol 2 % topical,Not mentioned.,Not mentioned.,Other,Not mentioned.
+61,2,Escitalopram Oxalate,25,mg,Not mentioned.,PO
+62,2,Spironolactone,100,mg,Not mentioned.,PO
+63,2,TraZODone,50,mg,Not mentioned.,PO
+64,2,Tretinoin 0.05% Cream,1,Not mentioned.,Appl,TP
+65,2,heparin,Not mentioned.,Not mentioned.,Not mentioned.,subcutaneous
+66,3,Vicodin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+67,3,Keflex,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+68,3,vancomycin,1 gram,gram,Not mentioned.,IV
+69,3,morphine,4 mg,mg,Not mentioned.,IV
+70,3,vanc/zosyn,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+71,3,linezolid,Not mentioned.,Not mentioned.,Not mentioned.,PO
+72,3,cipro,Not mentioned.,Not mentioned.,Not mentioned.,PO
+73,3,dilaudid,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+74,3,levothyroxine,50 to 25 mg,mg,Not mentioned.,Not mentioned.
+75,3,lisinopril,5mg,mg,Not mentioned.,Not mentioned.
+76,3,labetalol,200mg,mg,Not mentioned.,Not mentioned.
+77,3,nortriptyline,5 mg,mg,Not mentioned.,Not mentioned.
+78,3,omeprazole,20 mg,mg,Not mentioned.,Not mentioned.
+79,3,ammonium lactate 12% cream,Not mentioned.,%,cream,Not mentioned.
+80,3,cephalexin,500 mg,mg,Not mentioned.,Not mentioned.
+81,3,vicodin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+82,3,dexamethasone 0.4%,0.4,%,Not mentioned.,Not mentioned.
+83,3,vitamin D,Not mentioned.,units,Not mentioned.,Not mentioned.
+84,3,insulin aspart,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+85,3,labetalol,200 mg,mg,Not mentioned.,Not mentioned.
+86,3,levothyroxine,50 mcg,mcg,Not mentioned.,Not mentioned.
+87,3,lisinopril,5 mg,mg,Not mentioned.,Not mentioned.
+88,3,nortriptyline,5 mg,mg,Not mentioned.,Not mentioned.
+89,3,omeprazole,20 mg,mg,Not mentioned.,Not mentioned.
+90,3,omeprazole,20 mg,mg,"Capsule, Delayed Release(E.C.)",PO
+91,3,nortriptyline,10 mg/5 mL,mg/mL,Solution,PO
+92,3,lisinopril,5 mg,mg,Tablet,PO
+93,3,labetalol,200 mg,mg,Tablet,PO
+94,3,ferrous sulfate,300  mg (60 mg Iron),mg,Tablet,PO
+95,3,docusate sodium,100 mg,mg,Capsule,PO
+96,3,bisacodyl,5 mg,mg,"Tablet, Delayed Release (E.C.)",PO
+97,3,senna,8.6 mg,mg,Tablet,PO
+98,3,levothyroxine,50 mcg,mcg,Tablet,PO
+99,3,insulin pump cartridge,Not mentioned.,Not mentioned.,Not mentioned.,Subcutaneous
+100,3,linezolid,Not mentioned.,mg,Tablet,PO
+101,3,ciprofloxacin,500 mg,mg,Tablet,PO
+102,3,hydromorphone,2 mg,mg,Tablet,PO
+103,3,Keflex,Not mentioned.,Not mentioned.,Not mentioned.,PO
+104,3,vancomycin,Not mentioned.,Not mentioned.,Not mentioned.,IV
+105,3,ciprofloxacin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+106,3,linezolid,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+107,3,ciprofloxacin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+108,3,insulin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+109,3,levothyroxine,25 mg,mg,Not mentioned.,Not mentioned.
+110,3,linezolid,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+111,3,ciprofloxacin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+112,3,iron,Not mentioned.,Not mentioned.,tablet,Not mentioned.
+113,4,Tylenol,Not mentioned.,mg,Not mentioned.,Not mentioned.
+114,4,ibuprofen,400,mg,Not mentioned.,Not mentioned.
+115,4,aspirin,365,mg,Not mentioned.,Not mentioned.
+116,4,Cipro,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+117,4,flagyl,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+118,4,Vancomycin,125,mg,capsule,PO
+119,4,Acetaminophen,325-650,mg,Not mentioned.,PO
+120,4,Aspirin,81,mg,Not mentioned.,PO
+121,4,cabergoline,0.25,mg,oral,oral
+122,4,clomiPHENE citrate,25,mg,oral,oral
+123,4,Gabapentin,100,mg,Not mentioned.,PO
+124,4,Ibuprofen,400,mg,Not mentioned.,PO
+125,4,LORazepam,1,mg,Not mentioned.,PO
+126,4,Multivitamins W/minerals,1,Not mentioned.,TAB,PO
+127,4,Pravastatin,40,mg,Not mentioned.,PO
+128,4,Sertraline,100,mg,Not mentioned.,PO
+129,4,TraZODone,100,mg,Not mentioned.,PO
+130,4,Vitamin K,10,mg,Not mentioned.,IV
+131,5,unasyn,Not mentioned.,Not mentioned.,Not mentioned.,IV
+132,5,vancomycin,Not mentioned.,Not mentioned.,Not mentioned.,IV
+133,5,azithro,Not mentioned.,Not mentioned.,Not mentioned.,PO
+134,5,vancomycin,Not mentioned.,Not mentioned.,Not mentioned.,IV
+135,5,Augmentin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+136,5,enalapril,20,mg,Not mentioned.,Not mentioned.
+137,5,metop,100,mg,Not mentioned.,Not mentioned.
+138,5,omeprazole,40,mg,Not mentioned.,Not mentioned.
+139,5,atorvastatin,40,mg,Not mentioned.,PO
+140,5,Enalapril Maleate,20,mg,Not mentioned.,PO
+141,5,Metoprolol Succinate XL,100,mg,Not mentioned.,PO
+142,5,Omeprazole,40,mg,Not mentioned.,PO
+143,5,BuPROPion XL,150,mg,Not mentioned.,PO
+144,5,Amoxicillin-Clavulanic Acid,875 mg-125 mg,mg,tab,PO
+145,5,Atorvastatin,40,mg,Not mentioned.,PO
+146,5,BuPROPion XL,150,mg,Not mentioned.,PO
+147,5,Enalapril Maleate,20,mg,Not mentioned.,PO
+148,5,Metoprolol Succinate XL,100,mg,Not mentioned.,PO
+149,5,Omeprazole,40,mg,Not mentioned.,PO
+150,6,Lantus,40,units,Not mentioned.,Not mentioned.
+151,6,Humalog,Not mentioned.,units,Not mentioned.,Not mentioned.
+152,6,PNV,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+153,6,Acetaminophen,Not mentioned.,mg,Not mentioned.,PO
+154,6,Bisacodyl,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+155,6,Docusate Sodium,100,mg,Not mentioned.,PO
+156,6,Ibuprofen,600,mg,Not mentioned.,PO
+157,6,ibuprofen,600,mg,tablet,by mouth
+158,6,Humalog,6,Units,Not mentioned.,Not mentioned.
+159,6,Humalog,6,Units,Not mentioned.,Not mentioned.
+160,6,Humalog,6,Units,Not mentioned.,Not mentioned.
+161,6,Lantus,16,Units,Not mentioned.,Not mentioned.
+162,6,Insulin,Not mentioned.,Not mentioned.,Not mentioned.,SC
+163,6,OxyCODONE,Not mentioned.,mg,Not mentioned.,PO
+164,6,oxycodone,5,mg,tablet,by mouth
+165,7,Hydrocortisone,100mg,mg,Not mentioned.,Not mentioned.
+166,7,dexamethasone,20mg,mg,Not mentioned.,Not mentioned.
+167,7,benadryl,50mg,mg,Not mentioned.,IV
+168,7,pepcid,20mg,mg,Not mentioned.,IV
+169,7,Rituximab,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+170,7,Dexamethasone,10mg,mg,Not mentioned.,IV
+171,7,Diphenhydramine,50mg,mg,Not mentioned.,IV
+172,7,Acetaminophen,650mg,mg,Not mentioned.,PO
+173,7,Famotidine,20mg,mg,Not mentioned.,IV
+174,7,Cetirizine,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+175,7,Sertraline,50mg,mg,Not mentioned.,PO
+176,7,Clonazepam,Not mentioned.,Not mentioned.,Not mentioned.,PRN
+177,7,Sertraline,50mg,mg,Not mentioned.,PO
+178,7,Gabapentin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+179,7,Allopurinol,Not mentioned.,mg,Not mentioned.,PO
+180,7,ClonazePAM,0.5 mg,mg,Not mentioned.,PO
+181,7,Gabapentin,600 mg,mg,Not mentioned.,PO
+182,7,Acyclovir,400 mg,mg,Not mentioned.,PO
+183,7,Sertraline,50 mg,mg,Not mentioned.,PO
+184,7,Cetirizine,10 mg,mg,oral,Not mentioned.
+185,7,Acyclovir,400 mg,mg,Not mentioned.,PO
+186,7,Allopurinol,Not mentioned.,mg,Not mentioned.,PO
+187,7,Cetirizine,10 mg,mg,oral,Not mentioned.
+188,7,ClonazePAM,0.5 mg,mg,Not mentioned.,PO
+189,7,Gabapentin,600 mg,mg,Not mentioned.,PO
+190,7,Sertraline,50 mg,mg,Not mentioned.,PO
+191,7,doxycycline,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+192,8,alprazolam,0.25 mg,mg,Not mentioned.,prn
+193,8,Lovenox,90mg,mg,Not mentioned.,Not mentioned.
+194,8,warfarin,5 mg,mg,Not mentioned.,Not mentioned.
+195,8,Acetaminophen,650 mg,mg,Not mentioned.,PO
+196,8,OxycoDONE (Immediate Release),5 mg,mg,tablet,PO
+197,8,Enoxaparin Sodium,90 mg,mg,Not mentioned.,SC
+198,8,Warfarin,5 mg,mg,tablet,PO
+199,9,levothyroxine,75 mcg,mcg,Tablet,PO
+200,9,Ativan,1 mg,mg,Tablet,PO
+201,9,albuterol sulfate,2.5 mg,mg,Solution for Nebulization,Inhalation
+202,9,metronidazole,500 mg,mg,Tablet,PO
+203,9,levofloxacin,250 mg,mg,Tablet,PO
+204,9,prochlorperazine,25 mg,mg,Suppository,Rectal
+205,9,promethazine,25 mg,mg,Tablet,PO
+206,9,ondansetron,8 mg,mg,"Tablet, Rapid Dissolve",PO
+207,9,oxycodone,20 mg/mL,mg/mL,Concentrate,PO
+208,9,levothyroxine,75mcg,mcg,Not mentioned.,Not mentioned.
+209,9,HCTZ,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+210,9,MVI,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+211,9,prochlorperazine,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+212,9,Cipro,250mg,mg,Not mentioned.,Not mentioned.
+213,9,Ampicillin,1.5gm,gm,Not mentioned.,Not mentioned.
+214,9,albuterol,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+215,9,Flagyl,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+216,9,Levofloxacin,250mg,mg,Not mentioned.,Not mentioned.
+217,9,Prochlorperazine,25mg,mg,Not mentioned.,Not mentioned.
+218,9,Promethazine,50mg,mg,Tablet,Not mentioned.
+219,9,Zofran,8mg,mg,Not mentioned.,Not mentioned.
+220,10,Warfarin,5mg,mg,Tablet,PO
+221,10,Warfarin,2.5mg,mg,po,po
+222,10,Digoxin,0.125mg,mg,po,po
+223,10,Aspirin,81mg,mg,po,po
+224,10,Metoprolol,50 mg,mg,po,po
+225,10,Miralax,1,Not mentioned.,capful,Not mentioned.
+226,10,Omeprazole,20mg,mg,po,po
+227,10,Levothyroxine,0.05mg,mg,po,po
+228,10,Imdur,60 mg,mg,po,po
+229,10,Cosopt eye drops,one,Not mentioned.,gtt,each eye
+230,10,Xalatan eye drops,one,Not mentioned.,gtt,Not mentioned.
+231,10,Warfarin,5 mg,mg,Tablet,PO
+232,10,Clopidogrel,75 mg,mg,Tablet,PO
+233,10,Nitroglycerin,0.3 mg,mg,Tablet,Sublingual
+234,10,Metoprolol Tartrate,50 mg,mg,Tablet,PO
+235,10,Simvastatin,40 mg,mg,Tablet,PO
+236,10,Digoxin,125 mcg,mcg,Tablet,PO
+237,10,Omeprazole,20 mg,mg,"Capsule, Delayed Release(E.C.)",PO
+238,10,Levothyroxine,50 mcg,mcg,Tablet,PO
+239,10,Isosorbide Mononitrate,60 mg,mg,Tablet Sustained Release 24 hr,PO
+240,10,Latanoprost,0.005,%,Drops,Ophthalmic
+241,10,Dorzolamide-Timolol,Not mentioned.,%,Drops,Ophthalmic
+242,10,Aspirin,81 mg,mg,"Tablet, Delayed Release (E.C.)",PO
+243,10,Miralax,100,%,Powder,PO
+244,10,coumadin,5mg,mg,Not mentioned.,Not mentioned.
+245,12,OxycoDONE Liquid,___,mg,Liquid,PO
+246,13,Acetaminophen,325,mg,Tablet,PO
+247,13,Albuterol Sulfate,2.5,mg,Solution for Nebulization,Inhalation
+248,13,Ipratropium Bromide,0.02,%,Solution,Inhalation
+249,13,Aspirin,81,mg,"Tablet, Chewable",PO
+250,13,Bisacodyl,5,mg,"Tablet, Delayed Release (E.C.)",PO
+251,13,Bupropion HCl,100,mg,Tablet Sustained Release,PO
+252,13,Cyanocobalamin,500,mcg,Tablet,PO
+253,13,Fexofenadine,60,mg,Tablet,PO
+254,13,Fluticasone-Salmeterol,100-50,mcg/Dose,Disk with Device,Inhalation
+255,13,Senna,8.6,mg,Tablet,PO
+256,13,Multivitamin,Not mentioned.,Not mentioned.,Tablet,PO
+257,13,Levofloxacin,250,mg,Tablet,PO
+258,13,Zolpidem,5,mg,Tablet,PO
+259,13,Venlafaxine,37.5,mg,Tablet,PO
+260,13,Simvastatin,10,mg,Tablet,PO
+261,13,Levothyroxine,75,mcg,Tablet,PO
+262,13,Oxycodone,30,mg,Tablet Sustained Release 12 hr,PO
+263,13,Morphine,10,mg,Solution,PO
+264,13,Pantoprazole,40,mg,"Tablet, Delayed Release (E.C.)",PO
+265,13,Insulin Lispro,100,unit/mL,Solution,Subcutaneous
+266,13,Metoprolol Tartrate,25,mg,Tablet,PO
+267,13,Ipratropium Bromide,0.02,%,neb Solution,Inhalation
+268,13,Digoxin,125,mcg,Tablet,PO
+269,13,Torsemide,20,mg,Tablet,PO
+270,13,Warfarin,1,mg,Tablet,PO
+271,13,lasix,40,Not mentioned.,Not mentioned.,IV
+272,13,lasix,100,mg,Not mentioned.,PO
+273,13,lasix,9,mg,Not mentioned.,Not mentioned.
+274,13,combivent,Not mentioned.,Not mentioned.,nebs,Not mentioned.
+275,13,lopressor,5,mg,Not mentioned.,IV
+276,13,metoprolol,100,mg,Not mentioned.,Not mentioned.
+277,13,digoxin,0.0625,mg,Not mentioned.,Not mentioned.
+278,13,coumadin,3,mg,Not mentioned.,Not mentioned.
+279,13,levofloxacin,500,mg,Not mentioned.,Not mentioned.
+280,13,oxycontine,30,Not mentioned.,Not mentioned.,Not mentioned.
+281,13,morphine,Not mentioned.,Not mentioned.,liq,Not mentioned.
+282,13,tylenol,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+283,13,glargine,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+284,13,levothyroxine,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+285,13,metoprolol,100,mg,Not mentioned.,Not mentioned.
+286,13,digoxin,0.0625,mg,Not mentioned.,Not mentioned.
+287,13,coumadin,3,mg,Not mentioned.,Not mentioned.
+288,13,levofloxacin,500,mg,Not mentioned.,Not mentioned.
+289,13,morphine,5,mg,Not mentioned.,Not mentioned.
+290,13,metoprolol,5,mg,Not mentioned.,Not mentioned.
+291,13,lasix,40,mg,Not mentioned.,IV
+292,13,nitro,Not mentioned.,Not mentioned.,gtt,Not mentioned.
+293,14,levophed,Not mentioned.,Not mentioned.,Not mentioned.,peripheral
+294,14,CFTX,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+295,14,flagyl,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+296,14,azithromycin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+297,14,Piperacillin-Tazobactam,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+298,14,NORepinephrine,0.03-0.4,mcg/kg/min,Not mentioned.,Not mentioned.
+299,14,amiodarone,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+300,15,morphine,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+301,15,atorvastatin,80,mg,Not mentioned.,Not mentioned.
+302,15,metoprolol,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+303,15,amlodipine,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+304,15,lisinopril,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+305,15,ASA,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+306,15,clopidogrel,75,mg,Not mentioned.,Not mentioned.
+307,15,Amlodipine,5,mg,Not mentioned.,PO
+308,15,Clopidogrel,75,mg,Not mentioned.,PO
+309,15,Lisinopril,20,mg,Not mentioned.,PO
+310,15,Metoprolol Tartrate,150,mg,Not mentioned.,PO
+311,15,Metoprolol Tartrate,100,mg,Not mentioned.,PO
+312,15,LeVITRA (vardenafil),20,mg,oral,Not mentioned.
+313,15,Aspirin EC,325,mg,Not mentioned.,PO
+314,15,Atorvastatin,80,mg,Not mentioned.,PO
+315,15,Amlodipine,10,mg,tablet,PO
+316,15,Aspirin EC,325,mg,Not mentioned.,PO
+317,15,Clopidogrel,75,mg,Not mentioned.,PO
+318,15,Lisinopril (lisinopril),20,mg,ORAL,Not mentioned.
+319,15,Metoprolol Tartrate,150,mg,Not mentioned.,PO
+320,15,Metoprolol Tartrate,100,mg,Not mentioned.,PO
+321,15,Lidocaine,5,%,Patch,TD
+322,15,LeVITRA (vardenafil),20,mg,oral,Not mentioned.
+323,15,Atorvastatin,80,mg,Not mentioned.,PO
+324,16,lisinopril,20 mg,mg,Not mentioned.,PO
+325,16,Simvastatin,40 mg,mg,Not mentioned.,PO
+326,16,Ibuprofen,400 mg,mg,Not mentioned.,PO
+327,16,Vitamin D,Not mentioned.,UNIT,Not mentioned.,PO
+328,16,Acetaminophen,1000 mg,mg,Not mentioned.,PO
+329,16,Buprenorphine-Naloxone Tablet (8mg-2mg),2,Not mentioned.,TAB,SL
+330,16,tadalafil,20 mg,mg,oral,Not mentioned.
+331,16,Pantoprazole,40 mg,mg,Not mentioned.,PO
+332,16,lisinopril,20 mg,mg,Not mentioned.,PO
+333,16,Simvastatin,40 mg,mg,Not mentioned.,PO
+334,16,Ibuprofen,400 mg,mg,Not mentioned.,PO
+335,16,Vitamin D,Not mentioned.,UNIT,Not mentioned.,PO
+336,16,Acetaminophen,1000 mg,mg,Not mentioned.,PO
+337,16,Buprenorphine-Naloxone Tablet (8mg-2mg),2,Not mentioned.,TAB,SL
+338,16,tadalafil,20 mg,mg,oral,Not mentioned.
+339,16,Pantoprazole,40 mg,mg,Not mentioned.,PO
+340,16,suboxone,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+341,16,lisinopril,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+342,17,Enoxaparin Sodium,100,mg,Not mentioned.,SC
+343,17,Glargine,22,Units,Not mentioned.,Not mentioned.
+344,17,Levothyroxine Sodium,112,mcg,Not mentioned.,PO
+345,17,Lisinopril,10,mg,Not mentioned.,PO
+346,17,Simvastatin,20,mg,Not mentioned.,PO
+347,17,Torsemide,20,mg,Not mentioned.,PO
+348,17,Acetaminophen,1000,mg,Not mentioned.,PO
+349,17,Docusate Sodium,100,mg,Not mentioned.,PO
+350,17,OxycoDONE (Immediate Release),5,mg,Not mentioned.,PO
+351,17,Amoxicillin,Not mentioned.,mg,Not mentioned.,PO
+352,17,Calcitriol,0.5,mcg,Not mentioned.,PO
+353,17,MetFORMIN XR (Glucophage XR),500,mg,Not mentioned.,PO
+354,17,Metoprolol Succinate XL,50,mg,Not mentioned.,PO
+355,17,Warfarin,10,mg,Not mentioned.,PO
+356,17,Warfarin,7.5,mg,Not mentioned.,PO
+357,17,Acetaminophen,650,mg,Not mentioned.,PO
+358,17,Calcitriol,0.5,mcg,Not mentioned.,PO
+359,17,Glargine,22,Units,Not mentioned.,Not mentioned.
+360,17,Levothyroxine Sodium,112,mcg,Not mentioned.,PO
+361,17,Lisinopril,10,mg,Not mentioned.,PO
+362,17,Metoprolol Tartrate,25,mg,Not mentioned.,PO
+363,17,Simvastatin,20,mg,Not mentioned.,PO
+364,17,Torsemide,20,mg,Not mentioned.,PO
+365,17,Warfarin,10,mg,Not mentioned.,PO
+366,17,Warfarin,7.5,mg,Not mentioned.,PO
+367,18,cipro,250,mg,Not mentioned.,Not mentioned.
+368,18,Atorvastatin,40,mg,Not mentioned.,PO
+369,18,Amlodipine,5,mg,Not mentioned.,PO
+370,18,Fexofenadine,180,mg,Not mentioned.,PO
+371,18,Labetalol,200,mg,Not mentioned.,PO
+372,18,Nasonex,50,mcg,actuation,NU
+373,18,mometasone,50,mcg,actuation,NU
+374,18,Valsartan,320,mg,Not mentioned.,PO
+375,18,Aspirin,81,mg,Not mentioned.,PO
+376,18,TraMADOL,50,mg,Not mentioned.,PO
+377,18,Calcium Carbonate,600,mg,Not mentioned.,PO
+378,18,Vitamin D,1000,UNIT,Not mentioned.,PO
+379,18,Slow Release Iron,47.5,mg,iron,Oral
+380,18,ferrous sulfate,47.5,mg,iron,Oral
+381,18,ferrous sulfate dried,47.5,mg,iron,Oral
+382,18,Levothyroxine Sodium,Unknown,Not mentioned.,Not mentioned.,PO
+383,18,Amlodipine,5,mg,Not mentioned.,PO
+384,18,Aspirin,81,mg,Not mentioned.,PO
+385,18,Atorvastatin,40,mg,Not mentioned.,PO
+386,18,Calcium Carbonate,600,mg,Not mentioned.,PO
+387,18,Fexofenadine,180,mg,Not mentioned.,PO
+388,18,Labetalol,200,mg,Not mentioned.,PO
+389,18,Levothyroxine Sodium,100,mcg,Not mentioned.,PO
+390,18,Valsartan,320,mg,Not mentioned.,PO
+391,18,Vitamin D,1000,UNIT,Not mentioned.,PO
+392,18,Levothyroxine Sodium,150,mcg,Not mentioned.,PO
+393,18,Acetaminophen,1000,mg,Not mentioned.,PO
+394,18,Docusate Sodium,100,mg,Not mentioned.,PO
+395,18,Enoxaparin Sodium,30,mg,Not mentioned.,SC
+396,18,HYDROmorphone,Not mentioned.,mg,Not mentioned.,PO
+397,18,Dilaudid,Not mentioned.,mg,Not mentioned.,PO
+398,18,Senna,1,TAB,Not mentioned.,PO
+399,18,Nasonex,50,mcg,actuation,NU
+400,18,mometasone,50,mcg,actuation,NU
+401,18,Slow Release Iron,47.5,mg,iron,Oral
+402,18,ferrous sulfate,47.5,mg,iron,Oral
+403,18,ferrous sulfate dried,47.5,mg,iron,Oral
+404,18,Polyethylene Glycol,17,g,Not mentioned.,PO
+405,18,Ciprofloxacin HCl,250,mg,Not mentioned.,PO
+406,19,Metoprolol Succinate,50 mg,mg,Tablet Sustained Release 24 hr,PO
+407,19,Atorvastatin,40 mg,mg,Tablet,PO
+408,19,Omeprazole,20 mg,mg,"Capsule, Delayed Release(E.C.)",PO
+409,19,Tolterodine,4 mg,mg,"Capsule, Sust. Release 24 hr",PO
+410,19,Zolpidem,5 mg,mg,Tablet,PO
+411,19,Vitamin D,"1,000 unit",unit,Tablet,PO
+412,19,Methimazole,10 mg,mg,Tablet,PO
+413,19,Aspirin,325 mg,mg,Tablet,PO
+414,19,Memantine,10 mg,mg,Tablet,PO
+415,19,Donepezil,10 mg,mg,Tablet,PO
+416,19,Ativan,0.5 mg,mg,Tablet,PO
+417,19,Atorvastatin,40mg,mg,Not mentioned.,PO
+418,19,Donepezil,10mg,mg,Not mentioned.,PO
+419,19,Memantine,10mg,mg,Not mentioned.,PO
+420,19,Methimazole,5mg,mg,Not mentioned.,PO
+421,19,Metoprolol XL,25mg,mg,Not mentioned.,PO
+422,19,Omeprazole,20mg,mg,Not mentioned.,PO
+423,19,Tolterodine SR,4mg,mg,Not mentioned.,PO
+424,19,Zolpidem,5mg,mg,Not mentioned.,PO
+425,19,ASA,81mg,mg,Not mentioned.,PO
+426,19,Cholecalciferol (Vitamin D3),"1,000",units,Not mentioned.,Not mentioned.
+427,19,Glucosamine-Chondroitin,750 mg-600 mg,mg,Tablet,Not mentioned.
+428,19,Prasterone,50mg,mg,Not mentioned.,PO
+429,20,Spironolactone,100mg,mg,Not mentioned.,Not mentioned.
+430,20,Lasix,60mg,mg,Not mentioned.,Not mentioned.
+431,20,Lactulose,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+432,20,Rifaximin,400 mg,mg,Not mentioned.,Not mentioned.
+433,20,Lactulose,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+434,20,Rifaximin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+435,20,Nadolol,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+436,20,Lasix,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+437,20,Spironolactone,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+438,20,Lactulose,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+439,20,Fioricet,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+440,20,Fioricet,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+441,20,Sumatriptan,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+442,20,Dilantin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+443,20,Topamax,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+444,20,Celexa,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+445,20,Nadolol,20mg,mg,Not mentioned.,Not mentioned.
+446,20,Thiamine,100 mg,mg,Not mentioned.,Not mentioned.
+447,20,Celexa,20mg,mg,Not mentioned.,Not mentioned.
+448,20,Spironolactone,100mg,mg,Not mentioned.,Not mentioned.
+449,20,Lasix,60mg,mg,Not mentioned.,Not mentioned.
+450,20,Antivert,25mg,mg,Not mentioned.,Not mentioned.
+451,20,Baclofen,10mg,mg,Not mentioned.,Not mentioned.
+452,20,Calcium Car,500mg,mg,Not mentioned.,Not mentioned.
+453,20,Dilantin,100mg,mg,Not mentioned.,Not mentioned.
+454,20,Reglan,5mg,mg,Not mentioned.,Not mentioned.
+455,20,Lactulose,30ml,ml,Not mentioned.,PO
+456,20,Zantac,150mg,mg,Not mentioned.,Not mentioned.
+457,20,Topamax,100mg,mg,Not mentioned.,Not mentioned.
+458,20,Fioricet,2,tabs,Not mentioned.,PO
+459,20,Imitrex,0.5ml,ml,Not mentioned.,SQ
+460,20,Maxair INH,1,puff,Not mentioned.,Not mentioned.
+461,20,Simethicone,80mg,mg,Not mentioned.,Not mentioned.
+462,20,Trazodone,50mg,mg,Not mentioned.,Not mentioned.
+463,20,Rifaximin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+464,21,metoprolol,Not mentioned.,Not mentioned.,Not mentioned.,IV
+465,21,cefepime,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+466,21,flagyl,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+467,21,aspirin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+468,21,lovenox,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+469,21,atenolol,5,mg,Not mentioned.,Not mentioned.
+470,21,lasix,10,mg,Not mentioned.,IV
+471,21,warfarin,5,mg,Tablet,Not mentioned.
+472,21,Metronidazole,500,mg,Piggyback,Intravenous
+473,21,Cefepime,2,gram,Recon Soln Injection,Not mentioned.
+474,21,Heparin,"2,000",unit,Parenteral Solution,Intravenous
+475,21,Heparin Flush,10,unit/mL,Kit,Intravenous
+476,21,Lansoprazole,30,mg,"Tablet,Rapid Dissolve",Not mentioned.
+477,21,Isosorbide Mononitrate,30,mg,Tablet Sustained Release 24 hr,Not mentioned.
+478,21,Atenolol,50,mg,Tablet,Not mentioned.
+479,21,Amlodipine,5,mg,Tablet,Not mentioned.
+480,21,Lisinopril,20,mg,Tablet,Not mentioned.
+481,21,Digoxin,125,mcg,Tablet,Not mentioned.
+482,21,Multivitamin,Not mentioned.,Not mentioned.,Tablet,Not mentioned.
+483,21,Aspirin,81,mg,"Tablet, Chewable",Not mentioned.
+484,21,Docusate Sodium,100,mg,Capsule,Not mentioned.
+485,21,Bisacodyl,5,mg,"Tablet, Delayed Release (E.C.)",Not mentioned.
+486,21,Senna,8.6,mg,Tablet,Not mentioned.
+487,21,Polyethylene Glycol 3350,100,%,Powder,Not mentioned.
+488,21,Acetaminophen,325,mg,Tablet,Not mentioned.
+489,21,Docusate Sodium,100,mg,Capsule,Not mentioned.
+490,21,Senna,8.6,mg,Tablet,Not mentioned.
+491,21,Digoxin,125,mcg,Tablet,Not mentioned.
+492,21,Atenolol,50,mg,Tablet,Not mentioned.
+493,21,trazodone,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+494,21,zolpidem,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+495,21,Keppra,Not mentioned.,Not mentioned.,Not mentioned.,IV
+496,21,Ativan,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+497,21,Cefepime,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+498,21,metronidazole,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+499,23,Tylenol 3,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+500,23,Femara,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+501,23,Aromasin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+502,23,HCTZ,50mg,mg,Not mentioned.,po
+503,23,Amlodipine,5mg,mg,Not mentioned.,po
+504,23,Irbesartan,300mg,mg,Not mentioned.,po
+505,23,Pravastatin,80mg,mg,Not mentioned.,po
+506,23,Vitamin B12,1000,mcg/mL,injection,Not mentioned.
+507,23,hydrochlorothiazide,50,mg,Tablet,PO
+508,23,pravastatin,80,mg,Tablet,PO
+509,23,amlodipine,5,mg,Tablet,PO
+510,23,irbesartan,300,mg,Tablet,PO
+511,23,acetaminophen-codeine,300-30,mg,Tablet,PO
+512,25,Pantoprazole,40 mg,mg,Not mentioned.,PO
+513,25,Senna,8.6 mg,mg,Not mentioned.,PO
+514,25,Topiramate (Topamax),25 mg,mg,Not mentioned.,PO
+515,25,Oxycodone-Acetaminophen,5mg-325mg,mg,TAB,PO
+516,25,Acetaminophen,650 mg,mg,Not mentioned.,PO
+517,25,Docusate Sodium,100 mg,mg,Not mentioned.,PO
+518,25,OxycoDONE (Immediate Release),5 mg,mg,Not mentioned.,PO
+519,25,Pantoprazole,40 mg,mg,Not mentioned.,PO
+520,25,Topiramate (Topamax),25 mg,mg,Not mentioned.,PO
+521,25,heparin,Not mentioned.,Not mentioned.,Not mentioned.,IV
+522,25,Lovenox,80mg,mg,Not mentioned.,SC
+523,25,progesterone,Not mentioned.,Not mentioned.,Not mentioned.,PO
+524,25,Lovenox,50mg,mg,Not mentioned.,SC
+525,26,aspirin,81 mg,mg,Not mentioned.,PO
+526,26,lisinopril,10 mg,mg,Not mentioned.,PO
+527,26,colchicine,0.6 mg,mg,TABLET,PO
+528,26,warfarin,2 mg,mg,TABLET,PO
+529,26,Fluticasone Propionate,1,SPRY,NASAL,NU
+530,26,Oxycodone-Acetaminophen,5mg-325mg,mg,TAB,PO
+531,26,Zolpidem Tartrate,10 mg,mg,Not mentioned.,PO
+532,26,Atorvastatin,20 mg,mg,TABLET,PO
+533,26,Metoprolol Succinate XL,25 mg,mg,TABLET,PO
+534,26,full aspirin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+535,26,nitroglycerin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+536,26,heparin,Not mentioned.,Not mentioned.,gtt,Not mentioned.
+537,26,coumadin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+538,26,ASA,81 mg,mg,Not mentioned.,Not mentioned.
+539,26,metoprolol,25 mg,mg,Not mentioned.,Not mentioned.
+540,26,lisinopril,10 mg,mg,Not mentioned.,Not mentioned.
+541,26,atorastatin,20 mg,mg,Not mentioned.,Not mentioned.
+542,26,naproxen,500 mg,mg,Not mentioned.,PO
+543,26,atenolol,50 mg,mg,Not mentioned.,PO
+544,26,simvastatin,20 mg,mg,Not mentioned.,PO
+545,27,Acetaminophen,1000,mg,Not mentioned.,PO
+546,27,Azithromycin,500,mg,Not mentioned.,PO
+547,27,Lisinopril,20,mg,Not mentioned.,PO
+548,27,lisinopril,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+549,27,azithromycin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+550,27,Motrin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+551,27,Naprosyn,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+552,27,Indocin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+553,27,Aspirin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+554,27,Coumadin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+555,27,Plavix,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+556,28,lorazepam,1 mg,mg,Tablet,PO
+557,28,lisinopril,5 mg,mg,Tablet,PO
+558,28,glyburide,5 mg,mg,Tablet,PO
+559,28,atenolol,50 mg,mg,Tablet,PO
+560,28,emtricitabine-tenofovir,200-300 mg,mg,Tablet,PO
+561,28,darunavir,400 mg,mg,Tablet,PO
+562,28,ritonavir,100 mg,mg,Capsule,PO
+563,28,paroxetine HCl,10 mg,mg,Tablet,PO
+564,28,Glyburide,5mg,mg,Not mentioned.,Not mentioned.
+565,28,lisinopril,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+566,28,Atenolol,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+567,28,paroxetine,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+568,28,lorazepam,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+569,28,Truvada,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+570,28,Darunavir,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+571,28,zolpidem,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+572,28,lorazepam,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+573,28,keppra,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+574,28,lorazepam,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+575,28,lorazepam,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+576,28,dilaudid,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+577,28,oxycodone,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+578,28,Glyburide,5mg,mg,Not mentioned.,Not mentioned.
+579,28,lisinopril,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+580,28,Atenolol,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+581,28,metoprolol,Not mentioned.,Not mentioned.,Not mentioned.,IV
+582,28,paroxetine,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+583,28,lorazepam,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+584,28,Truvada,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+585,28,Darunavir,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+586,28,atenolol,50,Not mentioned.,Not mentioned.,Not mentioned.
+587,28,glyburide,5,Not mentioned.,Not mentioned.,Not mentioned.
+588,28,lidoderm patch,Not mentioned.,Not mentioned.,patch,Not mentioned.
+589,28,lisinopril,10,Not mentioned.,Not mentioned.,Not mentioned.
+590,28,norvir,100,Not mentioned.,Not mentioned.,Not mentioned.
+591,28,oxycodone,5,Not mentioned.,Not mentioned.,Not mentioned.
+592,28,lorazepam,1,Not mentioned.,Not mentioned.,Not mentioned.
+593,28,truvada,200-300,Not mentioned.,Not mentioned.,Not mentioned.
+594,28,paroxetine,10mg,mg,Not mentioned.,Not mentioned.
+595,28,ambien,10mg,mg,Not mentioned.,Not mentioned.
+596,28,Prezista,400mg,mg,Not mentioned.,Not mentioned.
+597,28,lorazepam,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+598,28,zolpidem,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+599,28,naproxen,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+600,28,ibuprofen,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+601,28,aspirin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+602,28,acetaminophen,2gm,gm,Not mentioned.,Not mentioned.
+603,30,Enoxaparin Sodium,80,mg,Syringe,SC
+604,30,Pantoprazole,40,mg,Tablet,PO
+605,30,Warfarin,5,mg,Not mentioned.,PO
+606,30,ALPRAZolam,1,mg,Not mentioned.,PO
+607,30,ALPRAZolam,1,mg,Not mentioned.,PO
+608,30,Propranolol,20,mg,Not mentioned.,PO
+609,30,Restasis,0.05,%,ophthalmic,Not mentioned.
+610,30,Venlafaxine,75,mg,Not mentioned.,PO
+611,30,heparin,Not mentioned.,Not mentioned.,Not mentioned.,intravenous
+612,30,heparin,Not mentioned.,Not mentioned.,Not mentioned.,injectable
+613,30,Lovenox,Not mentioned.,Not mentioned.,Not mentioned.,injectable
+614,31,Levothyroxine,112,mcg,Not mentioned.,Not mentioned.
+615,31,Folic Acid,1,mg,Not mentioned.,Not mentioned.
+616,31,Aspirin,81,mg,Not mentioned.,Not mentioned.
+617,31,Omeprazole,40,mg,Not mentioned.,Not mentioned.
+618,31,Neurontin,200,mg,Not mentioned.,Not mentioned.
+619,31,Niacin ER,500,mg,Not mentioned.,Not mentioned.
+620,31,Metoprolol,12.5,mg,Not mentioned.,Not mentioned.
+621,31,Lipitor,40,mg,Not mentioned.,Not mentioned.
+622,31,Ultram,100,mg,Not mentioned.,Not mentioned.
+623,31,Ultram,50,mg,Not mentioned.,Not mentioned.
+624,31,NPH insulin,45,units,Not mentioned.,Not mentioned.
+625,31,Humulin R insulin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+626,31,Senna,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+627,31,Ativan,1,mg,Not mentioned.,Not mentioned.
+628,31,levophed,Not mentioned.,Not mentioned.,Not mentioned.,IV
+629,32,Coumadin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+630,32,Profil 9,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+631,32,FFP,2,units,Not mentioned.,Not mentioned.
+632,32,vit K,10,units,Not mentioned.,Not mentioned.
+633,32,Keppra,1,g,Not mentioned.,IV
+634,32,rocuronium,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+635,32,fent,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+636,32,midaz,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+637,32,Propofol,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+638,32,Coumadin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+639,32,aspirin,81,mg,Not mentioned.,daily
+640,32,diltiazem,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+641,32,Coumadin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+642,32,diltiazem,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+643,32,Metoprolol,Not mentioned.,Not mentioned.,Not mentioned.,IV
+644,32,aspirin,81,mg,Not mentioned.,daily
+645,32,warfarin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+646,32,dilt ER,240,daily,Not mentioned.,Not mentioned.
+647,32,dilt,30,mg,Not mentioned.,qid
+648,32,dicloxacillin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+649,32,ceftriaxone,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+650,32,vancomycin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+651,32,vancomycin,Not mentioned.,Not mentioned.,Not mentioned.,PO
+652,32,tylenol,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+653,32,oxycodone,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+654,32,vancomycin,Not mentioned.,Not mentioned.,Not mentioned.,IV
+655,32,vancomycin,Not mentioned.,Not mentioned.,Not mentioned.,PO
+656,32,dilt ER,240,daily,Not mentioned.,Not mentioned.
+657,32,dilt,30,mg,Not mentioned.,qid
+658,32,Diltiazem Extended-Release,240,mg,Not mentioned.,PO
+659,32,DiCLOXacillin,500,mg,Not mentioned.,PO
+660,32,Senna,8.6,mg,Not mentioned.,PO
+661,32,Docusate Sodium,100,mg,Not mentioned.,PO
+662,32,Docusate Sodium,100,mg,Not mentioned.,PO
+663,32,Senna,8.6,mg,Not mentioned.,PO
+664,32,Aspirin,81,mg,Not mentioned.,PO
+665,32,Vancomycin,1000,mg,Not mentioned.,IV
+666,32,Vancomycin,Not mentioned.,mg,Liquid,PO
+667,32,Diltiazem,30,mg,Not mentioned.,PO
+668,32,warfarin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+669,32,aspirin,81mg,Not mentioned.,Not mentioned.,daily
+670,32,diltiazem,30mg,Not mentioned.,Not mentioned.,four times a day
+671,32,vancomycin,Not mentioned.,Not mentioned.,Not mentioned.,IV
+672,32,vancomycin,Not mentioned.,Not mentioned.,Not mentioned.,PO
+673,33,Amitriptyline,25,mg,Not mentioned.,Not mentioned.
+674,33,Levothyroxine,0.05,mg,Not mentioned.,Not mentioned.
+675,33,Micardis,40,mg,Not mentioned.,Not mentioned.
+676,33,Catowet,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+677,33,Requipt,3,mg,Not mentioned.,Not mentioned.
+678,33,Azolect,0.5,mg,Not mentioned.,Not mentioned.
+679,33,ASA,81,mg,Not mentioned.,Not mentioned.
+680,33,Acetaminophen,325,mg,Tablet,PO
+681,33,Amlodipine,5,mg,Tablet,PO
+682,33,Atorvastatin,10,mg,Tablet,PO
+683,33,Amitriptyline,25,mg,Tablet,PO
+684,33,Levothyroxine,50,mcg,Tablet,PO
+685,33,Ropinirole,1,mg,Tablet,PO
+686,33,Rasagiline,0.5,mg,Tablet,PO
+687,33,Aspirin,81,mg,Tablet,PO
+688,34,tylenol,1,L,Not mentioned.,IVF
+689,34,atenolol,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+690,34,Aspirin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+691,34,oxybutynin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+692,34,calcium,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+693,34,vitamin D,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+694,34,Fosamax,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+695,34,escitalopram,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+696,34,trazodone,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+697,34,Cyanocobalamin,1000,mcg,Not mentioned.,Not mentioned.
+698,34,Lexapro,10,mg,Not mentioned.,Not mentioned.
+699,34,Vitamin D,400,units,Not mentioned.,Not mentioned.
+700,34,Atenolol,25,mg,Not mentioned.,Not mentioned.
+701,34,ASA,325,mg,Not mentioned.,Not mentioned.
+702,34,Folic Acid,Not mentioned.,mcg,Not mentioned.,Not mentioned.
+703,34,Oxybutinin SR,5,mg,Not mentioned.,Not mentioned.
+704,34,Colace,100,mg,Not mentioned.,Not mentioned.
+705,34,Senna,Not mentioned.,cap,Not mentioned.,Not mentioned.
+706,34,Calcium Carbonate,500,mg,Not mentioned.,Not mentioned.
+707,34,Acetaminophen,650,mg,Not mentioned.,Not mentioned.
+708,34,Trazodone,100,mg,Not mentioned.,Not mentioned.
+709,34,Fosamax,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+710,34,MVI,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+711,34,Metamucil,1,tbsp,Not mentioned.,Not mentioned.
+712,34,Cyanocobalamin,500,mcg,Tablet,PO
+713,34,Escitalopram,10,mg,Tablet,PO
+714,34,Cholecalciferol (Vitamin D3),400,unit,Tablet,PO
+715,34,Atenolol,25,mg,Tablet,PO
+716,34,Folic Acid,1,mg,Tablet,PO
+717,34,Oxybutynin Chloride,5,mg,Tablet,PO
+718,34,Docusate Sodium,100,mg,Capsule,PO
+719,34,Senna,8.6,mg,Tablet,PO
+720,34,Calcium Carbonate,500,mg,"Tablet, Chewable",PO
+721,34,Aspirin,325,mg,Tablet,PO
+722,34,Acetaminophen,500,mg,Tablet,PO
+723,34,Trazodone,100,mg,Tablet,PO
+724,34,Psyllium,1,Packet,Packet,PO
+725,34,Alendronate,70,mg,Tablet,PO
+726,34,Tylenol,1000,mg,Not mentioned.,Not mentioned.
+727,35,Ciprofloxacin HCl,250 mg,mg,TABLET,PO
+728,35,Enoxaparin Sodium,100 mg,mg,syringe,SC
+729,35,GlipiZIDE XL,10 mg,mg,Not mentioned.,PO
+730,35,Lisinopril,5 mg,mg,Not mentioned.,PO
+731,35,Metoprolol Succinate XL,100 mg,mg,Not mentioned.,PO
+732,35,Mirtazapine,30 mg,mg,Not mentioned.,PO
+733,35,OxycoDONE (Immediate Release),2.5 mg,mg,TABLET,PO
+734,35,Quetiapine Fumarate,12.5 mg,mg,Not mentioned.,PO
+735,35,Carbidopa-Levodopa,0.5,Not mentioned.,TAB,PO
+736,35,Atorvastatin,80 mg,mg,Not mentioned.,PO
+737,35,Acetaminophen,325 mg,mg,Not mentioned.,PO
+738,35,Donepezil,10 mg,mg,Not mentioned.,PO
+739,35,Docusate Sodium,100 mg,mg,capsule,PO
+740,37,Brimonidine/Alphagan P,Not mentioned.,Not mentioned.,Not mentioned.,to RT eye
+741,37,Citalopram,20,Not mentioned.,Not mentioned.,Not mentioned.
+742,37,Simvastatin,20,Not mentioned.,Not mentioned.,Not mentioned.
+743,37,ASA,81,Not mentioned.,Not mentioned.,Not mentioned.
+744,37,Docusate Sodium,100,Not mentioned.,Not mentioned.,Not mentioned.
+745,37,Nitro,0.3,Not mentioned.,Not mentioned.,prn
+746,37,Furosemide,40,Not mentioned.,Not mentioned.,Not mentioned.
+747,37,Oxycodone-Acetaminophen,Not mentioned.,Not mentioned.,Not mentioned.,prn
+748,37,cyanocobalamin,100,Not mentioned.,Not mentioned.,Not mentioned.
+749,37,coumadin,5,Not mentioned.,Not mentioned.,Not mentioned.
+750,37,brimonidine,0.15,%,Drops,OD
+751,37,Warfarin,3,mg,Tablet,PO
+752,37,Citalopram,20,mg,Tablet,PO
+753,37,Famotidine,20,mg,Tablet,PO
+754,37,Simvastatin,10,mg,Tablet,PO
+755,37,Aspirin,81,mg,"Tablet, Chewable",PO
+756,37,Furosemide,80,mg,Tablet,PO
+757,37,Cyanocobalamin,100,mcg,Tablet,PO
+758,37,Oxycodone-Acetaminophen,Not mentioned.,mg,Tablet,PO
+759,37,Metoprolol Tartrate,25,mg,Tablet,PO
+760,37,Brimonidine,0.15,%,Drops,Ophthalmic
+761,37,Nitroglycerin,0.4,mg,"Tablet, Sublingual",Sublingual
+762,37,Metronidazole,500,mg,Tablet,PO
+763,37,Ciprofloxacin,500,mg,Tablet,PO
+764,37,Docusate Sodium,100,mg,Capsule,PO
+765,37,Bisacodyl,5,mg,"Tablet, Delayed Release (E.C.)",PO
+766,38,Diltiazem Extended-Release,360 mg,mg,Not mentioned.,PO
+767,38,Hydrochlorothiazide,25 mg,mg,Not mentioned.,PO
+768,38,Losartan Potassium,100 mg,mg,Not mentioned.,PO
+769,38,Ibuprofen,600 mg,mg,TABLET,PO
+770,38,Oxycodone-Acetaminophen,5mg-325mg,mg,TAB,PO
+771,38,Docusate Sodium,100 mg,mg,CAPSULE,PO
+772,38,Losartan Potassium,100 mg,mg,Not mentioned.,PO
+773,38,Diltiazem Extended-Release,360 mg,mg,Not mentioned.,PO
+774,38,Hydrochlorothiazide,25 mg,mg,Not mentioned.,PO
+775,39,Imipenem,500 mg,mg,Not mentioned.,IV
+776,39,ASA,325 mg,mg,Not mentioned.,PO
+777,39,Lovenox,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+778,39,Lipitor,80 mg,mg,Not mentioned.,PO
+779,39,Lopressor,75 mg,mg,Not mentioned.,PO
+780,39,Finasteride,5 mg,mg,Not mentioned.,PO
+781,39,Lasix,40 mg,mg,Not mentioned.,PO
+782,39,Diltiazem,30 mg,mg,Not mentioned.,PO
+783,39,Aspirin,81 mg,mg,"Tablet, Delayed Release (E.C.)",PO
+784,39,Ranitidine HCl,150 mg,mg,Tablet,PO
+785,39,Docusate Sodium,100 mg,mg,Capsule,PO
+786,39,Acetaminophen,325 mg,mg,Tablet,PO
+787,39,Bisacodyl,10 mg,mg,Suppository,Rectal
+788,39,Magnesium Hydroxide,400 mg,mg,Suspension,PO
+789,39,Atorvastatin,80 mg,mg,Tablet,PO
+790,39,Heparin (Porcine),5000,unit,Solution,Injection
+791,39,Finasteride,5 mg,mg,Tablet,PO
+792,39,Quetiapine,25 mg,mg,Tablet,PO
+793,39,Captopril,25 mg,mg,Tablet,PO
+794,39,Miconazole Nitrate,2 %,%,Powder,Topical
+795,39,Insulin Regular Human,100,unit/mL,Solution,Injection
+796,39,Diltiazem HCl,30 mg,mg,Tablet,PO
+797,39,Metoprolol Tartrate,50 mg,mg,Tablet,PO
+798,39,Lasix,40 mg,mg,Tablet,PO
+799,39,Potassium Chloride,10 mEq,mEq,Tablet Sustained Release,PO
+800,39,Vancomycin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+801,39,Cipro,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+802,39,Coumadin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+803,39,Ciprofloxacin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+804,39,Haldol,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+805,39,Seroquel,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+806,39,warfarin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+807,40,Acetaminophen,1000,mg,Not mentioned.,PO
+808,40,Acetaminophen,325,mg,tablet,mouth
+809,40,Docusate Sodium,100,mg,capsule,mouth
+810,40,Simvastatin,20,mg,Not mentioned.,PO
+811,40,HYDROmorphone (Dilaudid),Not mentioned.,mg,Not mentioned.,PO
+812,40,hydromorphone [Dilaudid],2,mg,tablet,mouth
+813,40,Allopurinol,Not mentioned.,mg,Not mentioned.,PO
+814,40,Gemfibrozil,600,mg,Not mentioned.,PO
+815,40,Lorazepam,1,mg,Not mentioned.,PO
+816,40,Indomethacin,50,mg,Not mentioned.,PO
+817,40,Oxycodone,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+818,40,Tylenol,Not mentioned.,mg,Not mentioned.,Not mentioned.
+819,40,Tylenol,3000,mg,Not mentioned.,Not mentioned.
+820,40,allopurinol,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+821,40,cipro,500,Not mentioned.,Not mentioned.,Not mentioned.
+822,40,gemfibrozil,600,Not mentioned.,Not mentioned.,Not mentioned.
+823,40,vicodin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+824,40,indomethacin,50,Not mentioned.,Not mentioned.,Not mentioned.
+825,40,lorazepam,1,Not mentioned.,Not mentioned.,Not mentioned.
+826,40,simvastatin,20,Not mentioned.,Not mentioned.,Not mentioned.
+827,40,MVI,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+828,41,Celexa,50,mg,Not mentioned.,daily
+829,41,Lisinopril,10,mg,Not mentioned.,daily
+830,41,trazodone,50,mg,Tablet,PO
+831,41,citalopram,20,mg,Tablet,PO
+832,41,senna,8.6,mg,Tablet,PO
+833,41,docusate sodium,100,mg,Capsule,PO
+834,41,bisacodyl,5,mg,"Tablet, Delayed Release (E.C.)",PO
+835,41,simethicone,80,mg,"Tablet, Chewable",PO
+836,41,ondansetron HCl,4,mg,Tablet,PO
+837,41,lisinopril,20,mg,Tablet,PO
+838,41,hydromorphone,2,mg,Tablet,PO
+839,41,cephalexin,500,mg,Capsule,PO
+840,41,acetaminophen,500,mg,Tablet,PO
+841,41,heparin (porcine),"5,000",unit/mL,Solution,Injection
+842,42,Loratadine,10,mg,Not mentioned.,PO
+843,42,Vitamin D,Not mentioned.,UNIT,Not mentioned.,PO
+844,42,Ciprofloxacin HCl,250,mg,TABLET,PO
+845,42,HYDROmorphone (Dilaudid),Not mentioned.,mg,TABLET,PO
+846,42,Loratadine,10,mg,Not mentioned.,PO
+847,42,Vitamin D,Not mentioned.,UNIT,Not mentioned.,PO
+848,42,ciprofloxacin,250,mg,tablet(s),by mouth
+849,42,hydromorphone,2,mg,tablet(s),by mouth
+850,43,decitabine,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+851,43,vanc,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+852,43,cefepime,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+853,43,azithromycin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+854,43,lasix,20,mg,Not mentioned.,IV
+855,43,warfarin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+856,43,Casodex,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+857,43,ambisome,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+858,43,amiodraone,Not mentioned.,Not mentioned.,Not mentioned.,drip
+859,43,ativan,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+860,43,haldol,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+861,43,dilaudid,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+862,43,metoprolol,5,mg,Not mentioned.,IV
+863,43,Metoprolol,25,mg,Not mentioned.,PO
+864,43,morphine,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+865,43,verapamil,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+866,43,amiodarone,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+867,43,verapamil,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+868,43,calcium gluconate,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+869,43,hydrea,2000,mg,Not mentioned.,BID
+870,43,cytarabine,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+871,43,Hydroxyurea,2,g,Not mentioned.,BID
+872,43,metoprolol,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+873,43,lisinopril,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+874,43,allopurinol,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+875,43,finasteride,5,mg,Not mentioned.,daily
+876,43,goserelin,Not mentioned.,Not mentioned.,(which is a subQ implant),Not mentioned.
+877,43,Finasteride,5,mg,Not mentioned.,PO DAILY
+878,43,Lisinopril,30,mg,Not mentioned.,PO DAILY
+879,43,Goserelin Acetate,10.8,mg,Not mentioned.,SC
+880,43,Allopurinol,Not mentioned.,mg,Not mentioned.,PO DAILY
+881,43,Hydroxyurea,Not mentioned.,mg,Not mentioned.,PO BID
+882,43,Metoprolol Tartrate,25,mg,Not mentioned.,PO BID
+883,43,Tamsulosin,0.4,mg,Not mentioned.,PO HS
+884,45,folic acid,1 mg,mg,Tablet,PO
+885,45,thiamine HCl,100 mg,mg,Tablet,PO
+886,45,multivitamin,Not mentioned.,Not mentioned.,Tablet,PO
+887,45,cyanocobalamin (vitamin B-12),100 mcg,mcg,Tablet,PO
+888,45,thiamine,100mg,mg,Not mentioned.,daily
+889,45,folic acid,1mg,mg,Not mentioned.,daily
+890,45,multivitamin,1,Not mentioned.,tab,daily
+891,45,Vitamin B12,50mcg,mcg,Not mentioned.,daily
+892,45,Ciprofloxacin,500mg,mg,Not mentioned.,twice a day
+893,46,metoprolol tartrate,25 mg,mg,Not mentioned.,Not mentioned.
+894,46,metoprolol tartrate,50 mg,mg,Not mentioned.,Not mentioned.
+895,46,flecainide,50 mg,mg,Not mentioned.,Not mentioned.
+896,46,dopamine,2.5 mcg/kg/min,mcg/kg/min,Not mentioned.,Not mentioned.
+897,46,apixiban,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+898,46,diltiazem,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+899,46,metoprolol,25 mg,mg,Not mentioned.,Not mentioned.
+900,46,levothyroxine,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+901,46,paroxetine,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+902,46,buspirone,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+903,46,Levothyroxine Sodium,150 mcg,mcg,Not mentioned.,PO
+904,46,Apixaban,5 mg,mg,Not mentioned.,PO
+905,46,Paroxetine,10 mg,mg,Not mentioned.,PO
+906,46,BusPIRone,5 mg,mg,Not mentioned.,PO
+907,46,Calcium 600 with Vitamin D3 (calcium carbonate-vitamin D3),"600 mg(1,500mg) -500 unit",mg,Not mentioned.,oral
+908,46,Vitamin D,"50,000 UNIT",UNIT,Not mentioned.,PO
+909,46,Acyclovir,400 mg,mg,Not mentioned.,PO
+910,46,Apixaban,5 mg,mg,Not mentioned.,PO
+911,46,BusPIRone,5 mg,mg,Not mentioned.,PO
+912,46,Levothyroxine Sodium,150 mcg,mcg,Not mentioned.,PO
+913,46,Paroxetine,10 mg,mg,Not mentioned.,PO
+914,46,Acyclovir,400 mg,mg,Not mentioned.,PO
+915,46,Calcium 600 with Vitamin D3 (calcium carbonate-vitamin D3),"600 mg(1,500mg) -500 unit",mg,Not mentioned.,oral
+916,46,Vitamin D,"50,000 UNIT",UNIT,Not mentioned.,PO
+917,46,Clindamycin,300 mg,mg,Not mentioned.,PO
+918,46,clindamycin HCl,300 mg,mg,capsule,by mouth
+919,46,Metoprolol Succinate XL,25 mg,mg,Not mentioned.,PO
+920,46,metoprolol succinate,25 mg,mg,tablet,by mouth
+921,46,metoprolol,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+922,47,Cardizem SR,120 mg,mg,"Capsule, Sust. Release 12 hr",PO
+923,47,Digoxin,125 mcg,mcg,Tablet,PO
+924,47,Polyethylene Glycol 3350,17 grams,grams,Powder,PO
+925,47,Bisacodyl,10 mg,mg,Suppository,Rectal
+926,47,Acetaminophen,500 mg,mg,Tablet,PO
+927,47,Senna,8.6 mg,mg,Tablet,PO
+928,47,Docusate Sodium,100 mg,mg,Capsule,PO
+929,47,Trazodone,50 mg,mg,Tablet,PO
+930,47,Alendronate,70 mg,mg,Tablet,PO
+931,47,Calcium Carbonate,500 mg,mg,"Tablet, Chewable",PO
+932,47,Cholecalciferol (Vitamin D3),400 unit,unit,Tablet,PO
+933,47,Indomethacin,25 mg,mg,Capsule,PO
+934,47,Furosemide,40 mg,mg,Tablet,PO
+935,47,Metoprolol Tartrate,25 mg,mg,Tablet,PO
+936,47,Omeprazole,20 mg,mg,"Capsule, Delayed Release(E.C.)",PO
+937,47,Lasix,60mg,mg,Not mentioned.,Not mentioned.
+938,47,Digoxin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+939,47,DuoNeb,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+940,47,Cardizem CD,360mg,mg,Not mentioned.,Not mentioned.
+941,47,MV with minerals,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+942,47,Vitamin D,100u,u,Not mentioned.,Not mentioned.
+943,47,ASA,325,mg,Not mentioned.,Not mentioned.
+944,47,calcium,500mg,mg,Not mentioned.,Not mentioned.
+945,47,Fosamax,70mg,mg,Not mentioned.,Not mentioned.
+946,47,Florastor,250mg,mg,Not mentioned.,Not mentioned.
+947,47,oxycodone,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+948,47,Colace,100mg,mg,Not mentioned.,Not mentioned.
+949,47,fondaparinux,2.5mg,mg,Not mentioned.,sc
+950,47,Trazodone,25mg,mg,Not mentioned.,Not mentioned.
+951,47,Acetaminophen,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+952,47,diltiazem,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+953,47,digoxin,0.125 mg,mg,Not mentioned.,Not mentioned.
+954,47,indocin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+955,47,digoxin,0.125mg,mg,Not mentioned.,Not mentioned.
+956,47,Indomethecin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+957,47,Omeprazole,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+958,47,Indomethecin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+959,47,ceftriaxone,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+960,47,tamoxifen,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+961,48,Acetaminophen,650 mg,mg,Not mentioned.,PO
+962,48,Diazepam,5 mg,mg,TABLET,PO
+963,48,Docusate Sodium,100 mg,mg,CAPSULE,PO
+964,48,Gabapentin,100 mg,mg,CAPSULE,PO
+965,48,OxyCODONE (Immediate Release),5 mg,mg,TABLET,PO
+966,48,Atenolol,25 mg,mg,Not mentioned.,PO
+967,48,Simvastatin,10 mg,mg,Not mentioned.,PO
+968,49,amoxicillin,500,mg,Not mentioned.,Not mentioned.
+969,49,codeine cough syrup,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+970,49,APAP,1,gm,Not mentioned.,Not mentioned.
+971,49,NS,1000,ml,Not mentioned.,Not mentioned.
+972,49,Duoneb,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+973,49,Ceftriaxone,1,gm,Not mentioned.,IV
+974,49,Azithromycin,500,mg,Not mentioned.,IV
+975,49,ceftriaxone,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+976,49,azithromycin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+977,49,levofloxacin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+978,49,guaifenesin w/ codeine syrup,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+979,49,tessalon perles,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+980,49,albuterol/ipratropium nebs,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+981,49,levofloxacin,750,mg,Not mentioned.,Not mentioned.
+982,49,naproxen,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+983,49,aspirin,81,mg,Not mentioned.,Not mentioned.
+984,49,Naproxen,500,mg,Not mentioned.,PO
+985,49,Benzonatate,200,mg,CAPSULE,PO
+986,49,levofloxacin,750,mg,TABLET,PO
+987,49,Guaifenesin-CODEINE Phosphate,100,mg,mL,PO
+988,49,Guaifenesin-Dextromethorphan,100,mg,mL,PO
+989,49,Albuterol Inhaler,90,mcg,PUFF,IH
+990,49,Space Chamber Plus,1,Not mentioned.,spacer,miscellaneous
+991,49,Levaquin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.
+992,49,levofloxacin,Not mentioned.,Not mentioned.,Not mentioned.,Not mentioned.

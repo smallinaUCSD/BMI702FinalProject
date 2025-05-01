@@ -33,4 +33,5 @@ To run the front end follow these steps:
 The video demo can be found here:
 https://youtu.be/QITluwVk4_A 
 
+The notebook new_mimic_notes.ipynb contains the pipeline to prompt gemini 2.0 flash. 
 

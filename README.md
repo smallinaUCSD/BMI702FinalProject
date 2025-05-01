@@ -29,4 +29,8 @@ To run the front end follow these steps:
 9. You need to input your Gemini API key and a sample patient note that you are interested in annotating.
 10. Then, click annotate text, which will give you the annotated patient notes. Each drug attribute is color-coded.
 11. If you hover over the drug name you can see the RxNorm ID and can click the link to go to the RxNorm website to learn more information about the drug. 
-   
+
+The video demo can be found here:
+https://youtu.be/QITluwVk4_A 
+
+

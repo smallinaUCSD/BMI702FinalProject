@@ -20,11 +20,9 @@ const Annotator = () => {
   const tooltipRef = useRef<HTMLDivElement>(null);
   const annotatedResultRef = useRef<HTMLDivElement>(null);
 
-  // Fixed function to fetch drug information from RxNorm API
   const fetchDrugInfo = async (drugName: string) => {
     setIsLoadingDrugInfo(true);
     try {
-      // Use the RxNorm API to search for the drug
       const response = await fetch(
         `https://rxnav.nlm.nih.gov/REST/rxcui.json?name=${encodeURIComponent(drugName.trim())}`
       );
@@ -34,12 +32,11 @@ const Annotator = () => {
       }
       
       const data = await response.json();
-      console.log("RxNorm API response:", data); // Debug log
+      console.log("RxNorm API response:", data); 
       
       if (data.idGroup && data.idGroup.rxnormId && data.idGroup.rxnormId.length > 0) {
         const rxcui = data.idGroup.rxnormId[0];
         
-        // Get additional drug information using the RXCUI
         const infoResponse = await fetch(
           `https://rxnav.nlm.nih.gov/REST/rxcui/${rxcui}/allrelated.json`
         );
@@ -49,16 +46,14 @@ const Annotator = () => {
         }
         
         const infoData = await infoResponse.json();
-        console.log("RxNorm allrelated API response:", infoData); // Debug log
+        console.log("RxNorm allrelated API response:", infoData); 
         
-        // Set the drug info with properly structured data
         setHoveredDrug({
           name: drugName,
           rxcui: rxcui,
           relatedInfo: infoData.allRelatedGroup?.conceptGroup || []
         });
       } else {
-        // If no RXCUI found, just set the name
         setHoveredDrug({
           name: drugName,
           error: 'No RxNorm ID found for this drug'
@@ -86,18 +81,19 @@ const Annotator = () => {
     setDebugInfo('');
     
     try {
-      // Use direct fetch with the correct API endpoint
       const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`;
       
       const prompt = `
         Analyze this medical note and identify:
         1. Drug names (wrap in <drug>drug name</drug>)
         2. Dosage information (wrap in <dosage>dosage info</dosage>)
-        3. Frequency information (wrap in <frequency>frequency info</frequency>)
+        3. Route information (wrap in <route>route info</route>)
+        4. Form information (wrap in <form>form info</form>)
+        5. Dosage Measurement information (wrap in <measurement>dosage info</measurement>)
         
         Important:
         - Make sure to preserve the original text
-        - Only annotate clear instances of drugs, dosages, and frequencies
+        - Only annotate clear instances of drugs, dosages, route, form, dosage information
         - Return the COMPLETE original text with annotations inserted
         - Don't add any other text, explanations, or summaries
         
@@ -129,11 +125,9 @@ const Annotator = () => {
       const data = await response.json();
       setDebugInfo(`Received response: ${JSON.stringify(data).substring(0, 100)}...`);
       
-      // Extract text from the response
       const text = data.candidates[0].content.parts[0].text;
       
-      // Parse the text with annotations
-      const regex = /(<drug>.*?<\/drug>)|(<dosage>.*?<\/dosage>)|(<frequency>.*?<\/frequency>)|([^<]+)/g;
+      const regex = /(<drug>.*?<\/drug>)|(<dosage>.*?<\/dosage>)|(<route>.*?<\/route>)|(<form>.*?<\/form>)|(<measurement>.*?<\/measurement>)|([^<]+)/g;
       const segments: string[] = [];
       let match;
       
@@ -142,7 +136,6 @@ const Annotator = () => {
       }
       
       if (segments.length === 0) {
-        // If no segments were found, just use the whole text
         segments.push(text);
       }
       
@@ -156,34 +149,60 @@ const Annotator = () => {
     setIsLoading(false);
   };
 
-  // Fixed positioning logic for tooltip
   const handleDrugHover = (e: React.MouseEvent, drugName: string) => {
     e.preventDefault();
-    
-    // Prevent default browser behaviors that might cause page shift
     e.stopPropagation();
     
-    // Calculate position relative to the annotated result container to avoid page shifting
     const rect = e.currentTarget.getBoundingClientRect();
     const containerRect = annotatedResultRef.current?.getBoundingClientRect() || { top: 0, left: 0 };
     
+    const viewportTop = rect.bottom + window.scrollY - containerRect.top + 5;
+    const viewportLeft = rect.left + window.scrollX - containerRect.left;
+    
+    const containerWidth = containerRect.width;
+    const tooltipWidth = 256; 
+    
+    let adjustedLeft = viewportLeft;
+    if (viewportLeft + tooltipWidth > containerWidth) {
+      adjustedLeft = Math.max(0, containerWidth - tooltipWidth);
+    }
+    
     setTooltipPosition({
-      top: rect.bottom - containerRect.top + 5, // 5px gap below the drug name
-      left: Math.max(0, rect.left - containerRect.left) // Ensure we don't go negative
+      top: viewportTop,
+      left: adjustedLeft
     });
     
-    // Fetch drug info
     fetchDrugInfo(drugName);
   };
 
+  const [closeTimeout, setCloseTimeout] = useState<NodeJS.Timeout | null>(null);
+  
   const handleDrugLeave = () => {
+
+    const timeout = setTimeout(() => {
+      setHoveredDrug(null);
+    }, 300); 
+    
+    setCloseTimeout(timeout);
+  };
+
+  const handleTooltipEnter = () => {
+    if (closeTimeout) {
+      clearTimeout(closeTimeout);
+      setCloseTimeout(null);
+    }
+  };
+  
+  const handleTooltipLeave = () => {
     setHoveredDrug(null);
   };
 
   const getHighlightColor = (text: string) => {
     if (text.includes('<drug>')) return 'bg-blue-200';
     if (text.includes('<dosage>')) return 'bg-green-200';
-    if (text.includes('<frequency>')) return 'bg-yellow-200';
+    if (text.includes('<route>')) return 'bg-yellow-200';
+    if (text.includes('<form>')) return 'bg-red-200';
+    if (text.includes('<measurement>')) return 'bg-purple-200';
     return '';
   };
 
@@ -206,52 +225,31 @@ const Annotator = () => {
       }
       
       return (
-        <span key={index} className={highlightColor}>
+        <span key={index} className={highlightColor ? `${highlightColor} inline-block rounded px-1` : ''}>
           {cleanText}
         </span>
       );
     });
   };
 
-  // For direct testing without Gemini API
   const testAnnotation = () => {
     const sampleAnnotated = [
-      "Patient is taking ",
-      "<drug>Lisinopril</drug>",
-      " ",
-      "<dosage>10mg</dosage>",
-      " ",
-      "<frequency>twice daily</frequency>",
-      " for hypertension. Also prescribed ",
-      "<drug>Metformin</drug>",
-      " ",
-      "<dosage>500mg</dosage>",
-      " ",
-      "<frequency>with meals</frequency>",
-      "."
+     "Patient is taking ",
+    "<drug>Lisinopril</drug> ",
+    "<dosage>10</dosage> ",
+    "<measurement>mg</measurement> ",
+    "<route>PO</route> ",
+    "<form>tablet</form> ",
+    "for hypertension. Also prescribed ",
+    "<drug>Metformin</drug> ",
+    "<dosage>500</dosage> ",
+    "<measurement>mg</measurement> ",
+    "<route>PO</route> ",
+    "<form>tablet</form> ",
+    "."
     ];
     setAnnotatedText(sampleAnnotated);
   };
-
-  // Ensure tooltip stays within container bounds
-  useEffect(() => {
-    if (tooltipRef.current && hoveredDrug && annotatedResultRef.current) {
-      const tooltipRect = tooltipRef.current.getBoundingClientRect();
-      const containerRect = annotatedResultRef.current.getBoundingClientRect();
-      
-      let newPosition = { ...tooltipPosition };
-      
-      // Check if tooltip goes beyond right edge of container
-      if (tooltipPosition.left + tooltipRect.width > containerRect.width) {
-        newPosition.left = Math.max(0, containerRect.width - tooltipRect.width);
-      }
-      
-      // Update position if needed
-      if (newPosition.left !== tooltipPosition.left) {
-        setTooltipPosition(newPosition);
-      }
-    }
-  }, [hoveredDrug, tooltipPosition]);
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
@@ -270,7 +268,6 @@ const Annotator = () => {
             placeholder="Enter your Gemini API key"
           />
           <p className="text-xs text-gray-500 mt-1">
-            Your API key is used client-side and not stored
           </p>
         </div>
         
@@ -322,9 +319,15 @@ const Annotator = () => {
         {annotatedText.length > 0 && (
           <div className="mt-8">
             <h2 className="text-xl font-semibold mb-4">Annotated Result</h2>
-            <div ref={annotatedResultRef} className="p-4 bg-gray-50 rounded-lg border relative">
+            {}
+            <div 
+              ref={annotatedResultRef} 
+              className="p-4 bg-gray-50 rounded-lg border relative min-h-24"
+              style={{ position: 'relative' }}
+            >
               {renderAnnotatedText()}
               
+              {}
               {hoveredDrug && (
                 <div 
                   ref={tooltipRef}
@@ -332,8 +335,11 @@ const Annotator = () => {
                   style={{ 
                     top: `${tooltipPosition.top}px`, 
                     left: `${tooltipPosition.left}px`,
-                    maxWidth: '90%'
+                    maxWidth: '90%',
+                    pointerEvents: 'auto' 
                   }}
+                  onMouseEnter={handleTooltipEnter}
+                  onMouseLeave={handleTooltipLeave}
                 >
                   {isLoadingDrugInfo ? (
                     <div className="flex items-center justify-center py-2">
@@ -355,11 +361,13 @@ const Annotator = () => {
                               </div>
                               
                               <div className="mt-2 pt-2 border-t flex flex-col gap-2">
+                                {}
                                 <a 
                                   href={`https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=${hoveredDrug.rxcui}`}
                                   target="_blank"
                                   rel="noopener noreferrer"
                                   className="text-blue-600 hover:bg-blue-50 p-1 rounded text-sm block font-medium"
+                                  onClick={(e) => e.stopPropagation()}
                                 >
                                   🔍 View in RxNav Browser
                                 </a>
@@ -368,6 +376,7 @@ const Annotator = () => {
                                   target="_blank"
                                   rel="noopener noreferrer"
                                   className="text-blue-600 hover:bg-blue-50 p-1 rounded text-sm block"
+                                  onClick={(e) => e.stopPropagation()}
                                 >
                                   💻 View API Data
                                 </a>
@@ -395,7 +404,15 @@ const Annotator = () => {
               </div>
               <div className="flex items-center">
                 <div className="w-4 h-4 bg-yellow-200 rounded mr-2"></div>
-                <span className="text-sm">Frequency</span>
+                <span className="text-sm">Route</span>
+              </div>
+              <div className="flex items-center">
+                <div className="w-4 h-4 bg-red-200 rounded mr-2"></div>
+                <span className="text-sm">Form</span>
+              </div>
+              <div className="flex items-center">
+                <div className="w-4 h-4 bg-purple-200 rounded mr-2"></div>
+                <span className="text-sm">Measurement</span>
               </div>
             </div>
           </div>
